@@ -1,0 +1,1081 @@
+{
+  "version": "25.0",
+  "generatedAt": "2026-10-23T16:46:14+00:00",
+  "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
+  "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
+  "votesArchiveSha256": "a800937fc183973f5ec05cda258b96986e4f30f8521af1f1286019f018e10a96",
+  "coverageNote": "Scrutins récents seulement (au plus 150). Absence dans le tableau ≠ absence de vote.",
+  "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
+  "personnalites": [
+    {
+      "id": "marine-le-pen",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA720614",
+      "candidats": [
+        "PA720614"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "jean-luc-melenchon",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "edouard-philippe",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "gabriel-attal",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA722190",
+      "candidats": [
+        "PA722190"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "bruno-retailleau",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA2538",
+      "candidats": [
+        "PA2538"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "xavier-bertrand",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "raphael-glucksmann",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "marine-tondelier",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "fabien-roussel",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "eric-zemmour",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "francois-ruffin",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA722142",
+      "candidats": [
+        "PA722142"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "nathalie-arthaud",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "anasse-kazib",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "antoine-mikolajczak",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "bernard-cazeneuve",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "clara-egger",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "david-lisnard",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "delphine-batho",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA335999",
+      "candidats": [
+        "PA335999"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "dominique-de-villepin",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "emmanuel-maurel",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA842271",
+      "candidats": [
+        "PA842271"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "florian-philippot",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "francis-lalanne",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "francois-asselineau",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "jerome-guedj",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA1567",
+      "candidats": [
+        "PA1567"
+      ],
+      "decompte": {
+        "pour": 70,
+        "contre": 17,
+        "abstention": 3,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": [
+        {
+          "date": "2026-10-23",
+          "numero": "9084",
+          "titre": "l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9083",
+          "titre": "l'amendement n° 719 de Mme Hamdane et l'amendement identique suivant de suppression de l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9082",
+          "titre": "l'amendement n° 651 de M. Monnet et l'amendement identique suivant après l'article 14 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9081",
+          "titre": "l'amendement n° 636 de M. Dive et les amendements identiques suivants après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9080",
+          "titre": "l'amendement n° 293 de M. Loubet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9079",
+          "titre": "l'amendement n° 865 de M. Dessigny après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-23",
+          "numero": "9078",
+          "titre": "l'amendement n° 1454 de M. Clouet après l'article 12 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9063",
+          "titre": "l'amendement n° 2127 de Mme Mélin après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9057",
+          "titre": "l'amendement n° 2705 de M. Davi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9056",
+          "titre": "l'amendement n° 1405 de M. Maudet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9054",
+          "titre": "l'amendement n° 1536 de M. Thierry après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9053",
+          "titre": "l'amendement n° 2224 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9052",
+          "titre": "l'amendement n° 89 de Mme Runel et les amendements identiques suivants après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9051",
+          "titre": "l'amendement n° 525 de Mme Bellay après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9050",
+          "titre": "l'amendement n° 90 de Mme Runel et les amendements identiques suivants après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9049",
+          "titre": "l'amendement n° 1403 de M. Maudet après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9043",
+          "titre": "l'amendement n° 1526 de M. Thierry après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9040",
+          "titre": "l'amendement n° 87 de Mme Runel après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9036",
+          "titre": "l'amendement n° 806 de Mme Sebaihi après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9035",
+          "titre": "l'amendement n° 2205 de M. Lottiaux après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9034",
+          "titre": "l'amendement n° 568 de M. Raux après l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9033",
+          "titre": "l'amendement n° 3 de M. Wauquiez et les amendements identiques suivants de suppression de l'article 8 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9032",
+          "titre": "l'amendement n° 1356 de Mme Buffet et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9031",
+          "titre": "l'amendement n° 922 de Mme Gruet et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9030",
+          "titre": "l'amendement n° 3153 de Mme Vidal et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9022",
+          "titre": "l'amendement n° 64 de Mme Runel et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9021",
+          "titre": "l'amendement n° 2823 de Mme Olivia Grégoire après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9017",
+          "titre": "l'amendement n° 426 de M. Corneloup et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9016",
+          "titre": "l'amendement n° 1386 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9015",
+          "titre": "l'amendement n° 1390 de Mme Belouassa-Cherifi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9014",
+          "titre": "l'amendement n° 63 de Mme Runel et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9013",
+          "titre": "l'amendement n° 1388 de M. Maudet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9012",
+          "titre": "l'amendement n° 2741 de Mme Garin après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9011",
+          "titre": "l'amendement n° 1383 de Mme Hamdane après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9010",
+          "titre": "l'amendement n° 1382 de Mme Hamdane après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9009",
+          "titre": "l'amendement n° 1239 de M. Clouet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9008",
+          "titre": "l'amendement n° 486 de M. Monnet et l'amendement identique suivant après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9007",
+          "titre": "l'amendement n° 56 de Mme Runel après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9006",
+          "titre": "l'amendement n° 634 de M. Dive et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9005",
+          "titre": "l'amendement n° 1309 de M. Gernigon après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9004",
+          "titre": "l'amendement n° 71 de M. Guedj après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9003",
+          "titre": "l'amendement n° 1384 de Mme Erodi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9001",
+          "titre": "l'amendement n° 2081 de M. Davi après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "9000",
+          "titre": "l'amendement n° 1781 (rect.) de Mme Hignet après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8999",
+          "titre": "l'amendement n° 635 (rect.) de M. Dive et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8998",
+          "titre": "l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8997",
+          "titre": "l'amendement n° 894 de M. Valentin à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8996",
+          "titre": "l'amendement n° 482 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8995",
+          "titre": "l'amendement n° 481 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8993",
+          "titre": "l'amendement n° 1349 de M. Tavel et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8992",
+          "titre": "l'amendement n° 479 de M. Monnet et l'amendement identique suivant de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8991",
+          "titre": "l'amendement n° 1366 de Mme Belouassa-Cherifi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8990",
+          "titre": "l'amendement n° 1354 de M. Clouet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8989",
+          "titre": "l'amendement n° 1367 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8988",
+          "titre": "l'amendement n° 1359 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8987",
+          "titre": "l'amendement n° 1364 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8986",
+          "titre": "l'amendement n° 1351 de Mme Hamdane à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8984",
+          "titre": "l'amendement n° 1302 (rect.) de M. Hamdane et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8982",
+          "titre": "l'amendement n° 1284 de M. Maudet à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8981",
+          "titre": "l'amendement n° 468 de M. Monnet et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8980",
+          "titre": "l'amendement n° 469 de M. Bénard et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8976",
+          "titre": "l'amendement n° 350 de M. Wauquiez et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8975",
+          "titre": "l'amendement n° 49 de Mme Runel et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8974",
+          "titre": "l'amendement n° 1105 de M. Bénard et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8973",
+          "titre": "l'amendement n° 1104 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8972",
+          "titre": "l'amendement n° 2046 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8971",
+          "titre": "l'amendement n° 1301 (rect.) de M. Dussausaye à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8970",
+          "titre": "l'amendement n° 2044 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8969",
+          "titre": "l'amendement n° 17 de M. Descoeur et les amendements identiques suivants après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-22",
+          "numero": "8968",
+          "titre": "l'amendement n° 2748 de Mme Sandrine Rousseau après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8955",
+          "titre": "l'amendement n° 1841 de Mme Chikirou après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8954",
+          "titre": "l'amendement n° 782 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8953",
+          "titre": "l'amendement n° 781 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8952",
+          "titre": "l'amendement n° 779 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8951",
+          "titre": "l'amendement n° 360 de M. Mazaury après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8950",
+          "titre": "l'amendement n° 772 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8949",
+          "titre": "l'amendement n° 777 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8948",
+          "titre": "l'amendement n° 2706 de M. Peytavie après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8947",
+          "titre": "l'amendement n° 2961 de M. Lucas-Lundy après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8946",
+          "titre": "l'amendement n° 711 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8945",
+          "titre": "l'amendement n° 769 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8944",
+          "titre": "l'amendement n° 2024 de M. Davi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8943",
+          "titre": "l'amendement n° 1770 de Mme Hamdane et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8942",
+          "titre": "l'amendement n° 1592 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8941",
+          "titre": "l'amendement n° 778 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8939",
+          "titre": "l'amendement n° 1589 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8938",
+          "titre": "l'amendement n° 771 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8937",
+          "titre": "l'amendement n° 42 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8936",
+          "titre": "l'amendement n° 45 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-21",
+          "numero": "8935",
+          "titre": "l'amendement n° 289 de M. Bénard et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        }
+      ]
+    },
+    {
+      "id": "juan-branco",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "karim-bouamrane",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "nicolas-dupont-aignan",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "olivier-becht",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA642935",
+      "candidats": [
+        "PA642935"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "olivier-faure",
+      "statut": "identifiant_unique",
+      "acteurRef": "PA609332",
+      "candidats": [
+        "PA609332"
+      ],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    },
+    {
+      "id": "segolene-royal",
+      "statut": "non_trouve",
+      "acteurRef": null,
+      "candidats": [],
+      "decompte": {
+        "pour": 0,
+        "contre": 0,
+        "abstention": 0,
+        "non-votant": 0,
+        "conflit": 0
+      },
+      "scrutins": []
+    }
+  ],
+  "actorsArchiveSha256": "8571dd4e17dc2af0e8a237cc9309b2eacdb1dd266c44e9cd6b56d45ef2b69eff"
+}
