@@ -1237,5 +1237,26 @@
     "review": null,
     "detectedAt": "2026-10-23T15:26:39.818995+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c30a3cd40bbda36d30ee57b1": {
+    "id": "c30a3cd40bbda36d30ee57b1",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Règlement européen sur la maîtrise des coûts de l'électricité : Redevances de réseau et taxation de l'électricité : concilier ambition européenne et subsidiarité - rapport d'information n° 94",
+    "url": "http://www.senat.fr/notice-rapport/2026/r26-094-notice.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 15:36:47 GMT",
+    "excerpt": "Rapport d'information n° 94 de M. Daniel GREMILLET, fait au nom de la commission des affaires européennes, sur la proposition de résolution afin d'assurer la maîtrise anticipative des factures d'électricité dans l'Union européenne en réduisant les coûts du système et en favorisant l'électrification et la numérisation : Redevances de réseau et taxation de l'électricité : concilier ambition européenne et subsidiarité (22 octobre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-travail-01",
+      "extension-europe-04",
+      "extension-europe-01",
+      "contribution-ue",
+      "primaute-ue"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T15:39:34.254072+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

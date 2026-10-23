@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:26:40.045250+00:00",
-  "total": 80,
+  "generatedAt": "2026-10-23T15:39:34.459598+00:00",
+  "total": 81,
   "statistiques": {
     "a_examiner_en_priorite": 0,
-    "a_qualifier": 11,
+    "a_qualifier": 12,
     "signal_non_qualifie": 69
   },
   "publicationAutomatiquePositions": false,
@@ -1156,6 +1156,100 @@
       "extraitsRSS": [
         "Proposition de loi constitutionnelle visant à refonder le statut constitutionnel des outre-mer en substituant aux articles 73 et 74 un article 73 unique instituant un régime « à la carte », fondé sur la libre administration et la différenciation : texte N° 2 de M.",
         "Dominique THÉOPHILE, déposé au Sénat le 1er octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c30a3cd40bbda36d30ee57b1",
+      "title": "Règlement européen sur la maîtrise des coûts de l'électricité : Redevances de réseau et taxation de l'électricité : concilier ambition européenne et subsidiarité - rapport d'information n° 94",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-094-notice.html",
+      "sourcePublishedAt": "Fri,23 Oct 2026 15:36:47 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-01",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Rapport d'information n° 94 de M.",
+        "Daniel GREMILLET, fait au nom de la commission des affaires européennes, sur la proposition de résolution afin d'assurer la maîtrise anticipative des factures d'électricité dans l'Union européenne en réduisant les coûts du système et en favorisant l'électrification et la numérisation : Redevances de réseau et taxation de l'électricité : concilier ambition européenne et subsidiarité (22 octobre 2026)"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
