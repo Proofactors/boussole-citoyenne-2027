@@ -1,22 +1,5 @@
 [
-  {
-    "id": "senat-textes",
-    "name": "Sénat — textes",
-    "url": "https://www.senat.fr/rss/textes.rss"
-  },
-  {
-    "id": "senat-presse",
-    "name": "Sénat — communiqués",
-    "url": "https://www.senat.fr/rss/presse.rss"
-  },
-  {
-    "id": "senat-rapports",
-    "name": "Sénat — rapports",
-    "url": "https://www.senat.fr/rss/rapports.rss"
-  },
-  {
-    "id": "assemblee-presse",
-    "name": "Assemblée nationale — communiqués",
-    "url": "https://www.assemblee-nationale.fr/rss/communiques-de-presse.xml"
-  }
+  {"id":"senat-textes","name":"Sénat — textes","url":"https://www.senat.fr/rss/textes.rss"},
+  {"id":"senat-presse","name":"Sénat — communiqués","url":"https://www.senat.fr/rss/presse.rss"},
+  {"id":"senat-rapports","name":"Sénat — rapports","url":"https://www.senat.fr/rss/rapports.rss"}
 ]
