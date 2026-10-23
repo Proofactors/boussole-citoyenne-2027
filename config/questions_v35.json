@@ -1,0 +1,902 @@
+[
+  {
+    "id": "retraite-62",
+    "title": "Retraite à 62 ans",
+    "text": "L'âge légal de départ à la retraite doit être ramené à 62 ans ou moins.",
+    "theme": "retraites"
+  },
+  {
+    "id": "capitalisation",
+    "title": "Retraite par capitalisation",
+    "text": "Il faut introduire une part de retraite par capitalisation dans le système.",
+    "theme": "retraites"
+  },
+  {
+    "id": "smic",
+    "title": "Hausse du SMIC",
+    "text": "L'État doit augmenter fortement le SMIC, au-delà de l'inflation.",
+    "theme": "travail"
+  },
+  {
+    "id": "isf",
+    "title": "Impôt sur la fortune",
+    "text": "Il faut rétablir un impôt sur la fortune ou taxer davantage les très hauts patrimoines.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "depense-publique",
+    "title": "Baisse de la dépense publique",
+    "text": "La priorité budgétaire doit être de réduire fortement la dépense publique.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "fonctionnaires",
+    "title": "Nombre de fonctionnaires",
+    "text": "Il faut réduire le nombre de fonctionnaires.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "immigration",
+    "title": "Réduction de l'immigration légale",
+    "text": "Il faut réduire fortement l'immigration légale.",
+    "theme": "immigration"
+  },
+  {
+    "id": "droit-du-sol",
+    "title": "Droit du sol",
+    "text": "Il faut supprimer ou restreindre fortement le droit du sol.",
+    "theme": "immigration"
+  },
+  {
+    "id": "voile",
+    "title": "Voile dans l'espace public",
+    "text": "Il faut interdire le port du voile dans l'espace public.",
+    "theme": "societe"
+  },
+  {
+    "id": "peines-planchers",
+    "title": "Peines planchers",
+    "text": "Il faut instaurer des peines planchers pour les récidivistes.",
+    "theme": "securite"
+  },
+  {
+    "id": "nucleaire",
+    "title": "Nouveaux réacteurs nucléaires",
+    "text": "La France doit construire de nouveaux réacteurs nucléaires.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "thermique-2035",
+    "title": "Fin des voitures thermiques en 2035",
+    "text": "La fin de la vente des voitures thermiques neuves en 2035 doit être maintenue.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "primaute-ue",
+    "title": "Primauté du droit européen",
+    "text": "La France doit pouvoir s'affranchir des règles européennes quand elles contredisent ses choix nationaux.",
+    "theme": "europe"
+  },
+  {
+    "id": "otan",
+    "title": "Commandement intégré de l'OTAN",
+    "text": "La France doit quitter le commandement intégré de l'OTAN.",
+    "theme": "europe"
+  },
+  {
+    "id": "ukraine",
+    "title": "Aide militaire à l'Ukraine",
+    "text": "La France doit maintenir ou renforcer son aide militaire à l'Ukraine.",
+    "theme": "europe"
+  },
+  {
+    "id": "proportionnelle",
+    "title": "Proportionnelle aux législatives",
+    "text": "Les députés doivent être élus à la proportionnelle.",
+    "theme": "institutions"
+  },
+  {
+    "id": "vie-republique",
+    "title": "VIe République",
+    "text": "Il faut passer à une VIe République.",
+    "theme": "institutions"
+  },
+  {
+    "id": "ric",
+    "title": "Référendum d'initiative citoyenne",
+    "text": "Il faut instaurer le référendum d'initiative citoyenne (RIC).",
+    "theme": "institutions"
+  },
+  {
+    "id": "fin-de-vie",
+    "title": "Aide à mourir",
+    "text": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
+    "theme": "societe"
+  },
+  {
+    "id": "cannabis",
+    "title": "Légalisation du cannabis",
+    "text": "Il faut légaliser le cannabis récréatif.",
+    "theme": "societe"
+  },
+  {
+    "id": "abroger-2023",
+    "title": "Abrogation de la réforme des retraites",
+    "text": "Il faut abroger la réforme des retraites de 2023 (départ à 64 ans).",
+    "theme": "retraites"
+  },
+  {
+    "id": "tva-energie",
+    "title": "Baisse de la TVA",
+    "text": "Il faut baisser la TVA sur l'énergie ou sur les produits de première nécessité.",
+    "theme": "travail"
+  },
+  {
+    "id": "temps-travail",
+    "title": "Réduction du temps de travail",
+    "text": "Il faut réduire le temps de travail (32 heures ou semaine de quatre jours).",
+    "theme": "travail"
+  },
+  {
+    "id": "rsa-conditionne",
+    "title": "RSA sous conditions",
+    "text": "Le RSA doit être conditionné à des heures d'activité ou de formation.",
+    "theme": "travail"
+  },
+  {
+    "id": "superprofits",
+    "title": "Taxation des superprofits",
+    "text": "Il faut taxer davantage les superprofits et les dividendes des grandes entreprises.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "impots-production",
+    "title": "Impôts et cotisations des entreprises",
+    "text": "Il faut baisser les impôts et les cotisations qui pèsent sur les entreprises.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "priorite-nationale",
+    "title": "Priorité nationale",
+    "text": "Les Français doivent être prioritaires pour le logement social et les aides sociales.",
+    "theme": "immigration"
+  },
+  {
+    "id": "regularisation",
+    "title": "Régularisation des travailleurs sans papiers",
+    "text": "Il faut régulariser les travailleurs sans papiers.",
+    "theme": "immigration"
+  },
+  {
+    "id": "places-prison",
+    "title": "Places de prison",
+    "text": "Il faut construire beaucoup plus de places de prison.",
+    "theme": "securite"
+  },
+  {
+    "id": "majorite-penale",
+    "title": "Majorité pénale à 16 ans",
+    "text": "Il faut juger les mineurs de 16 ans comme des majeurs pour les faits graves.",
+    "theme": "securite"
+  },
+  {
+    "id": "renouvelables",
+    "title": "100 % renouvelables et sortie du nucléaire",
+    "text": "La France doit viser 100 % d'énergies renouvelables et sortir du nucléaire à terme.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "eolien",
+    "title": "Éoliennes",
+    "text": "Il faut arrêter les nouveaux projets d'éoliennes.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "pesticides",
+    "title": "Pesticides et glyphosate",
+    "text": "Il faut interdire les pesticides les plus dangereux, dont le glyphosate.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "defense-europeenne",
+    "title": "Défense européenne",
+    "text": "Il faut construire une défense européenne commune.",
+    "theme": "europe"
+  },
+  {
+    "id": "budget-defense",
+    "title": "Budget de la défense",
+    "text": "Le budget de la défense doit continuer à augmenter fortement.",
+    "theme": "europe"
+  },
+  {
+    "id": "uniforme",
+    "title": "Uniforme à l'école",
+    "text": "L'uniforme ou une tenue commune doit être généralisé à l'école.",
+    "theme": "societe"
+  },
+  {
+    "id": "encadrement-loyers",
+    "title": "Encadrement des loyers",
+    "text": "Il faut encadrer ou geler les loyers dans les zones tendues.",
+    "theme": "societe"
+  },
+  {
+    "id": "assurance-chomage",
+    "title": "Assurance chômage",
+    "text": "Il faut durcir les règles de l'assurance chômage, en réduisant la durée ou le montant de l'indemnisation.",
+    "theme": "travail"
+  },
+  {
+    "id": "pensions-indexation",
+    "title": "Indexation des pensions",
+    "text": "Les pensions de retraite doivent toujours augmenter au moins autant que les prix, sans gel ni sous-indexation.",
+    "theme": "retraites"
+  },
+  {
+    "id": "taxe-zucman",
+    "title": "Taxe Zucman",
+    "text": "Il faut créer un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros (taxe Zucman).",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "succession",
+    "title": "Droits de succession",
+    "text": "Il faut réduire fortement les droits de succession et de donation.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "ame",
+    "title": "Aide médicale d'État",
+    "text": "L'aide médicale d'État doit être supprimée ou remplacée par une aide limitée aux soins urgents.",
+    "theme": "immigration"
+  },
+  {
+    "id": "dissuasion-europeenne",
+    "title": "Dissuasion nucléaire européenne",
+    "text": "La dissuasion nucléaire française doit s'étendre à la protection des alliés européens.",
+    "theme": "europe"
+  },
+  {
+    "id": "loi-sru",
+    "title": "Logements sociaux et loi SRU",
+    "text": "L'obligation faite aux communes de compter 20 à 25 % de logements sociaux (loi SRU) doit être assouplie.",
+    "theme": "societe"
+  },
+  {
+    "id": "35-heures",
+    "title": "Fin des 35 heures",
+    "text": "Il faut mettre fin aux 35 heures et augmenter la durée légale du travail.",
+    "theme": "travail"
+  },
+  {
+    "id": "heures-sup",
+    "title": "Heures supplémentaires",
+    "text": "Les heures supplémentaires doivent être totalement exonérées d'impôt et de cotisations.",
+    "theme": "travail"
+  },
+  {
+    "id": "retraite-65",
+    "title": "Retraite après 64 ans",
+    "text": "L'âge légal de départ à la retraite doit être repoussé au-delà de 64 ans.",
+    "theme": "retraites"
+  },
+  {
+    "id": "referendum-immigration",
+    "title": "Référendum sur l'immigration",
+    "text": "Il faut organiser un référendum sur l'immigration.",
+    "theme": "immigration"
+  },
+  {
+    "id": "regroupement-familial",
+    "title": "Regroupement familial",
+    "text": "Il faut restreindre fortement le regroupement familial.",
+    "theme": "immigration"
+  },
+  {
+    "id": "accord-1968",
+    "title": "Accord franco-algérien de 1968",
+    "text": "La France doit dénoncer l'accord franco-algérien de 1968 sur le séjour des Algériens en France.",
+    "theme": "immigration"
+  },
+  {
+    "id": "delit-sejour",
+    "title": "Délit de séjour irrégulier",
+    "text": "Le séjour irrégulier en France doit redevenir un délit.",
+    "theme": "immigration"
+  },
+  {
+    "id": "expulsion-condamnes",
+    "title": "Expulsion des étrangers condamnés",
+    "text": "Tout étranger condamné pour un crime ou un délit doit être expulsé à l'issue de sa peine.",
+    "theme": "immigration"
+  },
+  {
+    "id": "legitime-defense",
+    "title": "Présomption de légitime défense",
+    "text": "Les policiers et les gendarmes doivent bénéficier d'une présomption de légitime défense.",
+    "theme": "securite"
+  },
+  {
+    "id": "courtes-peines",
+    "title": "Courtes peines de prison",
+    "text": "Les courtes peines de prison doivent être exécutées en prison, sans aménagement automatique.",
+    "theme": "securite"
+  },
+  {
+    "id": "zfe",
+    "title": "Zones à faibles émissions",
+    "text": "Les zones à faibles émissions (ZFE), qui limitent la circulation des véhicules les plus polluants, doivent être supprimées.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "megabassines",
+    "title": "Mégabassines",
+    "text": "Il faut un moratoire sur les mégabassines.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "adhesion-ukraine",
+    "title": "Adhésion de l'Ukraine à l'UE",
+    "text": "L'Ukraine doit pouvoir adhérer à l'Union européenne.",
+    "theme": "europe"
+  },
+  {
+    "id": "palestine",
+    "title": "Reconnaissance de l'État de Palestine",
+    "text": "La France a eu raison de reconnaître l'État de Palestine.",
+    "theme": "europe"
+  },
+  {
+    "id": "service-national",
+    "title": "Service national obligatoire",
+    "text": "Un service national, civil ou militaire, doit devenir obligatoire pour tous les jeunes.",
+    "theme": "europe"
+  },
+  {
+    "id": "aide-developpement",
+    "title": "Aide au développement",
+    "text": "L'aide publique au développement doit être fortement réduite.",
+    "theme": "europe"
+  },
+  {
+    "id": "signes-religieux-sport",
+    "title": "Signes religieux dans le sport",
+    "text": "Le port de signes religieux doit être interdit dans les compétitions sportives.",
+    "theme": "societe"
+  },
+  {
+    "id": "ecole-privee",
+    "title": "Financement de l'école privée",
+    "text": "Il faut réduire ou supprimer le financement public des écoles privées.",
+    "theme": "societe"
+  },
+  {
+    "id": "audiovisuel-public",
+    "title": "Privatisation de l'audiovisuel public",
+    "text": "L'audiovisuel public doit être privatisé.",
+    "theme": "societe"
+  },
+  {
+    "id": "flat-tax",
+    "title": "Flat tax",
+    "text": "Il faut supprimer la flat tax, le prélèvement forfaitaire unique sur les revenus du capital.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "asile-hors-france",
+    "title": "Demandes d'asile hors de France",
+    "text": "Les demandes d'asile doivent être déposées et examinées hors du territoire français.",
+    "theme": "immigration"
+  },
+  {
+    "id": "allocations-delinquants",
+    "title": "Allocations et mineurs délinquants",
+    "text": "Les allocations familiales doivent pouvoir être suspendues pour les parents de mineurs délinquants.",
+    "theme": "securite"
+  },
+  {
+    "id": "zan",
+    "title": "Zéro artificialisation nette",
+    "text": "L'objectif de zéro artificialisation nette des sols (ZAN) doit être abandonné ou fortement assoupli.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "elevage-intensif",
+    "title": "Élevage intensif",
+    "text": "Les élevages intensifs (fermes-usines) doivent être interdits.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "frexit",
+    "title": "Sortie de l'Union européenne",
+    "text": "La France doit sortir de l'Union européenne.",
+    "theme": "europe"
+  },
+  {
+    "id": "contribution-ue",
+    "title": "Contribution au budget européen",
+    "text": "La France doit réduire sa contribution au budget de l'Union européenne.",
+    "theme": "europe"
+  },
+  {
+    "id": "troupes-ukraine",
+    "title": "Soldats français en Ukraine",
+    "text": "La France doit être prête à déployer des soldats en Ukraine pour garantir un accord de paix.",
+    "theme": "europe"
+  },
+  {
+    "id": "frontieres-nationales",
+    "title": "Contrôles aux frontières nationales",
+    "text": "La France doit rétablir des contrôles permanents à ses frontières nationales.",
+    "theme": "europe"
+  },
+  {
+    "id": "vote-etrangers",
+    "title": "Droit de vote des étrangers",
+    "text": "Les étrangers non européens installés en France doivent pouvoir voter aux élections locales.",
+    "theme": "institutions"
+  },
+  {
+    "id": "deserts-medicaux",
+    "title": "Installation des médecins",
+    "text": "Les médecins ne doivent plus pouvoir s'installer librement dans les zones déjà bien dotées.",
+    "theme": "societe"
+  },
+  {
+    "id": "reseaux-15-ans",
+    "title": "Réseaux sociaux avant 15 ans",
+    "text": "Les réseaux sociaux doivent être interdits aux moins de 15 ans.",
+    "theme": "societe"
+  },
+  {
+    "id": "parcoursup",
+    "title": "Parcoursup",
+    "text": "Parcoursup doit être supprimé.",
+    "theme": "societe"
+  },
+  {
+    "id": "passoires-thermiques",
+    "title": "Location des passoires thermiques",
+    "text": "L'interdiction de louer les logements les plus énergivores doit être assouplie ou reportée.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-retraites-01",
+    "title": "Retraite à points",
+    "text": "Un système universel de retraite par points doit remplacer les régimes actuels.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-02",
+    "title": "Pénibilité",
+    "text": "Les métiers pénibles doivent ouvrir droit à un départ anticipé.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-03",
+    "title": "Retraites minimales",
+    "text": "La pension minimale doit être relevée significativement pour les carrières complètes.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-04",
+    "title": "Cumul emploi-retraite",
+    "text": "Il faut faciliter davantage le cumul intégral d’un emploi et d’une pension de retraite.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-05",
+    "title": "Financement des retraites",
+    "text": "L’équilibre des retraites doit être recherché en augmentant les cotisations plutôt que la durée de travail.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-06",
+    "title": "Retraites des femmes",
+    "text": "Les périodes consacrées à l’éducation des enfants doivent ouvrir davantage de droits à retraite.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-07",
+    "title": "Régimes spéciaux",
+    "text": "Il faut maintenir des régimes de retraite spécifiques pour certains métiers.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-retraites-08",
+    "title": "Retraite progressive",
+    "text": "La retraite progressive doit être accessible plus tôt et plus largement.",
+    "theme": "retraites"
+  },
+  {
+    "id": "extension-travail-01",
+    "title": "Salaire minimum européen",
+    "text": "L’Union européenne doit instaurer un cadre contraignant pour les salaires minimums.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-02",
+    "title": "Représentation des salariés",
+    "text": "Les salariés doivent disposer de davantage de sièges dans les conseils d’administration des grandes entreprises.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-03",
+    "title": "Télétravail",
+    "text": "Le droit au télétravail doit être renforcé lorsque le poste le permet.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-04",
+    "title": "Contrats courts",
+    "text": "Il faut augmenter le coût des contrats très courts pour les employeurs.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-05",
+    "title": "Salaire des apprentis",
+    "text": "La rémunération des apprentis doit être augmentée par la loi.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-06",
+    "title": "Travailleurs des plateformes",
+    "text": "Les travailleurs des plateformes numériques doivent bénéficier par défaut du statut de salarié.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-07",
+    "title": "Semaine de quatre jours",
+    "text": "Les entreprises doivent être incitées financièrement à adopter la semaine de quatre jours sans baisse de salaire.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-travail-08",
+    "title": "Rupture conventionnelle",
+    "text": "Les conditions d’accès à la rupture conventionnelle doivent être durcies.",
+    "theme": "travail"
+  },
+  {
+    "id": "extension-fiscalite-01",
+    "title": "Taxe carbone redistribuée",
+    "text": "Il faut instaurer une taxe carbone accrue en redistribuant intégralement ses recettes aux ménages.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-02",
+    "title": "Fiscalité des héritages",
+    "text": "Les transmissions de patrimoines très élevés doivent être davantage taxées.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-03",
+    "title": "TVA différenciée",
+    "text": "Il faut appliquer une TVA réduite à davantage de produits alimentaires essentiels.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-04",
+    "title": "Niches fiscales",
+    "text": "Il faut supprimer la plupart des niches fiscales bénéficiant aux ménages les plus aisés.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-05",
+    "title": "Impôt sur le revenu",
+    "text": "Le barème de l’impôt sur le revenu doit comporter davantage de tranches progressives.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-06",
+    "title": "Dette publique",
+    "text": "La réduction de la dette publique doit primer sur l’augmentation des investissements publics.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-07",
+    "title": "Taxation numérique",
+    "text": "Les grandes plateformes numériques doivent être davantage imposées sur leurs activités françaises.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-fiscalite-08",
+    "title": "Fiscalité locale",
+    "text": "Les communes doivent retrouver une plus grande autonomie pour fixer leurs impôts.",
+    "theme": "fiscalite"
+  },
+  {
+    "id": "extension-immigration-01",
+    "title": "Quotas migratoires",
+    "text": "La France doit fixer chaque année des quotas d’immigration professionnelle.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-02",
+    "title": "Accès au travail",
+    "text": "Les demandeurs d’asile doivent pouvoir travailler dès le dépôt de leur demande.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-03",
+    "title": "Réunification familiale",
+    "text": "Les conditions de la réunification familiale doivent être assouplies.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-04",
+    "title": "Rétention administrative",
+    "text": "La durée maximale de rétention administrative des étrangers doit être réduite.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-05",
+    "title": "Nationalité et intégration",
+    "text": "L’accès à la nationalité française doit exiger un niveau de français plus élevé.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-06",
+    "title": "Mineurs isolés",
+    "text": "L’État doit accroître les moyens d’accueil des mineurs étrangers non accompagnés.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-07",
+    "title": "Immigration climatique",
+    "text": "La France doit créer un statut de protection pour certaines personnes déplacées par le changement climatique.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-immigration-08",
+    "title": "Titres de séjour pluriannuels",
+    "text": "Les titres de séjour pluriannuels doivent devenir la règle après un premier séjour régulier.",
+    "theme": "immigration"
+  },
+  {
+    "id": "extension-securite-01",
+    "title": "Police de proximité",
+    "text": "Il faut généraliser des unités de police de proximité dans les quartiers.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-02",
+    "title": "Caméras-piétons",
+    "text": "L’activation des caméras-piétons des forces de l’ordre doit être systématique lors des interventions.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-03",
+    "title": "Reconnaissance faciale",
+    "text": "La reconnaissance faciale en temps réel doit être autorisée dans l’espace public pour lutter contre la criminalité.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-04",
+    "title": "Justice des mineurs",
+    "text": "Il faut renforcer les mesures éducatives plutôt que les peines de prison pour les mineurs.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-05",
+    "title": "Amendes forfaitaires",
+    "text": "Il faut étendre les amendes forfaitaires à davantage de délits.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-06",
+    "title": "Contrôle indépendant de la police",
+    "text": "Le contrôle des violences policières doit être confié à une autorité plus indépendante du ministère de l’Intérieur.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-07",
+    "title": "Surpopulation carcérale",
+    "text": "La réduction de la surpopulation carcérale doit passer prioritairement par des peines alternatives.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-securite-08",
+    "title": "Sécurité privée",
+    "text": "Il faut élargir les missions de sécurité confiées aux entreprises privées.",
+    "theme": "securite"
+  },
+  {
+    "id": "extension-ecologie-01",
+    "title": "Rénovation thermique",
+    "text": "Les pouvoirs publics doivent financer davantage la rénovation énergétique obligatoire des logements.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-02",
+    "title": "Taxation des vols",
+    "text": "Il faut augmenter fortement la fiscalité sur les trajets en avion lorsqu’une alternative ferroviaire existe.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-03",
+    "title": "Agriculture biologique",
+    "text": "La France doit fixer un objectif contraignant de progression de la surface agricole biologique.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-04",
+    "title": "Artificialisation",
+    "text": "Les objectifs de réduction de l’artificialisation des sols doivent être renforcés.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-05",
+    "title": "Interdiction des SUV",
+    "text": "Il faut augmenter fortement les taxes sur les véhicules particuliers les plus lourds.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-06",
+    "title": "Consigne des emballages",
+    "text": "Une consigne nationale sur les emballages de boissons doit être instaurée.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-07",
+    "title": "Transport ferroviaire",
+    "text": "Il faut privilégier l’investissement ferroviaire sur les nouveaux projets autoroutiers.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-08",
+    "title": "Protection de la biodiversité",
+    "text": "Il faut accroître les zones naturelles strictement protégées, y compris en limitant certains usages économiques.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-ecologie-09",
+    "title": "Captage du carbone",
+    "text": "L’État doit financer à grande échelle des technologies industrielles de captage du CO₂.",
+    "theme": "ecologie"
+  },
+  {
+    "id": "extension-europe-01",
+    "title": "Budget fédéral européen",
+    "text": "L’Union européenne doit disposer d’un budget commun nettement plus important.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-02",
+    "title": "Unanimité au Conseil",
+    "text": "Il faut supprimer la règle de l’unanimité dans davantage de décisions européennes.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-03",
+    "title": "Dette européenne",
+    "text": "L’Union européenne doit pouvoir émettre régulièrement une dette commune.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-04",
+    "title": "Élargissement européen",
+    "text": "L’Union européenne doit poursuivre son élargissement même avant une réforme institutionnelle profonde.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-05",
+    "title": "Protection commerciale",
+    "text": "L’Union européenne doit augmenter ses droits de douane sur les produits ne respectant pas ses normes environnementales.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-06",
+    "title": "Diplomatie européenne",
+    "text": "L’Union européenne doit pouvoir conduire une diplomatie commune décidée à la majorité qualifiée.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-07",
+    "title": "Coopération militaire",
+    "text": "Les achats militaires communs européens doivent être privilégiés sur les achats nationaux.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-europe-08",
+    "title": "Accords commerciaux",
+    "text": "Les nouveaux accords de libre-échange européens doivent être suspendus tant que leurs effets environnementaux ne sont pas mieux évalués.",
+    "theme": "europe"
+  },
+  {
+    "id": "extension-institutions-01",
+    "title": "Mandat présidentiel",
+    "text": "Le mandat présidentiel doit redevenir un septennat non renouvelable.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-02",
+    "title": "Vote obligatoire",
+    "text": "Le vote doit devenir obligatoire aux élections nationales.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-03",
+    "title": "Vote blanc",
+    "text": "Le vote blanc doit être comptabilisé parmi les suffrages exprimés.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-04",
+    "title": "Non-cumul",
+    "text": "Le non-cumul des mandats doit être renforcé pour les élus nationaux.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-05",
+    "title": "Tirage au sort citoyen",
+    "text": "Des assemblées citoyennes tirées au sort doivent pouvoir proposer directement des textes au Parlement.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-06",
+    "title": "Décentralisation",
+    "text": "Il faut transférer davantage de compétences et de ressources fiscales aux régions.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-07",
+    "title": "Référendum constitutionnel",
+    "text": "Toute révision constitutionnelle importante doit être soumise obligatoirement à référendum.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-institutions-08",
+    "title": "Financement des campagnes",
+    "text": "Il faut abaisser les plafonds de dépenses autorisées lors des campagnes électorales.",
+    "theme": "institutions"
+  },
+  {
+    "id": "extension-societe-01",
+    "title": "Droit au logement",
+    "text": "Le droit au logement doit devenir directement opposable à davantage d’organismes publics.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-02",
+    "title": "École publique",
+    "text": "Il faut augmenter la part de financement public consacrée aux établissements scolaires défavorisés.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-03",
+    "title": "Universités",
+    "text": "Les universités publiques doivent pouvoir sélectionner davantage d’étudiants à l’entrée en licence.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-04",
+    "title": "Liberté numérique",
+    "text": "Il faut interdire l’usage commercial des données personnelles des mineurs.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-05",
+    "title": "Droits reproductifs",
+    "text": "La procréation médicalement assistée doit être davantage prise en charge par l’assurance maladie.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-06",
+    "title": "Laïcité scolaire",
+    "text": "Les règles de neutralité religieuse à l’école doivent être étendues aux accompagnateurs des sorties scolaires.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-07",
+    "title": "Déserts médicaux",
+    "text": "L’installation des médecins doit pouvoir être régulée dans les zones déjà bien pourvues.",
+    "theme": "societe"
+  },
+  {
+    "id": "extension-societe-08",
+    "title": "Handicap",
+    "text": "Il faut renforcer les obligations d’accessibilité des entreprises, avec des sanctions plus élevées.",
+    "theme": "societe"
+  }
+]

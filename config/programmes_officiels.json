@@ -1,15 +1,127 @@
 {
-  "schemaVersion": 1,
-  "commentaire": "Répertoire d'URL officielles déjà identifiées, extensible pour tout candidat. L'outil surveille ces adresses sans leur attribuer d'opinions.",
+  "schemaVersion": 2,
+  "date_etat": "2026-10-23",
+  "avertissement": "Un projet de parti ou une ancienne édition n’est pas automatiquement un programme présidentiel 2027. Aucune position ni score n’est attribué.",
   "sources": [
     {
       "personnalite_id": "jean-luc-melenchon",
       "personnalite": "Jean-Luc Mélenchon",
-      "editeur": "Site de campagne Mélenchon 2027",
+      "editeur": "La France insoumise",
       "url": "https://melenchon2027.fr/programme/decouvrir/",
-      "domaines_autorises": ["melenchon2027.fr"],
-      "nature": "programme_de_campagne",
-      "statut_editorial": "site_officiel_identifie"
+      "domaines_autorises": [
+        "melenchon2027.fr"
+      ],
+      "nature": "programme_2027_en_preparation",
+      "statut_editorial": "programme_2027_en_preparation",
+      "note_editoriale": "L’Avenir en commun : nouvelle édition annoncée le 7 novembre 2026"
+    },
+    {
+      "personnalite_id": "marine-tondelier",
+      "personnalite": "Marine Tondelier / Les Écologistes",
+      "editeur": "Les Écologistes",
+      "url": "https://lesecologistes.fr/",
+      "domaines_autorises": [
+        "lesecologistes.fr"
+      ],
+      "nature": "projet_de_parti_2026",
+      "statut_editorial": "projet_de_parti_2026",
+      "note_editoriale": "Pour une prospérité écologique : projet publié, attribution présidentielle à confirmer"
+    },
+    {
+      "personnalite_id": "juan-branco",
+      "personnalite": "Juan Branco",
+      "editeur": "Les Ruches",
+      "url": "https://www.ruches.org/le-projet",
+      "domaines_autorises": [
+        "www.ruches.org"
+      ],
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "La Voie : 845 mesures présentées en 24 thèmes"
+    },
+    {
+      "personnalite_id": "nicolas-dupont-aignan",
+      "personnalite": "Nicolas Dupont-Aignan",
+      "editeur": "Debout la France",
+      "url": "https://www.debout-la-france.fr/notre-projet/",
+      "domaines_autorises": [
+        "www.debout-la-france.fr"
+      ],
+      "nature": "programme_2027_partiel",
+      "statut_editorial": "programme_2027_partiel",
+      "note_editoriale": "Livrets actualisés identifiés Projet 2027"
+    },
+    {
+      "personnalite_id": "francis-lalanne",
+      "personnalite": "Francis Lalanne",
+      "editeur": "Site de campagne",
+      "url": "https://dieudolalanne2027.com/programme/",
+      "domaines_autorises": [
+        "dieudolalanne2027.com"
+      ],
+      "nature": "programme_2027_partiel",
+      "statut_editorial": "programme_2027_partiel",
+      "note_editoriale": "Le Projet 2027 : propositions organisées en rubriques"
+    },
+    {
+      "personnalite_id": "marine-le-pen",
+      "personnalite": "Marine Le Pen",
+      "editeur": "Rassemblement national",
+      "url": "https://rassemblementnational.fr/livrets-thematiques",
+      "domaines_autorises": [
+        "rassemblementnational.fr"
+      ],
+      "nature": "documents_anterieurs_non_valides_2027",
+      "statut_editorial": "documents_anterieurs_non_valides_2027",
+      "note_editoriale": "Livrets antérieurs : la rubrique RN les rattache à la présidentielle 2022"
+    },
+    {
+      "personnalite_id": "bruno-retailleau",
+      "personnalite": "Bruno Retailleau",
+      "editeur": "Les Républicains",
+      "url": "https://republicains.fr/actualites/2026/01/07/nos-propositions-sur-le-travail-et-la-competitivite/",
+      "domaines_autorises": [
+        "republicains.fr"
+      ],
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Propositions thématiques : pas un programme 2027 intégral"
+    },
+    {
+      "personnalite_id": "edouard-philippe",
+      "personnalite": "Édouard Philippe",
+      "editeur": "Horizons",
+      "url": "https://horizonsleparti.fr/le-pole-idees/",
+      "domaines_autorises": [
+        "horizonsleparti.fr"
+      ],
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Notes et travaux du pôle Idées : pas un programme 2027 intégral"
+    },
+    {
+      "personnalite_id": "gabriel-attal",
+      "personnalite": "Gabriel Attal",
+      "editeur": "Renaissance",
+      "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
+      "domaines_autorises": [
+        "parti-renaissance.fr"
+      ],
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Propositions thématiques concernant notamment les retraites"
+    },
+    {
+      "personnalite_id": "raphael-glucksmann",
+      "personnalite": "Raphaël Glucksmann / Place publique",
+      "editeur": "Place publique",
+      "url": "https://action.place-publique.eu/",
+      "domaines_autorises": [
+        "action.place-publique.eu"
+      ],
+      "nature": "projet_de_parti_a_documenter",
+      "statut_editorial": "projet_de_parti_a_documenter",
+      "note_editoriale": "Site du mouvement : document précis et attribution à confirmer"
     }
   ]
 }
