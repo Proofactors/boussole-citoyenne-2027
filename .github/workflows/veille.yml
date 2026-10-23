@@ -25,15 +25,19 @@ jobs:
           python-version: '3.12'
       - name: Collecter les publications
         run: python scripts/collecter.py
+      - name: Analyser et trier les publications
+        run: python scripts/analyser_publications.py
+      - name: Publier le tableau d’analyse
+        run: python scripts/generer_analyse_html.py
       - name: Generer le tableau de veille
         run: python scripts/generer_revue.py
-      - name: Enregistrer le suivi
+      - name: Enregistrer le suivi et les propositions
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/queue.json data/status.json revue.html
+          git add data/queue.json data/status.json data/propositions_analyse.json data/propositions_analyse.csv revue.html analyse.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Actualisation de la veille documentaire'
+            git commit -m 'Analyse automatique des publications de veille'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
