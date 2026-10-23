@@ -3,7 +3,7 @@
 .mode-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.mode-option{text-align:left;display:flex;flex-direction:column;gap:8px;padding:18px;border:2px solid #d9e3eb;border-radius:14px;line-height:1.4}.mode-option strong{font-size:19px}.mode-option span{color:#22546b;font-weight:700}.mode-option small{font-size:12px;color:#607085;font-weight:400}.mode-option.active{border-color:#126b66;background:#e9f6f3}.mode-option.active span{color:#126b66}.reliability{display:inline-block;padding:4px 9px;border-radius:20px;font-size:12px;font-weight:700;background:#edf2f7;color:#3c5263}.reliability.good{background:#dff3e7;color:#175c3c}.reliability.medium{background:#fff2d9;color:#71500a}.reliability.low{background:#fff0e8;color:#8b381d}.comparison{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}.comparison>div{background:#f7fafc;padding:12px;border-radius:11px}.comparison h4{margin:0 0 8px}.comparison ul{padding-left:17px;margin:0}.comparison li{margin:7px 0;font-size:13px}.comparison a{font-size:12px}.method-note{color:#52657b;font-size:12px;margin-top:9px}@media(max-width:650px){.mode-grid,.comparison{grid-template-columns:1fr}}
 button:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid #d58d21;outline-offset:3px}.choice-unknown{border-style:dashed}.theme-breakdown{display:grid;gap:7px;margin:12px 0}.theme-line{display:grid;grid-template-columns:minmax(105px,1fr) 2fr 85px;align-items:center;gap:9px;font-size:13px}.theme-line .meter{margin:0}.details-caption{font-size:13px;color:#52657b}.notice{border-left:4px solid #247a7a;padding:9px 12px;background:#f2f8f8;margin:12px 0}details summary{cursor:pointer;font-weight:650} .result .resultTop{align-items:flex-start} .muted-score{font-size:12px;color:#52657b}@media(max-width:650px){.theme-line{grid-template-columns:1fr 1fr 60px}button{min-height:42px}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important}}
 .audit-scroll{overflow-x:auto;margin:12px 0}.audit-table{border-collapse:collapse;width:100%;font-size:13px;min-width:510px}.audit-table th,.audit-table td{padding:8px 10px;border-bottom:1px solid #dce4ec;text-align:left}.audit-table th{background:#eff4f8}.audit-table td:not(:first-child),.audit-table th:not(:first-child){text-align:right}.audit-table tbody tr:nth-child(even){background:#f8fafc}.source-filter{background:var(--surface,#f7fafc);border:1px solid #a8bac6;border-radius:12px;padding:14px;margin:12px 0}.source-filter label{display:flex;align-items:baseline;gap:9px;cursor:pointer}.source-filter input{width:17px;height:17px;flex-shrink:0}.source-filter p{margin:6px 0 0 26px}#questionReviewCard select{padding:8px;border:1px solid #bccbd5;border-radius:8px;background:white}#questionReviewCard td{vertical-align:top}#questionReviewTable td:first-child{min-width:230px}
-</style></head><body><header><div class="tag">Projet citoyen indépendant · version 18 expérimentale</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main>
+</style></head><body><header><div class="tag">Projet citoyen indépendant · version 18 · correctif B</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main>
 <section class="card" id="dataCard"><div class="flex between"><h2>Actualisation automatique des positions</h2><span class="tag" id="dataState">Base intégrée</span></div>
 <p class="muted">Cliquez sur <strong>Vérifier les mises à jour</strong> : la Boussole consulte directement la base publiée sur le service distant. Aucun fichier JSON à télécharger ni à importer.</p>
 <label for="updateEndpoint" class="small"><strong>Adresse HTTPS du manifeste du service de mise à jour</strong></label>
@@ -24,7 +24,7 @@ const EMBEDDED_DATA={"affirmations":[{"id":"retraite-62","text":"L'âge légal d
 const themeNames={retraites:'Retraites',travail:'Travail et pouvoir d’achat',fiscalite:'Fiscalité et dépenses publiques',immigration:'Immigration',societe:'Société, santé et éducation',securite:'Sécurité et justice',ecologie:'Écologie et énergie',europe:'Europe et international',institutions:'Institutions et démocratie'};
 const QUICK_IDS=["abroger-2023", "pensions-indexation", "assurance-chomage", "heures-sup", "taxe-zucman", "expulsion-condamnes", "regularisation", "fin-de-vie", "loi-sru", "legitime-defense", "majorite-penale", "nucleaire", "renouvelables", "ukraine", "defense-europeenne", "ric", "vie-republique", "depense-publique", "impots-production", "primaute-ue"];
 const choices=[[-2,'Pas du tout d’accord'],[-1,'Plutôt pas d’accord'],[0,'Ni d’accord ni en désaccord'],[1,'Plutôt d’accord'],[2,'Tout à fait d’accord']];
-const $=id=>document.getElementById(id);
+const $=id=>{const el=document.getElementById(id);if(!el)throw Error("Élément d’interface introuvable : #"+id+". Rechargez la page sans cache.");return el};
 const UNKNOWN='unknown';let resultsVisible=false;
 function positionUsable(p){if(!p||!Number.isFinite(p.stance)||p.stance< -2||p.stance>2)return false;if(!$('recentOnly').checked)return true;const y=parseInt(String(p.date||'').slice(0,4),10);return y>=2025&&!p.year2022}
 $('recentOnly').addEventListener('change',recomputeIfVisible);
@@ -117,7 +117,7 @@ $('reset').onclick=()=>{resultsVisible=false;answers={};index=0;renderQuestion()
 $('export').onclick=()=>{let blob=new Blob([JSON.stringify({exportDate:new Date().toISOString(),mode,answers,weights,source:SOURCE_URL},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='mes_preferences_2027.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};
 
 // V18 : fichier HTML autonome pour l'affichage, données actualisées via service HTTPS externe.
-let dataVersion='V13 intégrée',syncBusy=false;
+let dataVersion='V13 intégrée',syncBusy=false;const CORRECTIF='2026-10-23-b';
 function countPositions(data){return Object.values(data.positions).reduce((n,p)=>n+Object.values(p).filter(v=>v&&Number.isFinite(v.stance)).length,0)}
 function validateDataset(data){
  if(!data||!Array.isArray(data.affirmations)||!data.positions||typeof data.positions!=='object'||Array.isArray(data.positions))throw Error('Format de base invalide');
@@ -153,7 +153,7 @@ async function synchronize(){
  if(syncBusy)return;
  let url;
  try{url=validateEndpoint(endpoint())}catch(e){setStatus('Configurez d’abord l’adresse HTTPS de votre service de publication. La base intégrée reste disponible. '+e.message,true);return}
- syncBusy=true;$('syncData').disabled=true;setStatus('Recherche de la dernière base publiée…');
+ syncBusy=true;$('syncData').disabled=true;setStatus('Recherche de la dernière base publiée… (correctif '+CORRECTIF+')');
  try{
   const mr=await fetch(url.href,{cache:'no-store',credentials:'omit',mode:'cors'});
   if(!mr.ok)throw Error('Manifeste indisponible (HTTP '+mr.status+')');
@@ -173,9 +173,9 @@ async function synchronize(){
   for(const [theme,w] of Object.entries(oldWeights)){if(theme in weights){weights[theme]=w;$('w_'+theme).value=w;$('v_'+theme).textContent=w+' / 5'}}
   dataVersion=man.datasetVersion;SOURCE_URL=dataURL.href;$('dataState').textContent='Version '+dataVersion;
   localStorage.setItem('boussoleManifestURL',url.href);
-  setStatus('Mise à jour réussie : '+countPositions(candidate)+' positions · publication '+man.publishedAt+' · intégrité vérifiée. Statut éditorial : '+(man.editorialStatus||'non renseigné'));
+  setStatus('Mise à jour réussie ('+CORRECTIF+') : '+countPositions(candidate)+' positions · publication '+man.publishedAt+' · intégrité vérifiée. Statut éditorial : '+(man.editorialStatus||'non renseigné'));
   if(resultsVisible)calculate();
- }catch(e){setStatus('Mise à jour impossible : '+e.message+'. Conservation de la base précédente.',true)}
+ }catch(e){console.error('Erreur de synchronisation Boussole',e);setStatus('Mise à jour impossible ('+CORRECTIF+') : '+e.message+'. Si besoin, rechargez avec Cmd + Maj + R.',true)}
  finally{syncBusy=false;$('syncData').disabled=false}
 }
 $('syncData').onclick=synchronize;
