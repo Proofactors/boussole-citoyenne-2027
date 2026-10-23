@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "commentaire": "Répertoire d'URL officielles déjà identifiées, extensible pour tout candidat. L'outil surveille ces adresses sans leur attribuer d'opinions.",
+  "sources": [
+    {
+      "personnalite_id": "jean-luc-melenchon",
+      "personnalite": "Jean-Luc Mélenchon",
+      "editeur": "Site de campagne Mélenchon 2027",
+      "url": "https://melenchon2027.fr/programme/decouvrir/",
+      "domaines_autorises": ["melenchon2027.fr"],
+      "nature": "programme_de_campagne",
+      "statut_editorial": "site_officiel_identifie"
+    }
+  ]
+}
