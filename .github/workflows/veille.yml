@@ -29,4 +29,4 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m 'Veille automatique des sources politiques'
             git push
-  
+          fi                    
