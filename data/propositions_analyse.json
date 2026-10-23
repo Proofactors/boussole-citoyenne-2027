@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T18:06:34.276948+00:00",
-  "total": 155,
+  "generatedAt": "2026-10-23T18:20:17.583869+00:00",
+  "total": 156,
   "statistiques": {
     "a_examiner_en_priorite": 2,
     "a_qualifier": 42,
-    "signal_non_qualifie": 111
+    "signal_non_qualifie": 112
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -2620,6 +2620,22 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi visant à garantir un service public de proximité dans chaque communevisant à garantir un service public de proximité dans chaque commune : texte N° 966 de Mme Alexandra BORCHIO FONTIMP, déposé au Sénat le 28 septembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "326dfb2ddecd80e515bf3e46",
+      "title": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 18:08:49 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Qualifiant l'attaque meurtrière des Yvelines d'attentat à \"connotation raciste\" et \"objectivement islamophobe\", le maire de Trappes, Ali Rabeh, a exhorté vendredi à la \"concorde républicaine\"."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

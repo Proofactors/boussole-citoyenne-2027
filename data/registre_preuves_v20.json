@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-23T18:06:35.511932+00:00",
+  "generatedAt": "2026-10-23T18:20:18.733998+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -1541,6 +1541,115 @@
       "modificationPositions": false
     },
     {
+      "id": "9dfad38b124e34c2a494b27f",
+      "titre": "ÉDITO. Face à la succession des crises et des urgences, le sort de la France va-t-il réellement se jouer dans les urnes au printemps ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-succession-des-crises-et-des-urgences-le-sort-de-la-france-va-t-il-reellement-se-jouer-dans-les-urnes-au-printemps_8227663.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-succession-des-crises-et-des-urgences-le-sort-de-la-france-va-t-il-reellement-se-jouer-dans-les-urnes-au-printemps_8227663.html",
+      "publication": "Thu, 22 Oct 2026 08:10:02 +0200",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10185,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "73e5a0a35002638761c575bc",
+      "titre": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html",
+      "publication": "Thu, 22 Oct 2026 06:04:21 +0200",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 17444,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "allocations-delinquants",
+          "theme": "securite",
+          "passageSource": "\"Face à cette stratégie incendiaire, les Français qui n'en peuvent plus d'être pris en tenaille entre l'austérité et le matraquage fiscal du pouvoir et les activistes de l'insurrection doivent encore tenir quelques mois , a également assuré sur X Marine Le Pen.",
+          "motsCommuns": [
+            "doivent",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "\"Face à cette stratégie incendiaire, les Français qui n'en peuvent plus d'être pris en tenaille entre l'austérité et le matraquage fiscal du pouvoir et les activistes de l'insurrection doivent encore tenir quelques mois , a également assuré sur X Marine Le Pen.",
+          "motsCommuns": [
+            "doivent",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "deserts-medicaux",
+          "theme": "societe",
+          "passageSource": "\"Face à cette stratégie incendiaire, les Français qui n'en peuvent plus d'être pris en tenaille entre l'austérité et le matraquage fiscal du pouvoir et les activistes de l'insurrection doivent encore tenir quelques mois , a également assuré sur X Marine Le Pen.",
+          "motsCommuns": [
+            "doivent",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "632e361599062c20fce38ccf",
+      "titre": "Emmanuel Macron recevra les organisations lycéennes vendredi à l'Élysée",
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "urlEffective": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "publication": "Thu, 22 Oct 2026 02:48:54 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 17427,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "ea78625508ecae3ea6468fbe",
       "titre": "Diverses dispositions relatives au secteur nucléaire - texte N° 72",
       "url": "http://www.senat.fr/leg/pjl26-072.html",
@@ -1813,6 +1922,86 @@
       "modificationPositions": false
     },
     {
+      "id": "2886cc66f6dd18943d356510",
+      "titre": "VIDEO. Le Premier ministre affirme que l'ultragauche souhaite \"organiser un désordre profond\" pour \"remettre en cause le calendrier de l'élection présidentielle\"",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/video-le-premier-ministre-affirme-que-l-ultragauche-souhaite-organiser-un-desordre-profond-pour-remettre-en-cause-le-calendrier-de-l-election-presidentielle_8243908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/video-le-premier-ministre-affirme-que-l-ultragauche-souhaite-organiser-un-desordre-profond-pour-remettre-en-cause-le-calendrier-de-l-election-presidentielle_8243908.html",
+      "publication": "Mon, 19 Oct 2026 13:30:17 +0200",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9236,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e396c36691da17604d687aa9",
+      "titre": "Accord France - Inde - rapport n° 81",
+      "url": "http://www.senat.fr/rap/l26-081/l26-081.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-081/l26-081.html",
+      "publication": "Fri,23 Oct 2026 17:42:58 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 3685,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f54b322542bc962c80d8aaee",
+      "titre": "Une Corse autonome au sein de la République - rapport n° 85",
+      "url": "http://www.senat.fr/rap/l26-085/l26-085.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-085/l26-085.html",
+      "publication": "Fri,23 Oct 2026 17:38:55 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2741,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f157c8686b52fee28ad6dc48",
+      "titre": "Accords multilatéraux concernant l'échange automatique de renseignements - rapport n° 83",
+      "url": "http://www.senat.fr/rap/l26-083/l26-083.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-083/l26-083.html",
+      "publication": "Fri,23 Oct 2026 17:38:55 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1158,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "2febb0f6e4000550ac4f3274",
+      "titre": "Règlement européen sur la maîtrise des coûts de l'électricité - texte N° 93",
+      "url": "http://www.senat.fr/leg/ppr26-093.html",
+      "urlEffective": "https://www.senat.fr/leg/ppr26-093.html",
+      "publication": "Fri,23 Oct 2026 17:38:54 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 542,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "c30a3cd40bbda36d30ee57b1",
       "titre": "Règlement européen sur la maîtrise des coûts de l'électricité : Redevances de réseau et taxation de l'électricité : concilier ambition européenne et subsidiarité - rapport d'information n° 94",
       "url": "http://www.senat.fr/notice-rapport/2026/r26-094-notice.html",
@@ -2035,13 +2224,173 @@
       "tentatives": 1,
       "passages": [],
       "modificationPositions": false
+    },
+    {
+      "id": "386f5f38e7ed5902108e1996",
+      "titre": "Dispositif des stocks de sécurité des médicaments - rapport n° 13",
+      "url": "http://www.senat.fr/rap/l26-013/l26-013.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-013/l26-013.html",
+      "publication": "Fri,09 Oct 2026 15:37:04 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2121,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f3a3f6919b3a76475be6b532",
+      "titre": "Dématérialiser l'état civil des bénéficiaires de la protection internationale - rapport n° 9",
+      "url": "http://www.senat.fr/rap/l26-009/l26-009.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-009/l26-009.html",
+      "publication": "Fri,09 Oct 2026 15:37:04 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1471,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a1c14a6caa60962e17b593a4",
+      "titre": "Faciliter le déroulement des élections sénatoriales - texte N° 15",
+      "url": "http://www.senat.fr/leg/ppl26-015.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-015.html",
+      "publication": "Fri,09 Oct 2026 12:45:22 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 545,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "6d7c63053068ace8bce3b033",
+      "titre": "Accélérer le développement de la médecine nucléaire thérapeutique en oncologie - rapport n° 16",
+      "url": "http://www.senat.fr/rap/l26-016/l26-016.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-016/l26-016.html",
+      "publication": "Fri,09 Oct 2026 12:45:22 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2120,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "5ed5ba9e01952dc902275cb2",
+      "titre": "Prescription de l'action publique en matière criminelle - rapport n° 11",
+      "url": "http://www.senat.fr/rap/l26-011/l26-011.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-011/l26-011.html",
+      "publication": "Fri,09 Oct 2026 12:45:22 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1333,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d3dd17a5225609cc6ec9ebfe",
+      "titre": "Garantir un service public de proximité dans chaque commune - texte N° 966",
+      "url": "http://www.senat.fr/leg/ppl25-966.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl25-966.html",
+      "publication": "Fri,02 Oct 2026 09:43:26 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 566,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "326dfb2ddecd80e515bf3e46",
+      "titre": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
+      "publication": "Fri, 23 Oct 2026 18:08:49 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2327,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "2dba3911b9cd7eef5b57275c",
+      "titre": "Circonstances, suspect, mobile... ce que l'on sait sur la fusillade à Trappes",
+      "url": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "urlEffective": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "publication": "Fri, 23 Oct 2026 17:03:27 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10169,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "5ea30406c01f2748d57dc164",
+      "titre": "Droit de manifester en France : \"Ce n’est pas au président de choisir ses opposants\"",
+      "url": "https://www.france24.com/fr/france/20261023-droit-manifester-france-ce-est-pas-president-republique-choisir-opposants",
+      "urlEffective": "https://www.france24.com/fr/france/20261023-droit-manifester-france-ce-est-pas-president-republique-choisir-opposants",
+      "publication": "Fri, 23 Oct 2026 16:33:00 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9695,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "66e5c1996f02b7e2a693f41b",
+      "titre": "Claude Monet : « Iris » devient l’œuvre d’art la plus chère vendue aux enchères en France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-claude-monet-iris-devient-l-%C5%93uvre-d-art-la-plus-ch%C3%A8re-vendue-aux-ench%C3%A8res-en-france",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261023-claude-monet-iris-devient-l-%C5%93uvre-d-art-la-plus-ch%C3%A8re-vendue-aux-ench%C3%A8res-en-france",
+      "publication": "Fri, 23 Oct 2026 16:27:37 GMT",
+      "analyseLe": "2026-10-23T18:20:18.733998+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2410,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
     }
   ],
   "statistiques": {
-    "documents": 111,
-    "textesLus": 110,
+    "documents": 129,
+    "textesLus": 128,
     "pdfLus": 0,
-    "passagesCandidats": 13,
+    "passagesCandidats": 16,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "Accès impossible : URLError": 1
