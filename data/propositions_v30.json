@@ -1,13 +1,13 @@
 {
   "schemaVersion": "30.0",
-  "generatedAt": "2026-10-23T18:46:20+00:00",
+  "generatedAt": "2026-10-23T19:06:33+00:00",
   "sources": {
     "votes": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
     "acteurs": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip"
   },
   "baseSha256": "6a2381334f9677669bdaa5bd57a870605ed585c873f353e4122279559f0aad2d",
-  "totalVotesLies": 815,
-  "scrutinsDistincts": 607,
+  "totalVotesLies": 817,
+  "scrutinsDistincts": 614,
   "questionsAvecRegles": 17,
   "propositions": [
     {
@@ -193,169 +193,8 @@
         "concordance avec la formulation de la question",
         "éventuelles sources contradictoires"
       ]
-    },
-    {
-      "personnaliteId": "marine-le-pen",
-      "acteurRef": "PA720614",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "contre",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "gabriel-attal",
-      "acteurRef": "PA722190",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "delphine-batho",
-      "acteurRef": "PA335999",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "emmanuel-maurel",
-      "acteurRef": "PA842271",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "jerome-guedj",
-      "acteurRef": "PA1567",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "olivier-becht",
-      "acteurRef": "PA642935",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
-    },
-    {
-      "personnaliteId": "olivier-faure",
-      "acteurRef": "PA609332",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "vote": "pour",
-      "typeScrutin": "indetermine",
-      "sourceScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "statut": "à_documenter",
-      "niveauPreuve": "signalement_par_intitule_uniquement",
-      "justification": "Correspondance lexicale avec l’intitulé du scrutin ; contenu exact non vérifié.",
-      "positionProposee": null,
-      "verificationRequise": [
-        "texte intégral et dispositif du scrutin ou amendement",
-        "sens exact de la mesure",
-        "mandat et attribution du vote",
-        "concordance avec la formulation de la question",
-        "éventuelles sources contradictoires"
-      ]
     }
   ],
-  "nombrePropositions": 15,
+  "nombrePropositions": 8,
   "important": "AUCUNE position n’est créée ni modifiée. Les signalements lexicaux ne constituent pas des preuves politiques."
 }
