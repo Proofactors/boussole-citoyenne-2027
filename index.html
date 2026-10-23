@@ -14,7 +14,13 @@ html{min-width:0}body,main,section,.card{min-width:0}main{width:100%;overflow-wr
 @media(max-width:800px){.comparison{grid-template-columns:minmax(0,1fr)}.audit-scroll,.card div[style*="overflow:auto"]{max-width:100%;-webkit-overflow-scrolling:touch}}
 @media(max-width:650px){main{padding:0 12px;margin:14px auto 50px}.card{margin:12px 0;padding:15px;border-radius:13px}h2{font-size:20px}.mode-option{padding:14px}.sync-controls{align-items:stretch}.sync-controls>button{width:100%}.resultTop{flex-wrap:wrap}.resultTop .score{font-size:23px}.theme-line{grid-template-columns:minmax(0,1fr) minmax(65px,1fr) 48px;gap:6px}.choices button{min-width:calc(50% - 7px)}.source-filter label{align-items:flex-start}.priority{gap:10px}}
 @media(max-width:380px){.choices button{min-width:100%}.theme-line{font-size:12px}.mode-option strong{font-size:17px}}
-</style></head><body><header><div class="tag">Projet citoyen indépendant · version 32</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main>
+
+/* V33 — affichage clair des programmes sur les trois formats */
+.program-source{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;padding:14px 0;border-bottom:1px solid #dce4f0;min-width:0}
+.program-source>div{flex:1 1 245px;min-width:0}.program-source a{overflow-wrap:anywhere}
+.program-source .small{display:block;margin-top:5px}.program-source strong{display:block;margin-bottom:4px}
+@media(max-width:550px){.program-source{display:block}.program-source>a{display:inline-block;margin-top:8px}#programsCard{padding:14px}}
+</style></head><body><header><div class="tag">Projet citoyen indépendant · version 33 — édition de référence</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main>
 <section class="card" id="dataCard"><div class="data-head"><div><h2>Actualisation des données politiques</h2><p class="muted data-sub">La Boussole vérifie automatiquement les données publiées à son ouverture. Vous pouvez aussi relancer la vérification quand vous le souhaitez.</p></div><span class="tag sync-pill" id="dataState" data-kind="busy">Vérification à venir</span></div>
 <div class="sync-controls"><button type="button" id="syncData" class="primary">↻ Vérifier les mises à jour</button><span class="sync-meta" id="dataInfo" aria-live="polite">Base intégrée disponible hors ligne.</span></div>
 <p id="syncStatus" class="sync-status" role="status" aria-live="polite">Données intégrées chargées. Une vérification en ligne sera effectuée automatiquement.</p>
@@ -23,6 +29,13 @@ html{min-width:0}body,main,section,.card{min-width:0}main{width:100%;overflow-wr
 <p>Source de publication : <a href="https://proofactors.github.io/boussole-citoyenne-2027/manifest.json" target="_blank" rel="noopener noreferrer">manifest.json — Proofactors/GitHub Pages</a>. Le fichier des positions et son empreinte SHA-256 sont vérifiés avant utilisation.</p>
 <p>Les calculs et réponses sont traités localement dans votre navigateur. La vérification télécharge uniquement les données publiques ; aucune réponse n'est transmise au service. La base intégrée reste disponible sans connexion. Les positions historiques n'ont pas fait l'objet d'une validation éditoriale exhaustive.</p>
 </details></section>
+
+<section class="card" id="programsCard" aria-labelledby="programsTitle">
+<div class="data-head"><div><h2 id="programsTitle">Programmes officiels des candidats</h2><p class="muted">Les programmes de campagne sont suivis indépendamment des déclarations et des votes. Un document référencé n'entraîne jamais, à lui seul, un nouveau codage politique.</p></div><span class="tag" id="programsState">Références à consulter</span></div>
+<div id="programsList" aria-live="polite"><p class="muted">Consultation des programmes référencés…</p></div>
+<p class="small muted">Les sources officielles sont vérifiées quotidiennement par la veille GitHub lorsqu'elles sont renseignées dans son registre. L'absence d'une personnalité dans cette liste ne signifie pas qu'elle n'a pas de programme.</p>
+<a href="https://proofactors.github.io/boussole-citoyenne-2027/programmes.html" target="_blank" rel="noopener noreferrer">Ouvrir le registre public des programmes ↗</a>
+</section>
 <section class="card" id="modeCard"><h2>Choisissez votre parcours</h2><p class="muted">Trois formats. Le choix des 20 et 75 questions suit la couverture, la diversité et l’ancienneté déclarée des positions disponibles ; les nouvelles questions sans positions validées sont clairement signalées. Vous pouvez changer de parcours à tout moment : vos réponses restent enregistrées dans cette page tant qu'elle est ouverte.</p><div class="mode-grid"><button type="button" class="mode-option active" data-mode="quick" aria-pressed="true"><strong>⚡ Test à 20 questions</strong><span>20 questions · parcours synthétique</span><small>Sélection dynamique, diversifiée par thème et selon la documentation publiée.</small></button><button type="button" class="mode-option" data-mode="medium" aria-pressed="false"><strong>🔎 Test à 75 questions</strong><span>75 questions · parcours approfondi</span><small>Questions bénéficiant de la meilleure couverture quantitative disponible.</small></button><button type="button" class="mode-option" data-mode="full" aria-pressed="false"><strong>📚 Test à 150 questions</strong><span>150 questions · parcours exhaustif expérimental</span><small>Inclut 73 nouvelles questions provisoires : elles ne sont pas comptabilisées tant que les positions ne sont pas documentées.</small></button></div></section>
 <section class="card" id="priorityCard"><div class="flex between"><h2>1 · Vos priorités</h2><button id="resetWeights">Tout mettre à 3</button></div><p class="muted">De 0 (thème ignoré) à 5 (thème essentiel). Vous pourrez changer les poids après le questionnaire.</p><div id="priorities" class="priority"></div></section>
 <section class="card" id="quizCard"><div class="flex between"><h2>2 · Vos opinions</h2><span class="tag" id="progressLabel">0 / 0</span></div><div class="bar"><span id="progress" style="width:0%"></span></div><p class="small muted" id="themeLabel">Choisissez votre niveau d'accord</p><div id="questionTitle">Votre première question apparaît ici.</div><p id="questionSub" class="small">Vous pouvez passer une question ou choisir « Je ne sais pas / sans opinion » : ces choix ne sont pas comptés dans le score.</p><div class="choices" id="choices"></div><div class="flex between"><button id="prev">← Précédent</button><div class="flex"><button id="skip">Passer</button><button id="next" class="primary">Suivant →</button></div></div></section>
@@ -128,7 +141,7 @@ $('reset').onclick=()=>{resultsVisible=false;answers={};index=0;renderQuestion()
 $('export').onclick=()=>{let blob=new Blob([JSON.stringify({exportDate:new Date().toISOString(),mode,answers,weights,source:SOURCE_URL},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='mes_preferences_2027.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};
 
 // V18 : fichier HTML autonome pour l'affichage, données actualisées via service HTTPS externe.
-let dataVersion='V13 intégrée',syncBusy=false;const UPDATE_URL='https://proofactors.github.io/boussole-citoyenne-2027/manifest.json';const RELEASE='V28';
+let dataVersion='V13 intégrée',syncBusy=false;const UPDATE_URL='https://proofactors.github.io/boussole-citoyenne-2027/manifest.json';const RELEASE='V33';
 function countPositions(data){return Object.values(data.positions).reduce((n,p)=>n+Object.values(p).filter(v=>v&&Number.isFinite(v.stance)).length,0)}
 function validateDataset(data){
  if(!data||!Array.isArray(data.affirmations)||!data.positions||typeof data.positions!=='object'||Array.isArray(data.positions))throw Error('Format de base invalide');
@@ -153,6 +166,7 @@ function setPill(text,kind){const pill=$('dataState');if(pill){pill.textContent=
 function updateStats(){const count=Object.keys(db.positions||{}).length;const total=db.affirmations.length;const docs=countPositions(db);const empty=db.affirmations.filter(q=>Object.values(db.positions).every(ps=>!ps[q.id]||!Number.isInteger(ps[q.id].stance))).length;$('dataInfo').textContent=`${total} questions · ${count} personnalités · ${docs} positions · ${empty} questions sans position exploitable`}
 async function synchronize(){
  if(syncBusy)return;
+ refreshProgrammes();
  let url;
  try{url=validateEndpoint(UPDATE_URL)}catch(e){setStatus('Adresse distante invalide ; utilisation de la base intégrée. '+e.message,true);return}
  syncBusy=true;$('syncData').disabled=true;setPill('Vérification en cours','busy');setStatus('Recherche de la dernière base publiée…');
@@ -186,4 +200,35 @@ loadData(EMBEDDED_DATA);
 updateStats();setPill('Base intégrée','neutral');
 // Vérification non bloquante après le rendu initial ; aucune réponse ne quitte le navigateur.
 setTimeout(()=>{synchronize()},0);
+
+// V33 : surveillance indépendante des programmes officiels ; aucun changement de position.
+const PROGRAMS_FEED = 'https://proofactors.github.io/boussole-citoyenne-2027/programmes.json';
+const OFFLINE_PROGRAMS = [{personnalite:'Jean-Luc Mélenchon',editeur:'Site de campagne Mélenchon 2027',url:'https://melenchon2027.fr/programme/decouvrir/',statut:'source_officielle_identifiee'}];
+function showPrograms(items, offline){
+ const container=document.getElementById('programsList'),state=document.getElementById('programsState');
+ if(!container||!state)return;
+ container.replaceChildren();state.textContent=offline?'Références intégrées':'Registre actualisé';
+ if(!Array.isArray(items)||!items.length){const p=document.createElement('p');p.className='muted';p.textContent='Aucun programme officiel référencé dans le registre. Les profils sans programme disponible sont conservés dans la Boussole.';container.append(p);return}
+ for(const x of items){
+  if(!x||typeof x!=='object')continue;
+  const row=document.createElement('div');row.className='program-source';
+  const details=document.createElement('div'),name=document.createElement('strong');
+  name.textContent=String(x.personnalite||'Personnalité non précisée');details.append(name);
+  const small=document.createElement('span');small.className='small muted';
+  const status=String(x.statut||'à vérifier').replaceAll('_',' ');
+  small.textContent=String(x.editeur||'Source non précisée')+' · '+status+(x.date_verification?' · Consulté '+String(x.date_verification).slice(0,10):'');
+  details.append(small);row.append(details);
+  try{const url=new URL(x.url);if(url.protocol==='https:'&&!url.username&&!url.password){const a=document.createElement('a');a.href=url.href;a.textContent='Consulter la source ↗';a.target='_blank';a.rel='noopener noreferrer';row.append(a)}}catch(_e){}
+  container.append(row)
+ }
+}
+async function refreshProgrammes(){
+ try{const r=await fetch(PROGRAMS_FEED,{cache:'no-store',credentials:'omit',mode:'cors'});
+  if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();
+  if(data.schemaVersion!==1||!Array.isArray(data.sources)||data.sources.length>150)throw Error('Catalogue invalide');
+  showPrograms(data.sources,false)
+ }catch(e){showPrograms(OFFLINE_PROGRAMS,true)}
+}
+showPrograms(OFFLINE_PROGRAMS,true);
+refreshProgrammes();
 </script></body></html>
