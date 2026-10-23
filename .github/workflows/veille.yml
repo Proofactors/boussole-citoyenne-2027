@@ -48,13 +48,17 @@ jobs:
           python scripts/generer_diagnostic_v22.py
       - name: Publier les causes de refus V23
         run: python scripts/generer_diagnostic_v23.py
+      - name: Contrôles du module de votes V24
+        run: python -m unittest discover -s tests -p 'test_v24.py' -v
+      - name: Indexer les scrutins nominatifs officiels AN
+        run: python scripts/indexer_votes_v24.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V23 : diagnostic des accès documentaires'
+            git commit -m 'Veille V24 : index officiel des votes AN'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
