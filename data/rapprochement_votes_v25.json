@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-10-23T20:16:47+00:00",
+  "generatedAt": "2026-10-23T20:29:00+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "a1019046d566f79aade3a192efbb10e435aa99596fa86d38d6672dbad39e6de3",
+  "votesArchiveSha256": "a800937fc183973f5ec05cda258b96986e4f30f8521af1f1286019f018e10a96",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -16,7 +16,7 @@
       ],
       "decompte": {
         "pour": 22,
-        "contre": 5,
+        "contre": 6,
         "abstention": 1,
         "non-votant": 0,
         "conflit": 0
@@ -217,6 +217,13 @@
           "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA720614"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "contre",
+          "acteurRef": "PA720614"
         }
       ]
     },
@@ -256,7 +263,7 @@
         "PA722190"
       ],
       "decompte": {
-        "pour": 33,
+        "pour": 34,
         "contre": 21,
         "abstention": 0,
         "non-votant": 0,
@@ -640,6 +647,13 @@
           "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA722190"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "pour",
+          "acteurRef": "PA722190"
         }
       ]
     },
@@ -971,7 +985,7 @@
         "PA335999"
       ],
       "decompte": {
-        "pour": 9,
+        "pour": 10,
         "contre": 8,
         "abstention": 2,
         "non-votant": 0,
@@ -1110,6 +1124,13 @@
           "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA335999"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "pour",
+          "acteurRef": "PA335999"
         }
       ]
     },
@@ -1135,20 +1156,13 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 38,
-        "contre": 12,
+        "pour": 39,
+        "contre": 11,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
-        {
-          "date": "2026-10-23",
-          "numero": "9097",
-          "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
         {
           "date": "2026-10-20",
           "numero": "8895",
@@ -1519,6 +1533,13 @@
           "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
           "vote": "abstention",
           "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1572,90 +1593,13 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 318,
-        "contre": 204,
-        "abstention": 24,
+        "pour": 316,
+        "contre": 198,
+        "abstention": 22,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
-        {
-          "date": "2026-10-23",
-          "numero": "9097",
-          "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9096",
-          "titre": "l'amendement n° 105 de Mme Runel et les amendements identiques suivants de suppression de l'article 19 et annexe du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9095",
-          "titre": "l'amendement n° 2787 de Mme Mélin après l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9093",
-          "titre": "l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9092",
-          "titre": "l'amendement n° 1644 de Mme Hamdane et l'amendements identique suivant à l'article 18 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9091",
-          "titre": "l'amendement n° 1471 de Mme Hamdane et l'amendement identique suivant après l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9090",
-          "titre": "l'amendement n° 661 de M. Bénard et les amendements identiques suivants de suppression de l'article 17 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9089",
-          "titre": "l'amendement n° 104 de Mme Runel et les amendements identiques suivants de suppression de l'article 16 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9088",
-          "titre": "l'amendement n° 1461 de Mme Erodi après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9087",
-          "titre": "l'amendement n° 3081 de M. Bazin après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-23",
-          "numero": "9085",
-          "titre": "l'amendement n° 869 de Mme Ranc après l'article 15 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
         {
           "date": "2026-10-23",
           "numero": "9084",
@@ -5400,6 +5344,13 @@
           "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
         }
       ]
     },
@@ -5453,9 +5404,9 @@
         "PA642935"
       ],
       "decompte": {
-        "pour": 24,
-        "contre": 11,
-        "abstention": 1,
+        "pour": 25,
+        "contre": 13,
+        "abstention": 2,
         "non-votant": 0,
         "conflit": 0
       },
@@ -5711,6 +5662,34 @@
           "titre": "l'amendement n° 122 de Mme Cathala à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "contre",
           "acteurRef": "PA642935"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7897",
+          "titre": "l'amendement n° 121 de M. Coulomme à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA642935"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7896",
+          "titre": "l'amendement n° 12 de Mme K/Bidi et l'amendement identique suivant de suppression de l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA642935"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7895",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA642935"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
+          "vote": "pour",
+          "acteurRef": "PA642935"
         }
       ]
     },
@@ -5722,7 +5701,7 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 25,
+        "pour": 26,
         "contre": 31,
         "abstention": 5,
         "non-votant": 0,
@@ -6153,6 +6132,13 @@
           "date": "2026-07-01",
           "numero": "7904",
           "titre": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-06-30",
+          "numero": "7894",
+          "titre": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
           "vote": "pour",
           "acteurRef": "PA609332"
         }

@@ -1,20 +1,7 @@
 {
-  "lastScan": "2026-10-23T20:16:35.661780+00:00",
-  "newArticles": 1,
+  "lastScan": "2026-10-23T20:28:44.391993+00:00",
+  "newArticles": 0,
   "pendingReview": 159,
-  "errors": [
-    {
-      "feed": "senat-textes",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
-      "feed": "senat-presse",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
-      "feed": "senat-rapports",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    }
-  ],
+  "errors": [],
   "warning": "La collecte ne modifie pas les positions politiques."
 }
