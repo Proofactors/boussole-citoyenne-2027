@@ -1,18 +1,127 @@
 {
   "schemaVersion": 1,
-  "date_generation": "2026-10-23T19:25:47+00:00",
-  "avertissement": "Référencement des programmes officiels, non validation de toutes leurs mesures. Aucune position politique n’est inférée.",
+  "date_generation": "2026-10-23",
+  "avertissement": "Un projet de parti ou une ancienne édition n’est pas automatiquement un programme présidentiel 2027. Aucune position ni score n’est attribué. Les liens sont issus de recherches documentaires ; la surveillance automatique GitHub doit encore les recontrôler.",
   "sources": [
     {
       "personnalite_id": "jean-luc-melenchon",
       "personnalite": "Jean-Luc Mélenchon",
-      "editeur": "Site de campagne Mélenchon 2027",
+      "editeur": "La France insoumise",
       "url": "https://melenchon2027.fr/programme/decouvrir/",
-      "nature": "programme_de_campagne",
-      "statut": "programme_officiel_reference",
-      "date_verification": "2026-10-23T19:25:45+00:00",
-      "empreinte_sha256": "af7e3a5d175c6f6c48e005ed715873a854e194c0a93c3549fab4877aaa7c1e32",
-      "aperçu": "Découvrir le programme - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle Aller au contenu Accueil Programme Découvrir le programme Les plans thématiques Les pl"
+      "nature": "programme_2027_en_preparation",
+      "statut_editorial": "programme_2027_en_preparation",
+      "note_editoriale": "L’Avenir en commun : nouvelle édition annoncée le 7 novembre 2026",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "marine-tondelier",
+      "personnalite": "Marine Tondelier / Les Écologistes",
+      "editeur": "Les Écologistes",
+      "url": "https://lesecologistes.fr/",
+      "nature": "projet_de_parti_2026",
+      "statut_editorial": "projet_de_parti_2026",
+      "note_editoriale": "Pour une prospérité écologique : projet publié, attribution présidentielle à confirmer",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "juan-branco",
+      "personnalite": "Juan Branco",
+      "editeur": "Les Ruches",
+      "url": "https://www.ruches.org/le-projet",
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "La Voie : 845 mesures présentées en 24 thèmes",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "nicolas-dupont-aignan",
+      "personnalite": "Nicolas Dupont-Aignan",
+      "editeur": "Debout la France",
+      "url": "https://www.debout-la-france.fr/notre-projet/",
+      "nature": "programme_2027_partiel",
+      "statut_editorial": "programme_2027_partiel",
+      "note_editoriale": "Livrets actualisés identifiés Projet 2027",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "francis-lalanne",
+      "personnalite": "Francis Lalanne",
+      "editeur": "Site de campagne",
+      "url": "https://dieudolalanne2027.com/programme/",
+      "nature": "programme_2027_partiel",
+      "statut_editorial": "programme_2027_partiel",
+      "note_editoriale": "Le Projet 2027 : propositions organisées en rubriques",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "marine-le-pen",
+      "personnalite": "Marine Le Pen",
+      "editeur": "Rassemblement national",
+      "url": "https://rassemblementnational.fr/livrets-thematiques",
+      "nature": "documents_anterieurs_non_valides_2027",
+      "statut_editorial": "documents_anterieurs_non_valides_2027",
+      "note_editoriale": "Livrets antérieurs : la rubrique RN les rattache à la présidentielle 2022",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "bruno-retailleau",
+      "personnalite": "Bruno Retailleau",
+      "editeur": "Les Républicains",
+      "url": "https://republicains.fr/actualites/2026/01/07/nos-propositions-sur-le-travail-et-la-competitivite/",
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Propositions thématiques : pas un programme 2027 intégral",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "edouard-philippe",
+      "personnalite": "Édouard Philippe",
+      "editeur": "Horizons",
+      "url": "https://horizonsleparti.fr/le-pole-idees/",
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Notes et travaux du pôle Idées : pas un programme 2027 intégral",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "gabriel-attal",
+      "personnalite": "Gabriel Attal",
+      "editeur": "Renaissance",
+      "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
+      "nature": "propositions_officielles",
+      "statut_editorial": "propositions_officielles",
+      "note_editoriale": "Propositions thématiques concernant notamment les retraites",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
+    },
+    {
+      "personnalite_id": "raphael-glucksmann",
+      "personnalite": "Raphaël Glucksmann / Place publique",
+      "editeur": "Place publique",
+      "url": "https://action.place-publique.eu/",
+      "nature": "projet_de_parti_a_documenter",
+      "statut_editorial": "projet_de_parti_a_documenter",
+      "note_editoriale": "Site du mouvement : document précis et attribution à confirmer",
+      "statut": "source_referencee_verification_auto_a_venir",
+      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
+      "empreinte_sha256": null
     }
   ]
 }
