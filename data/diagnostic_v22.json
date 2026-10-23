@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-10-23T18:35:18.965338+00:00",
+  "genereLe": "2026-10-23T18:46:08.492202+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -3302,16 +3302,258 @@
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "cb3cb296407cbd8c1d61c064",
+      "titre": "Dans les fauteuils rouges de \"Complément d'enquête\" : Sarah Knafo, députée européenne Reconquête",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/dans-les-fauteuils-rouges-de-complement-d-enquete-sarah-knafo-deputee-europeenne-reconquete_8249476.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/dans-les-fauteuils-rouges-de-complement-d-enquete-sarah-knafo-deputee-europeenne-reconquete_8249476.html",
+      "publication": "Fri, 23 Oct 2026 09:24:17 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12860,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Qui sera le candidat de Reconquête à l'élection présidentielle, Éric Zemmour ou Sarah Knafo ? Pour lui poser, entre autres, cette question, \"il a été plutôt facile de convaincre\" la très médiatique numéro 2 du parti d'extrême droite de s'installer dans les fauteuils rouges de \"Complément d'enquête\", selon Tristan Waleckx qui l'interviewe après la diffusion de son portrait.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "e368190c27b04a9a9344cd35",
+      "titre": "Mobilisation du 24 octobre : \"Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]\", estime Gabriel Attal",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/mobilisation-du-24-octobre-si-la-situation-n-est-pas-retablie-evidemment-qu-il-faudra-declarer-l-etat-d-urgence-estime-gabriel-attal_8250256.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/gabriel-attal/mobilisation-du-24-octobre-si-la-situation-n-est-pas-retablie-evidemment-qu-il-faudra-declarer-l-etat-d-urgence-estime-gabriel-attal_8250256.html",
+      "publication": "Fri, 23 Oct 2026 09:20:43 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12225,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "Gabriel Attal : En République vous devez concilier deux choses : le droit de manifester et le droit des Français à pouvoir être en sécurité.",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "Gabriel Attal : En République vous devez concilier deux choses : le droit de manifester et le droit des Français à pouvoir être en sécurité.",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Gabriel Attal, secrétaire général de Renaissance et candidat à l’élection présidentielle, est l'invité des \"4 Vérités\", vendredi 23 octobre. Quel regard porte-t-il sur les récentes mobilisations contre la vie chère et les violences qui se sont produites en marge des manifestations ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1fa9690a25f8680dbc4d19c2",
+      "titre": "Mobilisation du 24 octobre, revendications salariales... Le \"8h30 franceinfo\" de Sophie Binet",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-sophie-binet_8229223.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-sophie-binet_8229223.html",
+      "publication": "Fri, 23 Oct 2026 09:16:01 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8216,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Sophie Binet, secrétaire générale de la CGT, est l'invitée du \"8h30 franceinfo\".",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "84341b24106557a7fb2e8b56",
+      "titre": "Interdiction de manifester : \"C'est un tournant qui est inquiétant\", réagit la secrétaire générale de la CGT, Sophie Binet",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/interdiction-de-manifester-c-est-un-tournant-qui-est-inquietant-reagit-la-secretaire-generale-de-la-cgt-sophie-binet_8250268.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/interdiction-de-manifester-c-est-un-tournant-qui-est-inquietant-reagit-la-secretaire-generale-de-la-cgt-sophie-binet_8250268.html",
+      "publication": "Fri, 23 Oct 2026 09:00:56 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9484,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le président de la République a déclaré jeudi que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochains jours. \"C'est très grave, la liberté de manifester, c'est le fondement de la démocratie\", alerte Sophie Binet.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "be6494be9a7a3369211daf1b",
+      "titre": "Vrai ou faux. Une loi \"casseur-payeur\" a-t-elle \"déjà existé\" par le passé, et a-t-elle été \"abrogée par François Mitterrand\", comme l'affirme Olivier Faure ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-une-loi-casseur-payeur-a-t-elle-deja-existe-par-le-passe-et-a-t-elle-ete-abrogee-par-francois-mitterrand-comme-l-affirme-olivier-faure_8229244.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-une-loi-casseur-payeur-a-t-elle-deja-existe-par-le-passe-et-a-t-elle-ete-abrogee-par-francois-mitterrand-comme-l-affirme-olivier-faure_8229244.html",
+      "publication": "Fri, 23 Oct 2026 08:59:19 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10340,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le premier secrétaire du Parti socialiste affirme qu'une loi semblable à la loi casseur-payeur proposée par le gouvernement existait déjà dans les années 80 et a été abrogée, car liberticide.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "640e6fee40a70fe5fa2e1d20",
+      "titre": "PODCAST. Emmanuel Macron reçoit les lycéens, l'appli pour communiquer en manif et la NFL à Paris : ça dit quoi ce 23 octobre ?",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-emmanuel-macron-recoit-les-lyceens-l-appli-pour-communiquer-en-manif-et-la-nfl-a-paris-ca-dit-quoi-ce-23-octobre_8240989.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-emmanuel-macron-recoit-les-lyceens-l-appli-pour-communiquer-en-manif-et-la-nfl-a-paris-ca-dit-quoi-ce-23-octobre_8240989.html",
+      "publication": "Fri, 23 Oct 2026 08:53:14 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9392,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Ce vendredi 23 octobre, Emmanuel Macron va recevoir les représentants des lycéens, Bitchat est devenue l'appli réseaux sociaux la plus téléchargée sur l'Appstore et ce dimanche au Stade de France, le foot sera américain.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "13d02b0c38be051c52b88b3a",
+      "titre": "\"On espère avoir une prise de conscience de l'exécutif\", avance le président du Renouveau lycéen à la veille d'une nouvelle mobilisation",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-espere-avoir-une-prise-de-conscience-de-l-executif-avance-le-president-du-renouveau-lyceen-a-la-veille-d-une-nouvelle-mobilisation_8250190.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-espere-avoir-une-prise-de-conscience-de-l-executif-avance-le-president-du-renouveau-lyceen-a-la-veille-d-une-nouvelle-mobilisation_8250190.html",
+      "publication": "Fri, 23 Oct 2026 08:17:05 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8935,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Des organisations lycéennes vont être reçues vendredi par Emmanuel Macron. \"Nous attendons des mesures très concrètes\", déclare Nathanaël Combary, président du Renouveau lycéen et militant du parti présidentiel Renaissance.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "fdc788bb1553f4dabdcb847d",
+      "titre": "Édito. La manifestation contre le congrès du RN à Orléans contrarie la stratégie de normalisation de Marine Le Pen",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-manifestation-contre-le-congres-du-rn-a-orleans-contrarie-la-strategie-de-normalisation-de-marine-le-pen_8229253.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-manifestation-contre-le-congres-du-rn-a-orleans-contrarie-la-strategie-de-normalisation-de-marine-le-pen_8229253.html",
+      "publication": "Fri, 23 Oct 2026 08:10:02 +0200",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10189,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "passageSource": "Marine Le Pen indique que les pouvoirs publics lui ont donné des assurances en matière de sécurité.",
+          "motsCommuns": [
+            "pouvoirs",
+            "publics"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Une mobilisation réunissant potentiellement plusieurs dizaines de milliers d'opposants au RN est annoncée à Orléans ce week-end. Un mouvement de protestation qui rappelle ceux des années 1990.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8c0154639c9d51eb5f688b13",
+      "titre": "Tempête Austen : 288 600 foyers privés d'électricité, 23 départements français en vigilance orange",
+      "url": "https://www.france24.com/fr/france/20261023-temp%C3%AAte-austen-161-000-foyers-priv%C3%A9s-d-%C3%A9lectricit%C3%A9-23-d%C3%A9partements-en-vigilance-orange",
+      "urlEffective": "https://www.france24.com/fr/france/20261023-temp%C3%AAte-austen-161-000-foyers-priv%C3%A9s-d-%C3%A9lectricit%C3%A9-23-d%C3%A9partements-en-vigilance-orange",
+      "publication": "Fri, 23 Oct 2026 05:44:08 GMT",
+      "analyseLe": "2026-10-23T18:46:04.635279+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5070,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Selon Enedis, près de 290 000 foyers sont privés d'électricité vendredi en raison de la tempête Austen, principalement en Bretagne. Huit nouveaux départements ont été placés en vigilance orange pour les vents au cours de la matinée, portant à 23 le nombre de départements concernés. Au cours de la nuit, des rafales de 120 à 140 km/h ont été relevées.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
     }
   ],
   "statistiques": {
-    "documentsSuivis": 147,
-    "documentsLus": 143,
+    "documentsSuivis": 156,
+    "documentsLus": 152,
     "documentsSansTexteAvecResumeRss": 4,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 18,
+    "passagesCandidats": 21,
     "erreursParCause": {
-      "Texte intégral lu": 143,
+      "Texte intégral lu": 152,
       "Accès impossible : URLError": 1,
       "http_403": 3
     }
