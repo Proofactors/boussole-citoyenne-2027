@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T17:10:50.014029+00:00",
-  "total": 81,
+  "generatedAt": "2026-10-23T17:29:31.076155+00:00",
+  "total": 151,
   "statistiques": {
-    "a_examiner_en_priorite": 0,
-    "a_qualifier": 12,
-    "signal_non_qualifie": 69
+    "a_examiner_en_priorite": 2,
+    "a_qualifier": 40,
+    "signal_non_qualifie": 109
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -343,6 +343,347 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "cc9d394a6029775c5fef9ed3",
+      "title": "Des intempéries ont fait au moins quatre morts dans le sud-est de la France",
+      "url": "https://www.france24.com/fr/france/20261021-intemperies-au-moins-quatre-morts-sud-est-france-inondations-rechauffement-climatique-bouches-rhone-secours-disparu",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 23:54:28 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "keywords": [
+            "quatre",
+            "semaine"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "keywords": [
+            "quatre",
+            "semaine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "De violentes intempéries ayant entraîné des inondations ont frappé le sud-est de la France en début de semaine.",
+        "La préfecture des Bouches-du-Rhône a fait état de trois morts mardi, portant le bilan à quatre morts.",
+        "Les secours recherchent toujours une personne portée disparue dans le Var."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5ffdb55c0fa7e860444b0359",
+      "title": "Black bloc : tactique de l'ultragauche controversée",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261021-black-bloc-tactique-de-l-ultra-gauche-controvers%C3%A9e",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 22:53:06 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Ils surgissent dans les manifestations entièrement vêtus de noir et souvent masqués.",
+        "Certains black blocs affrontent les forces de l'ordre, d'autres s'attaquent à des symboles de l'État et du capitalisme.",
+        "Le mouvement né en Allemagne a beaucoup fait parler de lui ces derniers jours."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4257417268bf75dffb780e87",
+      "title": "Glucksmann, une histoire de famille",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261021-glucksmann-une-histoire-de-famille",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 17:51:28 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Trois générations, une même famille et des parcours politiques très différents.",
+        "Dans son livre Les Glucksmann, un étrange appétit de pouvoir, Steve Jourdin retrace l’histoire familiale de Raphaël Glucksmann, de son grand-père espion russe à son père, le philosophe André Glucksmann, jusqu’à ses propres ambitions politiques, à six mois de la présidentielle.",
+        "Steve Jourdin, journaliste et historien, nous raconte cette histoire de famille."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3af65f95d4aca47d49812986",
+      "title": "Que sait-on de l’image des objets pillés, modifiée par l’IA et publiée par la police du Val-d’Oise ?",
+      "url": "https://www.france24.com/fr/france/20261021-que-sait-on-de-l-image-des-objets-pill%C3%A9s-modifi%C3%A9e-par-l-ia-publi%C3%A9e-par-la-police-du-val-d-oise",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 17:20:26 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En marge des manifestations du 17 octobre, de nombreux magasins ont été pillés en France.",
+        "Depuis, la police est à la recherche des auteurs de ces pillages et des objets volés.",
+        "Sur X, l’antenne de la police nationale du Val-d’Oise affirme avoir retrouvé certains biens… mais la photo mise en avant n’est pas authentique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "97223c07b05af82182f85c9b",
+      "title": "L’armée déployée le 24 octobre : des précédents rarissimes en France",
+      "url": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 16:59:37 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le gouvernement a annoncé mardi l’envoi de la force Sentinelle, samedi, pour \"des missions de sécurisation statique\" habituellement assurées par des policiers.",
+        "Des précédents existent mais sont peu nombreux dans l’histoire de la Ve République, les soldats n’étant pas formés au maintien de l’ordre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "33ca405417a70a8272ea8da0",
+      "title": "Un média pro-israélien à l'origine de la fausse image virale des octogénaires agressés à Paris",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-m%C3%A9dia-pro-isra%C3%A9lien-%C3%A0-l-origine-de-fausse-image-virale-octog%C3%A9naires-agress%C3%A9s-%C3%A0-paris-manifestations",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 16:27:14 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Depuis les manifestations du 17 octobre à Paris, une prétendue photo affirme montrer un couple de personnes âgées, en sous-vêtements, qui aurait été dépouillé par des manifestants.",
+        "Cette image a été générée par IA, et provient d'un site pro-israélien."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e6b60dde058ede87739074e8",
+      "title": "Non l’ambassade de Côte d’Ivoire à Paris n’a pas été incendiée par les manifestants du 17 octobre",
+      "url": "https://www.france24.com/fr/france/20261021-non-l-ambassade-de-c%C3%B4te-d-ivoire-%C3%A0-paris-n-a-pas-%C3%A9t%C3%A9-incendi%C3%A9e-par-les-manifestants-du-17-octobre",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:57:18 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des comptes affichant des positions proches de l’Alliance des États du Sahel (AES) affirment que l’ambassade de Côte d’Ivoire à Paris aurait été incendiée pendant les violences qui ont eu lieu en marge de la manifestation du 17 octobre.",
+        "La photographie censée le prouver a été générée par IA."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4aef34b52f60df8d8269de38",
+      "title": "Élections en Israël : à Kiryat Shmona, bastion pro-Netanyahu, l'incertitude s'installe",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-%C3%A9lections-en-isra%C3%ABl-%C3%A0-kiryat-shmona-bastion-pro-netanyahu-l-incertitude-s-installe",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 15:25:29 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre israélien a été vivement critiqué ces dernières semaines pour les défaillances de sécurité qui ont mené aux attaques du 7 octobre 2023.",
+        "Même dans certaines villes comme Kiryat Shmona, qui lui étaient acquises, le doute s'est installé."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c49a7facab0ea8ce8f9ad5b1",
+      "title": "Marine Le Pen a-t-elle déjà gagné la présidentielle ?",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-a-t-elle-deja-gagne-la-presidentielle_8247295.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 14:06:25 +0200",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "À six mois du scrutin, les scènes de chaos qui ont secoué la France pourraient bien faire les affaires de la candidate du RN.",
+        "Violences, pillages, forces de l'ordre débordées : une situation qui lui permet de se poser en championne de l'ordre et de la loi et de faire oublier les polémiques qui ont marqué son début de campagne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "044685e598c664726aa5d587",
+      "title": "Décès de Paul Barril, cofondateur du GIGN mis en cause dans plusieurs scandales en Afrique",
+      "url": "https://www.france24.com/fr/france/20261021-d%C3%A9c%C3%A8s-de-paul-barril-cofondateur-du-gign-mis-en-cause-dans-plusieurs-scandales-en-afrique",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 14:02:43 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Paul Barril, le cofondateur du Groupe d'intervention de la gendarmerie nationale créé en 1974 est décédé mardi soir à l'âge de 80 ans.",
+        "Cet ancien capitaine de gendarmerie avait été impliqué dans de nombreux scandales en France et sur le continent africain, notamment au Rwanda où il avait été mis en cause pour complicité lors du génocide des Tutsi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1417629ed8e7700102ef3116",
+      "title": "Eric Ciotti appelle Bruno Retailleau et David Lisnard à abandonner \"leurs candidatures de témoignages\" à la présidentielle pour se rassembler autour de Marine Le Pen",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/eric-ciotti-appelle-bruno-retailleau-et-david-lisnard-a-abandonner-leurs-candidatures-de-temoignages-pour-se-rassembler-autour-de-marine-le-pen_8247031.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 11:36:44 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La candidate Rassemblement national caracole en tête des sondages, entre 31 et 38% des voix, selon les configurations."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bf1336be70b46bb5d33f814a",
+      "title": "VIDEO. Violences du 17 octobre, présidentielle... Le \"8h30 franceinfo\" de Marine Le Pen",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/violences-du-17-octobre-presidentielle-propos-antisemites-attribues-a-jordan-bardella-le-8h30-franceinfo-de-marine-le-pen_8226034.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 11:28:14 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Marine Le Pen, candidate RN à la présidentielle présidente du groupe RN à l'Assemblée nationale, est l'invitée du \"8h30 franceinfo\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bbea11e2ad7a79f6717c6398",
+      "title": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/retrouver-l-ordre-le-droit-et-le-pouvoir-d-achat-dans-des-petites-communes-de-dordogne-les-violences-du-17-octobre-enracinent-l-envie-de-voter-marine-le-pen_8246170.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 09:41:16 +0200",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "keywords": [
+            "droit",
+            "pouvoir",
+            "voter"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "deserts-medicaux",
+          "theme": "societe",
+          "keywords": [
+            "pouvoir",
+            "zones"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-fiscalite-08",
+          "theme": "fiscalite",
+          "keywords": [
+            "communes",
+            "retrouver"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-societe-07",
+          "theme": "societe",
+          "keywords": [
+            "pouvoir",
+            "zones"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "keywords": [
+            "droit",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Après les couvre-feux et les nouveaux appels à manifester qui circulent pour le week-end prochain, Marine Le Pen apparaît-elle comme un recours ?",
+        "La candidate caracole déjà en tête dans les sondages, particulièrement dans les zones rurales, où l'on scrute d'assez loin les violences de la mi-octobre.",
+        "Illustration en Dordogne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f0680fc06fe6756651f0df1c",
+      "title": "Édito. À six mois de l'élection présidentielle, la popularité de Marine Le Pen semble inaltérable",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-six-mois-de-l-election-presidentielle-la-popularite-de-marine-le-pen-semble-inalterable_8226091.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 21 Oct 2026 08:05:17 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les violences du week-end des 17 et 18 octobre offrent à Marine Le Pen l’occasion de faire oublier les polémiques qui ont marqué son début de campagne.",
+        "À six mois de la présidentielle elle conserve le statut de favorite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "e28be309d2b916afa3c63b85",
       "title": "Sécuriser le ciel de l'Ukraine en construisant un bouclier européen - texte N° 4",
       "url": "http://www.senat.fr/leg/ppr26-004.html",
@@ -388,6 +729,73 @@
       ],
       "extraitsRSS": [
         "Proposition de loi contre la fraude en ligne visant à instaurer des obligations de contrôle des plateformes numériques à l'égard des annonceurs : texte N° 965 de Mme Nathalie GOULET et plusieurs de ses collègues, déposé au Sénat le 25 septembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e80b0444adc50a0a72fd8c70",
+      "title": "Un projet de loi veut renforcer la protection de la présidentielle contre les ingérences étrangères",
+      "url": "https://www.franceinfo.fr/politique/ingerence/un-projet-de-loi-veut-renforcer-la-protection-de-la-presidentielle-contre-les-ingerences-etrangeres_8244448.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 20 Oct 2026 13:44:17 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Sénat examine à partir de ce mardi un projet de loi contre les ingérences étrangères.",
+        "L'objectif est de répondre plus vite aux manipulations de l'information à quelques mois de l'élection présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "03c0aa4d03eede2aa7afcf82",
+      "title": "Les informés du matin du mardi 20 octobre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-20-octobre-2026_8224156.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 20 Oct 2026 11:14:34 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5487cd79c0f351be9a7b2baf",
+      "title": "Violences du 17 octobre, couvre feu, pouvoir d'achat... Le \"8h30 franceinfo\" de Manuel Bompard",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/violences-du-17-octobre-couvre-feu-pouvoir-d-achat-le-8h30-franceinfo-de-manuel-bompard_8224141.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 20 Oct 2026 09:13:41 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Manuel Bompard, coordinateur national de La France insoumise et député des Bouches-du-Rhône est l'invité du \"8h30 franceinfo\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1408af7c6d77b8456fc52d0c",
+      "title": "\"Je m'en fous\" : le candidat à la présidentielle David Lisnard s'agace après avoir été interrogé sur le 17 octobre 1961",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/je-m-en-fous-le-candidat-a-la-presidentielle-david-lisnard-s-agace-apres-avoir-ete-interroge-sur-le-17-octobre-1961_8245099.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 20 Oct 2026 07:10:56 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des dizaines d'Algériens furent tués et jetés dans la Seine par des policiers lors de manifestations à Paris le 17 octobre 1961."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -859,6 +1267,399 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "ea1034d41d1e81858db3a9a2",
+      "title": "\"Ce qui nous a sauvés, ce sont les valeurs du fondateur de l'entreprise\" : 48 heures dans une conserverie qui fait recette",
+      "url": "https://www.franceinfo.fr/economie/entreprises/ce-qui-nous-a-sauves-ce-sont-les-valeurs-du-fondateur-de-l-entreprise-48-heures-dans-une-conserverie-qui-fait-recette_8249704.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 23:51:41 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Comment continuer à produire en France et à en vivre ?",
+        "Dans son nouveau numéro de \"48 heures\", le \"Mag du 20H\" continue d'aller à la rencontre des Français avant la présidentielle.",
+        "Ce jeudi 22 octobre, direction Quiberon, dans le Morbihan, où le journaliste Haron Tanzit a partagé le quotidien des salariés de la conserverie la belle-iloise."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6bcdf35b496572b67e97cece",
+      "title": "En direct : après leur rencontre avec Macron, les représentants lycéens appellent à poursuivre la mobilisation",
+      "url": "https://www.france24.com/fr/france/20261022-en-direct-france-macron-recoit-lyceens-rencontre-forces-de-l-ordre-lecornu-limoges-manifestations",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 22:55:51 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Quelque 70 000 policiers et gendarmes seront mobilisés lors de la nouvelle journée de contestation samedi, a indiqué vendredi le ministre de l'Intérieur, Laurent Nuñez.",
+        "\"La consigne que j'ai passée est de faire preuve de la plus grande fermeté\".",
+        "Après une rencontre avec Emmanuel Macron à l'Élysée, les représentants lycéens appellent à poursuivre la mobilisation."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ec8c6bc472af9eb7b116e2ee",
+      "title": "La France bientôt dégradée ? Le pouvoir des agences de notation",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261022-la-france-bient%C3%B4t-d%C3%A9grad%C3%A9e-le-pouvoir-des-agences-de-notation",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 22:55:17 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "majorite",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "AAA, Aa3, perspective négative...",
+        "Derrière ces quelques lettres se cachent des enjeux financiers considérables.",
+        "Trois grandes agences privées dominent la notation des États : Standard & Poor's, Fitch et Moody's."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "75c7e06a83544ac806dafa4d",
+      "title": "Notation de la France : un abaissement de la note par Moody's jugé \"très plausible\"",
+      "url": "https://www.france24.com/fr/france/20261022-notation-de-la-france-un-abaissement-de-la-note-par-moody-s-jug%C3%A9-tr%C3%A8s-plausible",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 22:37:28 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La plupart des économistes estime que l'agence Moody's va abaisser vendredi soir la note de la France, et ainsi s'aligner sur les autres agences Fitch et S&P, tandis que la Cour des comptes alerte sur le risque d'\"étouffement financier\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "87f5eb6dc06fea5a74746269",
+      "title": "24 octobre : Macron serre la vis sur les manifestations, interdites à Marseille et à Lyon",
+      "url": "https://www.france24.com/fr/france/20261022-24-octobre-macron-serre-la-vis-sur-les-manifestations-interdites-%C3%A0-marseille-et-%C3%A0-lyon",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 20:39:21 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron a annoncé jeudi que seules les manifestations organisées par des syndicats seront autorisées le 24 octobre, lors d'une nouvelle journée de mobilisation pour le pouvoir d'achat.",
+        "Les préfets du Rhône et des Bouches-du-Rhône ont interdit les manifestations à Lyon et à Marseille.",
+        "La préfecture du Nord a, elle, interdit \"toutes manifestations\" et rassemblements samedi dans le centre de Lille."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "04b23747e896df0f1964ffa5",
+      "title": "Violences du 17 octobre : le profil type des personnes incarcérées dévoilé",
+      "url": "https://www.france24.com/fr/france/20261022-violences-17-octobre-profil-type-personnes-%C3%A9crou%C3%A9es-d%C3%A9voil%C3%A9",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 19:19:07 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "police",
+            "violences"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La Chancellerie a dévoilé un document qui dresse le profil type des personnes interpellées lors des manifestations marquées par des violences et des pillages ces dernières semaines en France.",
+        "Le portrait type correspond à un homme âgé entre 18 et 25 ans, de nationalité française, inconnu de la justice, incarcéré pour pillages ou violences envers la police."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eccf2d5da4d96c6794d2aa3a",
+      "title": "\"La Chute, France 1940\", autopsie d'un effondrement : que révèle la défaite française ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261022-la-chute-france-1940-autopsie-d-un-effondrement-1940-que-rev%C3%A8le-la-d%C3%A9faite-fran%C3%A7aise",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 18:49:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En mai 1940, la France s'effondre face à l'Allemagne nazie en quelques semaines.",
+        "Comment expliquer une défaite aussi rapide ?",
+        "Erreurs militaires, responsabilités politiques et divisions de la société française : dans son nouveau livre, \"La Chute, France 1940\" (éditions du Seuil), l'historien britannique et professeur émérite à la Queen Mary University of London, Julian Jackson, revient sur les causes de cette débâcle et interroge les leçons que l'Europe peut en tirer aujourd'hui face aux nouvelles menaces qui pèsent sur sa sécurité."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "25869d2da020a42545d80a05",
+      "title": "Accident du Mirage près de Nancy : la justice confirme le décès des deux occupants",
+      "url": "https://www.france24.com/fr/france/20261022-accident-mirage-pr%C3%A8s-nancy-justice-confirme-d%C3%A9c%C3%A8s-deux-occupants",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 17:30:47 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le parquet de Metz a confirmé jeudi le décès du deuxième occupant du Mirage 2000D.",
+        "L'appareil, qui effectuait une mission d'entraînement, s'est écrasé mardi soir près de Nancy.",
+        "Le pilote, âgé de 27 ans, et son navigateur, âgé de 44 ans, n'ont pas eu le temps de s'éjecter avant de toucher le sol."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c0fb313aeb4cf6d903339105",
+      "title": "France : Macron annonce l'interdiction des manifestations \"sans légitimité\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261022-france-macron-annonce-l-interdiction-des-manifestations-sans-l%C3%A9gitimit%C3%A9",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 15:27:45 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après une série d'interdictions de manifestations, Emmanuel Macron a annoncé jeudi, à l'issue d'un conseil de sécurité, que seules celles organisées par des syndicats seraient autorisées samedi 24 octobre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a447ba6048c307ae5c6417e3",
+      "title": "La présidentielle ne sert-elle plus à rien ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/la-presidentielle-ne-sert-elle-plus-a-rien_8249008.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 14:19:06 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À six mois du scrutin, la France est secouée par une triple crise : politique, sociale et financière.",
+        "Les marges de manœuvre du futur président pourraient être bien plus limitées qu'on ne l'imagine.",
+        "Car aujourd'hui, ce ne sont plus seulement les électeurs qui dictent le tempo."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0be5a297a5e10d0fe9727e34",
+      "title": "\"Je ne savais pas que c'était du vol\" : à Paris, les premiers procès des violences du 17 octobre",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261022-je-ne-savais-pas-que-c-%C3%A9tait-du-vol-%C3%A0-paris-les-premiers-proc%C3%A8s-des-violences-du-17-octobre",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 13:06:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les prévenus interpellés lors des manifestations du 17 octobre ont défilé mardi dans le box du tribunal judiciaire de Paris, jugés notamment pour violences contre agents, rébellion ou recel, dans un climat électrique, après les propos du ministre de la Justice appelant à l'\"extrême fermeté\" de la justice."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bf56921d1cdedafde4227741",
+      "title": "Le virus Shamonda détecté pour la première fois chez un être humain en France",
+      "url": "https://www.france24.com/fr/france/20261022-virus-shamonda-d%C3%A9tect%C3%A9-premi%C3%A8re-fois-%C3%AAtre-humain-france",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 11:02:47 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les autorités françaises ont annoncé jeudi avoir détecté un virus de type Shamonda chez un patient immunodéprimé mort au début du mois d'octobre.",
+        "C'est le premier cas humain documenté de ce virus diffusé par des petits insectes piqueurs et qui ne circulait jusqu'à maintenant que chez les animaux d'élevage."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ee20af63b2eae0c87e03a200",
+      "title": "Les informés du matin du jeudi 22 octobre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-22-octobre-2026_8227660.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 10:30:02 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fbfc2be2e1e7852560590378",
+      "title": "Olivier Faure sera présent à la manifestation contre le RN à Orléans pour \"faire face au discours de l'extrême droite\"",
+      "url": "https://www.franceinfo.fr/politique/front-national/olivier-faure-sera-present-a-la-manifestation-contre-le-rn-a-orleans-pour-faire-face-au-discours-de-l-extreme-droite_8248537.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 09:54:31 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "olivier-faure"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le premier secrétaire du Parti socialiste s'inquiète que le RN puisse \"exercer le pouvoir et instaurer une xénophobie d'État\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9943f746d19209f3b95f8b1a",
+      "title": "\"Cette irruption de la jeunesse, on ne la voyait pas venir\", commente Nathalie Arthaud, candidate Lutte ouvrière à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/cette-irruption-de-la-jeunesse-on-ne-la-voyait-pas-venir-commente-nathalie-arthaud-candidate-lutte-ouvriere-a-l-election-presidentielle_8248576.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 09:37:34 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "nathalie-arthaud"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Nathalie Arthaud se réjouit que l'expression de la colère lycéenne ait pu rassembler \"une partie des travailleuses et des travailleurs\", le 17 octobre.",
+        "\"Qui sème la misère récolte la colère\", lance-t-elle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bbfff92a25c2479d4cb44be2",
+      "title": "Des conditions de détention \"abominables\" au tribunal de Bobigny",
+      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261022-des-conditions-de-d%C3%A9tention-abominables-au-tribunal-de-bobigny",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 09:34:04 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À la Une de la presse le 22 octobre, les conditions de détention de mineurs au tribunal de Bobigny, les derniers jours de campagne au Brésil, et un flamant rose traumatisé à Las Vegas."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "aca85961337fea5256112156",
+      "title": "\"L'extrême gauche a une grave responsabilité puisqu'elle attise l'incendie\", estime David Lisnard, candidat à la présidentielle et maire de Cannes",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/l-extreme-gauche-a-une-grave-responsabilite-puisqu-elle-attise-l-incendie-estime-david-lisnard-candidat-a-la-presidentielle-et-maire-de-cannes_8248552.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 09:17:57 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Ces gens-là mettent du poison dans la tête de nos jeunes\", insiste le chef du parti Nouvelles Energies."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "753a1645f07ea17e9eb8db25",
+      "title": "Mobilisation du 24 octobre, couvre-feux, crise sociale ... Le \"8h30 franceinfo\" d'Olivier Faure",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-24-octobre-couvre-feux-crise-sociale-le-8h30-franceinfo-d-olivier-faure_8227639.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 09:15:02 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "olivier-faure"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Olivier Faure, premier secrétaire du parti socialiste est l'invité du \"8h30 franceinfo\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9dfad38b124e34c2a494b27f",
+      "title": "ÉDITO. Face à la succession des crises et des urgences, le sort de la France va-t-il réellement se jouer dans les urnes au printemps ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-a-la-succession-des-crises-et-des-urgences-le-sort-de-la-france-va-t-il-reellement-se-jouer-dans-les-urnes-au-printemps_8227663.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 08:10:02 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les crises sociales et financières pourraient peser davantage sur l'avenir du pays que la présidentielle elle-même.",
+        "Entre la pression des marchés et la mobilisation de la rue, les marges de manœuvre du futur président s'annoncent limitées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "73e5a0a35002638761c575bc",
+      "title": "\"Bon courage à ceux qui arrivent\" : l'élection présidentielle permettra-t-elle vraiment de sortir de la crise politique et sociale qui secoue le pays ?",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/bon-courage-a-ceux-qui-arrivent-l-election-presidentielle-permettra-t-elle-vraiment-de-sortir-de-la-crise-politique-et-sociale-qui-secoue-le-pays_8245624.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 06:04:21 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Si les responsables politiques veulent croire, et surtout faire croire aux citoyens, que s'en remettre au vote pourra résoudre les crises actuelles, les politologues et chercheurs interrogés par franceinfo en doutent."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "632e361599062c20fce38ccf",
+      "title": "Emmanuel Macron recevra les organisations lycéennes vendredi à l'Élysée",
+      "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "sourcePublishedAt": "Thu, 22 Oct 2026 02:48:54 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron recevra des \"lycéens et des représentants d'organisations lycéennes\" vendredi à 15 h à l'Élysée afin d'\"écouter leurs revendications et inquiétudes\" après les manifestations émaillées de violences, a annoncé jeudi soir la présidence.",
+        "Voici le fil du 22 octobre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "ea78625508ecae3ea6468fbe",
       "title": "Diverses dispositions relatives au secteur nucléaire - texte N° 72",
       "url": "http://www.senat.fr/leg/pjl26-072.html",
@@ -1156,6 +1957,22 @@
       "extraitsRSS": [
         "Proposition de loi constitutionnelle visant à refonder le statut constitutionnel des outre-mer en substituant aux articles 73 et 74 un article 73 unique instituant un régime « à la carte », fondé sur la libre administration et la différenciation : texte N° 2 de M.",
         "Dominique THÉOPHILE, déposé au Sénat le 1er octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2886cc66f6dd18943d356510",
+      "title": "VIDEO. Le Premier ministre affirme que l'ultragauche souhaite \"organiser un désordre profond\" pour \"remettre en cause le calendrier de l'élection présidentielle\"",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/video-le-premier-ministre-affirme-que-l-ultragauche-souhaite-organiser-un-desordre-profond-pour-remettre-en-cause-le-calendrier-de-l-election-presidentielle_8243908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 19 Oct 2026 13:30:17 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Cela nous a été dit clairement par les services de renseignements\", a déclaré Sébastien Lecornu, lundi, à l'issue d'une nouvelle cellule interministérielle de crise."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -1651,6 +2468,619 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi visant à garantir un service public de proximité dans chaque communevisant à garantir un service public de proximité dans chaque commune : texte N° 966 de Mme Alexandra BORCHIO FONTIMP, déposé au Sénat le 28 septembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2dba3911b9cd7eef5b57275c",
+      "title": "Circonstances, suspect, mobile... ce que l'on sait sur la fusillade à Trappes",
+      "url": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 17:03:27 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À Trappes puis à La Verrière, dans les Yvelines, un homme a tiré en rafales sur la voie publique depuis son véhicule, tuant une personne et faisant cinq blessés, vendredi.",
+        "Pour le ministre de l'Intérieur, intervenu sur place, il s'agit d'une attaque terroriste.",
+        "Que sait-on sur les circonstances de la fusillade et le profil du suspect ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5ea30406c01f2748d57dc164",
+      "title": "Droit de manifester en France : \"Ce n’est pas au président de choisir ses opposants\"",
+      "url": "https://www.france24.com/fr/france/20261023-droit-manifester-france-ce-est-pas-president-republique-choisir-opposants",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 16:33:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Suivant la consigne d’Emmanuel Macron, désireux d’éviter de nouvelles scènes de chaos semblables à celles du 17 octobre, de nombreux préfets ont interdit ou drastiquement limité les manifestations prévues samedi en France.",
+        "Les défenseurs des libertés fondamentales y voient une attaque contre l’État de droit.",
+        "France 24 fait le point avec Serge Slama, professeur de droit public."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "66e5c1996f02b7e2a693f41b",
+      "title": "Claude Monet : « Iris » devient l’œuvre d’art la plus chère vendue aux enchères en France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-claude-monet-iris-devient-l-%C5%93uvre-d-art-la-plus-ch%C3%A8re-vendue-aux-ench%C3%A8res-en-france",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 16:27:37 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "keywords": [
+            "euros",
+            "millions"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le tableau \"Iris\", peint par Claude Monet à la fin de sa vie, a été vendu aux enchères pour 50 millions d'euros jeudi 22 octobre à Paris.",
+        "Ce tableau de grandes dimensions était présenté au public pour la première fois et avait été estimé entre 22 et 30 millions d'euros avant la vente."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "01b32eb94b0ab63df79b47f6",
+      "title": "À Orléans, tension maximale avant les manifestations de samedi et le congrès annuel du Rassemblement national",
+      "url": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/orleans/a-orleans-tension-maximale-avant-les-manifestations-de-samedi-et-le-congres-annuel-du-rassemblement-national_8250910.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 16:12:17 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un week-end sous haute tension est également attendu à Orléans, dans le Loiret, où le Rassemblement National organise son congrès.",
+        "Les autorités redoutent des affrontements."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "46cdd55749d2c5925a2d4ed8",
+      "title": "Fausse image d'un couple agressé : quel est le site d'actualité pro-israélien derrière cette intox ?",
+      "url": "https://www.france24.com/fr/france/20261023-fausse-image-couple-agress%C3%A9-quel-est-site-d-actualit%C3%A9-pro-isra%C3%A9lien-derri%C3%A8re-intox",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 16:06:38 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'image générée par intelligence artificielle d'un couple de seniors, qui aurait été agressé lors de la journée de manifestations du 17 octobre en France, a été créée par un site israélien francophone, Infos Israel News.",
+        "Ce site d'actualité, au discours pro-israélien et ultra-conservateur, produit une grande partie de ses contenus avec l'IA."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "49a276fca6367db341094bf8",
+      "title": "El Niño : sécheresse, feux de forêt... quels impacts en Nouvelle-Calédonie ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261023-el-ni%C3%B1o-s%C3%A9cheresse-feux-de-for%C3%AAt-quels-impacts-en-nouvelle-cal%C3%A9donie",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 16:00:38 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le phénomène El Niño touche la Nouvelle-Calédonie, provoquant moins de pluies et une sécheresse qui s'installe.",
+        "La province Nord est placée en risque très élevé de feux de forêts, avec déjà des conséquences pour la biodiversité."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "90bcda266eeb99b3561839d4",
+      "title": "Blindés, unités d'élite, 70 000 policiers et gendarmes… Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
+      "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 15:43:45 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "violences"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Une semaine après les violences et pillages observés dans plusieurs villes de France, le ministre de l'Intérieur promet la plus grande fermeté face aux risques de nouveaux débordements."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a209a4242bb8b957d67ec707",
+      "title": "Pourquoi le plateau de Millevaches est-il pointé du doigt comme un fief de l'ultragauche par certains politiques après l'incendie de la mairie de Limoges le 17 octobre ?",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/pourquoi-le-plateau-de-millevaches-est-il-pointe-du-doigt-comme-un-fief-de-l-ultragauche-par-certains-politiques-apres-l-incendie-de-la-mairie-de-limoges-le-17-octobre_8249275.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 15:07:58 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le maire LR de Limoges Guillaume Guérin a émis l'hypothèse de l'implication dans l'incendie de \"zadistes\" de cette région rurale proche, où deux suspects ont été arrêtés depuis.",
+        "Une terre d'implantation connue de militants \"en marge du système\", mais pas de \"camps d'entraînement de terroristes\" comme évoqué par David Lisnard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2cda3c54962b71178d894a03",
+      "title": "70 000 forces de l'ordre mobilisées le 24 octobre : \"C'est assez anxiogène\", confie une salariée, alors que l'incertitude plane chez de nombreux commerçants et riverains sur le déroulé des cortèges samedi",
+      "url": "https://www.franceinfo.fr/societe/70-000-forces-de-l-ordre-mobilisees-le-24-octobre-c-est-assez-anxiogene-confie-une-salariee-alors-que-l-incertitude-plane-chez-de-nombreux-commercants-et-riverains-sur-le-deroule-des-corteges-samedi_8250808.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 14:58:36 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "À moins de 24 heures d'une nouvelle journée de mobilisation, le gouvernement a annoncé la présence de 70 000 gendarmes et policiers.",
+        "Un dispositif renforcé, mais qui ne suffit pas forcément à rassurer les commerçants, qui sont très inquiets.",
+        "Nous les avons rencontrés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "80b6a85e5e94816f25c7eddb",
+      "title": "Les députés rejettent à la quasi-unanimité le volet \"recettes\" du projet de loi de financement de la Sécurité sociale, le texte transmis au Sénat",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 14:50:36 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La gauche, l'alliance RN-UDR et l'essentiel des LR ont voté contre, le reste du camp gouvernemental s'abstenant majoritairement, et un député MoDem a voté pour."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ebac4729ea6ef1bf757cc858",
+      "title": "Se calfeutrer, cacher les stocks : à la veille de l'\"acte II\", les commerces parisiens se préparent",
+      "url": "https://www.france24.com/fr/france/20261023-se-calfeutrer-cacher-stocks-veille-acte-ii-commerces-parisiens-se-pr%C3%A9parent-24-octobre",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 13:17:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une semaine après la manifestation du 17 octobre marquée par des actes de vandalisme et des pillages dans de nombreux commerces parisiens, les commerçants se préparent à l'\"acte II\" de samedi.",
+        "Certains se calfeutrent derrière du contreplaqué, d'autres comptent simplement sur leur chance."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6309488cb842f2d49510fffd",
+      "title": "Jean-Paul Huchon, ancien président socialiste de la région Ile-de-France, est mort à l'âge de 80 ans",
+      "url": "https://www.franceinfo.fr/politique/ps/jean-paul-huchon-ancien-president-socialiste-de-la-region-ile-de-france-est-mort-a-l-age-de-80-ans_8250265.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 12:25:32 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Longtemps encarté au Parti socialiste, le Parisien de naissance avait accédé à la tête de la plus grande région de France en 1998, qu'il a gouvernée jusqu'en 2015.",
+        "Il a aussi été condamné deux fois pour prise illégale d'intérêts."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4d57ac6fed31e95829683155",
+      "title": "Face à de nombreuses manifestations interdites, quels sont les risques encourus et les recours possibles ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/face-a-de-nombreuses-manifestations-interdites-quels-sont-les-risques-encourus-et-les-recours-possibles_8250166.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 11:57:00 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un cortège parisien est bien autorisé samedi entre la place de la Bastille et la place de la Nation.",
+        "Les commerçants sur le tracé redoutent les débordements alors que les manifestations sont interdites dans de nombreuses grandes villes comme à Marseille."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "013111bbe8fa23d21e85f541",
+      "title": "L'actu en dessin : les violences du 17 octobre, un cadeau pour Marine Le Pen ?",
+      "url": "https://www.france24.com/fr/actu-en-dessin-violences-17-octobre-cadeau-pour-marine-le-pen",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 11:03:31 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Surfant sur les images de chaos qui ont rythmé le week-end du 17 octobre, Marine Le Pen et Jordan Bardella comptent capitaliser sur ces évènements à l'approche de la présidentielle en se posant en défenseurs de l'ordre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a796ccb8604577576e0fb0c4",
+      "title": "Les interdictions de manifester dans les centres-villes sont des \"bonnes mesures\", selon le vice-président LR de l’Association des maires de France",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/les-interdictions-de-manifester-dans-les-centres-villes-sont-des-bonnes-mesures-selon-vice-president-lr-de-l-association-des-maires-de-france_8250385.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 11:00:30 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président a annoncé jeudi l'interdiction de toute manifestation non déclarée par les syndicats et la modification des parcours pour protéger notamment les centres-villes."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7c7e38ae806f779136143b3c",
+      "title": "En direct : Macron à Trappes après les tirs meurtriers, l'Élysée dénonce un \"attentat terroriste raciste\"",
+      "url": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 10:41:27 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une personne ​a ouvert le feu ​sur la voie publique vendredi à Trappes et ​à La ‌Verrière, dans les ⁠Yvelines, faisant un mort ‌et cinq blessés, dont une enfant de 12 ans.",
+        "Le suspect, rapidement interpellé par des policiers, a été placé en garde à vue.",
+        "Tandis qu'Emmanuel Macron se rend sur les lieux du drame, l'Élysée dénonce un \"attentat terroriste raciste\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "489113f66f93f10f4b07d89e",
+      "title": "Emmanuel Macron peut-il se mêler des interdictions de manifester ?",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-peut-il-se-meler-des-interdictions-de-manifester_8250412.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 10:35:14 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-societe-04",
+          "theme": "societe",
+          "keywords": [
+            "interdire",
+            "liberte"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "keywords": [
+            "droit",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "keywords": [
+            "droit",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Salut c’est Sarah, ça dit quoi ?",
+        "Emmanuel Macron a-t-il le droit de demander aux préfets d’interdire les rassemblements qui ne sont pas organisés par les syndicats ce week-end, comme il l’a fait ce jeudi 22 octobre ?",
+        "Il s’agit d'abus de pouvoir, selon l'Association de défense des libertés constitutionnelles et le syndicat de la magistrature."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "702043d9313bc0783df5c544",
+      "title": "Les informés du matin du vendredi 23 octobre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-23-octobre-2026_8229250.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 10:15:02 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour de Benjamin Recouvreur et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8ec274bc300689d730a7e50a",
+      "title": "\"Il faut que Marine Le Pen arrête son cinéma, on ne va pas empêcher la tenue de son congrès\", assure la cégétiste Sophie Binet",
+      "url": "https://www.franceinfo.fr/politique/front-national/il-faut-que-marine-le-pen-arrete-son-cinema-on-ne-va-pas-empecher-la-tenue-de-son-congres-assure-la-cegetiste-sophie-binet_8250310.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 10:06:18 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La secrétaire générale de la CGT assure qu'elle va manifester samedi à Orléans pour défendre \"les valeurs de la République\", dénonçant le Rassemblement national comme un parti \"structurellement raciste et antisémite\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b5f5071af0417472ac3d1c48",
+      "title": "\"Les personnalités politiques\" qui manifesteront contre le RN à Orléans \"veulent intimider nos militants\", estime Laure Lavalette",
+      "url": "https://www.franceinfo.fr/politique/front-national/les-personnalites-politiques-qui-manifesteront-contre-le-rn-a-orleans-veulent-intimider-nos-militants-estime-laure-lavalette_8250322.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:39:31 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier",
+        "olivier-faure"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le socialiste Olivier Faure, l'insoumis Bally Bagayoko, l'écologiste Marine Tondelier ou encore la cégétiste Sophie Binet manifesteront samedi leur opposition à l'extrême droite à Orléans alors que s'y tiendra le congrès du RN.",
+        "Qu'on laisse le parti \"avoir ce moment démocrate\", revendique sa porte-parole."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "281e094d08c8bf5ee7275aa7",
+      "title": "\"Les personnalités politiques\" qui manifesteront contre le RN à Orléans \"veulent intimider nos militants\", estime Laure Lavalette",
+      "url": "https://www.franceinfo.fr/politique/front-national/les-personnalites-politiques-qui-manifesteront-contre-le-rn-a-orleans-veulent-intimider-nos-militants-estime-laure-lavalette_8250322.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:39:31 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier",
+        "olivier-faure"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le socialiste Olivier Faure, l'insoumis Bally Bagayoko, l'écologiste Marine Tondelier ou encore la cégétiste Sophie Binet manifesteront samedi leur opposition à l'extrême droite à Orléans alors que s'y tiendra le congrès du RN.",
+        "Qu'on laisse le parti \"avoir ce moment démocrate\", revendique sa porte-parole."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cb3cb296407cbd8c1d61c064",
+      "title": "Dans les fauteuils rouges de \"Complément d'enquête\" : Sarah Knafo, députée européenne Reconquête",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/dans-les-fauteuils-rouges-de-complement-d-enquete-sarah-knafo-deputee-europeenne-reconquete_8249476.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:24:17 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Qui sera le candidat de Reconquête à l'élection présidentielle, Éric Zemmour ou Sarah Knafo ?",
+        "Pour lui poser, entre autres, cette question, \"il a été plutôt facile de convaincre\" la très médiatique numéro 2 du parti d'extrême droite de s'installer dans les fauteuils rouges de \"Complément d'enquête\", selon Tristan Waleckx qui l'interviewe après la diffusion de son portrait."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e368190c27b04a9a9344cd35",
+      "title": "Mobilisation du 24 octobre : \"Si la situation n'est pas rétablie, évidemment qu'il faudra déclarer [l'état d'urgence]\", estime Gabriel Attal",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/mobilisation-du-24-octobre-si-la-situation-n-est-pas-retablie-evidemment-qu-il-faudra-declarer-l-etat-d-urgence-estime-gabriel-attal_8250256.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:20:43 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Gabriel Attal, secrétaire général de Renaissance et candidat à l’élection présidentielle, est l'invité des \"4 Vérités\", vendredi 23 octobre.",
+        "Quel regard porte-t-il sur les récentes mobilisations contre la vie chère et les violences qui se sont produites en marge des manifestations ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1fa9690a25f8680dbc4d19c2",
+      "title": "Mobilisation du 24 octobre, revendications salariales... Le \"8h30 franceinfo\" de Sophie Binet",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-sophie-binet_8229223.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:16:01 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sophie Binet, secrétaire générale de la CGT, est l'invitée du \"8h30 franceinfo\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "84341b24106557a7fb2e8b56",
+      "title": "Interdiction de manifester : \"C'est un tournant qui est inquiétant\", réagit la secrétaire générale de la CGT, Sophie Binet",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/interdiction-de-manifester-c-est-un-tournant-qui-est-inquietant-reagit-la-secretaire-generale-de-la-cgt-sophie-binet_8250268.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 09:00:56 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président de la République a déclaré jeudi que seuls les cortèges rassemblés à l'appel d'organisations syndicales seraient autorisés dans les prochains jours.",
+        "\"C'est très grave, la liberté de manifester, c'est le fondement de la démocratie\", alerte Sophie Binet."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "be6494be9a7a3369211daf1b",
+      "title": "Vrai ou faux. Une loi \"casseur-payeur\" a-t-elle \"déjà existé\" par le passé, et a-t-elle été \"abrogée par François Mitterrand\", comme l'affirme Olivier Faure ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-une-loi-casseur-payeur-a-t-elle-deja-existe-par-le-passe-et-a-t-elle-ete-abrogee-par-francois-mitterrand-comme-l-affirme-olivier-faure_8229244.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 08:59:19 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "olivier-faure"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le premier secrétaire du Parti socialiste affirme qu'une loi semblable à la loi casseur-payeur proposée par le gouvernement existait déjà dans les années 80 et a été abrogée, car liberticide."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "640e6fee40a70fe5fa2e1d20",
+      "title": "PODCAST. Emmanuel Macron reçoit les lycéens, l'appli pour communiquer en manif et la NFL à Paris : ça dit quoi ce 23 octobre ?",
+      "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-emmanuel-macron-recoit-les-lyceens-l-appli-pour-communiquer-en-manif-et-la-nfl-a-paris-ca-dit-quoi-ce-23-octobre_8240989.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 08:53:14 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Ce vendredi 23 octobre, Emmanuel Macron va recevoir les représentants des lycéens, Bitchat est devenue l'appli réseaux sociaux la plus téléchargée sur l'Appstore et ce dimanche au Stade de France, le foot sera américain."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "13d02b0c38be051c52b88b3a",
+      "title": "\"On espère avoir une prise de conscience de l'exécutif\", avance le président du Renouveau lycéen à la veille d'une nouvelle mobilisation",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/on-espere-avoir-une-prise-de-conscience-de-l-executif-avance-le-president-du-renouveau-lyceen-a-la-veille-d-une-nouvelle-mobilisation_8250190.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 08:17:05 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des organisations lycéennes vont être reçues vendredi par Emmanuel Macron.",
+        "\"Nous attendons des mesures très concrètes\", déclare Nathanaël Combary, président du Renouveau lycéen et militant du parti présidentiel Renaissance."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fdc788bb1553f4dabdcb847d",
+      "title": "Édito. La manifestation contre le congrès du RN à Orléans contrarie la stratégie de normalisation de Marine Le Pen",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-manifestation-contre-le-congres-du-rn-a-orleans-contrarie-la-strategie-de-normalisation-de-marine-le-pen_8229253.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 08:10:02 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une mobilisation réunissant potentiellement plusieurs dizaines de milliers d'opposants au RN est annoncée à Orléans ce week-end.",
+        "Un mouvement de protestation qui rappelle ceux des années 1990."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8c0154639c9d51eb5f688b13",
+      "title": "Tempête Austen : 288 600 foyers privés d'électricité, 23 départements français en vigilance orange",
+      "url": "https://www.france24.com/fr/france/20261023-temp%C3%AAte-austen-161-000-foyers-priv%C3%A9s-d-%C3%A9lectricit%C3%A9-23-d%C3%A9partements-en-vigilance-orange",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 05:44:08 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon Enedis, près de 290 000 foyers sont privés d'électricité vendredi en raison de la tempête Austen, principalement en Bretagne.",
+        "Huit nouveaux départements ont été placés en vigilance orange pour les vents au cours de la matinée, portant à 23 le nombre de départements concernés.",
+        "Au cours de la nuit, des rafales de 120 à 140 km/h ont été relevées."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
