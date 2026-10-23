@@ -1188,5 +1188,54 @@
     "review": null,
     "detectedAt": "2026-10-23T14:30:33.595163+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f9d1e9402a8a88a1c97f92a2": {
+    "id": "f9d1e9402a8a88a1c97f92a2",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Lutte contre les violences sexuelles et intrafamiliales - texte N° 46",
+    "url": "http://www.senat.fr/leg/ppl26-046.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+    "excerpt": "Proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales : texte N° 46 transmis au Sénat le 13 octobre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T15:26:38.616856+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ccfecb6c8ee1cdaec80aa8ab": {
+    "id": "ccfecb6c8ee1cdaec80aa8ab",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Emplois saisonniers des jeunes dans le milieu agricole - texte N° 29",
+    "url": "http://www.senat.fr/leg/ppl26-029.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+    "excerpt": "Proposition de loi visant à faciliter les emplois saisonniers des jeunes dans le milieu agricole : texte N° 29 de M. Emmanuel CAPUS, déposé au Sénat le 12 octobre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T15:26:38.618314+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4d2ab2a4355034fb4e101a71": {
+    "id": "4d2ab2a4355034fb4e101a71",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Protéger nos enfants : 25 mesures pour mettre fin aux défaillances systémiques du périscolaire - rapport d'information n° 73",
+    "url": "http://www.senat.fr/notice-rapport/2026/r26-073-notice.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+    "excerpt": "Rapport d'information n° 73 de Mme Agnès EVREN, fait au nom de la commission de la culture, de l'éducation, de la communication et du sport : Protéger nos enfants : 25 mesures pour mettre fin aux défaillances systémiques du périscolaire (14 octobre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-retraites-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T15:26:39.818995+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

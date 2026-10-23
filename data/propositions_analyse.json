@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:02:32.260662+00:00",
-  "total": 77,
+  "generatedAt": "2026-10-23T15:26:40.045250+00:00",
+  "total": 80,
   "statistiques": {
     "a_examiner_en_priorite": 0,
-    "a_qualifier": 9,
-    "signal_non_qualifie": 68
+    "a_qualifier": 11,
+    "signal_non_qualifie": 69
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -1156,6 +1156,75 @@
       "extraitsRSS": [
         "Proposition de loi constitutionnelle visant à refonder le statut constitutionnel des outre-mer en substituant aux articles 73 et 74 un article 73 unique instituant un régime « à la carte », fondé sur la libre administration et la différenciation : texte N° 2 de M.",
         "Dominique THÉOPHILE, déposé au Sénat le 1er octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f9d1e9402a8a88a1c97f92a2",
+      "title": "Lutte contre les violences sexuelles et intrafamiliales - texte N° 46",
+      "url": "http://www.senat.fr/leg/ppl26-046.html",
+      "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "autorite",
+            "violences"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Proposition de loi organique visant à adapter l'autorité judiciaire à la lutte contre les violences sexuelles et intrafamiliales : texte N° 46 transmis au Sénat le 13 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ccfecb6c8ee1cdaec80aa8ab",
+      "title": "Emplois saisonniers des jeunes dans le milieu agricole - texte N° 29",
+      "url": "http://www.senat.fr/leg/ppl26-029.html",
+      "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à faciliter les emplois saisonniers des jeunes dans le milieu agricole : texte N° 29 de M.",
+        "Emmanuel CAPUS, déposé au Sénat le 12 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4d2ab2a4355034fb4e101a71",
+      "title": "Protéger nos enfants : 25 mesures pour mettre fin aux défaillances systémiques du périscolaire - rapport d'information n° 73",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-073-notice.html",
+      "sourcePublishedAt": "Fri,23 Oct 2026 15:20:45 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "education",
+            "enfants"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Rapport d'information n° 73 de Mme Agnès EVREN, fait au nom de la commission de la culture, de l'éducation, de la communication et du sport : Protéger nos enfants : 25 mesures pour mettre fin aux défaillances systémiques du périscolaire (14 octobre 2026)"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
