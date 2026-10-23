@@ -31,10 +31,10 @@ jobs:
         run: python scripts/analyser_publications.py
       - name: Installer lecteur PDF
         run: python -m pip install 'pypdf>=5,<7'
-      - name: Lire documents HTML et PDF
+      - name: Lire documents HTML et PDF (diagnostic V23)
         env:
           BOUSSOLE_MAX_DOCS: '18'
-        run: python scripts/extraire_documents_v21.py
+        run: python scripts/extraire_documents_v23.py
       - name: Générer les pages V19 à V21
         run: |
           python scripts/generer_analyse_html.py
@@ -46,13 +46,15 @@ jobs:
         run: |
           python scripts/enrichir_sources_v22.py
           python scripts/generer_diagnostic_v22.py
+      - name: Publier les causes de refus V23
+        run: python scripts/generer_diagnostic_v23.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V22 : diagnostic et sources structurées'
+            git commit -m 'Veille V23 : diagnostic des accès documentaires'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
