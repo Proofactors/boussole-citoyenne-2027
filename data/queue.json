@@ -2398,5 +2398,74 @@
     "review": null,
     "detectedAt": "2026-10-23T17:29:30.633689+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "2febb0f6e4000550ac4f3274": {
+    "id": "2febb0f6e4000550ac4f3274",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Règlement européen sur la maîtrise des coûts de l'électricité - texte N° 93",
+    "url": "http://www.senat.fr/leg/ppr26-093.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 17:38:54 GMT",
+    "excerpt": "Proposition de résolution afin d'assurer la maîtrise anticipative des factures d'électricité dans l'Union européenne en réduisant les coûts du système et en favorisant l'électrification et la numérisation : texte N° 93 de M. Daniel GREMILLET, déposé au Sénat le 22 octobre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-travail-01",
+      "extension-europe-04",
+      "extension-europe-01",
+      "contribution-ue",
+      "frexit"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T18:06:32.051693+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e396c36691da17604d687aa9": {
+    "id": "e396c36691da17604d687aa9",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Accord France - Inde - rapport n° 81",
+    "url": "http://www.senat.fr/rap/l26-081/l26-081.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 17:42:58 GMT",
+    "excerpt": "Rapport n° 81 de Mme Nathalie GOULET, fait au nom de la commission des finances, sur le projet de loi autorisant l'approbation de l'avenant à la convention entre le Gouvernement de la République française et le Gouvernement de la République de l'Inde du 29 septembre 1992 (21 octobre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "accord-1968"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T18:06:33.028801+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f54b322542bc962c80d8aaee": {
+    "id": "f54b322542bc962c80d8aaee",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Une Corse autonome au sein de la République - rapport n° 85",
+    "url": "http://www.senat.fr/rap/l26-085/l26-085.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 17:38:55 GMT",
+    "excerpt": "Rapport n° 85 de Mme Muriel JOURDA, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République (21 octobre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T18:06:33.030935+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f157c8686b52fee28ad6dc48": {
+    "id": "f157c8686b52fee28ad6dc48",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Accords multilatéraux concernant l'échange automatique de renseignements - rapport n° 83",
+    "url": "http://www.senat.fr/rap/l26-083/l26-083.html",
+    "sourcePublishedAt": "Fri,23 Oct 2026 17:38:55 GMT",
+    "excerpt": "Rapport n° 83 de M. Emmanuel CAPUS, fait au nom de la commission des finances, sur le projet de loi autorisant l'approbation d'accords multilatéraux concernant l'échange automatique de renseignements (21 octobre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T18:06:33.032875+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

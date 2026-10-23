@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-23T18:07:08+00:00",
+  "scrutinsEchantillon": 1200,
+  "scrutinsArchive": 9097,
+  "personnalites": 30,
+  "votesIndividuels": 817,
+  "identifiantsUniques": 9,
+  "lignes": [
+    {
+      "personnalite": "marine-le-pen",
+      "id_an": "PA720614",
+      "identification": "identifiant_unique",
+      "votes": 28,
+      "positions": 67
+    },
+    {
+      "personnalite": "jean-luc-melenchon",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 68
+    },
+    {
+      "personnalite": "edouard-philippe",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 42
+    },
+    {
+      "personnalite": "gabriel-attal",
+      "id_an": "PA722190",
+      "identification": "identifiant_unique",
+      "votes": 54,
+      "positions": 41
+    },
+    {
+      "personnalite": "bruno-retailleau",
+      "id_an": "PA2538",
+      "identification": "identifiant_unique",
+      "votes": 0,
+      "positions": 62
+    },
+    {
+      "personnalite": "xavier-bertrand",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 43
+    },
+    {
+      "personnalite": "raphael-glucksmann",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 45
+    },
+    {
+      "personnalite": "marine-tondelier",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 70
+    },
+    {
+      "personnalite": "fabien-roussel",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 57
+    },
+    {
+      "personnalite": "eric-zemmour",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 59
+    },
+    {
+      "personnalite": "francois-ruffin",
+      "id_an": "PA722142",
+      "identification": "identifiant_unique",
+      "votes": 19,
+      "positions": 37
+    },
+    {
+      "personnalite": "nathalie-arthaud",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 41
+    },
+    {
+      "personnalite": "anasse-kazib",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 64
+    },
+    {
+      "personnalite": "antoine-mikolajczak",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 27
+    },
+    {
+      "personnalite": "bernard-cazeneuve",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 19
+    },
+    {
+      "personnalite": "clara-egger",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 2
+    },
+    {
+      "personnalite": "david-lisnard",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 60
+    },
+    {
+      "personnalite": "delphine-batho",
+      "id_an": "PA335999",
+      "identification": "identifiant_unique",
+      "votes": 19,
+      "positions": 36
+    },
+    {
+      "personnalite": "dominique-de-villepin",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 34
+    },
+    {
+      "personnalite": "emmanuel-maurel",
+      "id_an": "PA842271",
+      "identification": "identifiant_unique",
+      "votes": 54,
+      "positions": 41
+    },
+    {
+      "personnalite": "florian-philippot",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 41
+    },
+    {
+      "personnalite": "francis-lalanne",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 7
+    },
+    {
+      "personnalite": "francois-asselineau",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 38
+    },
+    {
+      "personnalite": "jerome-guedj",
+      "id_an": "PA1567",
+      "identification": "identifiant_unique",
+      "votes": 546,
+      "positions": 41
+    },
+    {
+      "personnalite": "juan-branco",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 31
+    },
+    {
+      "personnalite": "karim-bouamrane",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 15
+    },
+    {
+      "personnalite": "nicolas-dupont-aignan",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 59
+    },
+    {
+      "personnalite": "olivier-becht",
+      "id_an": "PA642935",
+      "identification": "identifiant_unique",
+      "votes": 36,
+      "positions": 23
+    },
+    {
+      "personnalite": "olivier-faure",
+      "id_an": "PA609332",
+      "identification": "identifiant_unique",
+      "votes": 61,
+      "positions": 55
+    },
+    {
+      "personnalite": "segolene-royal",
+      "id_an": null,
+      "identification": "non_trouve",
+      "votes": 0,
+      "positions": 15
+    }
+  ],
+  "avertissement": "Un vote individuel ne prouve pas une opinion générale. Aucune position politique n’est créée ou modifiée."
+}
