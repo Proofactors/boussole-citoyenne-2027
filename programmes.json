@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "date_generation": "2026-10-23T19:25:47+00:00",
+  "avertissement": "Référencement des programmes officiels, non validation de toutes leurs mesures. Aucune position politique n’est inférée.",
+  "sources": [
+    {
+      "personnalite_id": "jean-luc-melenchon",
+      "personnalite": "Jean-Luc Mélenchon",
+      "editeur": "Site de campagne Mélenchon 2027",
+      "url": "https://melenchon2027.fr/programme/decouvrir/",
+      "nature": "programme_de_campagne",
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T19:25:45+00:00",
+      "empreinte_sha256": "af7e3a5d175c6f6c48e005ed715873a854e194c0a93c3549fab4877aaa7c1e32",
+      "aperçu": "Découvrir le programme - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle Aller au contenu Accueil Programme Découvrir le programme Les plans thématiques Les pl"
+    }
+  ]
+}

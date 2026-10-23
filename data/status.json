@@ -1,19 +1,11 @@
 {
-  "lastScan": "2026-10-23T19:06:22.468177+00:00",
-  "newArticles": 0,
-  "pendingReview": 156,
+  "lastScan": "2026-10-23T19:25:30.532805+00:00",
+  "newArticles": 1,
+  "pendingReview": 157,
   "errors": [
     {
-      "feed": "senat-textes",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
       "feed": "senat-presse",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
-    },
-    {
-      "feed": "senat-rapports",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     }
   ],
   "warning": "La collecte ne modifie pas les positions politiques."

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T19:06:22.834708+00:00",
-  "total": 156,
+  "generatedAt": "2026-10-23T19:25:30.893585+00:00",
+  "total": 157,
   "statistiques": {
     "a_examiner_en_priorite": 2,
     "a_qualifier": 42,
-    "signal_non_qualifie": 112
+    "signal_non_qualifie": 113
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -2620,6 +2620,23 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi visant à garantir un service public de proximité dans chaque communevisant à garantir un service public de proximité dans chaque commune : texte N° 966 de Mme Alexandra BORCHIO FONTIMP, déposé au Sénat le 28 septembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cece887dcdc29418cb6bbeb4",
+      "title": "Le Parti communiste français victime d'une cyberattaque",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 21:15:45 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le PCF a été alertée d'une fuite de données touchant son fichier des adhérents et sympathisants.",
+        "Le parti a porté plainte."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

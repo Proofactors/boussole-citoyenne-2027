@@ -2482,5 +2482,20 @@
     "review": null,
     "detectedAt": "2026-10-23T18:20:17.324572+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "cece887dcdc29418cb6bbeb4": {
+    "id": "cece887dcdc29418cb6bbeb4",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le Parti communiste français victime d'une cyberattaque",
+    "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Fri, 23 Oct 2026 21:15:45 +0200",
+    "excerpt": "Le PCF a été alertée d'une fuite de données touchant son fichier des adhérents et sympathisants. Le parti a porté plainte.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T19:25:29.992561+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

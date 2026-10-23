@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-23T19:06:24.688484+00:00",
+  "generatedAt": "2026-10-23T19:25:32.077259+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -2322,6 +2322,22 @@
       "modificationPositions": false
     },
     {
+      "id": "cece887dcdc29418cb6bbeb4",
+      "titre": "Le Parti communiste français victime d'une cyberattaque",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html",
+      "publication": "Fri, 23 Oct 2026 21:15:45 +0200",
+      "analyseLe": "2026-10-23T19:25:32.077259+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8993,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "326dfb2ddecd80e515bf3e46",
       "titre": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
@@ -2923,11 +2939,11 @@
     }
   ],
   "statistiques": {
-    "documents": 156,
-    "textesLus": 152,
+    "documents": 157,
+    "textesLus": 153,
     "pdfLus": 0,
     "passagesCandidats": 21,
-    "nouveauxExamines": 0,
+    "nouveauxExamines": 1,
     "echecsParCause": {
       "Accès impossible : URLError": 1,
       "http_403": 3
