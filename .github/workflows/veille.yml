@@ -25,10 +25,12 @@ jobs:
         run: python scripts/collecter.py
       - name: Analyser les titres et extraits RSS
         run: python scripts/analyser_publications.py
-      - name: Extraire les passages des pages accessibles
+      - name: Installer le lecteur PDF
+        run: python -m pip install "pypdf>=5,<7"
+      - name: Extraire les documents HTML et PDF
         env:
-          BOUSSOLE_MAX_PAGES: '12'
-        run: python scripts/extraire_declarations.py
+          BOUSSOLE_MAX_DOCS: '18'
+        run: python scripts/extraire_documents_v21.py
       - name: Generer les pages de consultation
         run: |
           python scripts/generer_analyse_html.py
@@ -40,7 +42,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/queue.json data/status.json data/propositions_analyse.json data/propositions_analyse.csv data/registre_preuves_v20.json revue.html analyse.html preuves.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille : extraction des preuves potentielles V20'
+            git commit -m 'Veille : extraction documentaire HTML/PDF V21'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
