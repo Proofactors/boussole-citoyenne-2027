@@ -66,15 +66,19 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_v31.py' -v
       - name: Vérifier les pages officielles des signaux V30 (sans attribution)
         run: python scripts/qualifier_preuves_v31.py
+      - name: Contrôler la qualification documentaire V32
+        run: python -m unittest discover -s tests -p 'test_v32.py' -v
+      - name: Publier le registre documentaire V32 (sans nouveau codage)
+        run: python scripts/qualifier_preuves_v32.py
       - name: Détecter et ajouter automatiquement les candidatures concordantes V27
         run: python scripts/candidatures_auto_v27.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures.html propositions.html verification.html boussole_2027_positions.json manifest.json
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures.html propositions.html verification.html qualification.html boussole_2027_positions.json manifest.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V31 : contrôle documentaire sans attribution automatique'
+            git commit -m 'Veille V32 : qualification documentaire sans attribution automatique'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
