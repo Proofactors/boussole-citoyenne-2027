@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+"""Page publique des rapprochements documentaires; aucun codage politique."""
+import html, json, pathlib
+ROOT=pathlib.Path(__file__).resolve().parents[1]
+doc=json.loads((ROOT/'data/propositions_analyse.json').read_text(encoding='utf-8'))
+H=lambda v:html.escape(str(v or ''),quote=True)
+rows=[]
+for a in doc['propositions']:
+    link=str(a.get('url') or '')
+    href=H(link) if link.startswith('https://') else '#'
+    rows.append('<tr><td>'+H(a['priorite'].replace('_',' '))+'</td><td><strong>'+H(a['title'])+'</strong><p class="small">'+H(' | '.join(a['extraitsRSS'])[:500])+'</p></td><td>'+H(', '.join(a['personnalitesMentionnees']) or '—')+'</td><td>'+H(', '.join(q['questionId'] for q in a['questionsPotentielles']) or '—')+'</td><td><a href="'+href+'" rel="noopener noreferrer" target="_blank">Source ↗</a></td></tr>')
+page='''<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Analyse — Boussole 2027</title><style>body{margin:0;background:#f3f6fa;color:#173249;font:15px system-ui,sans-serif}header{background:#1c475e;color:white;padding:24px max(16px,calc((100vw - 1160px)/2))}main{max-width:1160px;margin:24px auto;padding:0 16px}.panel{background:white;border:1px solid #dce4ec;padding:18px;border-radius:12px;margin-bottom:20px}h1{margin:0 0 8px}p{line-height:1.5}table{width:100%;border-collapse:collapse}td,th{padding:12px;text-align:left;vertical-align:top;border-bottom:1px solid #e0e6ed}th{background:#e9eff4}.small{font-size:12px;color:#637587}.scroll{overflow:auto}a{color:#086a83}input{padding:10px;border:1px solid #cbd5df;border-radius:8px;max-width:100%;width:360px}</style></head><body><header><h1>Analyse automatique des publications</h1><p>Boussole citoyenne 2027 · indices à contrôler, non positions politiques validées</p></header><main><div class="panel"><strong>__N__ publications · __P__ signalements prioritaires</strong><p>Le tri repose sur les titres et résumés RSS. Les rapprochements ne prouvent ni les propos exacts d'une personnalité ni sa position. Aucune nouvelle position n'est publiée automatiquement.</p><label>Filtrer : <input id="filtre" type="search" placeholder="Nom, thème, question…" oninput="filtrer()"></label></div><div class="panel scroll"><table id="tableau"><thead><tr><th>Priorité</th><th>Publication / extraits RSS</th><th>Personnalités mentionnées</th><th>Questions possibles</th><th>Source</th></tr></thead><tbody>__ROWS__</tbody></table></div><p><a href="revue.html">← Tableau général de veille</a></p></main><script>function filtrer(){let q=document.getElementById('filtre').value.toLocaleLowerCase('fr');for(let r of document.querySelectorAll('#tableau tbody tr'))r.hidden=!r.textContent.toLocaleLowerCase('fr').includes(q)}</script></body></html>'''
+page=page.replace('__N__',str(doc['total'])).replace('__P__',str(doc['statistiques']['a_examiner_en_priorite'])).replace('__ROWS__','\n'.join(rows) or '<tr><td colspan="5">Aucune publication.</td></tr>')
+(ROOT/'analyse.html').write_text(page,encoding='utf-8')
+print('Page analyse.html générée:',doc['total'])
