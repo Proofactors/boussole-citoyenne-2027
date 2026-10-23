@@ -56,11 +56,13 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_v25.py' -v
       - name: Relier les acteurs officiels aux votes V24
         run: python scripts/rapprocher_votes_v25.py
+      - name: Détecter et ajouter automatiquement les candidatures concordantes V27
+        run: python scripts/candidatures_auto_v27.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html candidatures.html boussole_2027_positions.json manifest.json
           if ! git diff --cached --quiet; then
             git commit -m 'Veille V25 : correspondance officielle des votes'
             git pull --rebase origin main
