@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-23T19:25:32.077259+00:00",
+  "generatedAt": "2026-10-23T20:01:10.800696+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -2338,6 +2338,22 @@
       "modificationPositions": false
     },
     {
+      "id": "4eb3e91f022052d1cfba4c4b",
+      "titre": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
+      "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+      "urlEffective": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+      "publication": "Fri, 23 Oct 2026 19:57:19 GMT",
+      "analyseLe": "2026-10-23T20:01:10.800696+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6303,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "326dfb2ddecd80e515bf3e46",
       "titre": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
@@ -2939,8 +2955,8 @@
     }
   ],
   "statistiques": {
-    "documents": 157,
-    "textesLus": 153,
+    "documents": 158,
+    "textesLus": 154,
     "pdfLus": 0,
     "passagesCandidats": 21,
     "nouveauxExamines": 1,

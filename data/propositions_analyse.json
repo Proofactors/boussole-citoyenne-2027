@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T19:25:30.893585+00:00",
-  "total": 157,
+  "generatedAt": "2026-10-23T20:01:08.336458+00:00",
+  "total": 158,
   "statistiques": {
     "a_examiner_en_priorite": 2,
     "a_qualifier": 42,
-    "signal_non_qualifie": 113
+    "signal_non_qualifie": 114
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -2637,6 +2637,23 @@
       "extraitsRSS": [
         "Le PCF a été alertée d'une fuite de données touchant son fichier des adhérents et sympathisants.",
         "Le parti a porté plainte."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4eb3e91f022052d1cfba4c4b",
+      "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
+      "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 19:57:19 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés.",
+        "Une enquête a été ouverte par le Parquet national antiterroriste."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

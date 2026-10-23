@@ -2497,5 +2497,20 @@
     "review": null,
     "detectedAt": "2026-10-23T19:25:29.992561+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4eb3e91f022052d1cfba4c4b": {
+    "id": "4eb3e91f022052d1cfba4c4b",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
+    "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+    "sourcePublishedAt": "Fri, 23 Oct 2026 19:57:19 GMT",
+    "excerpt": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national antiterroriste.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T20:01:07.960037+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

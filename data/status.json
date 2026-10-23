@@ -1,12 +1,7 @@
 {
-  "lastScan": "2026-10-23T19:25:30.532805+00:00",
+  "lastScan": "2026-10-23T20:01:07.962333+00:00",
   "newArticles": 1,
-  "pendingReview": 157,
-  "errors": [
-    {
-      "feed": "senat-presse",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    }
-  ],
+  "pendingReview": 158,
+  "errors": [],
   "warning": "La collecte ne modifie pas les positions politiques."
 }

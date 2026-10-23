@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "date_generation": "2026-10-23",
-  "avertissement": "Un projet de parti ou une ancienne édition n’est pas automatiquement un programme présidentiel 2027. Aucune position ni score n’est attribué. Les liens sont issus de recherches documentaires ; la surveillance automatique GitHub doit encore les recontrôler.",
+  "date_generation": "2026-10-23T20:01:43+00:00",
+  "avertissement": "Référencement des programmes officiels, non validation de toutes leurs mesures. Aucune position politique n’est inférée.",
   "sources": [
     {
       "personnalite_id": "jean-luc-melenchon",
@@ -11,9 +11,10 @@
       "nature": "programme_2027_en_preparation",
       "statut_editorial": "programme_2027_en_preparation",
       "note_editoriale": "L’Avenir en commun : nouvelle édition annoncée le 7 novembre 2026",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T20:01:33+00:00",
+      "empreinte_sha256": "462bc940097eeb852ccf53b7d584132e34de0bc0cfd4b01d87e372dc7d93b554",
+      "aperçu": "Découvrir le programme - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle Aller au contenu Accueil Programme Découvrir le programme Les plans thématiques Les pl"
     },
     {
       "personnalite_id": "marine-tondelier",
@@ -23,9 +24,10 @@
       "nature": "projet_de_parti_2026",
       "statut_editorial": "projet_de_parti_2026",
       "note_editoriale": "Pour une prospérité écologique : projet publié, attribution présidentielle à confirmer",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T20:01:33+00:00",
+      "empreinte_sha256": "ebac1c9bd5b5d1d18635781c74d3e14cbadaef7e3d84813e242f88feaf5b099b",
+      "aperçu": "Les Écologistes Le mouvement Programme Projet 2027 Carnets de doctrine Livrets thématiques Dossiers d'actu Actus Plus Adhérer Donner Le mouvement Programme Projet 2027 Carnets de d"
     },
     {
       "personnalite_id": "juan-branco",
@@ -35,9 +37,10 @@
       "nature": "programme_2027_publie",
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "La Voie : 845 mesures présentées en 24 thèmes",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T20:01:34+00:00",
+      "empreinte_sha256": "afc60c1e6757bdb92c686dc811409949a9c29cc07c855033b7143e69c310965b",
+      "aperçu": "Le Projet 2027 — Programme en 6 piliers | Ruches Françaises Le Mouvement Branco 2027 Ressources Faire un don Connexion Le Mouvement Un mouvement citoyen organisé en cellules locale"
     },
     {
       "personnalite_id": "nicolas-dupont-aignan",
@@ -47,9 +50,10 @@
       "nature": "programme_2027_partiel",
       "statut_editorial": "programme_2027_partiel",
       "note_editoriale": "Livrets actualisés identifiés Projet 2027",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T20:01:36+00:00",
+      "empreinte_sha256": "f85b6a1c5b9dd747791bd25cc99ab0e040c569e9f89e19e673853634b8a2bf79",
+      "aperçu": "Projet - Debout La France Passer au contenu Debout La France Projet Actualités NDA Organisation DLF Près de chez vous Le Bureau National Les Chargés de mission régionaux Les Consei"
     },
     {
       "personnalite_id": "francis-lalanne",
@@ -59,9 +63,10 @@
       "nature": "programme_2027_partiel",
       "statut_editorial": "programme_2027_partiel",
       "note_editoriale": "Le Projet 2027 : propositions organisées en rubriques",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "programme_officiel_reference",
+      "date_verification": "2026-10-23T20:01:37+00:00",
+      "empreinte_sha256": "e6c492ce1e26cb02d19c76bb80988fafe9cc23b8d037fc2d80a4dc3c476caeeb",
+      "aperçu": "Programme - Dieudonné et Francis Lalanne : Campagne présidentielle 2027 ☀ Dieudo Lalanne 2027 — Pour une France Libre, Souveraine et Solaire ☀ ☀ DIEUDO LALANNE 2027 Accueil La Tour"
     },
     {
       "personnalite_id": "marine-le-pen",
@@ -71,9 +76,10 @@
       "nature": "documents_anterieurs_non_valides_2027",
       "statut_editorial": "documents_anterieurs_non_valides_2027",
       "note_editoriale": "Livrets antérieurs : la rubrique RN les rattache à la présidentielle 2022",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "page_officielle_a_examiner",
+      "date_verification": "2026-10-23T20:01:38+00:00",
+      "empreinte_sha256": "1aa4b09a26e7e4a179b7d8585e2a2e5d0c1248bfec2b12b1be053226fd25d9a5",
+      "aperçu": "�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�kr�F�.��G\u0001WGXR�\u0002�L$^��n��-��doI��-�C\u0001�P,X�G\u0003(���\u0011��1�?g\u0004g+�� < 3��;�=����\u0000 �B�E�Ev��Q@\"���띙+�|���O���}cRN��w\u0007?F\u0016͎�\u000e�����QJ\u0012����Aw�I\u0019\u0019�$ʋ��;X�c3\u0018�_͢irwp�&/\u0017� \u0018�|V&3��2 �"
     },
     {
       "personnalite_id": "bruno-retailleau",
@@ -83,9 +89,10 @@
       "nature": "propositions_officielles",
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques : pas un programme 2027 intégral",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "page_officielle_a_examiner",
+      "date_verification": "2026-10-23T20:01:38+00:00",
+      "empreinte_sha256": "21a0abf9a81cfd7b1b1dca114b812d7e61a8ea68711ed580d96e77766cef1f3c",
+      "aperçu": "Nos propositions sur le travail et la compétitivité - Les Républicains Skip to the content Qui sommes-nous ? Votre Fédération Nos propositions Actualités Je donne J'adhère Qui somm"
     },
     {
       "personnalite_id": "edouard-philippe",
@@ -95,9 +102,10 @@
       "nature": "propositions_officielles",
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Notes et travaux du pôle Idées : pas un programme 2027 intégral",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "page_officielle_a_examiner",
+      "date_verification": "2026-10-23T20:01:40+00:00",
+      "empreinte_sha256": "e3c20c54ac8f846a1a89fa713a6ad6a3c6306be4f661ce0bd3b9ad738f4fa958",
+      "aperçu": "Le pôle Idées - Horizons Le parti Le parti Les instances nationales Iéna Commission nationale d’investiture Les parlementaires L’Assemblée des maires Secrétaires nationaux Le pôle "
     },
     {
       "personnalite_id": "gabriel-attal",
@@ -107,9 +115,10 @@
       "nature": "propositions_officielles",
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques concernant notamment les retraites",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "page_officielle_a_examiner",
+      "date_verification": "2026-10-23T20:01:42+00:00",
+      "empreinte_sha256": "cb8f6aec3f0d33f1783f74f686e1346842af513c8867c8d81caac2b90a65d496",
+      "aperçu": "Bâtissons un nouveau modèle de retraite Le parti Nos départements Nos événements Mon espace J'adhère Votre signature a été confirmée Bâtissons un nouveau modèle de retraite Âge de "
     },
     {
       "personnalite_id": "raphael-glucksmann",
@@ -119,9 +128,10 @@
       "nature": "projet_de_parti_a_documenter",
       "statut_editorial": "projet_de_parti_a_documenter",
       "note_editoriale": "Site du mouvement : document précis et attribution à confirmer",
-      "statut": "source_referencee_verification_auto_a_venir",
-      "date_verification": "2026-10-23 — Référencement initial sans vérification automatique",
-      "empreinte_sha256": null
+      "statut": "page_officielle_a_examiner",
+      "date_verification": "2026-10-23T20:01:42+00:00",
+      "empreinte_sha256": "89afaea69d6b2f1bab46ee8cb631717e0c25be2d71178b01aa6c42afe849db64",
+      "aperçu": "Place à l'action Les actions Les groupes Adhérer Faire un don Se connecter Les actions Les groupes Adhérer Faire un don Se connecter Place à l’action! France France Auvergne-Rhône-"
     }
   ]
 }

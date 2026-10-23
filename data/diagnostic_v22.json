@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-10-23T19:25:32.435004+00:00",
+  "genereLe": "2026-10-23T20:01:11.088828+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -2842,6 +2842,26 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "4eb3e91f022052d1cfba4c4b",
+      "titre": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
+      "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+      "urlEffective": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
+      "publication": "Fri, 23 Oct 2026 19:57:19 GMT",
+      "analyseLe": "2026-10-23T20:01:10.800696+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6303,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national antiterroriste.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "326dfb2ddecd80e515bf3e46",
       "titre": "Tirs dans les Yvelines : le maire dénonce \"un attentat à connotation raciste\"",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
@@ -3567,13 +3587,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 157,
-    "documentsLus": 153,
+    "documentsSuivis": 158,
+    "documentsLus": 154,
     "documentsSansTexteAvecResumeRss": 4,
     "documentsSansTexteNiResume": 0,
     "passagesCandidats": 21,
     "erreursParCause": {
-      "Texte intégral lu": 153,
+      "Texte intégral lu": 154,
       "Accès impossible : URLError": 1,
       "http_403": 3
     }
