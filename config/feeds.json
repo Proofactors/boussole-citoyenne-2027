@@ -1,5 +1,8 @@
 [
-  {"id":"senat-textes","name":"Sénat — textes","url":"https://www.senat.fr/rss/textes.rss"},
+  {"id":"senat-textes","name":"Sénat — textes officiels","url":"https://www.senat.fr/rss/textes.rss"},
   {"id":"senat-presse","name":"Sénat — communiqués","url":"https://www.senat.fr/rss/presse.rss"},
-  {"id":"senat-rapports","name":"Sénat — rapports","url":"https://www.senat.fr/rss/rapports.rss"}
+  {"id":"senat-rapports","name":"Sénat — rapports","url":"https://www.senat.fr/rss/rapports.rss"},
+  {"id":"franceinfo-politique","name":"Franceinfo — politique","url":"https://www.franceinfo.fr/politique.rss"},
+  {"id":"franceinfo-presidentielle","name":"Franceinfo — présidentielle","url":"https://www.franceinfo.fr/elections/presidentielle.rss"},
+  {"id":"france24-france","name":"France 24 — France","url":"https://www.france24.com/fr/france/rss"}
 ]
