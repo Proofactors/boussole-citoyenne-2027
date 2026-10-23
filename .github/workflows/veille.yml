@@ -1,4 +1,3 @@
-
 name: Veille documentaire Boussole 2027
 
 on:
@@ -9,24 +8,32 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: veille-boussole
+  cancel-in-progress: false
+
 jobs:
   collecter:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
-      - name: Collecter les publications et preparer la base
+      - name: Collecter les publications
         run: python scripts/collecter.py
-
-      - name: Enregistrer les changements
+      - name: Generer le tableau de veille
+        run: python scripts/generer_revue.py
+      - name: Enregistrer le suivi
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/queue.json data/status.json manifest.json boussole_2027_positions.json
+          git add data/queue.json data/status.json revue.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille automatique des sources politiques'
-            git push
-          fi                    
+            git commit -m 'Actualisation de la veille documentaire'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
