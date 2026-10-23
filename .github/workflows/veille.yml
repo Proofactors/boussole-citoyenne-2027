@@ -52,13 +52,17 @@ jobs:
         run: python -m unittest discover -s tests -p 'test_v24.py' -v
       - name: Indexer les scrutins nominatifs officiels AN
         run: python scripts/indexer_votes_v24.py
+      - name: Vérifier les rapprochements V25
+        run: python -m unittest discover -s tests -p 'test_v25.py' -v
+      - name: Relier les acteurs officiels aux votes V24
+        run: python scripts/rapprocher_votes_v25.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V24 : index officiel des votes AN'
+            git commit -m 'Veille V25 : correspondance officielle des votes'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
