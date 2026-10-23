@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T20:10:48.346634+00:00",
-  "total": 158,
+  "generatedAt": "2026-10-23T20:16:36.106899+00:00",
+  "total": 159,
   "statistiques": {
     "a_examiner_en_priorite": 2,
     "a_qualifier": 42,
-    "signal_non_qualifie": 114
+    "signal_non_qualifie": 115
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -2620,6 +2620,22 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi visant à garantir un service public de proximité dans chaque communevisant à garantir un service public de proximité dans chaque commune : texte N° 966 de Mme Alexandra BORCHIO FONTIMP, déposé au Sénat le 28 septembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "09b9618d69cb31b16a72e0d6",
+      "title": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 23 Oct 2026 22:12:13 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le chef de l'Etat a rencontré l'ensemble des représentants des lycéens vendredi à l'Elysée, qui ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

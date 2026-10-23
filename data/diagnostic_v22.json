@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-10-23T20:10:50.377491+00:00",
+  "genereLe": "2026-10-23T20:16:38.633552+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -2822,6 +2822,26 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "09b9618d69cb31b16a72e0d6",
+      "titre": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html",
+      "publication": "Fri, 23 Oct 2026 22:12:13 +0200",
+      "analyseLe": "2026-10-23T20:16:37.681315+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8682,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le chef de l'Etat a rencontré l'ensemble des représentants des lycéens vendredi à l'Elysée, qui ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "cece887dcdc29418cb6bbeb4",
       "titre": "Le Parti communiste français victime d'une cyberattaque",
       "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-parti-communiste-francais-victime-d-une-cyberattaque_8251381.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -3587,13 +3607,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 158,
-    "documentsLus": 154,
+    "documentsSuivis": 159,
+    "documentsLus": 155,
     "documentsSansTexteAvecResumeRss": 4,
     "documentsSansTexteNiResume": 0,
     "passagesCandidats": 21,
     "erreursParCause": {
-      "Texte intégral lu": 154,
+      "Texte intégral lu": 155,
       "Accès impossible : URLError": 1,
       "http_403": 3
     }

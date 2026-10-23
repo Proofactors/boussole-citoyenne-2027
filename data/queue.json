@@ -2512,5 +2512,20 @@
     "review": null,
     "detectedAt": "2026-10-23T20:01:07.960037+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "09b9618d69cb31b16a72e0d6": {
+    "id": "09b9618d69cb31b16a72e0d6",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Emmanuel Macron a reconnu auprès des représentants lycéens le \"besoin d'une refonte en profondeur de Parcoursup\"",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-reconnu-aupres-des-representants-lyceens-le-besoin-d-une-refonte-en-profondeur-de-parcoursup_8251462.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Fri, 23 Oct 2026 22:12:13 +0200",
+    "excerpt": "Le chef de l'Etat a rencontré l'ensemble des représentants des lycéens vendredi à l'Elysée, qui ont appelé à maintenir le \"bras de fer\" jusqu'à leur rencontre avec le Premier ministre lundi.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-10-23T20:16:35.079810+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

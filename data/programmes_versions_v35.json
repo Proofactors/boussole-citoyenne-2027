@@ -2,71 +2,71 @@
   "schemaVersion": 35,
   "sources": {
     "jean-luc-melenchon": {
-      "sha256": "d6ff010646272dde44fe75210fc5e28b670b251e9b31fc2d7f3edb0278009fc2",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "b0e16a78195abdb5f9bf3afa15ff64040bc7c58e7c460600e74287ca77d8175a",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://melenchon2027.fr/programme/decouvrir/",
       "nature": "programme_2027_en_preparation"
     },
     "marine-tondelier": {
-      "sha256": "282465e62ccdc1fedf2649c8b96c9101c184e39282d90ac9e4a3de283278f971",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "c13875807dad8b4878653cdbc7567d0c661020ddcd6c382d089ffcc4d89b0c9b",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://lesecologistes.fr/",
       "nature": "projet_de_parti_2026"
     },
     "juan-branco": {
-      "sha256": "518c58338fd67620e050b451f43523b0ca4eaa0bd7f3909e53c7aac744877e7f",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "f82afbcf5fa23df7ffb52448a48b40fbd8e6810ed5a5e31cd0b0b828f338727b",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://www.ruches.org/le-projet",
       "nature": "programme_2027_publie"
     },
     "nicolas-dupont-aignan": {
-      "sha256": "45e34aeae43a5d9ef080e8e504b1c9ed3377c6255ba4fbadf2ea35eef49f19a4",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "dd32960814798eed001f7b745f1b122e50bac34ebf281fa05aea02b0e67099b0",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://www.debout-la-france.fr/notre-projet/",
       "nature": "programme_2027_partiel"
     },
     "francis-lalanne": {
-      "sha256": "0efb902f65d834d0420ed26499df5360063ac2ecc02b1937bf5236dd7c22e319",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "805a5a7f93ca491843aa88d73315e92435d2593d119f1ae0885d520eb05c033b",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://dieudolalanne2027.com/programme/",
       "nature": "programme_2027_partiel"
     },
     "marine-le-pen": {
-      "sha256": "ee646cd39a366cd049fbed7e4cd517c875de401848e229ca59e4901d65bbcd6c",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "1aa4b09a26e7e4a179b7d8585e2a2e5d0c1248bfec2b12b1be053226fd25d9a5",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://rassemblementnational.fr/livrets-thematiques",
       "nature": "documents_anterieurs_non_valides_2027"
     },
     "bruno-retailleau": {
-      "sha256": "c270d4750abd60fa5152b529bbde41da3142ab2917168336a36f68485e9e1122",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "8234037cd633928611f1d002982d9951a2108ec2eb2de8db886c79a87775ccb1",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://republicains.fr/actualites/2026/01/07/nos-propositions-sur-le-travail-et-la-competitivite/",
       "nature": "propositions_officielles"
     },
     "edouard-philippe": {
-      "sha256": "17477ad0a1e2be3f28ee1b5438c22e38b45942bcd3f7ec1ded81e717f75b2e77",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "3f564de343ceef3d63f7ab09c203c28698d382ac668971d41f79e2fcf6d66c4f",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://horizonsleparti.fr/le-pole-idees/",
       "nature": "propositions_officielles"
     },
     "gabriel-attal": {
-      "sha256": "b060d30195dc19c0396f81c0e85941d9c8de42435a39d7d7b6c32df3114fe843",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
-      "date_changement": "2026-10-23T20:11:21+00:00",
+      "sha256": "40d48772cc26ea1c89f291c842cba9143ece49eb719dc90411d4a30cb5d29060",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
+      "date_changement": "2026-10-23T20:17:10+00:00",
       "url": "https://parti-renaissance.fr/petitions/refonder-notre-systeme-de-retraite",
       "nature": "propositions_officielles"
     },
     "raphael-glucksmann": {
       "sha256": "89afaea69d6b2f1bab46ee8cb631717e0c25be2d71178b01aa6c42afe849db64",
-      "date_derniere_verification": "2026-10-23T20:11:21+00:00",
+      "date_derniere_verification": "2026-10-23T20:17:10+00:00",
       "date_changement": "2026-10-23T20:01:44+00:00",
       "url": "https://action.place-publique.eu/",
       "nature": "projet_de_parti_a_documenter"
