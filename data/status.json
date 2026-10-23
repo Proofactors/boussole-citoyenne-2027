@@ -1,12 +1,7 @@
 {
-  "lastScan": "2026-10-23T14:30:34.431383+00:00",
-  "newArticles": 77,
+  "lastScan": "2026-10-23T14:47:33.920007+00:00",
+  "newArticles": 0,
   "pendingReview": 77,
-  "errors": [
-    {
-      "feed": "assemblee-presse",
-      "error": "HTTP Error 404: Not Found"
-    }
-  ],
+  "errors": [],
   "warning": "La collecte ne modifie pas les positions politiques."
 }
