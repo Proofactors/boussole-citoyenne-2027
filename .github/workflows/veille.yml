@@ -2,12 +2,16 @@ name: Veille documentaire Boussole 2027
 
 on:
   workflow_dispatch:
+    inputs:
+      indexer_scrutins_AN:
+        description: 'Indexer les scrutins officiels AN (archive possiblement volumineuse)'
+        type: boolean
+        default: false
   schedule:
     - cron: '17 7 * * *'
 
 permissions:
   contents: write
-
 concurrency:
   group: veille-boussole
   cancel-in-progress: false
@@ -15,7 +19,7 @@ concurrency:
 jobs:
   collecter:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,24 +29,30 @@ jobs:
         run: python scripts/collecter.py
       - name: Analyser les titres et extraits RSS
         run: python scripts/analyser_publications.py
-      - name: Installer le lecteur PDF
-        run: python -m pip install "pypdf>=5,<7"
-      - name: Extraire les documents HTML et PDF
+      - name: Installer lecteur PDF
+        run: python -m pip install 'pypdf>=5,<7'
+      - name: Lire documents HTML et PDF
         env:
           BOUSSOLE_MAX_DOCS: '18'
         run: python scripts/extraire_documents_v21.py
-      - name: Generer les pages de consultation
+      - name: Générer les pages V19 à V21
         run: |
           python scripts/generer_analyse_html.py
           python scripts/generer_revue.py
           python scripts/generer_preuves_html.py
-      - name: Enregistrer les resultats documentaires
+      - name: Compléter le diagnostic et indexer éventuellement les scrutins officiels
+        env:
+          BOUSSOLE_AN_VOTES: ${{ inputs.indexer_scrutins_AN == true && '1' || '0' }}
+        run: |
+          python scripts/enrichir_sources_v22.py
+          python scripts/generer_diagnostic_v22.py
+      - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/queue.json data/status.json data/propositions_analyse.json data/propositions_analyse.csv data/registre_preuves_v20.json revue.html analyse.html preuves.html
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille : extraction documentaire HTML/PDF V21'
+            git commit -m 'Veille V22 : diagnostic et sources structurées'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
