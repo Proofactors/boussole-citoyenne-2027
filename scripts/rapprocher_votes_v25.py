@@ -106,7 +106,7 @@ def join_votes(base,votes,actors):
                 'titre':item.get('titre',''),'vote':stance,'acteurRef':v['acteurRef']})
     return {'version':'25.0', 'generatedAt':dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),
         'actorsSource':OFFICIAL,'votesSource':votes.get('source',''),'votesArchiveSha256':votes.get('archiveSha256',''),
-        'coverageNote':'Scrutins récents seulement (au plus 150). Absence dans le tableau ≠ absence de vote.',
+        'coverageNote':'Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.',
         'editorialStatus':'Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.',
         'personnalites':[{ 'id':slug,**m,'decompte':count[slug],'scrutins':examples[slug]}
                        for slug,m in candidates.items()]}
@@ -123,7 +123,7 @@ def render(result):
         rows.append('<tr><td>'+html.escape(p['id'])+'</td><td>'+html.escape(p['statut'])+'</td><td>'+html.escape(p['acteurRef'] or '—')+'</td><td>'+str(len(p['scrutins']))+'</td><td>'+details+'</td></tr>')
     return '''<!doctype html><html lang="fr"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Votes par personnalité — V25</title>
 <style>body{max-width:1150px;margin:2rem auto;padding:1rem;font:16px system-ui;color:#203347}table{border-collapse:collapse;width:100%}th,td{text-align:left;vertical-align:top;border-bottom:1px solid #dce3e9;padding:.7rem}td:nth-child(5){max-width:520px}li{margin:.5rem 0}input{padding:10px;max-width:420px;width:90%}summary{cursor:pointer}.note{padding:1rem;background:#edf4fa;border-radius:10px}</style>
-<h1>Votes nominatifs : correspondances avec la Boussole — V25</h1><p class="note">Correspondances par noms complets strictement égaux dans les données officielles. Les votes ne sont pas des opinions générales. Aucune position -2 à +2 n'est calculée. Échantillon : les scrutins récemment indexés en V24, non l'ensemble de la carrière.</p>
+<h1>Votes nominatifs : correspondances avec la Boussole — V25</h1><p class="note">Correspondances par noms complets strictement égaux dans les données officielles. Les votes ne sont pas des opinions générales. Aucune position -2 à +2 n'est calculée. Échantillon : les 1 200 derniers scrutins indexés, non l'ensemble de la carrière.</p>
 <p>Mis à jour : '''+html.escape(result['generatedAt'])+'''</p><label>Filtrer : <input id="q" oninput="filterRows()"></label><table><thead><tr><th>Personnalité</th><th>Correspondance</th><th>Identifiant AN</th><th>Votes retrouvés</th><th>Scrutins et objets</th></tr></thead><tbody id="rows">'''+''.join(rows)+'''</tbody></table><script>function filterRows(){let q=document.getElementById('q').value.toLowerCase();for(let r of document.getElementById('rows').rows)r.hidden=!r.textContent.toLowerCase().includes(q)}</script></html>'''
 
 

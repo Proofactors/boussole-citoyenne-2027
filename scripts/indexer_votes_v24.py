@@ -21,7 +21,7 @@ SOURCE='https://data.assemblee-nationale.fr/static/openData/repository/17/loi/sc
 MAX_ZIP=45*1024*1024
 MAX_MEMBER=2*1024*1024
 MAX_MEMBERS=18000
-MAX_RECENT=150
+MAX_RECENT=1200
 
 
 def textval(v):
