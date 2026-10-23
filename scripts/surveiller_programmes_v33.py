@@ -29,7 +29,7 @@ def public_url(url, domains):
     u=urlparse(url)
     if u.scheme!='https' or not u.hostname or u.username or u.password or u.port not in (None,443): return False
     host=u.hostname.lower().rstrip('.')
-    if host not in domains: return False
+    if host not in domains and host.removeprefix("www.") not in domains and ("www." + host) not in domains: return False
     # Resolve all A/AAAA addresses and reject any non-global destination (SSRF guard).
     try:
         results=socket.getaddrinfo(host,443,proto=socket.IPPROTO_TCP)
@@ -47,6 +47,7 @@ def inspect_source(source, fetcher=None):
     allowed={d.lower().removeprefix('www.') for d in source['domaines_autorises']}
     url=source['url']
     result={k:source[k] for k in ('personnalite_id','personnalite','editeur','url','nature')}
+    result.update(statut_editorial=source.get('statut_editorial','a_documenter'), note_editoriale=source.get('note_editoriale',''))
     result.update(statut='indisponible',date_verification=dt.datetime.now(dt.timezone.utc).isoformat(timespec='seconds'),empreinte_sha256=None)
     if not public_url(url,allowed):
         result['diagnostic']='Adresse hors domaine autorisé ou DNS non public';return result
@@ -93,7 +94,7 @@ def generate(cfg, fetcher=None):
 
 def render_page(data):
     esc=lambda x:html.escape(str(x),quote=True)
-    rows=''.join(f'<article><h2>{esc(s["personnalite"])}</h2><p>{esc(s["statut"].replace("_"," "))} · {esc(s["editeur"])}</p><p><a target="_blank" rel="noopener noreferrer" href="{esc(s["url"])}">Consulter la source officielle ↗</a></p><small>Consulté : {esc(s["date_verification"])} · Empreinte : {esc(s.get("empreinte_sha256") or "non disponible")}</small></article>' for s in data['sources'])
+    rows=''.join(f'<article><h2>{esc(s["personnalite"])}</h2><p><strong>{esc(s.get("statut_editorial","non_classe").replace("_"," "))}</strong> · {esc(s["editeur"])}</p><p>{esc(s.get("note_editoriale",""))}</p><p>État de la consultation automatique : {esc(s["statut"].replace("_"," "))}</p><p><a target="_blank" rel="noopener noreferrer" href="{esc(s["url"])}">Consulter la source officielle ↗</a></p><small>Consulté : {esc(s["date_verification"])} · Empreinte : {esc(s.get("empreinte_sha256") or "non disponible")}</small></article>' for s in data['sources'])
     if not rows:rows='<p>Aucun programme officiel référencé pour le moment.</p>'
     return '<!doctype html><html lang="fr"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Programmes officiels — Boussole</title><style>body{font:16px system-ui;max-width:850px;margin:auto;padding:clamp(14px,4vw,35px);background:#f5f7fb;color:#172438}article{background:white;padding:18px;margin:13px 0;border:1px solid #d7dfed;border-radius:12px;overflow-wrap:anywhere}a{color:#145b9c}small{color:#556778}</style><h1>Programmes officiels suivis</h1><p>Les liens sont automatiquement vérifiés dans les domaines officiels autorisés. Un programme référencé n’a pas été analysé ni validé proposition par proposition. Aucun score n’est modifié.</p>'+rows+'<p><a href="./">Retour à la Boussole</a></p></html>'
 
