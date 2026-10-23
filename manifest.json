@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "initial-b961898c9edf0f285595",
+  "publishedAt": "2026-10-23T14:00:00Z",
+  "dataFile": "boussole_2027_positions.json",
+  "sha256": "b961898c9edf0f2855952a10249c0516ea14e68def209eaa43d6f7f13692738b",
+  "questions": 150,
+  "personalities": 30,
+  "positions": 1240,
+  "editorialStatus": "Base historique non auditée ; aucune nouvelle position validée"
+}
