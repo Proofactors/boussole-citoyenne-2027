@@ -38,3 +38,37 @@ class V31Tests(unittest.TestCase):
   r=m.compile_registry({'propositions':[]})
   self.assertIn('0 signalements',m.render(r))
 if __name__=='__main__':unittest.main()
+
+class V311Diagnostics(unittest.TestCase):
+ def test_domain_security(self):
+  self.assertTrue(m._official_https('https://www.assemblee-nationale.fr/dyn/17/scrutins/8280'))
+  for u in ['http://www.assemblee-nationale.fr/x','https://assemblee-nationale.fr.evil.org/x','https://127.0.0.1/x','https://user@www.assemblee-nationale.fr/x']:
+   self.assertFalse(m._official_https(u))
+ def test_http_404_diagnostic(self):
+  import urllib.error
+  def error(req,timeout):raise urllib.error.HTTPError(req.full_url,404,'Not Found',{},None)
+  x=m.download('8280',opener=error,delay=0)
+  self.assertEqual(x['status'],'http_refuse')
+  self.assertEqual(x['detail'],'HTTP 404')
+  self.assertEqual(x['tentatives'],1)
+ def test_http_503_retry(self):
+  import urllib.error
+  calls=[]
+  def error(req,timeout):
+   calls.append(1)
+   raise urllib.error.HTTPError(req.full_url,503,'Unavailable',{},None)
+  x=m.download('8280',opener=error,delay=0)
+  self.assertEqual(x['status'],'http_temporaire')
+  self.assertEqual(len(calls),2)
+ def test_dns_error(self):
+  import urllib.error,socket
+  def error(req,timeout):raise urllib.error.URLError(socket.gaierror(8,'DNS error'))
+  x=m.download('8280',opener=error,delay=0)
+  self.assertEqual(x['status'],'dns_erreur')
+  self.assertEqual(x['tentatives'],1)
+ def test_report_diagnostics(self):
+  source={'propositions':[dict(BASE['propositions'][0],scrutinNumero='8280')]}
+  x=m.compile_registry(source,lambda n:{'status':'http_refuse','text':'','detail':'HTTP 403','tentatives':2})
+  self.assertEqual(x['causes']['http_refuse'],1)
+  self.assertIn('HTTP 403',m.render(x))
+  self.assertIsNone(x['resultats'][0]['codagePropose'])
