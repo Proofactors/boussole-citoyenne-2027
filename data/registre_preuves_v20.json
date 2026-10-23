@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-23T20:01:10.800696+00:00",
+  "generatedAt": "2026-10-23T20:10:50.221704+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -2959,7 +2959,7 @@
     "textesLus": 154,
     "pdfLus": 0,
     "passagesCandidats": 21,
-    "nouveauxExamines": 1,
+    "nouveauxExamines": 0,
     "echecsParCause": {
       "Accès impossible : URLError": 1,
       "http_403": 3
