@@ -1,8 +1,8 @@
 {
   "schemaVersion": "32.0",
-  "generatedAt": "2026-10-23T20:29:03+00:00",
-  "total": 15,
-  "pagesConsultees": 15,
+  "generatedAt": "2026-10-24T07:44:34+00:00",
+  "total": 8,
+  "pagesConsultees": 8,
   "positionsSuggerees": 0,
   "important": "Registre de qualification préalable. Aucune position -2/+2 n’est inférée ou publiée.",
   "resultats": [
@@ -150,139 +150,6 @@
       "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
       "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
       "empreinteTexteSha256": "21d52606bb7a57575cc939001e0295128d30831ab6d96ae2de65ad096daea56e",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "marine-le-pen",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "contre",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "gabriel-attal",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "delphine-batho",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "emmanuel-maurel",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "jerome-guedj",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "olivier-becht",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
-      "niveauDocumentaire": "page_consultee_numero_confirme",
-      "pointsAVerifier": [
-        "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
-        "Vérifier le contexte, les votes individuels, l’identité et les éventuelles contradictions."
-      ],
-      "positionSuggeree": null,
-      "publicationAutomatiqueAutorisee": false
-    },
-    {
-      "personnaliteId": "olivier-faure",
-      "questionId": "fin-de-vie",
-      "question": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
-      "scrutinNumero": "7894",
-      "date": "2026-06-30",
-      "voteBrut": "pour",
-      "typeScrutin": "indetermine",
-      "objet": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (nouvelle lecture).",
-      "source": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7894",
-      "empreinteTexteSha256": "4975db57ff5ead49e7d972d9d24cb4b1734d1a3fc3dd7b45f44a24681efd5c69",
       "niveauDocumentaire": "page_consultee_numero_confirme",
       "pointsAVerifier": [
         "Le libellé du scrutin et le texte intégral de la mesure doivent être comparés à la question.",
