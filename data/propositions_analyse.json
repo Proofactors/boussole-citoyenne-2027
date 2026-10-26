@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T07:44:13.446644+00:00",
-  "total": 173,
+  "generatedAt": "2026-10-26T08:00:30.616714+00:00",
+  "total": 215,
   "statistiques": {
-    "a_examiner_en_priorite": 2,
-    "a_qualifier": 49,
-    "signal_non_qualifie": 122
+    "a_examiner_en_priorite": 3,
+    "a_qualifier": 68,
+    "signal_non_qualifie": 144
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -1660,6 +1660,430 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "100ac161c11ec7b45ac4c215",
+      "title": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes",
+      "url": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 20:53:25 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Vous, BFM, commencez à vous calmer sur les remarques racistes de toute sorte, parce que ça commence à bien faire\", a déclaré Jean-Luc Mélenchon alors qu'il était interrogé par un journaliste de la chaîne, samedi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7e0df1ad3c972634f73ce235",
+      "title": "\"On est libre, entre guillemets\" : le Brésil, un pays coupé en deux",
+      "url": "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 20:48:07 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Brésil retient son souffle, dimanche 25 octobre : 160 millions d’électeurs étaient appelés aux urnes pour le second tour de la présidentielle, qui oppose le président sortant Lula à Flavio Bolsonaro, de fils de l'ancien président d’extrême droite condamné pour tentative de coup d’État.",
+        "Après une campagne âpre, marquée par les questions de sécurité, les tensions se sont propagées jusque dans les bureaux de vote."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4e0a8b571cc2a72e2cc30fc9",
+      "title": "Présidentielle 2027 : Marine Le Pen lance sa campagne, manifestations, Raphaël Glucksmann à Amiens... Le point sur la semaine",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-lance-sa-campagne-manifestations-raphael-glucksmann-a-amiens-le-point-sur-la-semaine_8253493.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 20:36:02 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À six mois de l’élection présidentielle, quelles images et quelles prises de paroles retenir ?",
+        "Le point avec \"Un week-end de campagne\", dimanche 25 octobre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8e9dd6b09eb124def3c50773",
+      "title": "\"La montée du Rassemblement national est un symptôme de la destruction progressive de notre démocratie\" : estime Natacha Polony, candidate à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/la-montee-du-rassemblement-national-est-un-symptome-de-la-destruction-progressive-de-notre-democratie-estime-natacha-polony-candidate-a-l-election-presidentielle_8253430.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 20:02:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Natacha Polony, journaliste, essayiste et candidate à l’élection présidentielle, était l’invitée du Grand Enjeu sur franceinfo ce dimanche 25 octobre.",
+        "Elle est notamment revenue sur la mobilisation sociale et l'élection présidentielle de 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a86cb74976c8717cc1734ef7",
+      "title": "REPORTAGE. \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 19:34:21 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "69a01851d03692cee998fc97",
+      "title": "REPORTAGE. \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 19:34:21 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pour sa quatrième candidature, la patronne du Rassemblement national a lancé sa campagne dimanche lors d'un meeting à Orléans, accompagnée par Jordan Bardella et Eric Ciotti."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4b2974591535cb390147800e",
+      "title": "Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 18:46:38 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Plusieurs opposants ont déployé une banderole au moment où le président du RN prenait la parole, dimanche.",
+        "Ils ont alors été violemment pris à partie par des militants RN."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eef326f7a6947a5c35ec43a4",
+      "title": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 18:06:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"L'Etat que nous voulons ne sera pas RN mais ce sera une œuvre collective, une œuvre, certes patriote, mais pas partisane\", a assuré la candidate d'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ae6b6c3f9ad142bfe2f68a97",
+      "title": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 18:06:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"L'Etat que nous voulons ne sera pas RN mais ce sera une œuvre collective, une œuvre, certes patriote, mais pas partisane\", a assuré la candidate d'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "aab86d5971e1c842aa18cd15",
+      "title": "Pour les électeurs de Marine Le Pen, \"c’est faux de dire que le RN incite à la haine\"",
+      "url": "https://www.france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 17:54:35 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Marine Le Pen tenait son premier meeting de campagne dimanche à Orléans, deux jours après l’attaque terroriste raciste qui a fait un mort et cinq blessés à Trappes.",
+        "En dépit d’un discours qui stigmatise les étrangers et les musulmans, les électeurs du parti d’extrême droite refusent d’y voir un lien avec le drame de vendredi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "85e5bce3c10768f1cc7614d1",
+      "title": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 15:56:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Marine Le Pen a prononcé son premier grand discours de campagne dans la ville du Loiret, dimanche après-midi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0f8b407e22807abdd536c0ec",
+      "title": "Un bus de militants en partance pour le congrès du RN à Orléans pris pour cible à Grenoble",
+      "url": "https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 15:24:51 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon le parquet de Grenoble, qui a ouvert une enquête, une dizaine d'individus \"cagoulés et armés de barres de fer\" ont brisé les vitres du véhicule."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1f81063a1728412b6ba1b1b7",
+      "title": "\"La Chute\" : un historien britannique décrypte la défaite française de 1940",
+      "url": "https://www.france24.com/fr/france/20261025-chute-1940-historien-julian-jackson-defaite-debacle-armee-francaise",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 15:11:59 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir inspiré le diptyque sur le général de Gaulle avec sa biographie, l'historien britannique Julian Jackson publie un nouvel essai, \"La Chute\", consacré à la défaite française de juin 1940 face à l'armée allemande."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c2e27b49d154779a66d42159",
+      "title": "Marine Le Pen promet de ne pas \"refaire la France d'avant\", à son premier meeting de campagne",
+      "url": "https://www.france24.com/fr/france/20261025-marine-le-pen-veut-miser-sur-l-optimisme-pour-son-premier-meeting-de-campagne",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 15:00:22 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pour son premier grand discours de campagne, dimanche, à Orléans, la candidate du parti d'extrême droite à la présidentielle, Marine Le Pen, a développé le thème de la \"renaissance\" avec l'ambition \"d'insuffler un peu d'optimisme\" à six mois de la présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "59c2a08751ddea6e17bbfc5f",
+      "title": "\"Il y a une responsabilité politico-médiatique qui arme aussi le coupable\" de l'attaque terroriste dans les Yvelines, affirme Mathilde Panot",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 14:14:08 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La présidente du groupe LFI à l'Assemblée nationale était dimanche l'invitée de l'émission \"Franc-Jeu\" sur France Inter et France 2."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "05fb89ba86dd471d09b22e57",
+      "title": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 11:53:30 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique ce dimanche Sandro Gozi, député européen Renew et conseiller de Paris dans le 8.30 franceinfo, Interrogé par Camille Girerd et Benjamin Recouvreur sur la promesse d’Emmanuel Macron en 2017 de “tout faire (...) pour qu'il n'y ait plus aucune raison de voter pour les extrêmes”."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "32b6f85e3b49589699328c43",
+      "title": "Manifestations en France, frappes en Ukraine, présidentielle au Brésil : la semaine en images",
+      "url": "https://www.france24.com/fr/france/20261025-manifestations-en-france-frappes-en-ukraine-pr%C3%A9sidentielle-au-br%C3%A9sil-la-semaine-en-images",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 11:15:51 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-institutions-02",
+          "theme": "institutions",
+          "keywords": [
+            "elections",
+            "nationales"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "keywords": [
+            "semaine",
+            "temps"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : les importantes dégradations en marge des manifestations nationales en France, les nouvelles frappes russes sur Kiev et les préparatifs pour les élections à venir au Brésil et en Israël."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c1df28ce4b4e854c6fe68d2c",
+      "title": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+      "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 10:33:22 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "ministere"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Dimanche, le ministère de l'Intérieur a fait état de plus de 1 314 interpellations et de 53 membres des forces de l'ordre blessés, au lendemain de nouvelles manifestations en France.",
+        "Au moins 410 000 personnes, selon les autorités, et 800 000 selon la CGT, avaient défilé."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "af62372f7cc3bfabf460367a",
+      "title": "REPORTAGE. \"Des raisons pour que Lula reste, il n'y en a pas\" : au Brésil, un scrutin présidentiel incertain dans un pays profondément divisé",
+      "url": "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 10:15:44 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pour le second tour de l'élection présidentielle, dimanche, Lula et Flavio Bolsonaro sont au coude-à-coude, sans favori clairement désigné par les derniers sondages.",
+        "Dans un pays profondément divisé, les partisans des deux camps défendent des visions radicalement opposées de l'avenir du Brésil."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6fb3774e89f15bfd84b717a3",
+      "title": "Attentat dans les Yvelines : le suspect sous traitement pour schizophrénie",
+      "url": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 10:15:19 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres pour un mobile raciste dans les Yvelines a été levée pour raisons psychiatriques, a annoncé, dimanche, le parquet national antiterroriste.",
+        "L'analyse toxicologique réalisée sur Kévin T.",
+        "a révélé \"la présence de cannabis et de cocaïne dans son sang\", a par ailleurs indiqué le Pnat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9df0aae96e8c3e94ff39ec3d",
+      "title": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 08:28:30 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique.",
+        "Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7ac59a34883527f24a639e36",
+      "title": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 25 Oct 2026 08:28:30 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique.",
+        "Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "bd5c8ae891e46ca8c149f1d0",
       "title": "Réparation des dommages résultant de dégradations commises dans l'espace public - rapport n° 86",
       "url": "http://www.senat.fr/rap/l26-086/l26-086.html",
@@ -1887,6 +2311,173 @@
         "Rapport d'information n° 247 de MM.",
         "Jean-François RAPIN, Ronan LE GLEUT, Didier MARIE, Mme Catherine MORIN-DESAILLY et M.",
         "Jacques FERNIQUE, fait au nom de la commission des affaires européennes : Déplacement d'une délégation de la commission des affaires européennes à Londres les 27 et 28 octobre 2025 (19 décembre 2025)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "841834f6f8b3af5a424816cd",
+      "title": "\"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 21:04:39 +0200",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-07",
+          "theme": "immigration",
+          "keywords": [
+            "personnes",
+            "protection"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Jordan Bardella a été réélu avec près de 99% des voix à la tête du Rassemblement national, samedi 24 octobre.",
+        "Les militants et les cadres du parti sont réunis tout le week-end en congrès à Orléans, sous haute protection policière, alors qu'un appel à manifester contre l'extrême droite a réuni plusieurs milliers de personnes."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2915025831ce78886e298ec0",
+      "title": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
+      "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 20:24:19 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi.",
+        "Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien passés\", il a recensé près de 1 000 interpellations.",
+        "Quelque 70 000 policiers et gendarmes avaient été appelés pour cette nouvelle journée de manifestations."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5999eb67d41155b126cdfb4c",
+      "title": "Congrès du RN à Orléans : Mediapart brièvement exfiltré de la salle",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-mediapart-brievement-exfiltre-de-la-salle_8252398.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 17:50:59 +0200",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "service-national",
+          "theme": "europe",
+          "keywords": [
+            "national",
+            "service"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Quelques minutes avant l'entrée sur scène de Marine Le Pen et Jordan Bardella au congrès du Rassemblement national à Orléans, une équipe de Mediapart a été prise à partie et huée par des militants.",
+        "Elle a été brièvement exfiltrée par le service de sécurité du RN."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8b31c12c203aef29a7b8ecc3",
+      "title": "REPORTAGE. \"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 17:22:40 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que le Rassemblement national tient son congrès ce week-end à Orléans, 13 000 personnes selon la préfecture, le double selon les organisateurs, ont défilé dans la ville samedi en milieu de journée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "19c50e7ddd4565d6a3cba1a3",
+      "title": "REPORTAGE. \"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 17:22:40 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que le Rassemblement national tient son congrès ce week-end à Orléans, 13 000 personnes selon la préfecture, le double selon les organisateurs, ont défilé dans la ville samedi en milieu de journée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "426298dfdbd477c69b0edb45",
+      "title": "Au congrès du Rassemblement national, l'unique candidat Jordan Bardella est réélu sans surprise à la présidence du parti avec 98,98% des voix",
+      "url": "https://www.franceinfo.fr/politique/front-national/au-congres-du-rassemblement-national-l-unique-candidat-jordan-bardella-est-reelu-sans-surprise-a-la-presidence-du-parti-avec-98-98-des-voix_8252326.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 17:15:19 +0200",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le chef du parti d'extrême droite a recueilli 75 497 suffrages, contre à peine 779 bulletins blancs."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5f6b82186b7d1ad2db0e004c",
+      "title": "Jordan Bardella, réélu président du Rassemblement national avec 98,98 % des voix",
+      "url": "https://www.france24.com/fr/france/20261024-jordan-bardella-r%C3%A9%C3%A9lu-pr%C3%A9sident-du-rn-avec-98-98-des-voix",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 14:04:58 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Plus de 76 000 militants étaient rassemblés, samedi, à Orléans pour le congrès du Rassemblement national.",
+        "Seul candidat, Jordan Bardella a été réélu président de la formation d'extrême droite avec 98,98 % des voix."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c251d7e4d96904aee236ca9f",
+      "title": "Fusillade meurtrière dans les Yvelines : la garde à vue du suspect prolongée",
+      "url": "https://www.france24.com/fr/france/20261024-fusillade-meurtri%C3%A8re-dans-les-yvelines-la-garde-%C3%A0-vue-du-suspect-prolong%C3%A9e",
+      "sourcePublishedAt": "Sat, 24 Oct 2026 11:11:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres dans les Yvelines a été prolongée samedi.",
+        "Selon les informations du Monde, le suspect a dit avoir voulu venger les commerçants pillés le 17 octobre et avoir ciblé des gens de couleur.",
+        "Un rassemblement a eu lieu à Trappes en hommage à la victime décédée, Pengo Bossio Wangi."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -2195,6 +2786,228 @@
       "extraitsRSS": [
         "Proposition de loi constitutionnelle visant à refonder le statut constitutionnel des outre-mer en substituant aux articles 73 et 74 un article 73 unique instituant un régime « à la carte », fondé sur la libre administration et la différenciation : texte N° 2 de M.",
         "Dominique THÉOPHILE, déposé au Sénat le 1er octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "233ed53305d2c38c2ac1fb83",
+      "title": "Congrès du RN à Orléans : le service de sécurité vérifie que \"les femmes portent un soutien-gorge\" pour éviter l'intrusion de militantes Femen",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-maire-de-la-ville-annonce-un-couvre-feu-pour-les-mineurs-de-moins-de-15-ans-pour-les-deux-nuits-prochaines_8252014.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 09:00:07 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jordan Bardella a été réélu à la tête du parti d'extrême droite avant le premier grand meeting de campagne de Marine Le Pen prévu dimanche."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7fa71b0fd592abfb3096329c",
+      "title": "Attentat raciste à Trappes : Sébastien Chenu rejette toute responsabilité du RN et dénonce une \"récupération politique indigne\" de LFI",
+      "url": "https://www.franceinfo.fr/politique/front-national/attentat-raciste-dans-les-yvelines-sebastien-chenu-rejette-toute-responsabilite-du-rn-et-denonce-une-recuperation-politique-indigne-de-lfi_8253883.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 08:52:29 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de France Inter lundi, Sébastien Chenu assure que le parti d'extrême droite n'a aucun lien avec l'attaque terroriste raciste qui a coûté la vie à une personne et blessé cinq autres dans les Yvelines vendredi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4d0263d2785bd2a5ac1a790f",
+      "title": "Présidentielle : si le Rassemblement National accède au pouvoir, la CGT n'aura plus de subventions, assure Sébastien Chenu",
+      "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 08:48:56 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le vice-président du RN, Sébastien Chenu, accuse lundi sur France Inter le syndicat \"ne défend plus l'intérêt des travailleurs mais cherche à empêcher le Rassemblement national\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1dd0c7d7b3e052ed526501d4",
+      "title": "Présidentielle : si le Rassemblement National accède au pouvoir, la CGT n'aura plus de subventions, assure Sébastien Chenu",
+      "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-si-le-rassemblement-national-accede-au-pouvoir-la-cgt-n-aura-plus-de-subventions-assure-sebastien-chenu_8253898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 08:48:56 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le vice-président du RN, Sébastien Chenu, accuse lundi sur France Inter le syndicat \"ne défend plus l'intérêt des travailleurs mais cherche à empêcher le Rassemblement national\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bb2b7635c69934ce76411664",
+      "title": "Présidentielle 2027 : depuis Orléans, Marine Le Pen lance sa campagne",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-depuis-orleans-marine-le-pen-lance-sa-campagne_8253877.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 08:39:44 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Orléans accueillait un congrès du Rassemblement national et des milliers de manifestants antifascistes.",
+        "L'occasion pour Marine Le Pen de lancer sa campagne.",
+        "Aussi, le discours de Jordan Bardella a été perturbé et des journalistes de Mediapart ont été malmenés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fd34d90b9340f1f81a0bf2fe",
+      "title": "Raphaël Glucksmann dit être victime d'une \"campagne de harcèlement\" de LFI",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-dit-etre-victime-d-une-campagne-de-harcelement-de-lfi_8253889.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 08:35:21 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat à la présidentielle assure que cela l'empêche de participer aux manifestations car il est toujours confronté à une \"hostilité\" qu'il juge \"organisée\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bd192b216d9ca94da9b75aaa",
+      "title": "EDITO. Les mots et la violence du débat politique actuel engendrent-ils la violence raciste ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-mots-et-la-violence-du-debat-politique-actuel-engendrent-ils-la-violence-raciste_8233150.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 07:59:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après l’attentat raciste de Trappes, qui a fait un mort et cinq blessés, la gauche met en cause la responsabilité de l’extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "51be22ddd6ebd9c8bea9622c",
+      "title": "EDITO. Les mots et la violence du débat politique actuel engendrent-ils la violence raciste ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-mots-et-la-violence-du-debat-politique-actuel-engendrent-ils-la-violence-raciste_8233150.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 07:59:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après l’attentat raciste de Trappes, qui a fait un mort et cinq blessés, la gauche met en cause la responsabilité de l’extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8871047a5906f2b336296ca2",
+      "title": "Mort de Cédric Chouviat : début du procès de trois policiers jugés pour homicide involontaire",
+      "url": "https://www.france24.com/fr/france/20261026-d%C3%A9c%C3%A8s-c%C3%A9dric-chouviat-trois-policiers-jug%C3%A9s-homicide-involontaire-partir-lundi",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 07:36:53 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "defense",
+            "doivent",
+            "policiers"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "demande",
+            "doivent"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Plus de six ans après la mort de Cédric Chouviat, trois policiers doivent être jugés à partir de lundi au tribunal de Paris pour homicide involontaire à la suite d'un contrôle routier qui a dégénéré.",
+        "La défense demande un report du procès et les avocats de la famille entendent plaider \"l'incompétence\" du tribunal, estimant que les faits relèvent de la cour d'assises."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9c63abcf90380a952f581151",
+      "title": "Le gouvernement promet ce lundi \"des réponses très concrètes\" à la mobilisation lycéenne",
+      "url": "https://www.france24.com/fr/france/20261026-le-gouvernement-promet-lundi-r%C3%A9ponses-tr%C3%A8s-concr%C3%A8tes-mobilisation-lyc%C3%A9enne",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 06:58:02 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le gouvernement a promis d'apporter, lundi, \"des réponses très concrètes\" à la mobilisation des lycéens et étudiants après un mois de perturbations dans le milieu scolaire.",
+        "Ces annonces politiques attendues devraient concerner la plateforme controversée Parcoursup, l'état des bâtiments ou encore le nombre de places à l'université."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "88ff5faba34d3c1ee7bfeaae",
+      "title": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 04:59:56 +0000",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "33bc9dbfe4d8b372ac34da24",
+      "title": "Congrès du RN : le maire d'Orléans lève les mesures de restriction dans la ville",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/direct-congres-du-rn-a-orleans-marine-le-pen-lance-sa-campagne-presidentielle-avec-un-premier-meeting-son-discours-prevu-a-15h30_8252842.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 26 Oct 2026 04:59:56 +0000",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

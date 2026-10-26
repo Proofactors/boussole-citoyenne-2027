@@ -1,6 +1,6 @@
 {
   "schemaVersion": "30.0",
-  "generatedAt": "2026-10-24T07:44:32+00:00",
+  "generatedAt": "2026-10-26T08:01:10+00:00",
   "sources": {
     "votes": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
     "acteurs": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip"

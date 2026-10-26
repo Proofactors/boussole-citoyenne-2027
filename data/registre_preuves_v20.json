@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-24T07:44:16.283684+00:00",
+  "generatedAt": "2026-10-26T08:00:32.730291+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -858,13 +858,15 @@
       "id": "b79aa935998051319d32ad5e",
       "titre": "Bureau de l'Office Parlementaire d'Évaluation des Choix Scientifiques et Technologiques (OPECST)",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/22-10-2026/bureau-de-loffice-parlementaire-devaluation-des-choix-scientifiques-et-technologiques-opecst.html",
+      "urlEffective": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/22-10-2026/bureau-de-loffice-parlementaire-devaluation-des-choix-scientifiques-et-technologiques-opecst.html",
       "publication": "Thu,22 Oct 2026 09:20:07 GMT",
-      "analyseLe": "2026-10-23T15:55:30.714579+00:00",
-      "lecture": "indisponible",
-      "formatDetecte": "indisponible",
-      "motif": "Accès impossible : URLError",
-      "nombreCaracteres": 0,
-      "tentatives": 1,
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1380,
+      "tentatives": 2,
       "passages": [],
       "modificationPositions": false
     },
@@ -1645,6 +1647,360 @@
       "motif": null,
       "versionDiagnostic": 23,
       "nombreCaracteres": 17427,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "100ac161c11ec7b45ac4c215",
+      "titre": "BFMTV dénonce \"une campagne de dénigrement\" après des accusations de LFI, qui reproche à la chaîne de propager des propos racistes",
+      "url": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/medias/bfmtv-denonce-une-campagne-de-denigrement-apres-des-accusations-de-lfi-qui-reprochent-a-la-chaine-de-propager-des-propos-racistes_8253499.html",
+      "publication": "Sun, 25 Oct 2026 20:53:25 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9556,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7e0df1ad3c972634f73ce235",
+      "titre": "\"On est libre, entre guillemets\" : le Brésil, un pays coupé en deux",
+      "url": "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/monde/bresil/on-est-libre-entre-guillemets-le-bresil-un-pays-coupe-en-deux_8253502.html",
+      "publication": "Sun, 25 Oct 2026 20:48:07 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11640,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "4e0a8b571cc2a72e2cc30fc9",
+      "titre": "Présidentielle 2027 : Marine Le Pen lance sa campagne, manifestations, Raphaël Glucksmann à Amiens... Le point sur la semaine",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-lance-sa-campagne-manifestations-raphael-glucksmann-a-amiens-le-point-sur-la-semaine_8253493.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-lance-sa-campagne-manifestations-raphael-glucksmann-a-amiens-le-point-sur-la-semaine_8253493.html",
+      "publication": "Sun, 25 Oct 2026 20:36:02 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10408,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "8e9dd6b09eb124def3c50773",
+      "titre": "\"La montée du Rassemblement national est un symptôme de la destruction progressive de notre démocratie\" : estime Natacha Polony, candidate à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/la-montee-du-rassemblement-national-est-un-symptome-de-la-destruction-progressive-de-notre-democratie-estime-natacha-polony-candidate-a-l-election-presidentielle_8253430.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/la-montee-du-rassemblement-national-est-un-symptome-de-la-destruction-progressive-de-notre-democratie-estime-natacha-polony-candidate-a-l-election-presidentielle_8253430.html",
+      "publication": "Sun, 25 Oct 2026 20:02:59 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14069,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a86cb74976c8717cc1734ef7",
+      "titre": "REPORTAGE. \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html",
+      "publication": "Sun, 25 Oct 2026 19:34:21 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14371,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "69a01851d03692cee998fc97",
+      "titre": "REPORTAGE. \"On a gagné la bataille des idées\" : à Orléans, Marine Le Pen lance sa campagne dans une ville sous haute surveillance",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/reportage-on-a-gagne-la-bataille-des-idees-a-orleans-marine-le-pen-lance-sa-campagne-dans-une-ville-sous-haute-surveillance_8252908.html",
+      "publication": "Sun, 25 Oct 2026 19:34:21 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14371,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "4b2974591535cb390147800e",
+      "titre": "Congrès du RN à Orléans : le discours de Jordan Bardella a été interrompu par des militants de l'Union des étudiants juifs de France",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-le-discours-de-jordan-bardella-a-ete-interrompu-par-des-militants-de-l-union-des-etudiants-juifs-de-france_8253304.html",
+      "publication": "Sun, 25 Oct 2026 18:46:38 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10262,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "ae6b6c3f9ad142bfe2f68a97",
+      "titre": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+      "publication": "Sun, 25 Oct 2026 18:06:16 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9380,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "eef326f7a6947a5c35ec43a4",
+      "titre": "Congrès du RN : Marine Le Pen promet un gouvernement \"d'union nationale\", \"pluraliste\" et dirigé par Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-marine-le-pen-promet-un-gouvernement-d-union-nationale-pluraliste-et-dirige-par-jordan-bardella_8253364.html",
+      "publication": "Sun, 25 Oct 2026 18:06:16 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9380,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "aab86d5971e1c842aa18cd15",
+      "titre": "Pour les électeurs de Marine Le Pen, \"c’est faux de dire que le RN incite à la haine\"",
+      "url": "https://www.france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-france-pour-les-electeurs-de-marine-le-pen-c-est-faux-de-dire-que-le-rn-incite-a-la-haine",
+      "publication": "Sun, 25 Oct 2026 17:54:35 GMT",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9821,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "85e5bce3c10768f1cc7614d1",
+      "titre": "Congrès du RN à Orléans : une centaine de militants antifascistes se sont rassemblés en dépit des interdictions",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-une-centaine-de-militants-antifascistes-se-sont-rassembles-en-depit-des-interdictions_8253235.html",
+      "publication": "Sun, 25 Oct 2026 15:56:49 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8788,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "Peu après 13 heures, ces militants antifascistes étaient groupés sous les yeux des forces de l'ordre, à environ quatre kilomètres du Co'Met, l'arène de 10 000 places où la patronne du RN, Marine Le Pen, entend franchir une nouvelle étape de sa campagne pour l'élection présidentielle .",
+          "motsCommuns": [
+            "heures",
+            "quatre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "passageSource": "Peu après 13 heures, ces militants antifascistes étaient groupés sous les yeux des forces de l'ordre, à environ quatre kilomètres du Co'Met, l'arène de 10 000 places où la patronne du RN, Marine Le Pen, entend franchir une nouvelle étape de sa campagne pour l'élection présidentielle .",
+          "motsCommuns": [
+            "forces",
+            "ordre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "0f8b407e22807abdd536c0ec",
+      "titre": "Un bus de militants en partance pour le congrès du RN à Orléans pris pour cible à Grenoble",
+      "url": "https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/faits-divers/un-bus-de-militants-en-partance-pour-le-congres-du-rn-a-orleans-pris-pour-cible-a-grenoble_8253211.html",
+      "publication": "Sun, 25 Oct 2026 15:24:51 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8088,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "1f81063a1728412b6ba1b1b7",
+      "titre": "\"La Chute\" : un historien britannique décrypte la défaite française de 1940",
+      "url": "https://www.france24.com/fr/france/20261025-chute-1940-historien-julian-jackson-defaite-debacle-armee-francaise",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-chute-1940-historien-julian-jackson-defaite-debacle-armee-francaise",
+      "publication": "Sun, 25 Oct 2026 15:11:59 GMT",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "indisponible",
+      "formatDetecte": "indisponible",
+      "motif": "http_403",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 0,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c2e27b49d154779a66d42159",
+      "titre": "Marine Le Pen promet de ne pas \"refaire la France d'avant\", à son premier meeting de campagne",
+      "url": "https://www.france24.com/fr/france/20261025-marine-le-pen-veut-miser-sur-l-optimisme-pour-son-premier-meeting-de-campagne",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-marine-le-pen-veut-miser-sur-l-optimisme-pour-son-premier-meeting-de-campagne",
+      "publication": "Sun, 25 Oct 2026 15:00:22 GMT",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8319,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "passageSource": "Se présentant en protectrice face à \"l'incivilité\", vantant \"le savoir vivre à la française\" et fustigeant \"l'ensauvagement\" de ceux qui ne ​vivent pas \"comme des Français\", Marine Le Pen a dit vouloir revenir à \"ce qui ​faisait de notre pays la Douce France !\" et promis \"aux étrangers délinquants (...) l'expulsion automatique et définitive\" ainsi que \"l'interdiction du communautarisme\".",
+          "motsCommuns": [
+            "etrangers",
+            "expulsion"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "Sur la scène internationale, Marine Le Pen a promis de faire de la France \"une nation de paix\", disant rejeter \"les guerres qui ne sont pas ⁠les nôtres\", sans les citer, et vouloir mettre la puissance militaire du pays au service de \"la concorde entre les peuples\".",
+          "motsCommuns": [
+            "militaire",
+            "service"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "59c2a08751ddea6e17bbfc5f",
+      "titre": "\"Il y a une responsabilité politico-médiatique qui arme aussi le coupable\" de l'attaque terroriste dans les Yvelines, affirme Mathilde Panot",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/il-y-a-une-responsabilite-politico-mediatique-qui-arme-aussi-le-coupable-de-l-attaque-terroriste-dans-les-yvelines-affirme-mathilde-panot_8253142.html",
+      "publication": "Sun, 25 Oct 2026 14:14:08 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9346,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "05fb89ba86dd471d09b22e57",
+      "titre": "“Sans Emmanuel Macron, Marine Le Pen aurait été présidente en 2017” explique Sandro Gozi, député européen Renew",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/emmanuel-macron/sans-emmanuel-macron-marine-le-pen-aurait-ete-presidente-en-2017-explique-sandro-gozi-depute-europeen-renew_8253007.html",
+      "publication": "Sun, 25 Oct 2026 11:53:30 +0100",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7382,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "32b6f85e3b49589699328c43",
+      "titre": "Manifestations en France, frappes en Ukraine, présidentielle au Brésil : la semaine en images",
+      "url": "https://www.france24.com/fr/france/20261025-manifestations-en-france-frappes-en-ukraine-pr%C3%A9sidentielle-au-br%C3%A9sil-la-semaine-en-images",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-manifestations-en-france-frappes-en-ukraine-pr%C3%A9sidentielle-au-br%C3%A9sil-la-semaine-en-images",
+      "publication": "Sun, 25 Oct 2026 11:15:51 GMT",
+      "analyseLe": "2026-10-26T08:00:32.730291+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4769,
       "tentatives": 1,
       "passages": [],
       "modificationPositions": false
@@ -3217,14 +3573,13 @@
     }
   ],
   "statistiques": {
-    "documents": 173,
-    "textesLus": 169,
+    "documents": 190,
+    "textesLus": 186,
     "pdfLus": 0,
-    "passagesCandidats": 22,
-    "nouveauxExamines": 14,
+    "passagesCandidats": 26,
+    "nouveauxExamines": 18,
     "echecsParCause": {
-      "Accès impossible : URLError": 1,
-      "http_403": 3
+      "http_403": 4
     }
   },
   "publicationAutomatiquePositions": false
