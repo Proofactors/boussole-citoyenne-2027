@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-10-26T08:01:10+00:00",
+  "generatedAt": "2026-10-27T07:56:10+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "d20707d4aa15d47dcfa431c2b666861bb25ee9bc2b72a3d86bdef64ff302c36e",
+  "votesArchiveSha256": "08389783382a3ac11c36578b545d124c4582728b800db490bd46467172c9b90d",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -1967,7 +1967,7 @@
         {
           "date": "2026-10-22",
           "numero": "8999",
-          "titre": "l'amendement n° 635 (rect.) de M. Dive et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+          "titre": "l'amendement n° 690 de M. Ott et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "abstention",
           "acteurRef": "PA1567"
         },
@@ -6173,5 +6173,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "8237cb1b6a3d3eda708aea8895b53750360c9fe16e4428fe7085eda4bc56e421"
+  "actorsArchiveSha256": "aecccc4853fc05ea6ef451b816b8ce5c64b1cb724974e2d43abcb59b796dfc0e"
 }

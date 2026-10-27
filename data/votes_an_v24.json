@@ -1,8 +1,8 @@
 {
   "schemaVersion": "24.0",
   "source": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "archiveSha256": "d20707d4aa15d47dcfa431c2b666861bb25ee9bc2b72a3d86bdef64ff302c36e",
-  "generatedAt": "2026-10-26T08:01:08+00:00",
+  "archiveSha256": "08389783382a3ac11c36578b545d124c4582728b800db490bd46467172c9b90d",
+  "generatedAt": "2026-10-27T07:56:06+00:00",
   "totalParsed": 9097,
   "invalid": 0,
   "scrutins": [
@@ -43126,7 +43126,7 @@
       "uid": "VTANR5L17V8999",
       "numero": "8999",
       "date": "2026-10-22",
-      "titre": "l'amendement n° 635 (rect.) de M. Dive et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+      "titre": "l'amendement n° 690 de M. Ott et les amendements identiques suivants après l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
       "votes": [
         {
           "acteurRef": "PA1567",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-10-26T08:00:42.858427+00:00",
+  "genereLe": "2026-10-27T07:56:01.080314+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -845,6 +845,26 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "3727b2146f1821be42d6a0a2",
+      "titre": "La pratique de la dépense fiscale : étude de cas européens - rapport d'information n° 80",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-080-notice.html",
+      "urlEffective": "https://www.senat.fr/notice-rapport/2026/r26-080-notice.html",
+      "publication": "Tue,27 Oct 2026 02:03:37 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 617,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Rapport d'information n° 80 de M. Pascal SAVOLDELLI, fait au nom de la commission des finances : La pratique de la dépense fiscale : étude de cas européens (20 octobre 2026)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "e28be309d2b916afa3c63b85",
       "titre": "Sécuriser le ciel de l'Ukraine en construisant un bouclier européen - texte N° 4",
       "url": "http://www.senat.fr/leg/ppr26-004.html",
@@ -880,6 +900,228 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Proposition de loi contre la fraude en ligne visant à instaurer des obligations de contrôle des plateformes numériques à l'égard des annonceurs : texte N° 965 de Mme Nathalie GOULET et plusieurs de ses collègues, déposé au Sénat le 25 septembre 2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8aea4f38161905dbe82f41d5",
+      "titre": "Statut de la Corse : après le rejet du texte par le Sénat, Sébastien Lecornu demande à la ministre de l'Aménagement du territoire de \"réunir toutes les parties prenantes\" pour trouver des solutions",
+      "url": "https://www.franceinfo.fr/france/corse/statut-de-la-corse-apres-le-rejet-du-texte-par-le-senat-sebastien-lecornu-demande-a-la-ministre-de-l-amenagement-du-territoire-de-reunir-toutes-les-parties-prenantes-pour-trouver-des-solutions_8255308.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/france/corse/statut-de-la-corse-apres-le-rejet-du-texte-par-le-senat-sebastien-lecornu-demande-a-la-ministre-de-l-amenagement-du-territoire-de-reunir-toutes-les-parties-prenantes-pour-trouver-des-solutions_8255308.html",
+      "publication": "Tue, 27 Oct 2026 08:25:37 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8301,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "le camp autonomiste a annoncé lundi soir son \"retrait\" du processus de Beauvau devant conduire l'île à un statut d'autonomie dans la République, face au détricotage d'une réforme constitutionnelle très sensible, finalement rejetée au Sénat.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "108e5e3d75dd15d95a051b12",
+      "titre": "EDITO. Les contre-pouvoirs dans le collimateur du Rassemblement national",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html",
+      "publication": "Tue, 27 Oct 2026 08:02:41 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10314,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "referendum-immigration",
+          "theme": "immigration",
+          "passageSource": "Marine Le Pen maintient la pression sur son président Richard Ferrand dont elle a réclamé, en vain, la démission parce qu’il avait osé lui rappelé que le référendum sur l’immigration qu’elle promet est illégal.",
+          "motsCommuns": [
+            "immigration",
+            "referendum"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Alors que Marine Le Pen promet le changement \"en douceur\" si elle est élue présidente en 2027, ses propositions ne cadrent pas vraiment.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "697ae1dee31dcbea4e345dbc",
+      "titre": "EDITO. Les contre-pouvoirs dans le collimateur du Rassemblement national",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-les-contre-pouvoirs-dans-le-collimateur-du-rassemblement-national_8234668.html",
+      "publication": "Tue, 27 Oct 2026 08:02:41 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10314,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "referendum-immigration",
+          "theme": "immigration",
+          "passageSource": "Marine Le Pen maintient la pression sur son président Richard Ferrand dont elle a réclamé, en vain, la démission parce qu’il avait osé lui rappelé que le référendum sur l’immigration qu’elle promet est illégal.",
+          "motsCommuns": [
+            "immigration",
+            "referendum"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Alors que Marine Le Pen promet le changement \"en douceur\" si elle est élue présidente en 2027, ses propositions ne cadrent pas vraiment.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "77c59a52386abc36089be315",
+      "titre": "Le Sénat rejette la réforme constitutionnelle sur l'autonomie de la Corse, censée aboutir à l'octroi de pouvoirs dérogatoires à l'île",
+      "url": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/france/corse/le-senat-rejette-la-reforme-constitutionnelle-sur-l-autonomie-de-la-corse-censee-aboutir-a-l-octroi-de-pouvoirs-derogatoires-le-camp-autonomiste-claque-la-porte_8255089.html",
+      "publication": "Tue, 27 Oct 2026 07:37:11 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10753,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le vote a provoqué la colère du camp autonomiste, qui a annoncé son \"retrait\" du processus de Beauvau, initié en 2022. Un compromis avait pourtant été validé par l'Assemblée de Corse en 2024, puis préservé lors d'un vote favorable de l'Assemblée nationale en juin 2026.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1b3594c93e05d350d4515e7a",
+      "titre": "Attentat de Trappes : Omar Sy ou Jul parmi les signataires d'un texte contre \"les mots de la haine\"",
+      "url": "https://www.france24.com/fr/france/20261027-pr%C3%A8s-cent-personnalit%C3%A9s-culture-sport-d%C3%A9noncent-racisme-apr%C3%A8s-attentat-trappes-omar-sy-jul",
+      "urlEffective": "https://www.france24.com/fr/france/20261027-pr%C3%A8s-cent-personnalit%C3%A9s-culture-sport-d%C3%A9noncent-racisme-apr%C3%A8s-attentat-trappes-omar-sy-jul",
+      "publication": "Tue, 27 Oct 2026 07:25:22 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5050,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans un texte publié sur le site de Politis, près d'une centaine de personnalités issues du monde de la culture et du sport ont appelé mardi à refuser le racisme, après l'attentat terroriste survenu dans les Yvelines.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "601488fa776237ee7c64bb8d",
+      "titre": "Les appels à la mobilisation lycéenne continuent malgré les annonces du gouvernement",
+      "url": "https://www.france24.com/fr/france/20261027-annonces-gouvernement-suffisent-pas-stopper-appels-mobilisation-lyc%C3%A9enne",
+      "urlEffective": "https://www.france24.com/fr/france/20261027-annonces-gouvernement-suffisent-pas-stopper-appels-mobilisation-lyc%C3%A9enne",
+      "publication": "Tue, 27 Oct 2026 06:48:06 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8368,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Après un mois de blocus et de manifestations, le gouvernement a annoncé lundi plusieurs mesures destinées à apaiser la colère des lycéens. Le remplacement progressif de Parcoursup d'ici 2028 ou les 15 000 places supplémentaires dans l'enseignement supérieur n'ont pas convaincu les organisations lycéennes et étudiantes, qui ont appelé à poursuivre la mobilisation.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d3465ea7e22338cbecf373c2",
+      "titre": "INFO RADIO FRANCE. Le député RN José Beaurain visé par une enquête pour détournement de fonds publics",
+      "url": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/info-radio-france-le-depute-rn-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics_8254816.html",
+      "publication": "Tue, 27 Oct 2026 06:32:54 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9057,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Selon une enquête de la cellule investigation de Radio France, le Rassemblement national a investi ce député de l'Aisne pour les législatives de 2024 et les municipales de 2026, malgré plusieurs alertes internes.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "4001103eb780918533f52004",
+      "titre": "Statut de la Corse : le camp autonomiste claque la porte après le rejet de la réforme au Sénat",
+      "url": "https://www.france24.com/fr/france/20261027-statut-corse-camp-autonomiste-claque-porte-rejet-reforme-senat-processus-beauvau",
+      "urlEffective": "https://www.france24.com/fr/france/20261027-statut-corse-camp-autonomiste-claque-porte-rejet-reforme-senat-processus-beauvau",
+      "publication": "Tue, 27 Oct 2026 01:37:27 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7152,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Après l'avoir détricoté, le Sénat a rejeté lundi l’ensemble du texte de réforme constitutionnelle sur l'avenir de la Corse. Le camp autonomiste a en conséquence annoncé qu'il se retirait du processus de Beauvau lancé en 2022.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "0ada90fc9bc12ace047a2d26",
+      "titre": "\"Il faut que nos élèves retiennent que dès cette année, ils vont voir leur vie changer\", souligne le ministre Édouard Geffray, qui détaille les mesures à plus de \"5-6 milliards\" d'euros pour répondre à la crise lycéenne",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-que-nos-eleves-retiennent-que-des-cette-annee-ils-vont-voir-leur-vie-changer-souligne-le-ministre-edouard-geffray-qui-detaille-les-mesures-a-plus-de-5-6-milliards-d-euros-pour-repondre-a-la-crise-lyceenne_8254864.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/il-faut-que-nos-eleves-retiennent-que-des-cette-annee-ils-vont-voir-leur-vie-changer-souligne-le-ministre-edouard-geffray-qui-detaille-les-mesures-a-plus-de-5-6-milliards-d-euros-pour-repondre-a-la-crise-lyceenne_8254864.html",
+      "publication": "Tue, 27 Oct 2026 00:01:25 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13266,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Invité du \"20 Heures\" de France 2 lundi 26 octobre, le ministre de l'Éducation nationale revient en détail sur les annonces du gouvernement faites aux lycéens pour répondre à leurs revendications.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -2406,6 +2648,230 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "c1df28ce4b4e854c6fe68d2c",
+      "titre": "Mobilisation du 24 octobre : plus de 1 300 interpellations, une cinquantaine de policiers blessés",
+      "url": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-mobilisation-du-24-octobre-plus-de-1-300-interpellations-une-cinquantaine-de-policiers-bless%C3%A9s",
+      "publication": "Sun, 25 Oct 2026 10:33:22 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10725,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dimanche, le ministère de l'Intérieur a fait état de plus de 1 314 interpellations et de 53 membres des forces de l'ordre blessés, au lendemain de nouvelles manifestations en France. Au moins 410 000 personnes, selon les autorités, et 800 000 selon la CGT, avaient défilé.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "af62372f7cc3bfabf460367a",
+      "titre": "REPORTAGE. \"Des raisons pour que Lula reste, il n'y en a pas\" : au Brésil, un scrutin présidentiel incertain dans un pays profondément divisé",
+      "url": "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/monde/bresil/reportage-des-raisons-pour-que-lula-reste-il-n-y-en-a-pas-au-bresil-un-scrutin-presidentiel-incertain-dans-un-pays-profondement-divise_8252848.html",
+      "publication": "Sun, 25 Oct 2026 10:15:44 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9612,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Pour le second tour de l'élection présidentielle, dimanche, Lula et Flavio Bolsonaro sont au coude-à-coude, sans favori clairement désigné par les derniers sondages. Dans un pays profondément divisé, les partisans des deux camps défendent des visions radicalement opposées de l'avenir du Brésil.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "6fb3774e89f15bfd84b717a3",
+      "titre": "Attentat dans les Yvelines : le suspect sous traitement pour schizophrénie",
+      "url": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+      "urlEffective": "https://www.france24.com/fr/france/20261025-fusillade-meurtri%C3%A8re-dans-les-yvelines-le-suspect-plac%C3%A9-en-observation-psychiatrique",
+      "publication": "Sun, 25 Oct 2026 10:15:19 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7238,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "La garde à vue de l'homme soupçonné d'avoir tué une personne et blessé cinq autres pour un mobile raciste dans les Yvelines a été levée pour raisons psychiatriques, a annoncé, dimanche, le parquet national antiterroriste. L'analyse toxicologique réalisée sur Kévin T. a révélé \"la présence de cannabis et de cocaïne dans son sang\", a par ailleurs indiqué le Pnat.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "9df0aae96e8c3e94ff39ec3d",
+      "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html",
+      "publication": "Sun, 25 Oct 2026 08:28:30 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9816,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir",
+            "voter"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-fiscalite-08",
+          "theme": "fiscalite",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "communes",
+            "retrouver"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7ac59a34883527f24a639e36",
+      "titre": "Comment Marine Le Pen, plus optimiste que jamais pour 2027, veut prendre de la hauteur et installer sa \"force tranquille\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/comment-marine-le-pen-plus-optimiste-que-jamais-pour-2027-veut-prendre-de-la-hauteur-et-installer-sa-force-tranquille_8252809.html",
+      "publication": "Sun, 25 Oct 2026 08:28:30 +0100",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9816,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir",
+            "voter"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-fiscalite-08",
+          "theme": "fiscalite",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "communes",
+            "retrouver"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Avec son discours dimanche à Orléans, la candidate du RN entend insuffler de l'optimisme dans un monde chaotique. Et installer encore un peu plus dans l'opinion son statut de favorite du scrutin présidentiel.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "bd5c8ae891e46ca8c149f1d0",
       "titre": "Réparation des dommages résultant de dégradations commises dans l'espace public - rapport n° 86",
       "url": "http://www.senat.fr/rap/l26-086/l26-086.html",
@@ -2681,6 +3147,66 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Rapport d'information n° 760 de M. Alain MILON, fait au nom de la délégation française à l'Assemblée parlementaire du Conseil de l'Europe : Les travaux de la délégation française à l'Assemblée parlementaire du Conseil de l'Europe - Deuxième partie de la session ordinaire 2025 (19 juin 2025)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "841834f6f8b3af5a424816cd",
+      "titre": "\"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html",
+      "publication": "Sat, 24 Oct 2026 21:04:39 +0200",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9984,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Jordan Bardella a été réélu avec près de 99% des voix à la tête du Rassemblement national, samedi 24 octobre. Les militants et les cadres du parti sont réunis tout le week-end en congrès à Orléans, sous haute protection policière, alors qu'un appel à manifester contre l'extrême droite a réuni plusieurs milliers de personnes.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "2915025831ce78886e298ec0",
+      "titre": "Mobilisation du 24 octobre : Nuñez salue le déroulé des cortèges, près de 1 000 interpellations",
+      "url": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+      "urlEffective": "https://www.france24.com/fr/france/20261024-les-cort%C3%A8ges-se-sont-bien-pass%C3%A9s-d%C3%A9clare-nu%C3%B1ez-qui-comptabilise-pr%C3%A8s-de-1-000-interpellations",
+      "publication": "Sat, 24 Oct 2026 20:24:19 GMT",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6208,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Entre 410 000 et 800 000 personnes ont défilé lors de la mobilisation sociale en France, samedi. Si le ministre de l'Intérieur Laurent Nuñez a estimé que \"les cortèges se sont bien passés\", il a recensé près de 1 000 interpellations. Quelque 70 000 policiers et gendarmes avaient été appelés pour cette nouvelle journée de manifestations.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "5999eb67d41155b126cdfb4c",
+      "titre": "Congrès du RN à Orléans : Mediapart brièvement exfiltré de la salle",
+      "url": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-mediapart-brievement-exfiltre-de-la-salle_8252398.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/congres-du-rn-a-orleans-mediapart-brievement-exfiltre-de-la-salle_8252398.html",
+      "publication": "Sat, 24 Oct 2026 17:50:59 +0200",
+      "analyseLe": "2026-10-27T07:55:52.069536+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6596,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Quelques minutes avant l'entrée sur scène de Marine Le Pen et Jordan Bardella au congrès du Rassemblement national à Orléans, une équipe de Mediapart a été prise à partie et huée par des militants. Elle a été brièvement exfiltrée par le service de sécurité du RN.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -4333,13 +4859,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 190,
-    "documentsLus": 186,
+    "documentsSuivis": 208,
+    "documentsLus": 204,
     "documentsSansTexteAvecResumeRss": 4,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 26,
+    "passagesCandidats": 34,
     "erreursParCause": {
-      "Texte intégral lu": 186,
+      "Texte intégral lu": 204,
       "http_403": 4
     }
   },
