@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-10-27T07:56:10+00:00",
+  "generatedAt": "2026-10-28T08:09:06+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "08389783382a3ac11c36578b545d124c4582728b800db490bd46467172c9b90d",
+  "votesArchiveSha256": "3046afac9f2579cb22c8fb589388ceceb7a66439da903e30c0486ee2d2faf201",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -15,7 +15,7 @@
         "PA720614"
       ],
       "decompte": {
-        "pour": 22,
+        "pour": 21,
         "contre": 5,
         "abstention": 1,
         "non-votant": 0,
@@ -210,13 +210,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "pour",
           "acteurRef": "PA720614"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "pour",
-          "acteurRef": "PA720614"
         }
       ]
     },
@@ -256,7 +249,7 @@
         "PA722190"
       ],
       "decompte": {
-        "pour": 33,
+        "pour": 32,
         "contre": 21,
         "abstention": 0,
         "non-votant": 0,
@@ -633,13 +626,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "pour",
           "acteurRef": "PA722190"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "pour",
-          "acteurRef": "PA722190"
         }
       ]
     },
@@ -738,7 +724,7 @@
       ],
       "decompte": {
         "pour": 6,
-        "contre": 11,
+        "contre": 10,
         "abstention": 2,
         "non-votant": 0,
         "conflit": 0
@@ -869,13 +855,6 @@
           "titre": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
           "vote": "pour",
           "acteurRef": "PA722142"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "contre",
-          "acteurRef": "PA722142"
         }
       ]
     },
@@ -971,7 +950,7 @@
         "PA335999"
       ],
       "decompte": {
-        "pour": 9,
+        "pour": 8,
         "contre": 8,
         "abstention": 2,
         "non-votant": 0,
@@ -1103,13 +1082,6 @@
           "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
           "vote": "contre",
           "acteurRef": "PA335999"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "pour",
-          "acteurRef": "PA335999"
         }
       ]
     },
@@ -1135,13 +1107,174 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 38,
-        "contre": 12,
+        "pour": 47,
+        "contre": 25,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-10-27",
+          "numero": "9142",
+          "titre": "l'amendement n° 3945 de M. Sansu après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9141",
+          "titre": "l'amendement n° 2617 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9139",
+          "titre": "l'amendement n° 1396 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9138",
+          "titre": "l'amendement n° 2923 de Mme Mercier après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9136",
+          "titre": "l'amendement n° 2620 de Mme Feld après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9135",
+          "titre": "l'amendement n° 2630 de M. Coquerel après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9134",
+          "titre": "l'amendement n° 49 de Mme Sas après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9133",
+          "titre": "l'amendement n° 2144 de M. Bilongo après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9132",
+          "titre": "l'amendement n° 1372 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9131",
+          "titre": "l'amendement n° 2633 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9130",
+          "titre": "l'amendement n° 1382 de M. Midy après l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9123",
+          "titre": "l'amendement n° 69 de M. Grenon et les amendements identiques suivants de suppression de l'article 15 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9122",
+          "titre": "l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9121",
+          "titre": "l'amendement n° 2305 (rect.) de M. Fugit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9117",
+          "titre": "l'amendement n° 2508 de M. Coquerel à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9116",
+          "titre": "l'amendement n° 2547 de Mme Violland à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9115",
+          "titre": "l'amendement n° 70 de M. Dufosset à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9114",
+          "titre": "l'amendement n° 1486 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9113",
+          "titre": "l'amendement n° 407 de M. Liger et les amendements identiques suivants à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9112",
+          "titre": "l'amendement n° 522 de M. Ciotti et l'amendement identique suivant à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9111",
+          "titre": "l'amendement n° 783 de M. Lhardit à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9110",
+          "titre": "l'amendement n° 3883 de Mme Olivia Grégoire à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-27",
+          "numero": "9109",
+          "titre": "l'amendement n° 1481 de M. Loubet à l'article 9 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-10-23",
           "numero": "9097",
@@ -1512,13 +1645,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "contre",
           "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "abstention",
-          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1572,7 +1698,7 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 318,
+        "pour": 317,
         "contre": 204,
         "abstention": 24,
         "non-votant": 0,
@@ -5393,13 +5519,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -5453,8 +5572,8 @@
         "PA642935"
       ],
       "decompte": {
-        "pour": 24,
-        "contre": 11,
+        "pour": 20,
+        "contre": 8,
         "abstention": 1,
         "non-votant": 0,
         "conflit": 0
@@ -5662,55 +5781,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
           "vote": "pour",
           "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7905",
-          "titre": "l'ensemble du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (texte de la commission mixte paritaire).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7904",
-          "titre": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-06-30",
-          "numero": "7902",
-          "titre": "l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-06-30",
-          "numero": "7901",
-          "titre": "l'amendement n° 209 de Mme Miller et les amendements identiques suivants à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-06-30",
-          "numero": "7900",
-          "titre": "l'amendement n° 113 de Mme Cathala à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-06-30",
-          "numero": "7899",
-          "titre": "l'amendement n° 38 de Mme Capdevielle à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-06-30",
-          "numero": "7898",
-          "titre": "l'amendement n° 122 de Mme Cathala à l'article premier du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA642935"
         }
       ]
     },
@@ -5722,7 +5792,7 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 25,
+        "pour": 24,
         "contre": 31,
         "abstention": 5,
         "non-votant": 0,
@@ -6148,13 +6218,6 @@
           "titre": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
           "vote": "pour",
           "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-01",
-          "numero": "7904",
-          "titre": "l'ensemble de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (deuxième lecture).",
-          "vote": "pour",
-          "acteurRef": "PA609332"
         }
       ]
     },
@@ -6173,5 +6236,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "aecccc4853fc05ea6ef451b816b8ce5c64b1cb724974e2d43abcb59b796dfc0e"
+  "actorsArchiveSha256": "d436a72dadf4eb4d5a39897f44ff2ff2a91543a3da63bcd7b44d42fbf6c23193"
 }

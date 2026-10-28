@@ -1,13 +1,13 @@
 {
   "schemaVersion": "30.0",
-  "generatedAt": "2026-10-27T07:56:10+00:00",
+  "generatedAt": "2026-10-28T08:09:06+00:00",
   "sources": {
     "votes": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
     "acteurs": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip"
   },
   "baseSha256": "6a2381334f9677669bdaa5bd57a870605ed585c873f353e4122279559f0aad2d",
-  "totalVotesLies": 817,
-  "scrutinsDistincts": 614,
+  "totalVotesLies": 826,
+  "scrutinsDistincts": 630,
   "questionsAvecRegles": 17,
   "propositions": [
     {
