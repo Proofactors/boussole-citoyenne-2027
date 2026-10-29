@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-10-28T08:09:06+00:00",
+  "generatedAt": "2026-10-29T08:11:31+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "3046afac9f2579cb22c8fb589388ceceb7a66439da903e30c0486ee2d2faf201",
+  "votesArchiveSha256": "b13c60a037b6f1922508119be501ef26dc5e688d471e6c1493eec1d9993b4746",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -15,7 +15,7 @@
         "PA720614"
       ],
       "decompte": {
-        "pour": 21,
+        "pour": 18,
         "contre": 5,
         "abstention": 1,
         "non-votant": 0,
@@ -189,27 +189,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA720614"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA720614"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA720614"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA720614"
         }
       ]
     },
@@ -249,7 +228,7 @@
         "PA722190"
       ],
       "decompte": {
-        "pour": 32,
+        "pour": 29,
         "contre": 21,
         "abstention": 0,
         "non-votant": 0,
@@ -605,27 +584,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA722190"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA722190"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA722190"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA722190"
         }
       ]
     },
@@ -723,8 +681,8 @@
         "PA722142"
       ],
       "decompte": {
-        "pour": 6,
-        "contre": 10,
+        "pour": 5,
+        "contre": 7,
         "abstention": 2,
         "non-votant": 0,
         "conflit": 0
@@ -826,34 +784,6 @@
           "numero": "8042",
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
           "vote": "contre",
-          "acteurRef": "PA722142"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA722142"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA722142"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA722142"
-        },
-        {
-          "date": "2026-07-06",
-          "numero": "7979",
-          "titre": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
-          "vote": "pour",
           "acteurRef": "PA722142"
         }
       ]
@@ -1108,7 +1038,7 @@
       ],
       "decompte": {
         "pour": 47,
-        "contre": 25,
+        "contre": 22,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
@@ -1624,27 +1554,6 @@
           "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
           "vote": "contre",
           "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1699,7 +1608,7 @@
       ],
       "decompte": {
         "pour": 317,
-        "contre": 204,
+        "contre": 201,
         "abstention": 24,
         "non-votant": 0,
         "conflit": 0
@@ -5498,27 +5407,6 @@
           "titre": "l'ensemble du projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -5572,7 +5460,7 @@
         "PA642935"
       ],
       "decompte": {
-        "pour": 20,
+        "pour": 18,
         "contre": 8,
         "abstention": 1,
         "non-votant": 0,
@@ -5767,20 +5655,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
           "vote": "pour",
           "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
         }
       ]
     },
@@ -5792,8 +5666,8 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 24,
-        "contre": 31,
+        "pour": 21,
+        "contre": 27,
         "abstention": 5,
         "non-votant": 0,
         "conflit": 0
@@ -6169,55 +6043,6 @@
           "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (texte de la commission mixte paritaire).",
           "vote": "contre",
           "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7987",
-          "titre": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7985",
-          "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7983",
-          "titre": "l'amendement n° 16 de M. Bompard au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7982",
-          "titre": "la proposition du Gouvernement de prolonger la séance en cours au-delà de vingt heures (proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions) (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7981",
-          "titre": "l'ensemble du projet de loi organique relatif au renforcement des juridictions criminelles (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-07",
-          "numero": "7980",
-          "titre": "l'ensemble du projet de loi sur la justice criminelle et le respect des victimes (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA609332"
-        },
-        {
-          "date": "2026-07-06",
-          "numero": "7979",
-          "titre": "la motion de censure déposée en application de l'article 49, alinéa 2, de la Constitution par Mmes Cyrielle Chatelain, Nadège Abomangoli et 56 députés.",
-          "vote": "pour",
-          "acteurRef": "PA609332"
         }
       ]
     },
@@ -6236,5 +6061,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "d436a72dadf4eb4d5a39897f44ff2ff2a91543a3da63bcd7b44d42fbf6c23193"
+  "actorsArchiveSha256": "392d87122fed3794d8b2ced6b4c5f6aaab8892248019c5efea0697c63d86727a"
 }

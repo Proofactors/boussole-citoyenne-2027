@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:08:41.057530+00:00",
-  "total": 284,
+  "generatedAt": "2026-10-29T08:11:07.652947+00:00",
+  "total": 333,
   "statistiques": {
     "a_examiner_en_priorite": 5,
-    "a_qualifier": 89,
-    "signal_non_qualifie": 190
+    "a_qualifier": 104,
+    "signal_non_qualifie": 224
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -37,6 +37,177 @@
       "extraitsRSS": [
         "Rapport d'information n° 968 de M.",
         "Pascal ALLIZARD, fait au nom de la commission des affaires européennes : Activité de l'Assemblée parlementaire de l'Organisation pour la sécurité et la coopération en Europe (AP-OSCE) au cours des années 2024 et 2025 et de janvier à septembre 2026 (30 septembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fe4f48a2d3d45e1cc8b28c80",
+      "title": "Délits routiers - texte N° 37",
+      "url": "http://www.senat.fr/leg/ppl26-037.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi supprimant l'excuse de minorité pour les délits routiers : texte N° 37 de M.",
+        "Dany WATTEBLED, déposé au Sénat le 13 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e9bdf9c4f23f8be129d0e056",
+      "title": "Droit des victimes à l'information et à la compréhension des procédures - texte de la commission N° 107",
+      "url": "http://www.senat.fr/leg/ppl26-107.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi relative au droit des victimes à l'information et à la compréhension des procédures et décisions de justice : texte de la commission N° 107 déposé le 27 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d58b9e9f2c0c5e8668abaa09",
+      "title": "Loi SRU et communes accueillant un établissement pénitentiaire - texte N° 42",
+      "url": "http://www.senat.fr/leg/ppl26-042.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi en faveur d'une application raisonnée de l'article 55 de la loi SRU dans les communes accueillant un établissement pénitentiaire : texte N° 42 de M.",
+        "Dany WATTEBLED, déposé au Sénat le 13 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c93488e5b587f790f5be5551",
+      "title": "Suppression des titres de séjour territorialisés à Mayotte - texte N° 104",
+      "url": "http://www.senat.fr/leg/ppl26-104.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-08",
+          "theme": "immigration",
+          "keywords": [
+            "sejour",
+            "titres"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Proposition de loi visant à la suppression des titres de séjour territorialisés à Mayotte : texte N° 104 résultat des travaux de la commission le 27 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b4828b77aae9ef1ef989f7cb",
+      "title": "Zones de protection des aires d'alimentation des captages - texte N° 36",
+      "url": "http://www.senat.fr/leg/ppl26-036.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-ecologie-08",
+          "theme": "ecologie",
+          "keywords": [
+            "protection",
+            "zones"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Proposition de loi visant à prendre en compte les zones de protection des aires d'alimentation des captages dans l'application de la loi SRU : texte N° 36 de M.",
+        "Dany WATTEBLED, déposé au Sénat le 13 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8f0e25e2cc5b91529d57affd",
+      "title": "Victimes de violences conjugales - texte N° 30",
+      "url": "http://www.senat.fr/leg/ppl26-030.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi créant un dispositif d'accompagnateur vigilant au bénéfice des victimes de violences conjugales : texte N° 30 de M.",
+        "Dany WATTEBLED et Mme Marie-Claude LERMYTTE, déposé au Sénat le 12 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8e71fb58dae20e699d800c9c",
+      "title": "Risques d'intoxication au monoxyde de carbone - texte N° 27",
+      "url": "http://www.senat.fr/leg/ppl26-027.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi relative à la prévention des risques d'intoxication au monoxyde de carbone : texte N° 27 de M.",
+        "Dany WATTEBLED et Mme Marie-Claude LERMYTTE, déposé au Sénat le 12 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7bf2103efa38c27f611b8f54",
+      "title": "Engagement associatif et citoyen - texte N° 31",
+      "url": "http://www.senat.fr/leg/ppl26-031.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à mieux valoriser l'engagement associatif et citoyen tout au long de la vie : texte N° 31 de M.",
+        "Dany WATTEBLED et Mme Marie-Claude LERMYTTE, déposé au Sénat le 12 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "65e223a3888e221b2a65992d",
+      "title": "Instaurer un moratoire sur le déremboursement des cures thermales - texte N° 99",
+      "url": "http://www.senat.fr/leg/ppr26-099.html",
+      "sourcePublishedAt": "Wed,28 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de résolution en application de l'article 34-1 de la Constitution, appelant le Gouvernement à instaurer un moratoire sur le déremboursement des cures thermales : texte N° 99 de MM.",
+        "Éric GOLD et Jean-Yves ROUX, déposé au Sénat le 23 octobre 2026"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -336,6 +507,491 @@
         "Rapport d'information n° 845 de M.",
         "Jean-François RAPIN, Mme Marta de CIDRAC, M.",
         "Louis-Jean de NICOLAY, Mme Amel GACQUERRE, MM."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4fa9d62b4249f9620f889bd3",
+      "title": "\"Un citoyen qui fuit son pays a forcément quelque chose à cacher\" : la fuite de Flavio Bolsonaro à Miami après sa défaite au Brésil fait réagir le président Lula",
+      "url": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 23:35:11 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Il y a 48 heures, il pensait être élu président du Brésil, aujourd'hui, Flavio Bolsonaro est en cavale.",
+        "Après avoir disparu des radars, passé par l’Argentine puis l’Equateur, le leader populiste a atterri ce mercredi avec sa famille à Miami.",
+        "Il est visé par plusieurs enquêtes pour corruption, blanchiment d’argent et fraude fiscale dans son pays."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f039beb6c4219f3fa293d4d0",
+      "title": "Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?",
+      "url": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 23:11:45 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le gouvernement cherche des réponses pour calmer la colère sociale.",
+        "Parmi les pistes : avancer d’un mois la revalorisation du Smic, prévue le 1er janvier 2027 et y ajouter un coup de pouce.",
+        "Il pourrait augmenter de 22 euros par mois."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "840ddf420593711aabd6d4a1",
+      "title": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 21:52:43 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal",
+        "bruno-retailleau",
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président de Renaissance a proposé plus tôt dans la journée de mercredi l'organisation d'une primaire allant de Bruno Retailleau à Raphaël Glucksmann afin \"d’empêcher un deuxième tour\" entre \"La France insoumise et le Rassemblement national\" lors du scrutin national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7e63361bc22cc473d54754d3",
+      "title": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 21:52:43 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal",
+        "bruno-retailleau",
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président de Renaissance a proposé plus tôt dans la journée de mercredi l'organisation d'une primaire allant de Bruno Retailleau à Raphaël Glucksmann afin \"d’empêcher un deuxième tour\" entre \"La France insoumise et le Rassemblement national\" lors du scrutin national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6871a089e984f69a78c006c7",
+      "title": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 21:41:09 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat du parti Renaissance a fait un pas, mercredi, vers l'organisation d'une primaire élargie, une perspective pour l'heure rejetée par son rival Horizons Edouard Philippe."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1367378ccacef73c3eba49af",
+      "title": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 21:41:09 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat du parti Renaissance a fait un pas, mercredi, vers l'organisation d'une primaire élargie, une perspective pour l'heure rejetée par son rival Horizons Edouard Philippe."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1dea4160c67fb105af3f7353",
+      "title": "Présidentielle 2027 : Gabriel Attal appelle à organiser une \"primaire des démocrates\"",
+      "url": "https://www.france24.com/fr/france/20261028-gabriel-attal-pr%C3%B4ne-une-primaire-des-d%C3%A9mocrates-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 20:38:40 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Gabriel Attal, candidat à la présidentielle française, a proposé mercredi l'organisation d'une \"primaire des démocrates\" pour empêcher que le second tour oppose LFI au RN.",
+        "L'accueil de cette idée est pour l'instant plutôt froid chez les partisans d'Édouard Philippe et Bruno Retailleau."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "db9fdc946b1ba4cb0e40cec5",
+      "title": "Il n'est \"pas question de changer les dates de l'élection présidentielle\", répond le gouvernement à Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-gouvernement-oppose-une-fin-de-non-recevoir-a-la-demande-de-bruno-retailleau-de-changer-les-dates-de-la-presidentielle_8257021.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 19:29:34 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat des Républicains à l'Elysée considère qu'un second tour organisé le 2 mai, au lendemain des traditionnelles manifestations de la fête du travail, est de nature à fausser le scrutin."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c90ba86ab99e1f0cb130e653",
+      "title": "La gauche dénonce la tenue de manifestations \"néofascistes\" ce week-end à Paris",
+      "url": "https://www.france24.com/fr/france/20261028-gauche-d%C3%A9nonce-tenue-manifestations-n%C3%A9ofascistes-week-end-paris-lfi-ps-pcf-objectif-remigration",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 18:21:16 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La France insoumise et plusieurs voix de la gauche ont dénoncé mercredi la tenue de plusieurs événements \"néofascistes\" ce week-end à Paris.",
+        "Parmi eux, une séance de dédicace, prévue vendredi, du militant autrichien d'extrême droite Martin Sellner, ou encore une manifestation prévue dimanche par le collectif Objectif remigration."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "af44184eb8ccd8cea1de658a",
+      "title": "\"Cinq églises brûlées en un jour par des musulmans\" ? Un chiffre inventé par des comptes islamophobes",
+      "url": "https://www.france24.com/fr/france/20261028-cinq-%C3%A9glises-br%C3%BBl%C3%A9es-un-jour-musulmans-chiffre-invent%C3%A9-comptes-islamophobes",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 17:07:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après les violences en marge des manifestations du 17 octobre en France, des comptes étrangers anti-immigration affirment que des musulmans auraient incendié cinq églises dans l’Hexagone en une seule journée.",
+        "Mais ce chiffre ne repose sur rien : l’Observatoire du patrimoine religieux n’a recensé qu’un seul incendie d’église ces derniers jours, à l'origine encore inconnue."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "abd1215c111a37cccf02a02b",
+      "title": "Attentat de Trappes : \"Il y a une continuité entre les discours de haine et les actes\"",
+      "url": "https://www.france24.com/fr/france/20261028-attentat-trappes-il-y-a-continuite-entre-discours-haine-actes-racisme-extreme-droite-rn-reconquete-le-pen-zemmour",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 17:03:16 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le discours des partis d'extrême droite, Rassemblement national et Reconquête !, est mis en cause depuis l'attaque terroriste raciste qui a fait un mort à Trappes.",
+        "Le Premier ministre, Sébastien Lecornu, a dénoncé mardi devant l'Assemblée nationale \"les mots qui finissent par armer ceux qui passent à l'acte\".",
+        "Une analyse à laquelle souscrit la sémiologue Cécile Alduy, spécialiste des discours de l'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c8ceeafb1fe8092bf5b36a4d",
+      "title": "La jungle de Calais : le symbole de la crise migratoire européenne 10 ans après sa destruction",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-la-jungle-de-calais-le-symbole-de-la-crise-migratoire-europ%C3%A9enne-10-ans-apr%C3%A8s-sa-destruction",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 15:52:03 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Il y a 10 ans, le 24 octobre 2016, la jungle de Calais, le plus grand campement de migrants souhaitant rejoindre l'Angleterre qu'a connu la France, a été démantelée.",
+        "L'immense bidonville qui a abrité jusqu'à 10 000 migrants et a attiré l'attention des médias du monde entier a été totalement détruit.",
+        "À l'occasion de cette commémoration, la rédaction d’InfoMigrants s’est intéressée à ce qui a changé dans cette ville de Calais en 10 ans."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c5c6fc988fdf189b0dcfe92b",
+      "title": "Faut-il changer la date de la présidentielle 2027 ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/faut-il-changer-la-date-de-la-presidentielle-2027_8257450.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 15:24:22 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Faut-il avancer les dates de la prochaine élection présidentielle ?",
+        "Le scrutin est fixé aux 18 avril et 2 mai prochains.",
+        "Mais cette date du second tour pose question selon certains candidats."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e2fad25d45b380f524423fb6",
+      "title": "Flavio Bolsonaro est arrivé aux États-Unis après avoir fui le Brésil",
+      "url": "https://www.franceinfo.fr/monde/bresil/flavio-bolsonaro-est-arrive-aux-etats-unis-apres-avoir-fui-le-bresil_8257471.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 15:24:01 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Flavio Bolsonaro, en fuite après sa défaite à l'élection présidentielle au Brésil, est arrivé, mercredi 28 octobre, sur le sol américain.",
+        "Le candidat d'extrême droite et ses proches se sont vu accorder des visas par l'administration du président américain, Donald Trump."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "afb235c29aa97f24aef9631a",
+      "title": "Le gouvernement estime qu'il n'y a \"pas de raison de changer\" les dates de la présidentielle après les violences du 17 octobre",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-gouvernement-estime-qu-il-n-y-a-pas-de-raison-de-changer-les-dates-de-la-presidentielle-apres-les-violences-du-17-octobre_8257312.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 13:44:10 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après les dégâts causés en marge des manifestations du 17 octobre, des représentants de droite et d'extrême droite ont demandé au gouvernement de modifier les dates du scrutin, dont le second tour est fixé le 2 mai, soit le lendemain du 1er-Mai, faisant craindre des débordements."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f73c9927e898c441863b14e1",
+      "title": "Pourquoi l'unité nationale contre le racisme est-elle impossible ?",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/pourquoi-l-unite-nationale-contre-le-racisme-est-elle-impossible_8257318.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 13:29:19 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À l'Assemblée nationale, l'hommage aux victimes de l'attentat raciste de Trappes devait être un moment de recueillement et d'unité.",
+        "Il s'est rapidement transformé en nouvel affrontement politique.",
+        "L'Edito politique de Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "aeae4c2a50ff32eb4a11d8be",
+      "title": "Attentat de Trappes : bataille politique à l'Assemblée nationale",
+      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261028-attentat-de-trappes-bataille-politique-%C3%A0-l-assembl%C3%A9e-nationale",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 12:24:33 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'Assemblée nationale a observé une minute de silence pour les victimes de l'attentat raciste de Trappes qui a fait un mort et cinq blessés.",
+        "Si la minute de silence a été respectée, la concorde n'a pas duré longtemps.",
+        "La séance de questions au gouvernement a viré au pugilat où chacun a accusé l'autre d'être responsable d'une ambiance délétère."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fa0674ec216471daa86e9e03",
+      "title": "Le nombre de demandeurs d'emploi en catégorie A a augmenté de 0,9% au troisième trimestre 2026, rapporte le ministère du Travail",
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage/le-nombre-de-demandeurs-d-emploi-en-categorie-a-a-augmente-de-0-9-au-troisieme-trimestre-2026-rapporte-le-ministere-du-travail_8256991.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 12:18:37 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "demandeurs",
+            "travail"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Selon le ministère du Travail, \"ces évolutions sont affectées par les effets de la loi pour le plein emploi et ne reflètent donc pas des évolutions conjoncturelles\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "351bbabdb155f5048b07db4f",
+      "title": "Gilles Boyer (Horizons) : \"Je ne suis pas pour qu'on interdise quiconque de s'exprimer\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261028-gilles-boyer-horizons-je-ne-suis-pas-pour-qu-on-interdise-quiconque-de-s-exprimer",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 12:10:53 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après l'attentat de Trappes, la banalisation des discours haineux et racistes est dénoncée par la gauche.",
+        "Le maire LFI de Saint-Denis, Bally Bagayoko, a appelé à interdire d'antenne le Rassemblement national (RN).",
+        "Gilles Boyer, codirecteur de la campagne d'Édouard Philippe estime que \"le RN ne peut pas être empêché, pas plus qu'un autre\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a32fc94ee14bee85bbab4943",
+      "title": "Les informés du matin du mercredi 28 octobre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-28-octobre-2026_8236318.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 12:09:14 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Audrey Tison et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c5cb0098923160a2740a18d9",
+      "title": "Chine : la star française Kylian Mbappé s'excuse, Pékin dit prendre ses mots au \"sérieux\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-chine-la-star-fran%C3%A7aise-kylian-mbapp%C3%A9-s-excuse-p%C3%A9kin-dit-prendre-ses-mots-au-s%C3%A9rieux",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 11:31:00 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Les excuses de Kylian Mbappé ne suffisent pas mercredi 28 octobre à dissiper les critiques à son encontre sur les réseaux sociaux chinois.",
+        "Le capitaine de l'équipe de France s'est excusé mardi 27 octobre pour avoir évoqué l'ancien dirigeant Mao Zedong dans le podcast The Bridge."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2f26ec326e22f5729293a837",
+      "title": "Attentat de Trappes : un hommage national à la victime sera bien organisé",
+      "url": "https://www.france24.com/fr/france/20261028-attentat-de-trappes-un-hommage-national-%C3%A0-la-victime-sera-bien-organis%C3%A9",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 11:22:42 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La porte-parole du gouvernement, Maud Bregeon, a annoncé mercredi lors du compte-rendu du conseil des ministres qu'un hommage national sera rendu à Pengo Bossio Wangi, tué le 23 octobre à Trappes dans un attentat terroriste raciste.",
+        "La date de cet hommage qui sera présidé par le Premier ministre Sébastien Lecornu n'est pas encore connue."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7dcd6694cc2ea0784e64334d",
+      "title": "\"Un projet qui n'est pas le bon pour la France\" : Bruno Retailleau balaie la main tendue du RN en vue d'un éventuel gouvernement d'union des droites",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/un-projet-qui-n-est-pas-le-bon-pour-la-france-bruno-retailleau-balaie-la-main-tendue-du-rn-en-vue-d-un-eventuel-gouvernement-d-union-des-droites_8257030.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 10:51:56 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Bruno Retailleau a toutefois reconnu des \"convergences\" avec Marine Le Pen, notamment sur \"l'ordre public, le régalien\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1831925866b4eb7d354b79ca",
+      "title": "Attentat raciste dans les Yvelines : de la minute de silences aux invectives",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-attentat-raciste-dans-les-yvelines-de-la-minute-de-silences-aux-invectives",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 10:47:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sébastien Lecornu, a accusé, mardi 27 octobre, la gauche de \"recel politicien\" après l'attentat raciste de Trappes et de \"faire le jeu du Rassemblement National\" après que les députés socialistes et écologistes ont quitté l'hémicycle lors des questions au gouvernement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "579bea7221ad23d8ff05c6a6",
+      "title": "Paris continuera de plaider pour une solution à deux Etats, quel que soit le résultat des élections législatives en Israël, affirme Jean-Noël Barrot",
+      "url": "https://www.franceinfo.fr/monde/israel/la-diplomatie-francaise-continuera-de-pousser-pour-une-solution-a-deux-etats-quel-que-soit-le-resultat-des-elections-legislatives-en-israel-affirme-jean-noel-barrot_8256982.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 10:14:55 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Notre cap est très clair et notre position est inchangée\", a martelé le ministre français des Affaires étrangères, invité de France 2 mercredi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ffd6e9c59f3ffcebc87e7e41",
+      "title": "Élections en Israël : \"Il n'y a pas d'autre solution que la solution à deux États pour que la paix et la stabilité puissent être instaurées dans cette région\", affirme Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères.",
+      "url": "https://www.franceinfo.fr/politique/elections-en-israel-il-n-y-a-pas-d-autre-solution-que-la-solution-a-deux-etats-pour-que-la-paix-et-la-stabilite-puissent-etre-instaurees-dans-cette-region-affirme-jean-noel-barrot-ministre-de-l-europe-et-des-affaires-etrangeres_8256958.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 28 Oct 2026 09:33:48 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jean-Noël Barrot, ministre de l'Europe et des Affaires étrangères, revient ce mercredi 28 octobre dans les \"4 Vérités\" sur les élections en Israël et la position de la France concernant la solution à deux États.",
+        "Il évoque également la colonisation en Cisjordanie et les mesures envisagées pour mettre fin au commerce avec les colonies israéliennes.",
+        "Il réagit enfin aux manifestations en France et à leur impact sur l'image du pays à l'étranger."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -1716,6 +2372,130 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "b7302269ab1a92ad509ff6d8",
+      "title": "Créer un parc social d'un million d'automobiles électriques à loyer modéré - texte N° 95",
+      "url": "http://www.senat.fr/leg/ppl26-095.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à créer un parc social d'un million d'automobiles électriques à loyer modéré : texte N° 95 de M.",
+        "Daniel SALMON et plusieurs de ses collègues, déposé au Sénat le 22 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "afb7173f44fee3b2886cfb08",
+      "title": "Valoriser la réserve communale de sécurité civile - texte de la commission N° 121",
+      "url": "http://www.senat.fr/leg/ppl26-121.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à valoriser la réserve communale de sécurité civile : texte de la commission N° 121 déposé le 28 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5a4d183dcfff73c8d27d0661",
+      "title": "Améliorer la gestion des biens des sections de commune - texte de la commission N° 114",
+      "url": "http://www.senat.fr/leg/ppl26-114.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à améliorer la gestion des biens des sections de commune : texte de la commission N° 114 déposé le 28 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "409012bdf202d0cda183dc21",
+      "title": "Protéger les demandeurs de logement contre les sollicitations sexuelles - texte de la commission N° 112",
+      "url": "http://www.senat.fr/leg/ppl26-112.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à protéger les demandeurs de logement contre les sollicitations sexuelles abusives : texte de la commission N° 112 déposé le 28 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3b9bbbb7dd03d7b03a00f7bd",
+      "title": "Résoudre le fléau des désordres fonciers outre-mer - texte de la commission N° 116",
+      "url": "http://www.senat.fr/leg/ppl26-116.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à résoudre le fléau des désordres fonciers outre-mer : texte de la commission N° 116 déposé le 28 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1fcf837335440c3a7b699dfb",
+      "title": "Le Contrat d'objectifs et de moyens de l'Agence française de développement (AFD) - rapport d'information n° 119",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-119-notice.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 119 de MM.",
+        "Christian CAMBON et François REBSAMEN, fait au nom de la commission des affaires étrangères, de la défense et des forces armées : Le Contrat d'objectifs et de moyens de l'Agence française de développement (AFD) (28 octobre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0377480b6d6fc8e65f98a5e1",
+      "title": "Faciliter l'emploi des étrangers dans les secteurs d'activités en tension - texte N° 118",
+      "url": "http://www.senat.fr/leg/ppl26-118.html",
+      "sourcePublishedAt": "Thu,29 Oct 2026 02:03:46 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-04",
+          "theme": "retraites",
+          "keywords": [
+            "emploi",
+            "faciliter"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Proposition de loi visant à faciliter l'emploi des étrangers dans les secteurs d'activités en tension : texte N° 118 résultat des travaux de la commission le 28 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "def6d40e8694dd2c7442dcb5",
       "title": "Quatre délégations du Sénat ont désigné leurs bureaux",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/salle-de-presse/communiques-de-presse/presse/22-10-2026/quatre-delegations-du-senat-ont-designe-leurs-bureauxhtml.html",
@@ -2173,6 +2953,128 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi révisant le dispositif des stocks de sécurité des médicaments : texte de la commission N° 14 déposé le 7 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "835c1fc19100e2c8f91b3fc2",
+      "title": "Attentat de Trappes : Macron renvoie dos à dos le RN et LFI sur le racisme et l'antisémitisme",
+      "url": "https://www.france24.com/fr/france/20261029-attentat-de-trappes-macron-renvoie-dos-%C3%A0-dos-le-rn-et-lfi-sur-le-racisme-et-l-antis%C3%A9mitisme",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 07:39:19 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À six mois de la présidentielle, Emmanuel Macron a dénoncé, mercredi, une \"désinhibition du racisme\" du Rassemblement national et une \"désinhibition de l'antisémitisme\" de La France insoumise.",
+        "Après l'attentat \"terroriste raciste\" perpétré à Trappes, qui a coûté la vie à un Français d'origine africaine, le président a appelé à un \"sursaut\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0701ffe5c19a03e8bc94cefb",
+      "title": "SONDAGE. Le confort thermique, un critère de plus en plus important dans le choix des Français pour la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-confort-thermique-un-critere-de-plus-en-plus-important-dans-le-choix-des-francais-pour-la-presidentielle-2027-revele-un-sondage_8257793.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 07:18:26 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon un sondage franceinfo-Le Figaro immobilier, le thème du logement semble peser dans le vote de 43% des personnes interrogées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ac805ed267e8d70fc8d7698e",
+      "title": "\"On est obligés de faire attention\" : comment Raphaël Glucksmann cherche la parade face à \"l'hostilité\" des insoumis sur le terrain",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/on-est-obliges-de-faire-attention-comment-raphael-glucksmann-cherche-la-parade-face-a-l-hostilite-des-insoumis-sur-le-terrain_8257408.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 05:44:53 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir été enfariné ou hué, le candidat social-démocrate affirme être victime d'un \"harcèlement\" organisé par le mouvement mélenchoniste.",
+        "Les insoumis nient tandis que l'équipe de Raphaël Glucksmann s'interroge sur la stratégie pour poursuivre la campagne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "267fa9d13d5ee9f41780e071",
+      "title": "\"On est obligés de faire attention\" : comment Raphaël Glucksmann cherche la parade face à \"l'hostilité\" des insoumis sur le terrain",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/on-est-obliges-de-faire-attention-comment-raphael-glucksmann-cherche-la-parade-face-a-l-hostilite-des-insoumis-sur-le-terrain_8257408.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 05:44:53 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir été enfariné ou hué, le candidat social-démocrate affirme être victime d'un \"harcèlement\" organisé par le mouvement mélenchoniste.",
+        "Les insoumis nient tandis que l'équipe de Raphaël Glucksmann s'interroge sur la stratégie pour poursuivre la campagne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "68b3f5d658aa89c5a4369513",
+      "title": "Mobilisation lycéenne, Parcoursup, racisme... Ce qu'il faut retenir de l'interview d'Emmanuel Macron à la chaîne HugoDécrypte",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-lyceenne-parcoursup-racisme-ce-qu-il-faut-retenir-de-l-interview-d-emmanuel-macron-a-la-chaine-hugodecrypte_8258006.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 00:17:00 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron a appelé, mercredi, à ce que \"le calme revienne\" dans les lycées et à la reprise des cours \"à la rentrée\" de lundi \"après les vacances de la Toussaint\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cce7a41d68974e661ac7b31f",
+      "title": "En France, le Sénat vote l'imprescriptibilité des crimes sexuels commis sur les mineurs",
+      "url": "https://www.france24.com/fr/france/20261029-en-france-le-s%C3%A9nat-vote-l-imprescriptibilit%C3%A9-des-crimes-sexuels-commis-sur-les-mineurs",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 00:12:41 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les sénateurs ont largement approuvé, mercredi, l'imprescriptibilité des crimes sexuels commis sur les mineurs, une mesure inédite jusqu’ici réservée aux crimes contre l’humanité.",
+        "Le texte doit encore être validé lors d’un vote solennel puis en commission mixte paritaire."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "449aa85fd4c00ee65bf4a754",
+      "title": "En Espagne, la collision meurtrière entre deux trains fragilise-t-elle la campagne législative de Pedro Sánchez ?",
+      "url": "https://www.franceinfo.fr/monde/espagne/accident-de-trains-pres-de-tolede/en-espagne-la-collision-meurtriere-entre-deux-trains-fragilise-t-elle-la-campagne-legislative-de-pedro-sanchez_8258009.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 29 Oct 2026 00:09:16 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'Espagne est en deuil, après la catastrophe ferroviaire survenue mercredi 28 octobre.",
+        "À un mois des législatives anticipées, Pedro Sánchez promet une enquête complète.",
+        "Mais ce drame pourrait compliquer la campagne du chef du gouvernement sortant, déjà fragilisée, notamment par la crise du logement."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

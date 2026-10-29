@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-10-28T08:08:42.484769+00:00",
+  "generatedAt": "2026-10-29T08:11:08.977444+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -32,6 +32,150 @@
       "versionDiagnostic": 23,
       "nombreCaracteres": 1190,
       "tentatives": 2,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c93488e5b587f790f5be5551",
+      "titre": "Suppression des titres de séjour territorialisés à Mayotte - texte N° 104",
+      "url": "http://www.senat.fr/leg/ppl26-104.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-104.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 580,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "65e223a3888e221b2a65992d",
+      "titre": "Instaurer un moratoire sur le déremboursement des cures thermales - texte N° 99",
+      "url": "http://www.senat.fr/leg/ppr26-099.html",
+      "urlEffective": "https://www.senat.fr/leg/ppr26-099.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 579,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7bf2103efa38c27f611b8f54",
+      "titre": "Engagement associatif et citoyen - texte N° 31",
+      "url": "http://www.senat.fr/leg/ppl26-031.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-031.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 513,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "fe4f48a2d3d45e1cc8b28c80",
+      "titre": "Délits routiers - texte N° 37",
+      "url": "http://www.senat.fr/leg/ppl26-037.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-037.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 472,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d58b9e9f2c0c5e8668abaa09",
+      "titre": "Loi SRU et communes accueillant un établissement pénitentiaire - texte N° 42",
+      "url": "http://www.senat.fr/leg/ppl26-042.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-042.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 625,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "8e71fb58dae20e699d800c9c",
+      "titre": "Risques d'intoxication au monoxyde de carbone - texte N° 27",
+      "url": "http://www.senat.fr/leg/ppl26-027.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-027.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 563,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b4828b77aae9ef1ef989f7cb",
+      "titre": "Zones de protection des aires d'alimentation des captages - texte N° 36",
+      "url": "http://www.senat.fr/leg/ppl26-036.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-036.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 563,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "8f0e25e2cc5b91529d57affd",
+      "titre": "Victimes de violences conjugales - texte N° 30",
+      "url": "http://www.senat.fr/leg/ppl26-030.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-030.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 514,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e9bdf9c4f23f8be129d0e056",
+      "titre": "Droit des victimes à l'information et à la compréhension des procédures - texte de la commission N° 107",
+      "url": "http://www.senat.fr/leg/ppl26-107.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-107.html",
+      "publication": "Wed,28 Oct 2026 02:03:46 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 578,
+      "tentatives": 1,
       "passages": [],
       "modificationPositions": false
     },
@@ -236,6 +380,215 @@
       "versionDiagnostic": 23,
       "nombreCaracteres": 1286,
       "tentatives": 2,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "4fa9d62b4249f9620f889bd3",
+      "titre": "\"Un citoyen qui fuit son pays a forcément quelque chose à cacher\" : la fuite de Flavio Bolsonaro à Miami après sa défaite au Brésil fait réagir le président Lula",
+      "url": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/monde/bresil/un-citoyen-qui-fuit-son-pays-a-forcement-quelque-chose-a-cacher-la-fuite-de-flavio-bolsonaro-a-miami-apres-sa-defaite-au-bresil-fait-reagir-le-president-lula_8257958.html",
+      "publication": "Wed, 28 Oct 2026 23:35:11 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9971,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f039beb6c4219f3fa293d4d0",
+      "titre": "Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?",
+      "url": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html",
+      "publication": "Wed, 28 Oct 2026 23:11:45 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10068,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7e63361bc22cc473d54754d3",
+      "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html",
+      "publication": "Wed, 28 Oct 2026 21:52:43 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8997,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "840ddf420593711aabd6d4a1",
+      "titre": "Le candidat LR à la présidentielle Bruno Retailleau juge \"fantaisiste et ridicule\" l'organisation d'une \"grande primaire des démocrates\" proposée par son adversaire Gabriel Attal",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-lr-a-la-presidentielle-bruno-retailleau-juge-fantaisiste-et-ridicule-l-organisation-d-une-grande-primaire-des-democrates-proposee-par-son-adversaire-gabriel-attal_8257928.html",
+      "publication": "Wed, 28 Oct 2026 21:52:43 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8997,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "1367378ccacef73c3eba49af",
+      "titre": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html",
+      "publication": "Wed, 28 Oct 2026 21:41:09 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9041,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "Interrogé sur son rival au centre droit Edouard Philippe, qui jusqu'ici refuse un tel processus de sélection, Gabriel Attal s'est dit \"convaincu que ceux qui feront le choix de rester à l'écart de ce moment de rassemblement (...) porteront quelque part la responsabilité de la division\" .",
+          "motsCommuns": [
+            "choix",
+            "droit"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "6871a089e984f69a78c006c7",
+      "titre": "Gabriel Attal plaide pour l'organisation d'une \"grande primaire des démocrates\" en vue de la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-plaide-pour-l-organisation-d-une-grande-primaire-des-democrates-en-vue-de-la-presidentielle_8257895.html",
+      "publication": "Wed, 28 Oct 2026 21:41:09 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9041,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "Interrogé sur son rival au centre droit Edouard Philippe, qui jusqu'ici refuse un tel processus de sélection, Gabriel Attal s'est dit \"convaincu que ceux qui feront le choix de rester à l'écart de ce moment de rassemblement (...) porteront quelque part la responsabilité de la division\" .",
+          "motsCommuns": [
+            "choix",
+            "droit"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "1dea4160c67fb105af3f7353",
+      "titre": "Présidentielle 2027 : Gabriel Attal appelle à organiser une \"primaire des démocrates\"",
+      "url": "https://www.france24.com/fr/france/20261028-gabriel-attal-pr%C3%B4ne-une-primaire-des-d%C3%A9mocrates-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france",
+      "urlEffective": "https://www.france24.com/fr/france/20261028-gabriel-attal-pr%C3%B4ne-une-primaire-des-d%C3%A9mocrates-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france",
+      "publication": "Wed, 28 Oct 2026 20:38:40 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7187,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "defense-europeenne",
+          "theme": "europe",
+          "passageSource": "Gabriel Attal a dit \"tend(re) la main à tous les candidats\" qui \"partagent un certain nombre de valeurs\", dont \"la défense des valeurs de la République et notamment l'autorité, la laïcité, la lutte contre les discriminations, l'Europe et la construction européenne, la compétitivité de notre économie, le progrès social et écologique\" et qui portent \"un refus clair et net de toute alliance avec l'extrême gauche ou avec l'extrême droite\".",
+          "motsCommuns": [
+            "defense",
+            "europeenne"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "db9fdc946b1ba4cb0e40cec5",
+      "titre": "Il n'est \"pas question de changer les dates de l'élection présidentielle\", répond le gouvernement à Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-gouvernement-oppose-une-fin-de-non-recevoir-a-la-demande-de-bruno-retailleau-de-changer-les-dates-de-la-presidentielle_8257021.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/le-gouvernement-oppose-une-fin-de-non-recevoir-a-la-demande-de-bruno-retailleau-de-changer-les-dates-de-la-presidentielle_8257021.html",
+      "publication": "Wed, 28 Oct 2026 19:29:34 +0100",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11731,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c90ba86ab99e1f0cb130e653",
+      "titre": "La gauche dénonce la tenue de manifestations \"néofascistes\" ce week-end à Paris",
+      "url": "https://www.france24.com/fr/france/20261028-gauche-d%C3%A9nonce-tenue-manifestations-n%C3%A9ofascistes-week-end-paris-lfi-ps-pcf-objectif-remigration",
+      "urlEffective": "https://www.france24.com/fr/france/20261028-gauche-d%C3%A9nonce-tenue-manifestations-n%C3%A9ofascistes-week-end-paris-lfi-ps-pcf-objectif-remigration",
+      "publication": "Wed, 28 Oct 2026 18:21:16 GMT",
+      "analyseLe": "2026-10-29T08:11:08.977444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5045,
+      "tentatives": 1,
       "passages": [],
       "modificationPositions": false
     },
@@ -4315,10 +4668,10 @@
     }
   ],
   "statistiques": {
-    "documents": 226,
-    "textesLus": 222,
+    "documents": 244,
+    "textesLus": 240,
     "pdfLus": 0,
-    "passagesCandidats": 34,
+    "passagesCandidats": 37,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "http_403": 4
