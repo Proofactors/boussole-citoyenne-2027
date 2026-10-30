@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-10-29T08:11:31+00:00",
+  "generatedAt": "2026-10-30T08:11:28+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "b13c60a037b6f1922508119be501ef26dc5e688d471e6c1493eec1d9993b4746",
+  "votesArchiveSha256": "f87f6ffc2d9cd0b11e937b58db491b8fcc573bd335a0bf547b6032de7bdb70fc",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -681,13 +681,27 @@
         "PA722142"
       ],
       "decompte": {
-        "pour": 5,
+        "pour": 7,
         "contre": 7,
         "abstention": 2,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-10-29",
+          "numero": "9203",
+          "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA722142"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9202",
+          "titre": "l'article premier de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA722142"
+        },
         {
           "date": "2026-10-13",
           "numero": "8706",
@@ -1037,13 +1051,104 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 47,
-        "contre": 22,
+        "pour": 52,
+        "contre": 30,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-10-29",
+          "numero": "9241",
+          "titre": "l'ensemble de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9240",
+          "titre": "l'article 4 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9239",
+          "titre": "l'article 3 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9238",
+          "titre": "l'article 2 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9237",
+          "titre": "l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9236",
+          "titre": "le sous-amendement n° 90 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9235",
+          "titre": "le sous-amendement n° 89 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9234",
+          "titre": "le sous-amendement n° 88 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9233",
+          "titre": "le sous-amendement n° 73 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9232",
+          "titre": "le sous-amendement n° 72 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9231",
+          "titre": "le sous-amendement n° 71 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9230",
+          "titre": "le sous-amendement n° 70 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9229",
+          "titre": "le sous-amendement n° 69 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-10-27",
           "numero": "9142",
@@ -1607,13 +1712,279 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 317,
-        "contre": 201,
+        "pour": 322,
+        "contre": 234,
         "abstention": 24,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-10-29",
+          "numero": "9241",
+          "titre": "l'ensemble de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9240",
+          "titre": "l'article 4 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9239",
+          "titre": "l'article 3 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9238",
+          "titre": "l'article 2 de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9237",
+          "titre": "l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9236",
+          "titre": "le sous-amendement n° 90 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9235",
+          "titre": "le sous-amendement n° 89 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9234",
+          "titre": "le sous-amendement n° 88 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9233",
+          "titre": "le sous-amendement n° 73 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9232",
+          "titre": "le sous-amendement n° 72 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9231",
+          "titre": "le sous-amendement n° 71 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9230",
+          "titre": "le sous-amendement n° 70 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9229",
+          "titre": "le sous-amendement n° 69 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9228",
+          "titre": "le sous-amendement n° 68 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9227",
+          "titre": "le sous-amendement n° 67 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9226",
+          "titre": "le sous-amendement n° 66 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9225",
+          "titre": "le sous-amendement n° 65 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9224",
+          "titre": "le sous-amendement n° 64 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9223",
+          "titre": "le sous-amendement n° 63 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9222",
+          "titre": "le sous-amendement n° 62 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9221",
+          "titre": "le sous-amendement n° 61 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9220",
+          "titre": "le sous-amendement n° 60 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9219",
+          "titre": "le sous-amendement n° 59 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9218",
+          "titre": "le sous-amendement n° 58 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9217",
+          "titre": "le sous-amendement n° 57 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9216",
+          "titre": "le sous-amendement n° 56 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9215",
+          "titre": "le sous-amendement n° 55 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9214",
+          "titre": "le sous-amendement n° 54 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9213",
+          "titre": "le sous-amendement n° 53 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9212",
+          "titre": "le sous-amendement n° 52 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9211",
+          "titre": "le sous-amendement n° 51 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9210",
+          "titre": "le sous-amendement n° 50 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9209",
+          "titre": "le sous-amendement n° 49 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9208",
+          "titre": "le sous-amendement n° 48 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9207",
+          "titre": "le sous-amendement n° 47 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9206",
+          "titre": "le sous-amendement n° 46 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9205",
+          "titre": "le sous-amendement n° 45 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-10-29",
+          "numero": "9204",
+          "titre": "le sous-amendement n° 44 de M. Bernhardt à l'amendement n° 2 de M. Tryzna à l'article premier de la proposition de loi visant à créer un parcours de soins intégralement pris en charge par la sécurité sociale pour toutes les victimes de violences sexuelles (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-10-23",
           "numero": "9097",
@@ -5666,13 +6037,20 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 21,
+        "pour": 22,
         "contre": 27,
         "abstention": 5,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-10-29",
+          "numero": "9203",
+          "titre": "l'ensemble de la proposition de loi visant à créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
         {
           "date": "2026-10-15",
           "numero": "8751",
@@ -6061,5 +6439,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "392d87122fed3794d8b2ced6b4c5f6aaab8892248019c5efea0697c63d86727a"
+  "actorsArchiveSha256": "97663bdfc94dc54f5ef7954a38dd4f9f1d6301fdc4281a69f8e887be6a215672"
 }

@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-29T08:11:31+00:00",
+  "date": "2026-10-30T08:11:28+00:00",
   "scrutinsEchantillon": 1200,
-  "scrutinsArchive": 9200,
+  "scrutinsArchive": 9241,
   "personnalites": 30,
-  "votesIndividuels": 801,
+  "votesIndividuels": 855,
   "identifiantsUniques": 9,
   "lignes": [
     {
@@ -80,7 +80,7 @@
       "personnalite": "francois-ruffin",
       "id_an": "PA722142",
       "identification": "identifiant_unique",
-      "votes": 14,
+      "votes": 16,
       "positions": 37
     },
     {
@@ -143,7 +143,7 @@
       "personnalite": "emmanuel-maurel",
       "id_an": "PA842271",
       "identification": "identifiant_unique",
-      "votes": 73,
+      "votes": 86,
       "positions": 41
     },
     {
@@ -171,7 +171,7 @@
       "personnalite": "jerome-guedj",
       "id_an": "PA1567",
       "identification": "identifiant_unique",
-      "votes": 542,
+      "votes": 580,
       "positions": 41
     },
     {
@@ -206,7 +206,7 @@
       "personnalite": "olivier-faure",
       "id_an": "PA609332",
       "identification": "identifiant_unique",
-      "votes": 53,
+      "votes": 54,
       "positions": 55
     },
     {
