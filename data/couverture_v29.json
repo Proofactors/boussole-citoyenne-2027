@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-30T08:11:28+00:00",
+  "date": "2026-10-31T07:59:05+00:00",
   "scrutinsEchantillon": 1200,
-  "scrutinsArchive": 9241,
+  "scrutinsArchive": 9459,
   "personnalites": 30,
-  "votesIndividuels": 855,
+  "votesIndividuels": 879,
   "identifiantsUniques": 9,
   "lignes": [
     {
       "personnalite": "marine-le-pen",
       "id_an": "PA720614",
       "identification": "identifiant_unique",
-      "votes": 24,
+      "votes": 22,
       "positions": 67
     },
     {
@@ -31,7 +31,7 @@
       "personnalite": "gabriel-attal",
       "id_an": "PA722190",
       "identification": "identifiant_unique",
-      "votes": 50,
+      "votes": 38,
       "positions": 41
     },
     {
@@ -80,7 +80,7 @@
       "personnalite": "francois-ruffin",
       "id_an": "PA722142",
       "identification": "identifiant_unique",
-      "votes": 16,
+      "votes": 14,
       "positions": 37
     },
     {
@@ -143,7 +143,7 @@
       "personnalite": "emmanuel-maurel",
       "id_an": "PA842271",
       "identification": "identifiant_unique",
-      "votes": 86,
+      "votes": 130,
       "positions": 41
     },
     {
@@ -199,14 +199,14 @@
       "personnalite": "olivier-becht",
       "id_an": "PA642935",
       "identification": "identifiant_unique",
-      "votes": 27,
+      "votes": 25,
       "positions": 23
     },
     {
       "personnalite": "olivier-faure",
       "id_an": "PA609332",
       "identification": "identifiant_unique",
-      "votes": 54,
+      "votes": 52,
       "positions": 55
     },
     {
