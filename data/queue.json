@@ -6870,5 +6870,99 @@
     "review": null,
     "detectedAt": "2026-11-01T08:06:55.731029+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "963731077407141f37edc893": {
+    "id": "963731077407141f37edc893",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Au lendemain de la mobilisation du 31 octobre, Emmanuel Macron considère que \"le débat électoral et les urnes doivent prendre le pas sur la démocratie sociale et la rue\"",
+    "url": "https://www.franceinfo.fr/societe/manifestations/au-lendemain-de-la-mobilisation-du-31-octobre-emmanuel-macron-considere-que-le-debat-electoral-et-les-urnes-doivent-prendre-le-pas-sur-la-democratie-sociale-et-la-rue_8262659.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 11:42:48 +0100",
+    "excerpt": "Après un acte III de manifestations lycéennes et contre la vie chère, le président de la République estime que les réponses aux revendications doivent être apportées à \"court terme\" par le gouvernement et à \"moyen terme\" dans le cadre de l'élection présidentielle.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:05.142064+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5ed5deeadc5b0fc99b81a120": {
+    "id": "5ed5deeadc5b0fc99b81a120",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Crise sociale, mouvement des lycéens, budget 2027... Le \"8h30 franceinfo\" de Philippe Juvin",
+    "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/crise-sociale-mouvement-des-lyceens-budget-2027-le-8h30-franceinfo-de-philippe-juvin_8221660.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 10:47:07 +0100",
+    "excerpt": "Le député LR des Hauts-de-Seine, rapporteur général du budget, était l'invité de franceinfo dimanche. Il répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:05.144056+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fabfe16c3715d5fe0072fe83": {
+    "id": "fabfe16c3715d5fe0072fe83",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Le budget sera refusé par le Parlement\", prévoit Philippe Juvin, rapporteur général du projet de loi de finances, qui plaide pour un recours au 49.3",
+    "url": "https://www.franceinfo.fr/economie/budget/le-budget-sera-refuse-par-le-parlement-prevoit-philippe-juvin-rapporteur-general-du-projet-de-loi-de-finances-qui-plaide-pour-un-recours-au-49-3_8262554.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 10:34:04 +0100",
+    "excerpt": "Le député Les Républicains des Hauts-de-Seine plaide pour une baisse des dépenses d'environ 10% pour le budget 2027.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:05.145961+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "3ee0e6037975069be1767dd7": {
+    "id": "3ee0e6037975069be1767dd7",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Jean-Pierre Chevènement apporte son soutien à Natacha Polony pour l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/jean-pierre-chevenement-apporte-son-soutien-a-natacha-polony-pour-l-election-presidentielle_8262794.html#xtor=RSS-3-%5Bgeneral%5D",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 15:24:41 +0100",
+    "excerpt": "L'ancienne journaliste avait été membre de l'équipe de campagne de l'ancien ministre souverainiste quand il avait candidat à l'Elysée en 2002.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:10.032512+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "366de3e9afb9bb835812182a": {
+    "id": "366de3e9afb9bb835812182a",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Les lycées seront bloqués\" : le mouvement Les Lycéens ! appelle à la mobilisation dès lundi",
+    "url": "https://www.france24.com/fr/france/20261101-lyc%C3%A9es-seront-bloqu%C3%A9s-pour-rentr%C3%A9e-mouvement-lyc%C3%A9ens-appelle-mobilisation",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 14:39:46 GMT",
+    "excerpt": "Le président du mouvement Les Lycéens !, Pierre Sourzat, a appelé dimanche à la reprise des blocus des lycées dès la rentrée des vacances scolaires, jugeant insuffisantes les mesures annoncées par le gouvernement. Il a notamment regretté que ce dernier ne s'attaque pas à plusieurs problèmes de fonds comme le manque de places dans l'enseignement supérieur ou la réduction des effectifs dans toutes les classes.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:10.155771+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "59b23b84f1153ca843ce393f": {
+    "id": "59b23b84f1153ca843ce393f",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Accident en Espagne, victoire de Lula au Brésil, midterms aux États-Unis : la semaine en images",
+    "url": "https://www.france24.com/fr/france/20261101-accident-trains-espagne-victoire-lula-bresil-midterms-%C3%A9tats-unis-semaine-images",
+    "sourcePublishedAt": "Sun, 01 Nov 2026 11:07:36 GMT",
+    "excerpt": "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : la collision meurtrière entre deux trains en Espagne, la réélection de Lula au Brésil et la campagne des midterms qui bat son plein aux États-Unis.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "temps-travail"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-01T15:50:10.158178+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }
