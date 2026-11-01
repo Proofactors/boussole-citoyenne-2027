@@ -1,0 +1,84 @@
+{
+  "version": "V36",
+  "as_of": "2026-11-01",
+  "scope": "Suivi des annonces publiques; aucune validation du Conseil constitutionnel",
+  "primary": {
+    "name": "Choisir 2027 — primaire sociale-démocrate",
+    "date": "2026-10-11",
+    "winner": "raphael-glucksmann",
+    "vote_percent": 66.17,
+    "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+  },
+  "entries": [
+    {
+      "id": "raphael-glucksmann",
+      "name": "Raphaël Glucksmann",
+      "party": "Place publique / rassemblement social-démocrate",
+      "status": "designe_primaire",
+      "status_since": "2026-10-11",
+      "evidence": [
+        "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+      ]
+    },
+    {
+      "id": "olivier-faure",
+      "name": "Olivier Faure",
+      "party": "Parti socialiste",
+      "status": "non_retenu_primaire",
+      "status_since": "2026-10-11",
+      "evidence": [
+        "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+      ]
+    },
+    {
+      "id": "segolene-royal",
+      "name": "Ségolène Royal",
+      "party": "Parti socialiste",
+      "status": "non_retenu_primaire",
+      "status_since": "2026-10-11",
+      "evidence": [
+        "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+      ]
+    },
+    {
+      "id": "emmanuel-maurel",
+      "name": "Emmanuel Maurel",
+      "party": "Gauche républicaine et socialiste",
+      "status": "non_retenu_primaire",
+      "status_since": "2026-10-11",
+      "evidence": [
+        "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+      ]
+    },
+    {
+      "id": "jerome-guedj",
+      "name": "Jérôme Guedj",
+      "party": "Parti socialiste",
+      "status": "non_retenu_primaire",
+      "status_since": "2026-10-11",
+      "evidence": [
+        "https://www.lemonde.fr/election-presidentielle-2027/live/2026/10/12/en-direct-primaire-a-gauche-les-socialistes-ont-dit-qu-ils-souhaitaient-mettre-fin-a-la-politique-de-zig-zag-d-olivier-faure-estime-philippe-brun-au-lendemain-de-la-victoire-de-raphael-glucksmann_6791926_6205049.html"
+      ]
+    },
+    {
+      "id": "natacha-polony",
+      "name": "Natacha Polony",
+      "party": "Nous sommes la France",
+      "status": "declare",
+      "status_since": "2026-10-14",
+      "evidence": [
+        "https://www.lemonde.fr/les-decodeurs/article/2026/10/12/presidentielle-2027-qui-sont-les-principaux-candidats-declares-ou-probables_6680905_4355771.html"
+      ]
+    },
+    {
+      "id": "sylvain-durif",
+      "name": "Sylvain Durif",
+      "party": "Sans étiquette documentée dans ce registre",
+      "status": "declare",
+      "status_since": "2026-10-22",
+      "evidence": [
+        "https://www.lemonde.fr/les-decodeurs/article/2026/10/12/presidentielle-2027-qui-sont-les-principaux-candidats-declares-ou-probables_6680905_4355771.html"
+      ]
+    }
+  ]
+}
