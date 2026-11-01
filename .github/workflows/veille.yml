@@ -71,7 +71,10 @@ jobs:
       - name: Publier le registre documentaire V32 (sans nouveau codage)
         run: python scripts/qualifier_preuves_v32.py
       - name: Détecter et ajouter automatiquement les candidatures concordantes V27
-        run: python scripts/candidatures_auto_v27.py
+        run: |
+          python scripts/candidatures_auto_v27.py
+          # Préserver le registre éditorial V36 ; publier les détections anciennes séparément.
+          if [ -f candidatures.html ]; then cp candidatures.html candidatures-detections.html; git restore -- candidatures.html 2>/dev/null || true; fi
       - name: Tester la surveillance des programmes officiels V33
         run: python -m unittest discover -s tests -p 'test_v33.py' -v
       - name: Vérifier les programmes officiels V33 (sans modifier les opinions)
@@ -84,9 +87,9 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures.html propositions.html verification.html qualification.html programmes.json programmes.html programmes-analyse.html boussole_2027_positions.json manifest.json
+          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures-detections.html propositions.html verification.html qualification.html programmes.json programmes.html programmes-analyse.html boussole_2027_positions.json manifest.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V35 : extraction documentaire des programmes'
+            git commit -m 'Veille V36 : suivi des candidatures et programmes'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
