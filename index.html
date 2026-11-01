@@ -20,7 +20,50 @@ html{min-width:0}body,main,section,.card{min-width:0}main{width:100%;overflow-wr
 .program-source>div{flex:1 1 245px;min-width:0}.program-source a{overflow-wrap:anywhere}
 .program-source .small{display:block;margin-top:5px}.program-source strong{display:block;margin-bottom:4px}
 @media(max-width:550px){.program-source{display:block}.program-source>a{display:inline-block;margin-top:8px}#programsCard{padding:14px}}
-</style></head><body><header><div class="tag">Projet citoyen indépendant · version 36 — candidatures et programmes</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main><section class="card" aria-label="Actualité des candidatures"><div class="flex between"><div><h2>Présidentielle 2027 : candidatures actualisées</h2><p class="muted">Primaire sociale-démocrate du 11 octobre : Raphaël Glucksmann désigné ; Olivier Faure, Ségolène Royal, Emmanuel Maurel et Jérôme Guedj non retenus. Les positions historiques restent consultables ; une candidature déclarée ne vaut pas qualification officielle.</p></div><a class="btn" href="candidatures.html">Voir les statuts et les sources</a></div></section>
+
+/* V36.2 — tableau documentaire accessible sur smartphone : une fiche par question */
+@media (max-width: 650px) {
+  #questionReviewCard > div[style*="overflow:auto"] {
+    overflow-x: visible !important;
+    overflow-y: auto !important;
+    max-height: none !important;
+  }
+  #questionReviewCard table,
+  #questionReviewCard tbody,
+  #questionReviewCard tbody tr { display: block; width: 100%; min-width: 0; }
+  #questionReviewCard thead { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+  #questionReviewCard tbody tr {
+    margin: 12px 0;
+    padding: 9px 12px;
+    border: 1px solid #dce4ec;
+    border-radius: 12px;
+    background: #fff;
+  }
+  #questionReviewCard tbody td {
+    display: grid;
+    grid-template-columns: minmax(95px, 38%) minmax(0, 1fr);
+    gap: 10px;
+    align-items: start;
+    width: 100%;
+    min-width: 0 !important;
+    padding: 9px 0;
+    border-bottom: 1px solid #edf1f5;
+    text-align: left !important;
+    overflow-wrap: break-word;
+    word-break: normal;
+  }
+  #questionReviewCard tbody td:last-child { border-bottom: 0; }
+  #questionReviewCard tbody td::before { font-weight: 700; color: #41556a; }
+  #questionReviewCard tbody td:nth-child(1)::before { content: "Question"; }
+  #questionReviewCard tbody td:nth-child(2)::before { content: "Thème"; }
+  #questionReviewCard tbody td:nth-child(3)::before { content: "Positions / 30"; }
+  #questionReviewCard tbody td:nth-child(4)::before { content: "Réf. ≥ 2025"; }
+  #questionReviewCard tbody td:nth-child(5)::before { content: "Statut"; }
+  #questionReviewCard tbody td[colspan] { display: block; }
+  #questionReviewCard tbody td[colspan]::before { content: none; }
+  #questionReviewCard select { width: 100%; }
+}
+</style></head><body><header><div class="tag">Projet citoyen indépendant · version 36.2 — correctif affichage mobile</div><h1>🧭 Ma Boussole 2027</h1><p>Quels projets politiques correspondent le mieux à vos préférences ? Répondez à des affirmations concrètes, donnez plus de poids aux thèmes qui comptent pour vous, puis découvrez un <strong>classement de proximité</strong> transparent, sans consigne de vote.</p></header><main><section class="card" aria-label="Actualité des candidatures"><div class="flex between"><div><h2>Présidentielle 2027 : candidatures actualisées</h2><p class="muted">Primaire sociale-démocrate du 11 octobre : Raphaël Glucksmann désigné ; Olivier Faure, Ségolène Royal, Emmanuel Maurel et Jérôme Guedj non retenus. Les positions historiques restent consultables ; une candidature déclarée ne vaut pas qualification officielle.</p></div><a class="btn" href="candidatures.html">Voir les statuts et les sources</a></div></section>
 <section class="card" id="dataCard"><div class="data-head"><div><h2>Actualisation des données politiques</h2><p class="muted data-sub">La Boussole vérifie automatiquement les données publiées à son ouverture. Vous pouvez aussi relancer la vérification quand vous le souhaitez.</p></div><span class="tag sync-pill" id="dataState" data-kind="busy">Vérification à venir</span></div>
 <div class="sync-controls"><button type="button" id="syncData" class="primary">↻ Vérifier les mises à jour</button><span class="sync-meta" id="dataInfo" aria-live="polite">Base intégrée disponible hors ligne.</span></div>
 <p id="syncStatus" class="sync-status" role="status" aria-live="polite">Données intégrées chargées. Une vérification en ligne sera effectuée automatiquement.</p>
