@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-11-01T16:23:20.373124+00:00",
+  "genereLe": "2026-11-02T08:29:55.722740+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -5242,6 +5242,149 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "551805352ca13b4340e6b5d3",
+      "titre": "Semaine à hauts risques pour le gouvernement",
+      "url": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html",
+      "publication": "Sun, 01 Nov 2026 23:16:52 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10089,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Après trois semaines de mobilisation, les manifestations pourraient reprendre de l'ampleur dès lundi 2 novembre en raison de la rentrée scolaire. En face, le gouvernement planche sur de potentielles sorties de crise.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "b2ac5182a9171bbd00d5f6e5",
+      "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html",
+      "publication": "Sun, 01 Nov 2026 20:47:51 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8194,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8d44cf3dd10777c52b2463d6",
+      "titre": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html",
+      "publication": "Sun, 01 Nov 2026 20:47:51 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8194,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8718aec4eb87acbcff58f595",
+      "titre": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+      "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+      "urlEffective": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+      "publication": "Sun, 01 Nov 2026 20:35:14 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5087,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "Édouard Philippe a réaffirmé, dimanche 1er novembre, sur TF1, son opposition à l'idée d'une primaire pour désigner un candidat unique de la droite et du centre à la présidentielle, quatre jours après la proposition lancée par son concurrent Gabriel Attal d'organiser une \"primaire des démocrates\".",
+          "motsCommuns": [
+            "jours",
+            "quatre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal"
+          ],
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "passageSource": "Édouard Philippe a réaffirmé, dimanche 1er novembre, sur TF1, son opposition à l'idée d'une primaire pour désigner un candidat unique de la droite et du centre à la présidentielle, quatre jours après la proposition lancée par son concurrent Gabriel Attal d'organiser une \"primaire des démocrates\".",
+          "motsCommuns": [
+            "jours",
+            "quatre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a confirmé dimanche son refus de participer à une éventuelle primaire de la droite et du centre. L'idée d'une \"primaire des démocrates\" a été proposée par son concurrent Gabriel Attal dans le but, selon lui, d'empêcher que le second tour oppose LFI au RN.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "67aaf027c2d74a3622058c99",
+      "titre": "Mouvement des lycéens : \"Un blocage, c'est illégal\", rappelle Jean-Michel Blanquer après un nouvel appel à la mobilisation cette semaine",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/mouvement-des-lyceens-un-blocage-c-est-illegal-rappelle-jean-michel-blanquer-apres-un-nouvel-appel-a-la-mobilisation-cette-semaine_8263067.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/mouvement-des-lyceens-un-blocage-c-est-illegal-rappelle-jean-michel-blanquer-apres-un-nouvel-appel-a-la-mobilisation-cette-semaine_8263067.html",
+      "publication": "Sun, 01 Nov 2026 19:09:26 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11170,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Jean-Michel Blanquer était l'invité du Grand Enjeu sur franceinfo ce dimanche 1er novembre. L'ancien ministre de l'Éducation nationale est revenu sur la mobilisation lycéenne et l'appel à bloquer les lycées dès lundi. Il a aussi évoqué le sort de Parcoursup qu'il avait mis en place quand il était au gouvernement.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "3ee0e6037975069be1767dd7",
       "titre": "Jean-Pierre Chevènement apporte son soutien à Natacha Polony pour l'élection présidentielle",
       "url": "https://www.franceinfo.fr/elections/presidentielle/jean-pierre-chevenement-apporte-son-soutien-a-natacha-polony-pour-l-election-presidentielle_8262794.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -5822,6 +5965,288 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "651a0255de4214d8a0ff3800",
+      "titre": "Mobilisation du 31 octobre, réponse du gouvernement aux lycéens, rassemblement à Trappes... Le \"8h30 franceinfo\" de Prisca Thevenot",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-31-octobre-reponse-du-gouvernement-aux-lyceens-rassemblement-a-trappes-le-8h30-franceinfo-de-prisca-thevenot_8241112.html",
+      "publication": "Sat, 31 Oct 2026 11:09:35 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8988,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "La députée Renaissance des Hauts-de-Seine, soutien de Gabriel Attal pour 2027, était l'invitée de franceinfo samedi. Elle répondait aux questions de Camille Girerd et Benjamin Fontaine.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "a5c16ce2356449eac88c5dfd",
+      "titre": "Troisième samedi de mobilisation sociale en France : à quoi s'attendre ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-troisi%C3%A8me-samedi-de-mobilisation-sociale-en-france-%C3%A0-quoi-s-attendre",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261031-troisi%C3%A8me-samedi-de-mobilisation-sociale-en-france-%C3%A0-quoi-s-attendre",
+      "publication": "Sat, 31 Oct 2026 10:43:31 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1945,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Marc Paupe est en direct de Paris.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "555eba4c71f80cac1d6cf09c",
+      "titre": "Mobilisations sociales en France : lourdes pertes pour l'hôtellerie",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisations-sociales-en-france-lourdes-pertes-pour-l-h%C3%B4tellerie",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisations-sociales-en-france-lourdes-pertes-pour-l-h%C3%B4tellerie",
+      "publication": "Sat, 31 Oct 2026 10:41:57 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2083,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Une baisse de 40 % du taux d’occupation dans certains hôtels de la capitale : les mobilisations sociales provoquent une fuite des touristes.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f78d375411b41b4336412681",
+      "titre": "\"Sécurité amplifiée\" pour l'acte III de la mobilisation sociale en France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-s%C3%A9curit%C3%A9-amplifi%C3%A9e-pour-l-acte-iii-de-la-mobilisation-sociale-en-france",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261031-s%C3%A9curit%C3%A9-amplifi%C3%A9e-pour-l-acte-iii-de-la-mobilisation-sociale-en-france",
+      "publication": "Sat, 31 Oct 2026 10:27:55 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2031,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Sylvain Boulouque, Historien des radicalités politiques et des mouvements sociaux, est notre invité.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f85720f18ee537bdacad4297",
+      "titre": "Mobilisation sociale et politique en France : Acte III ce samedi",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisation-sociale-et-politique-en-france-acte-iii-ce-samedi",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261031-mobilisation-sociale-et-politique-en-france-acte-iii-ce-samedi",
+      "publication": "Sat, 31 Oct 2026 10:20:48 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2331,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dispositif de sécurité \"exceptionnel\" avec 70 000 policiers et gendarmes mobilisés et ton alarmiste: pour l'acte III de mobilisation contre la vie chère, en pleine fête d'Halloween, les autorités redoutent le cauchemar du 17 octobre et ont obtenu gain de cause auprès du Conseil d'Etat, qui a interdit le parcours Bastille/Nation à Paris.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f9eb13c3e47b102e03959835",
+      "titre": "Attentat raciste à Trappes : \"La France, c'est nous\" dit Ali Rabeh",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261031-attentat-raciste-%C3%A0-trappes-la-france-c-est-nous-dit-ali-rabeh",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261031-attentat-raciste-%C3%A0-trappes-la-france-c-est-nous-dit-ali-rabeh",
+      "publication": "Sat, 31 Oct 2026 10:17:18 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2266,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Colère, peur et recueillement : plusieurs milliers de personnes, 12.000 selon les organisateurs, se sont rassemblées vendredi soir place des Merisiers à Trappes pour rendre hommage aux victimes de l'attentat commis dans les Yvelines une semaine plus tôt et dénoncer le racisme.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "be91ba14877c881f7dca5eee",
+      "titre": "Ingérences étrangères : la France victime d’une “gigantesque” campagne d’influence",
+      "url": "https://www.franceinfo.fr/politique/ingerences-etrangeres-la-france-victime-d-une-gigantesque-campagne-d-influence_8261558.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/ingerences-etrangeres-la-france-victime-d-une-gigantesque-campagne-d-influence_8261558.html",
+      "publication": "Sat, 31 Oct 2026 08:57:39 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8928,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "En vue de l’élection présidentielle de 2027, la France devient une cible à l’étranger. Des tentatives numériques de déstabilisation ont débuté depuis quelques années afin de faire pencher l’opinion publique, comme le démontre une étude publiée par le journal Le Monde.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "20c9ab18b4908207c53c9db2",
+      "titre": "Othman Nasrou (Les Républicains) : “Aucun Français ne devrait être pris pour cible en raison de sa religion ou de sa couleur”",
+      "url": "https://www.franceinfo.fr/politique/othman-nasrou-les-republicains-aucun-francais-ne-devrait-etre-pris-pour-cible-en-raison-de-sa-religion-ou-de-sa-couleur_8261549.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/othman-nasrou-les-republicains-aucun-francais-ne-devrait-etre-pris-pour-cible-en-raison-de-sa-religion-ou-de-sa-couleur_8261549.html",
+      "publication": "Sat, 31 Oct 2026 08:51:10 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9792,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le secrétaire général des Républicains était l’invité du 7.40 de franceinfo. Il est revenu sur l’hommage aux victimes de l’attentat de Trappes et alerte sur les dangers d’une récupération politique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f24eeb49213cdb4da779d695",
+      "titre": "Acte III de la colère sociale : 320 000 manifestants en France selon le ministère de l'Intérieur",
+      "url": "https://www.france24.com/fr/france/20261031-acte-iii-de-la-col%C3%A8re-sociale-320-000-manifestants-en-france-selon-le-minist%C3%A8re-de-l-int%C3%A9rieur",
+      "urlEffective": "https://www.france24.com/fr/france/20261031-acte-iii-de-la-col%C3%A8re-sociale-320-000-manifestants-en-france-selon-le-minist%C3%A8re-de-l-int%C3%A9rieur",
+      "publication": "Sat, 31 Oct 2026 08:49:56 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8229,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "L'acte III de la colère sociale a mobilisé samedi 320 000 personnes en France, selon le ministère de l'Intérieur, et près de 500 000 personnes d'après les organisateurs. \"Les cortèges se sont bien déroulés\", a déclaré le ministre de l'Intérieur, Laurent Nunez, malgré des heurts dans la soirée à Paris.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1a7fa1c05a1fcd1944bf7f38",
+      "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html",
+      "publication": "Sat, 31 Oct 2026 07:58:58 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10363,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans les sondages pour la présidentielle de 2027, il y a comme un frémissement autour de David Lisnard, maire LR de Cannes.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d29bfd8be7b26f281263153f",
+      "titre": "La candidature de David Lisnard pour 2027, \"une épine dans le pied\" de Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-brief-politique/la-candidature-de-david-lisnard-pour-2027-une-epine-dans-le-pied-de-bruno-retailleau_8241091.html",
+      "publication": "Sat, 31 Oct 2026 07:58:58 +0100",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10363,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans les sondages pour la présidentielle de 2027, il y a comme un frémissement autour de David Lisnard, maire LR de Cannes.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d6dbdc13ad5c75b60b1acf2e",
+      "titre": "31 octobre en direct : le cortège parisien défilera entre la porte de Bagnolet et la porte de Charenton",
+      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "urlEffective": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
+      "publication": "Sat, 31 Oct 2026 06:08:06 GMT",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13980,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen",
+            "bruno-retailleau"
+          ],
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "passageSource": "Les candidats à l'élection présidentielle Marine Le Pen (Rassemblement national) et Bruno Retailleau (Les Républicains) ont dénoncé un geste \"insupportable\" après la diffusion d'images montrant un membre des forces de l'ordre recevant un jet de cocktail molotov à la fin de la manifestation parisienne.",
+          "motsCommuns": [
+            "forces",
+            "ordre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "passageSource": "\"Les auteurs de cette attaque doivent être retrouvés et condamnés avec la plus grande sévérité\", a écrit sur X Marine Le Pen en remerciant les forces de l'ordre \"qui seront mobilisées jusque tard dans la nuit pour protéger nos compatriotes face aux hordes d'extrême gauche\".",
+          "motsCommuns": [
+            "forces",
+            "ordre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Pour l'acte III de la mobilisation lycéenne et contre la vie chère, les autorités redoutent des débordements similaires à ceux observés le 17-octobre. Un dispositif de sécurité \"exceptionnel\" a été déployé. En marge des cortèges officiels, les rassemblements prévus pour Halloween et la présence de groupes d'ultradroite pourraient compliquer les opérations de maintien de l'ordre. Suivez notre direct.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "841834f6f8b3af5a424816cd",
       "titre": "\"C'est important qu'on montre qu'il y a encore des gens qui s'opposent\" : une manifestation à Orléans contre le congrès du RN",
       "url": "https://www.franceinfo.fr/politique/front-national/c-est-important-qu-on-montre-qu-il-y-a-encore-des-gens-qui-s-opposent-une-manifestation-a-orleans-contre-le-congres-du-rn_8252512.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -5877,6 +6302,88 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Quelques minutes avant l'entrée sur scène de Marine Le Pen et Jordan Bardella au congrès du Rassemblement national à Orléans, une équipe de Mediapart a été prise à partie et huée par des militants. Elle a été brièvement exfiltrée par le service de sécurité du RN.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8b31c12c203aef29a7b8ecc3",
+      "titre": "REPORTAGE. \"J'aurais beaucoup à craindre que ce genre de parti passe au pouvoir\" : à Orléans, une marche pour dire non au Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/j-aurais-beaucoup-a-craindre-que-ce-genre-de-parti-passe-au-pouvoir-a-orleans-une-marche-pour-dire-non-au-rassemblement-national_8252362.html",
+      "publication": "Sat, 24 Oct 2026 17:22:40 +0200",
+      "analyseLe": "2026-11-02T08:29:50.147934+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9897,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir",
+            "voter"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-fiscalite-08",
+          "theme": "fiscalite",
+          "passageSource": "\"Retrouver l'ordre, le droit, et le pouvoir d'achat\" : dans des petites communes de Dordogne, les violences du 17 octobre enracinent l'envie de voter Marine Le Pen",
+          "motsCommuns": [
+            "communes",
+            "retrouver"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Alors que le Rassemblement national tient son congrès ce week-end à Orléans, 13 000 personnes selon la préfecture, le double selon les organisateurs, ont défilé dans la ville samedi en milieu de journée.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -7529,13 +8036,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 333,
-    "documentsLus": 323,
+    "documentsSuivis": 351,
+    "documentsLus": 341,
     "documentsSansTexteAvecResumeRss": 10,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 42,
+    "passagesCandidats": 49,
     "erreursParCause": {
-      "Texte intégral lu": 323,
+      "Texte intégral lu": 341,
       "reseau_TimeoutError": 7,
       "http_403": 3
     }

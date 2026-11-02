@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T16:22:44.757174+00:00",
-  "total": 434,
+  "generatedAt": "2026-11-02T08:29:48.937442+00:00",
+  "total": 448,
   "statistiques": {
     "a_examiner_en_priorite": 5,
-    "a_qualifier": 145,
-    "signal_non_qualifie": 284
+    "a_qualifier": 154,
+    "signal_non_qualifie": 289
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -4357,6 +4357,107 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "551805352ca13b4340e6b5d3",
+      "title": "Semaine à hauts risques pour le gouvernement",
+      "url": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 01 Nov 2026 23:16:52 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-societe-06",
+          "theme": "societe",
+          "keywords": [
+            "scolaire",
+            "sorties"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Après trois semaines de mobilisation, les manifestations pourraient reprendre de l'ampleur dès lundi 2 novembre en raison de la rentrée scolaire.",
+        "En face, le gouvernement planche sur de potentielles sorties de crise."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b2ac5182a9171bbd00d5f6e5",
+      "title": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 01 Nov 2026 20:47:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8d44cf3dd10777c52b2463d6",
+      "title": "Edouard Philippe refuse une nouvelle fois de participer à une primaire de la droite et du centre, source de \"division\" et de \"confusion\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 01 Nov 2026 20:47:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Celle-ci rassemblerait des \"gens qui ne sont pas d'accord\", a argué le maire du Havre (Seine-Maritime) dimanche soir sur TF1."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8718aec4eb87acbcff58f595",
+      "title": "Présidentielle 2027 : Édouard Philippe refuse de participer à une primaire, source de \"division\"",
+      "url": "https://www.france24.com/fr/france/20261101-pr%C3%A9sidentielle-2027-%C3%A9douard-philippe-refuse-de-participer-%C3%A0-une-primaire-source-de-division",
+      "sourcePublishedAt": "Sun, 01 Nov 2026 20:35:14 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Horizons à l'élection présidentielle, Édouard Philippe, a confirmé dimanche son refus de participer à une éventuelle primaire de la droite et du centre.",
+        "L'idée d'une \"primaire des démocrates\" a été proposée par son concurrent Gabriel Attal dans le but, selon lui, d'empêcher que le second tour oppose LFI au RN."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "67aaf027c2d74a3622058c99",
+      "title": "Mouvement des lycéens : \"Un blocage, c'est illégal\", rappelle Jean-Michel Blanquer après un nouvel appel à la mobilisation cette semaine",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/mouvement-des-lyceens-un-blocage-c-est-illegal-rappelle-jean-michel-blanquer-apres-un-nouvel-appel-a-la-mobilisation-cette-semaine_8263067.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 01 Nov 2026 19:09:26 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jean-Michel Blanquer était l'invité du Grand Enjeu sur franceinfo ce dimanche 1er novembre.",
+        "L'ancien ministre de l'Éducation nationale est revenu sur la mobilisation lycéenne et l'appel à bloquer les lycées dès lundi.",
+        "Il a aussi évoqué le sort de Parcoursup qu'il avait mis en place quand il était au gouvernement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "3ee0e6037975069be1767dd7",
       "title": "Jean-Pierre Chevènement apporte son soutien à Natacha Polony pour l'élection présidentielle",
       "url": "https://www.franceinfo.fr/elections/presidentielle/jean-pierre-chevenement-apporte-son-soutien-a-natacha-polony-pour-l-election-presidentielle_8262794.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -6331,6 +6432,176 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "\"Cela nous a été dit clairement par les services de renseignements\", a déclaré Sébastien Lecornu, lundi, à l'issue d'une nouvelle cellule interministérielle de crise."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "856baf80f5b2828dfcb4b871",
+      "title": "Jean-Luc Mélenchon accuse Edouard Philippe de \"calomnies racistes\" après une interview sur TF1, et dit annuler son propre passage sur la chaîne",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 09:26:20 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le leader de la France insoumise affirme qu'il devait être invité au \"20 heures\" lundi soir.",
+        "Il reproche à la chaîne de ne pas avoir \"interrompu\" des déclarations du candidat Horizons dimanche sur la place des Français \"issus de l'immigration\" parmi les auteurs de pillages."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b8f21eef1a3b62f53b1d10e7",
+      "title": "Mobilisation des lycéens, prix des carburants, présidentielle... Le \"8h30 franceinfo\" de Maud Bregeon",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-des-lyceens-prix-des-carburants-presidentielle-le-8h30-franceinfo-de-maud-bregeon_8243338.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 09:24:19 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Maud Bregeon, porte-parole du gouvernement, ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\", le 2 novembre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c8b612e982c67f0df4d367c8",
+      "title": "\"Augmenter les salaires, c'est relancer l'économie\", défend Sophie Binet qui appelle les salariés à se mobiliser le 5 novembre",
+      "url": "https://www.franceinfo.fr/politique/augmenter-les-salaires-c-est-relancer-l-economie-defend-sophie-binet-qui-appelle-les-salaries-a-se-mobiliser-le-5-novembre_8263610.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 09:13:09 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invitée des 4 Vérités, Sophie Binet, secrétaire générale de la CGT, s'est exprimée, lundi 2 novembre, sur l'appel à la mobilisation lancé par les syndicats pour le 5 novembre.",
+        "Ils demandent notamment des augmentations de salaires, mais veulent aussi défendre le pouvoir d'achat et les services publics."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "da1bfa0ede2d477b92425af9",
+      "title": "\"C'est sa stratégie depuis le début\" : pourquoi Edouard Philippe refuse-t-il de participer à une primaire ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-sa-strategie-depuis-le-debut-pourquoi-edouard-philippe-refuse-t-il-de-participer-a-une-primaire_8263550.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 08:52:39 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Horizons a officiellement balayé dimanche la proposition d'une primaire de la droite initiée par son adversaire Gabriel Attal, espérant s'imposer comme \"candidat naturel\" au sein du bloc central."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9e8b2e1322860d135087367f",
+      "title": "\"C'est sa stratégie depuis le début\" : pourquoi Edouard Philippe refuse-t-il de participer à une primaire ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-sa-strategie-depuis-le-debut-pourquoi-edouard-philippe-refuse-t-il-de-participer-a-une-primaire_8263550.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 08:52:39 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Horizons a officiellement balayé dimanche la proposition d'une primaire de la droite initiée par son adversaire Gabriel Attal, espérant s'imposer comme \"candidat naturel\" au sein du bloc central."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "06a1ac2793326c70f907c887",
+      "title": "Jean-Luc Mélenchon annonce annuler un passage au \"20 heures\" de TF1 à la suite d'une interview d'Edouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/jean-luc-melenchon-annonce-annuler-un-passage-au-20-heures-de-tf1-a-la-suite-d-une-interview-d-edouard-philippe_8263556.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 08:34:12 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le leader de la France insoumise reproche à la chaîne de ne pas avoir \"interrompu\" le \"discours dégoûtant\" du candidat Horizons, qu'il accuse d'avoir proféré des \"calomnies racistes\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "35ecb906ea841e70ef0b3e75",
+      "title": "EDITO. La présidentielle est-elle en train de se jouer dans la rue ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-presidentielle-est-elle-en-train-de-se-jouer-dans-la-rue_8243344.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 08:33:25 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les manifestations s’enchaînent avec une affluence en légère décrue mais toujours conséquente samedi et de nouvelles mobilisations sont annoncées dès jeudi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2dcb1395555fadae25ead65d",
+      "title": "La France est-elle le pays européen qui a le moins fait évoluer son Smic en dix ans, comme l'affirme Yannick Jadot ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/la-france-est-elle-le-pays-europeen-qui-a-le-moins-fait-evoluer-son-smic-en-dix-ans-comme-l-affirme-yannick-jadot_8243365.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 08:08:25 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeen",
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 3
+        }
+      ],
+      "extraitsRSS": [
+        "Selon le sénateur écologiste, il y a urgence à revaloriser le salaire minimum en France car nous sommes en retard sur ce point par rapport à nos voisins européens.",
+        "Cette affirmation est vraie, mais à nuancer."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5902db3b85dd56b9d69edbf9",
+      "title": "Blocages des lycées et manifestations étudiantes annoncés dès la reprise des cours",
+      "url": "https://www.france24.com/fr/france/20261102-blocages-des-lyc%C3%A9es-et-manifestations-%C3%A9tudiantes-annonc%C3%A9s-d%C3%A8s-la-reprise-des-cours",
+      "sourcePublishedAt": "Mon, 02 Nov 2026 01:21:57 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La rentrée des vacances de la Toussaint s'ouvre lundi sous le signe de la reprise de la mobilisation.",
+        "Les organisations étudiantes et lycéennes entendent poursuivre le mouvement engagé depuis six semaines, insatisfaites des concessions annoncées par le gouvernement.",
+        "De son côté, l'exécutif estime que \"le temps d'un retour en classe est venu\"."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
