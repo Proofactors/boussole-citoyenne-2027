@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T08:25:20.997086+00:00",
-  "total": 512,
+  "generatedAt": "2026-11-05T08:25:46.744318+00:00",
+  "total": 549,
   "statistiques": {
     "a_examiner_en_priorite": 7,
-    "a_qualifier": 179,
-    "signal_non_qualifie": 326
+    "a_qualifier": 198,
+    "signal_non_qualifie": 344
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -507,6 +507,22 @@
         "Rapport d'information n° 845 de M.",
         "Jean-François RAPIN, Mme Marta de CIDRAC, M.",
         "Louis-Jean de NICOLAY, Mme Amel GACQUERRE, MM."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "84aec3c9edf93db32ea94e32",
+      "title": "L'optimisme n'est pas une stratégie budgétaire",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/04-11-2026/loptimisme-nest-pas-une-strategie-budgetaire.html",
+      "sourcePublishedAt": "Wed,04 Nov 2026 10:37:24 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Communiqué de presse du 04/11/2026"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -1690,6 +1706,454 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "efd7e41c53ea7c7422adf79f",
+      "title": "L'Assemblée nationale rejette le budget de l'État 2027 à l'unanimité en première lecture",
+      "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 23:16:53 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir très largement modifié la copie gouvernementale, l'Assemblée nationale a rejeté mercredi, à l'unanimité des 458 votants, la partie \"recettes\" du projet de budget de l'État 2027, qui emporte avec elle tout le texte.",
+        "Le Sénat va s'emparer du texte dans sa version initiale."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5b16220af3eb3599e96ee37a",
+      "title": "\"Petit à petit, on vous colle une espèce d'étiquette\" : rencontre avec des militants assignés à résidence",
+      "url": "https://www.franceinfo.fr/societe/justice/petit-a-petit-on-vous-colle-une-espece-d-etiquette-rencontre-avec-des-militants-assignes-a-residence_8268470.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 22:41:14 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "droit-du-sol",
+          "theme": "immigration",
+          "keywords": [
+            "droit",
+            "restreindre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Samedi 31 octobre, des militants ont été empêchés de défiler, assignés à résidence au nom de la lutte antiterroriste.",
+        "Parmi eux, un agriculteur, que France Télévisions a rencontré.",
+        "Quelles sont les limites pour prévenir les violences sans restreindre le droit de manifester ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1e131919b22cc025e8e1a747",
+      "title": "Grève du 5 novembre : \"Les remontées sont très fortes, parce que la grève va être très forte demain\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
+      "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-les-remontees-sont-tres-fortes-parce-que-la-greve-va-etre-tres-forte-demain-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8268338.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 20:17:34 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le responsable syndical rappelle sur le plateau du \"Duel\" d'\"Avant le 20h\", mercredi 4 novembre, que cela \"fait plus d'un an qu'il n'y a pas eu une grève interprofessionnelle du public et du privé, des jeunes et des retraités\" et estime qu'il \"faut continuer\" la mobilisation initiée par la jeunesse \"pour transformer l'essai\".",
+        "Richard Ramos, député MoDem du Loiret, lui répond."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "daf046800a8daa51935f5574",
+      "title": "\"La menace ne paraît pas si lointaine\", confie Charlotte Gainsbourg, qui incarne Gisèle Halimi dans “L'affaire Marie-Claire”",
+      "url": "https://www.franceinfo.fr/culture/cinema/la-menace-ne-parait-pas-si-lointaine-confie-charlotte-gainsbourg-qui-incarne-gisele-halimi-dans-l-affaire-marie-claire_8267930.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 17:57:40 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le 13 Heures reçoit la comédienne Charlotte Gainsbourg, à l'affiche du film “L'affaire Marie-Claire”, ce mercredi 4 novembre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "df3d20d1687e119e153e05ac",
+      "title": "\"Vous êtes tous trop durs avec moi\" : les confidences d'Emmanuel Macron dévoilées dans un livre choc de l'éditorialiste de gauche Françoise Degois",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/vous-etes-tous-trop-durs-avec-moi-les-confidences-d-emmanuel-macron-devoilees-dans-un-livre-choc-de-l-editorialiste-de-gauche-francoise-degois_8267477.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 17:52:28 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal",
+        "segolene-royal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancienne conseillère de Ségolène Royal publie ses échanges privés avec le chef de l'Etat, dans lesquels il se confie entre autres sur la dissolution, le Rassemblement national, Gabriel Attal ou encore son avenir après l'Elysée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3723c8c73141af47b678e180",
+      "title": "Transition énergétique : le gouvernement suspend le fonds chaleur, suscitant une vive réaction des collectivités locales",
+      "url": "https://www.franceinfo.fr/environnement/actions-ecologiques/transition-ecologique-du-batiment/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-suscitant-une-vive-reaction-des-collectivites-locales_8267876.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 16:47:41 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le gouvernement a annoncé la suspension des nouvelles demandes de financement auprès du fonds chaleur, qui aide à accélérer le déploiement des réseaux de chaleur et de froid renouvelables.",
+        "Un \"cataclysme\", dénonce Amorce, le réseau de collectivités."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "37377114d48290291ef7c5d9",
+      "title": "\"On est dans des contextes très différents\" : pour le président du RN, il n'y a aucun \"rapport\" entre les midterms aux États-Unis et la France",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/on-est-dans-des-contextes-tres-differents-pour-le-president-du-rn-il-n-y-a-aucun-rapport-entre-les-midterms-aux-etats-unis-et-la-france_8267780.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 15:56:36 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Ce qu'il se passe dans les autres pays ne me regarde pas\", a insisté Jordan Bardella mercredi matin, après la défaite de Donald Trump aux élections de mi-mandat américaines."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b500ed4be99d0e5ca5d7c5c5",
+      "title": "Etat, épargnants, banques… A qui profite (vraiment) le relèvement du plafond du livret A ?",
+      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/etat-epargnants-banques-a-qui-profite-vraiment-le-relevement-du-plafond-du-livret-a_8267444.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 15:53:35 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-07",
+          "theme": "immigration",
+          "keywords": [
+            "changement",
+            "climatique"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Cette mesure doit permettre de financer l'adaptation au changement climatique des infrastructures publiques, dont les lycées, selon le gouvernement.",
+        "Elle laisse toutefois les banques sceptiques, sur fond de désamour des épargnants pour ce produit."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9dd29479b4149e909bcb88b6",
+      "title": "Éducation, transports, santé... à quoi s'attendre pour la journée de mobilisation de jeudi ?",
+      "url": "https://www.france24.com/fr/france/20261104-%C3%A9ducation-transports-sant%C3%A9-%C3%A0-quoi-s-attendre-journ%C3%A9e-mobilisation-jeudi",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 15:35:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les organisations syndicales ont appelé les secteurs public et privé à se mobiliser, jeudi, pour la journée interprofessionnelle de grèves et de manifestations pour les salaires.",
+        "France 24 fait le point sur les perturbations attendues dans les différents secteurs, notamment à l'Éducation nationale et dans les transports."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a80fb9844f0a6448c6e53be0",
+      "title": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:37:06 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Horizons à la présidentielle était en déplacement à Zuydcoote (Nord), où il a répondu aux critiques adressées par le leader de La France insoumise, qui l'avait accusé de \"calomnies racistes\" après un passage sur TF1."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1b381fd6fe0e08e5262c0f71",
+      "title": "\"Oui, il y a un problème d'intégration en France\", estime Edouard Philippe, qui propose à Jean-Luc Mélenchon un débat sur l'immigration",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/oui-il-y-a-un-probleme-d-integration-en-france-edouard-philippe-propose-a-jean-luc-melenchon-un-debat-sur-l-immigration_8267711.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:37:06 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Horizons à la présidentielle était en déplacement à Zuydcoote (Nord), où il a répondu aux critiques adressées par le leader de La France insoumise, qui l'avait accusé de \"calomnies racistes\" après un passage sur TF1."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8bf5fc1d11730dcefe675742",
+      "title": "Cette vidéo, liée au rappeur Gradur, ne montre pas un gang prêt à défendre son quartier",
+      "url": "https://www.france24.com/fr/france/20261104-cette-vid%C3%A9o-li%C3%A9e-au-rappeur-gradur-ne-montre-pas-un-gang-pr%C3%AAt-%C3%A0-d%C3%A9fendre-son-quartier",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:31:47 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Dans un contexte de cristallisation des tensions sociales en France, une rumeur, reprise par une journaliste italienne proche de l’extrême droite et devenue virale sur les réseaux sociaux, met en scène un groupe d'hommes armés en Seine-Saint-Denis.",
+        "Une vidéo sortie de son contexte : elle a été tournée par le rappeur Gradur lors d'un concert récemment donné à Paris."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e9d941e52cc4e9db9eb90acc",
+      "title": "EDITO. Pourquoi Donald Trump est l'épouvantail de la campagne présidentielle en France ?",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/edito-pourquoi-donald-trump-est-l-epouvantail-de-la-campagne-presidentielle-en-france_8267753.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:08:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Donald Trump a essuyé mercredi une lourde défaite aux élections de mi-mandat aux États-Unis.",
+        "Les démocrates lui ont ravi non seulement le Sénat, mais aussi la Chambre des représentants.",
+        "Impopulaire dans son propre pays, le président américain l’est aussi en France où même Marine Le Pen ne semble plus apprécier les compliments du président américain"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a943e1eca0a8b7488da8b200",
+      "title": "EDITO. Pourquoi Donald Trump est l'épouvantail de la campagne présidentielle en France ?",
+      "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/edito-pourquoi-donald-trump-est-l-epouvantail-de-la-campagne-presidentielle-en-france_8267753.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:08:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Donald Trump a essuyé mercredi une lourde défaite aux élections de mi-mandat aux États-Unis.",
+        "Les démocrates lui ont ravi non seulement le Sénat, mais aussi la Chambre des représentants.",
+        "Impopulaire dans son propre pays, le président américain l’est aussi en France où même Marine Le Pen ne semble plus apprécier les compliments du président américain"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a385b3832172c83409264864",
+      "title": "La Ciivise saisit la présidente de l'Assemblée nationale après des \"attaques inacceptables\" du député RN Julien Odoul",
+      "url": "https://www.franceinfo.fr/politique/la-ciivise-saisit-la-presidente-de-l-assemblee-nationale-apres-des-attaques-inacceptables-du-depute-rn-julien-odoul_8267735.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 14:05:46 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans un courrier, la directrice de la Ciivise, Maryse Le Men-Régnier dénonce des \"propos inadmissibles\".",
+        "Elle parle également d'\"une atteinte directe et intolérable à la dignité des victimes de violences sexuelles faites aux enfants.\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "48b55f9860e86ff633d89cbd",
+      "title": "Relever le plafond du livret A pour rénover les lycées ? L'initiative du gouvernement laisse ces Français circonspects",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/le-relevement-du-plafond-du-livret-a-peut-il-etre-efficace-pour-renover-les-lycees_8267264.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 12:33:33 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre a annoncé, mardi, un relèvement - non précisé - du taux du livret A, ainsi que de son plafond, qui pourrait atteindre entre 25 000 et 30 000 euros.",
+        "L'objectif est notamment de consacrer une partie de cette épargne pour la rénovation des lycées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "841f795360dc6345bb2845d5",
+      "title": "\"On transforme un peu le livret A en mille-feuille\", dénonce un économiste après l'annonce du gouvernement",
+      "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/on-transforme-un-peu-le-livret-a-en-mille-feuille-denonce-un-economiste-apres-l-annonce-du-gouvernement_8267177.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 11:57:04 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dès février 2027, le plafond du livret A sera relevé \"entre 25 000 et 30 000 euros\", a annoncé mardi le gouvernement.",
+        "Une fausse bonne idée, selon Philippe Crevel, économiste et directeur général du Cercle de l’Épargne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "66937335c42a1ff54755c7cc",
+      "title": "Bruno Retailleau estime qu'il \"faudra une primaire\" pour départager les quatre principaux candidats de la droite et du centre à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/pour-departager-les-quatre-principaux-candidats-de-la-droite-et-du-centre-a-l-election-presidentielle-bruno-retailleau-estime-qu-il-faudra-une-primaire_8267411.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 11:55:26 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Ce vote pourrait se tenir \"en début d'année\", estime le candidat désigné par Les Républicains, alors qu'Edouard Philippe continue de s'opposer à la tenue d'une primaire, qui pourrait aussi impliquer Gabriel Attal et David Lisnard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4d25af53553d0de624765639",
+      "title": "Vague bleue : quels moyens d'actions des démocrates ?",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/vague-bleue-quels-moyens-d-actions-des-democrates_8267552.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 11:46:42 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Vague bleue : quels moyens d'actions des démocrates ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2bfe5c2e28ff4f15b1eebdb9",
+      "title": "\"Un message d’espoir pour tous\" : en France, la gauche salue le revers infligé à Donald Trump lors des midterms 2026",
+      "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/un-message-d-espoir-pour-tous-en-france-la-gauche-salue-le-revers-inflige-a-donald-trump-lors-des-midterms-2026_8267498.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 11:31:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La défaite est totale pour Donald Trump, après les élections de mi-mandat américaines.",
+        "En France, plusieurs personnalités de gauche réagissent, comme Marine Tondelier : \"Puisse cette leçon nous servir\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2a6b07b59b063fadcff4453d",
+      "title": "Commission d'enquête sur le 17 octobre : la députée LFI Andrée Taurinya dénonce les propos \"assez inquiétants par rapport à notre État de droit\" du ministre de l'Intérieur",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/commission-d-enquete-sur-le-17-octobre-la-deputee-lfi-andree-taurinya-denonce-les-propos-assez-inquietants-par-rapport-a-notre-etat-de-droit-du-ministre-de-l-interieur_8267414.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 10:54:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "police"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Après l'audition du ministre de l'Intérieur devant la commission d'enquête sur le 17 octobre, la députée LFI de la Loire, Andrée Taurinya n'est pas convaincue par les explications de Laurent Nuñez.",
+        "\"La police, normalement, doit protéger les personnes et les biens\", dit-elle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3fda9c069f861693c0d59dd4",
+      "title": "Défaite de Trump : il n'y a \"pas de fatalité\" face à l'extrême droite, réagit la gauche française",
+      "url": "https://www.france24.com/fr/france/20261104-defaite-de-trump-il-n-y-a-pas-de-fatalite-face-extreme-droite-reagit-la-gauche-francaise",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 10:51:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans la foulée du revers électoral de Donald Trump lors des élections de mi-mandat, la gauche française veut y voir le signe qu'il n'y a \"pas de fatalité\" à une victoire de l'extrême droite lors de la présidentielle de 2027 en France.",
+        "De son côté, le président du RN, Jordan Bardella, a balayé toute comparaison entre le scrutin américain et le contexte français."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "547579ceb515d62bffe1b807",
+      "title": "Midterms en France : la gauche fête la défaite de Trump aux élections",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-en-france-la-gauche-f%C3%AAte-la-d%C3%A9faite-de-trump-aux-%C3%A9lections",
+      "sourcePublishedAt": "Wed, 04 Nov 2026 10:13:29 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "De l'\"espoir\" et une \"leçon\": la gauche a célébré mercredi 4 novembre le revers cinglant imposé par les démocrates au président américain Donald Trump lors des élections de mi-manda.",
+        "L'Écologiste considère cette défaite de Trump comme \"un avertissement pour la France\", en le comparant avec le Rassemblement national.",
+        "La candidate à la présidentielle Marine Tondelier s'est réjouie d'une \"défaite historique\" du dirigeant républicain après son deuxième mandat \"apocalyptique\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "72464e7fce78b12077515765",
       "title": "\"Gouverner\" : que contient le nouveau livre de Jordan Bardella ?",
       "url": "https://www.franceinfo.fr/elections/presidentielle/gouverner-que-contient-le-nouveau-livre-de-jordan-bardella_8267120.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -2684,6 +3148,24 @@
         "Le 30 octobre, l'Assemblée nationale a voté un amendement, dans le cadre du projet de loi de finances, pour taxer les fournisseurs de contenus : 5,5 centimes par gigaoctet seront prélevés aux fournisseurs.",
         "Cet amendement est passé par 11 votes pour contre 10 votes contre, malgré un avis défavorable du gouvernement et du rapporteur général du budget.",
         "Les craintes de cette taxe ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ece1a2c593a7b2e4d1726cb5",
+      "title": "Sarah El Haïry (Modem) : \"Les extrêmes alimentent des comportements violents\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261103-sarah-el-ha%C3%AFry-modem-extr%C3%AAmes-alimentent-comportements-violents-haute-commissaire-enfance",
+      "sourcePublishedAt": "Tue, 03 Nov 2026 18:54:27 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La mobilisation lycéenne, tout en étant moins suivie, se poursuit.",
+        "Pour Sarah El Haïry, haute-commissaire à l’Enfance, \"il faut mettre en œuvre les annonces faites aux lycéens\".",
+        "La vice-présidente du Mouvement démocrate estime que \"la jeunesse exprime une angoisse\"."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -3844,6 +4326,72 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "d19842f976c5daa084763e8b",
+      "title": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant - texte de la commission N° 142",
+      "url": "http://www.senat.fr/leg/ppl26-142.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 02:03:34 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant : texte de la commission N° 142 déposé le 3 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "682c674e617c47d789952e65",
+      "title": "Moderniser les modalités de vote pour les scrutins électoraux - texte N° 134",
+      "url": "http://www.senat.fr/leg/ppl26-134.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 02:03:34 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à moderniser les modalités de vote pour les scrutins électoraux et les opérations référendaires : texte N° 134 de M.",
+        "Éric KERROUCHE, déposé au Sénat le 30 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "53c0021cc284e7fbad3fa901",
+      "title": "Renforcer l'effectivité des droits voisins des éditeurs et des agences de press - texte de la commission N° 146",
+      "url": "http://www.senat.fr/leg/ppl26-146.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 02:03:34 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à renforcer l'effectivité des droits voisins des éditeurs et des agences de presse : texte de la commission N° 146 déposé le 4 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4c1a3837e640d8eee45bb132",
+      "title": "Inscrire les élus locaux sur la liste des salariés protégés - texte N° 133",
+      "url": "http://www.senat.fr/leg/ppl26-133.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 02:03:34 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à inscrire les élus locaux sur la liste des salariés protégés : texte N° 133 de M.",
+        "Éric KERROUCHE, déposé au Sénat le 30 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "c6690901777521ad05218cd8",
       "title": "Edouard Philippe placé sous le statut de témoin assisté dans une affaire de détournement de fonds publics, son avocat salue une \"décision favorable\"",
       "url": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-place-sous-le-statut-de-temoin-assiste-dans-une-affaire-de-detournement-de-fonds-publics-son-avocat-salue-une-decision-favorable_8259449.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -4751,6 +5299,171 @@
       "extraitsRSS": [
         "Emmanuel Macron recevra des \"lycéens et des représentants d'organisations lycéennes\" vendredi à 15 h à l'Élysée afin d'\"écouter leurs revendications et inquiétudes\" après les manifestations émaillées de violences, a annoncé jeudi soir la présidence.",
         "Voici le fil du 22 octobre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1af97b8f7d8eef26ae3de0b6",
+      "title": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 09:23:59 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité du 8h30 franceinfo, le candidat Les Républicains à l'élection présidentielle s'exprime sur la nouvelle mobilisation sociale qui se déroule jeudi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fdd9c29c37b3669b546d1db5",
+      "title": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 09:15:29 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité du 8h30 franceinfo, le candidat Les Républicains à l'élection présidentielle s'exprime sur la nouvelle mobilisation sociale qui se déroule jeudi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "996950aa7d8b932b152c72ac",
+      "title": "Grève générale, pouvoir d'achat, blocage des lycées... \"Le 8h30 franceinfo\" de Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/greve-generale-pouvoir-d-achat-blocage-des-lycees-le-8h30-franceinfo-de-bruno-retailleau_8248147.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 09:03:14 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, est l'invité du \"8h30\" franceinfo jeudi 5 novembre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "57817d76bb7b8062668ad5d3",
+      "title": "\"Les propos qu'il tient sont une incitation au racisme\", assure Dominique de Villepin après les paroles d'Édouard Philippe sur les \"Français issus de l'immigration\"",
+      "url": "https://www.franceinfo.fr/politique/les-propos-qu-il-tient-sont-une-incitation-au-racisme-assure-dominique-de-villepin-apres-les-paroles-d-edouard-philippe-sur-les-francais-issus-de-l-immigration_8268926.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 08:59:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "dominique-de-villepin"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité des \"4 Vérités\" jeudi 5 novembre, Dominique de Villepin, ancien Premier ministre, fondateur de \"La France Humaniste\", revient sur la mobilisation du jour.",
+        "Il est aussi interrogé sur les propos d'Édouard Philippe qui avait qualifié certains pilleurs de \"Français issus de l'immigration\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "372299d7a41c2d8ce208aaba",
+      "title": "\"Les propos qu'il tient sont une incitation au racisme\", assure Dominique de Villepin après les paroles d'Édouard Philippe sur les \"Français issus de l'immigration\"",
+      "url": "https://www.franceinfo.fr/politique/les-propos-qu-il-tient-sont-une-incitation-au-racisme-assure-dominique-de-villepin-apres-les-paroles-d-edouard-philippe-sur-les-francais-issus-de-l-immigration_8268926.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 08:59:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "dominique-de-villepin"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité des \"4 Vérités\" jeudi 5 novembre, Dominique de Villepin, ancien Premier ministre, fondateur de \"La France Humaniste\", revient sur la mobilisation du jour.",
+        "Il est aussi interrogé sur les propos d'Édouard Philippe qui avait qualifié certains pilleurs de \"Français issus de l'immigration\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "24acdc0f40ec73051d0b8306",
+      "title": "\"On n'a ni argent ni majorité\" : le gouvernement Lecornu a-t-il encore des marges de manœuvre pour répondre à la crise sociale ?",
+      "url": "https://www.franceinfo.fr/economie/greve/greve/on-n-a-ni-argent-ni-majorite-le-gouvernement-lecornu-a-t-il-encore-des-marges-de-man-uvre-pour-repondre-a-la-crise-sociale_8265512.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 08:41:57 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "majorite",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "L'intersyndicale appelle jeudi à une grande mobilisation sur la thématique du pouvoir d'achat, tandis que les organisations de jeunesse poursuivent leurs opérations de blocage.",
+        "Face à la persistance de la grogne sociale, l'exécutif dispose de peu de leviers pour y répondre, à six mois de l'élection présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ef36d7afa0b2c99cf0d4bad0",
+      "title": "Des journalistes quittent la soirée de lancement du livre de Jordan Bardella, après que le RN a notamment refusé l'accès à Mediapart",
+      "url": "https://www.franceinfo.fr/politique/front-national/des-journalistes-quittent-la-soiree-de-lancement-du-livre-de-jordan-bardella-apres-que-le-rn-a-refuse-l-acces-a-mediapart_8268878.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 08:19:57 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un membre de la rédaction du journal Politis ainsi qu'un journaliste indépendant se sont également vus interdire l'accès à l'évènement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c31f579e606e475cd41303d1",
+      "title": "En direct : la grogne sociale monte d'un cran, grève et manifestations partout en France",
+      "url": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 05:47:57 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Salariés et fonctionnaires sont appelés jeudi par les syndicats à faire grève, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
+        "Le ministre de l'Intérieur Laurent Nuñez a annoncé mobiliser 70 000 policiers et gendarmes, promettant \"une réponse d'une extrême fermeté\" aux éventuels \"débordements\".",
+        "Suivez la mobilisation en direct."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
