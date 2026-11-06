@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T08:25:46.744318+00:00",
-  "total": 549,
+  "generatedAt": "2026-11-06T08:22:09.144545+00:00",
+  "total": 604,
   "statistiques": {
-    "a_examiner_en_priorite": 7,
-    "a_qualifier": 198,
-    "signal_non_qualifie": 344
+    "a_examiner_en_priorite": 8,
+    "a_qualifier": 220,
+    "signal_non_qualifie": 376
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -4326,6 +4326,130 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "8c613db0b1b54b49d60fbc13",
+      "title": "Article 34 du PLFSS : le bon sens l'emporte enfin !",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/05-11-2026/article-34-du-plfss-le-bon-sens-lemporte-enfin.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 18:02:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Communiqué de presse du 05/11/2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d9d83ba51f5fbd9683c54201",
+      "title": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant - rapport n° 141",
+      "url": "http://www.senat.fr/rap/l26-141/l26-141.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 17:31:50 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport n° 141 de Mme Frédérique PUISSAT, fait au nom de la commission des affaires sociales, sur la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (3 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0d17ae26a10ad00e08ff3cac",
+      "title": "Règlement sur le logement abordable - rapport d'information n° 153",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-153-notice.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 17:31:50 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 153 de Mme Brigitte DEVÉSA et M.",
+        "Ahmed LAOUEDJ, fait au nom de la commission des affaires européennes : Règlement sur le logement abordable (5 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e3606e662fa44aaefa7987c2",
+      "title": "Financement de la sécurité sociale pour 2027 - avis n° 139",
+      "url": "http://www.senat.fr/rap/a26-139/a26-139.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 16:30:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Vincent DELAHAYE, fait au nom de la commission des finances, sur le projet de loi de financement de la sécurité sociale pour 2027 (3 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eeef1e5bed8bf640a5856956",
+      "title": "Avenir d'Europol - rapport d'information n° 149",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-149-notice.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 16:04:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 149 de Mmes Catherine BELRHITI et Audrey LINKENHELD, fait au nom de la commission des affaires européennes : Avenir d'Europol (5 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "be97e43fc951a853360938cb",
+      "title": "Adapter la production de logements sociaux aux capacités des territoires - texte N° 39",
+      "url": "http://www.senat.fr/leg/ppl26-039.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 15:13:35 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "loi-sru",
+          "theme": "societe",
+          "keywords": [
+            "logements",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Proposition de loi visant à adapter les obligations de production de logements sociaux aux capacités réelles des territoires : texte N° 39 de Mme Alexandra BORCHIO FONTIMP, déposé au Sénat le 13 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "51592d56c792155659de796a",
+      "title": "Avenir d'Eurojust - rapport d'information n° 151",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-151-notice.html",
+      "sourcePublishedAt": "Thu,05 Nov 2026 15:13:35 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 151 de MM.",
+        "Christophe CHAILLOU et Loïc HERVÉ, fait au nom de la commission des affaires européennes : Avenir d'Eurojust (5 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "d19842f976c5daa084763e8b",
       "title": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant - texte de la commission N° 142",
       "url": "http://www.senat.fr/leg/ppl26-142.html",
@@ -5306,6 +5430,848 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "dfcbbd6f1a4739c74ea21827",
+      "title": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 23:35:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Fabien Roussel lâché par une partie des siens… Une majorité des députés du groupe communiste et ultramarin de l’Assemblée nationale a annoncé ce jeudi 5 novembre se rallier à l’insoumis Jean-Luc Mélenchon."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cc170a5448248574afbc1d57",
+      "title": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 23:35:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Fabien Roussel lâché par une partie des siens… Une majorité des députés du groupe communiste et ultramarin de l’Assemblée nationale a annoncé ce jeudi 5 novembre se rallier à l’insoumis Jean-Luc Mélenchon."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3d0641086e83a183010e7724",
+      "title": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
+      "url": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 23:00:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En pleine colère sociale, les réseaux sociaux, notamment TikTok, sont des moyens rapides de communication pour les manifestants...",
+        "et certains casseurs.",
+        "La police peine toutefois à repérer les vidéos les plus virales."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c63432e9e992b8574f3f48bd",
+      "title": "Grève du 5 novembre : \"Dans ce pays qu'on pensait un peu atone, la jeunesse nous a réveillés\", estime Léa Balage El Mariky, députée Écologiste et Social",
+      "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 22:57:39 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invités du \"Duel\", jeudi 5 novembre, Léa Balage El Mariky, députée du groupe Écologiste et Social, et Jad Zahab, porte-parole de Gabriel Attal, tirent de premières conclusions de la mobilisation de cette journée à l'appel de l'intersyndicale.",
+        "\"Un signe d'espoir\" que la jeunesse a permis de faire émerger, selon l'élue, tandis que le porte-parole de l'ex-Premier ministre perçoit le signe d'un pays \"au bout d'un système\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "95988be7c827ea101bb2634a",
+      "title": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+      "url": "https://www.franceinfo.fr/monde/ameriques/crise-au-paraguay-le-president-santiago-pena-demissionne-apres-le-gel-des-avoirs-de-pres-de-la-moitie-de-la-population-dans-la-principale-banque-du-pays_8269922.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 22:52:40 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Au Paraguay, une crise bancaire fait vaciller le pouvoir.",
+        "Le président Santiago Peña vient d’annoncer sa démission, alors que les députés débattaient de sa destitution.",
+        "Depuis 48 heures, les dépôts d’une banque, dont le chef de l’État était encore récemment actionnaire et qui revendique près de trois millions de clients, sont gelés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f36d27c4b4d2f90af834ec21",
+      "title": "Confrontations à gauche dans la rue, Édouard Philippe en difficulté… Le point sur la bataille de l'Elysée, à cinq mois de l'élection",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/confrontations-a-gauche-dans-la-rue-edouard-philippe-en-difficulte-le-point-sur-la-bataille-de-l-elysee-a-cinq-mois-de-l-election_8269898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 22:50:34 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans 164 jours aura lieu le premier tour de la présidentielle et déjà, chacun cherche comment se faire entendre, dans la rue ou en librairie.",
+        "Au centre, les mauvais sondages bousculent les ambitions, alors que les dates du scrutin sont dénoncées par plusieurs candidats.",
+        "Chaque jeudi désormais, France Télévisions raconte la bataille pour l’Élysée, ses stratégies et ses coulisses."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9b65d2dc579a847b6e473e3f",
+      "title": "Plafonds qui s'effondrent, placo qui tombe… Une liste noire de 200 lycées délabrés à rénover en priorité dressée par le gouvernement",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/plafonds-qui-s-effondrent-placo-qui-tombe-une-liste-noire-de-200-lycees-delabres-a-renover-en-priorite-dressee-par-le-gouvernement_8269817.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 22:37:43 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "priorite-nationale",
+          "theme": "immigration",
+          "keywords": [
+            "nationale",
+            "priorite"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Parmi les demandes des lycéens figure la possibilité d'étudier dans des locaux en bon état.",
+        "Salles surchauffées, sanitaires inutilisables… Le ministère de l'Éducation nationale a dressé une liste de 200 lycées à rénover en priorité, à partir des signalements des élèves.",
+        "Quels sont les établissements concernés, et quels travaux faut-il y mener ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fe3bbf43a42167b075e87b4c",
+      "title": "Une conférence du député LFI Raphaël Arnault interdite à Villeurbanne, le préfet du Rhône évoque des risques \"d'affrontements entre des groupuscules radicaux\"",
+      "url": "https://www.franceinfo.fr/politique/une-conference-du-depute-lfi-raphael-arnault-interdite-a-villeurbanne-le-prefet-du-rhone-evoque-des-risques-d-affrontements-entre-des-groupuscules-radicaux_8269784.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 20:12:54 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Cette mesure a pour objectif de prévenir les risques de troubles à l'ordre public\", explique la préfecture du Rhône au sujet de la conférence initialement prévue vendredi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4b1ffb162b6dc8f133e520f0",
+      "title": "Grèves et manifestations en France : le pouvoir sous pression ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261105-gr%C3%A8ves-et-manifestations-en-france-le-pouvoir-sous-pression",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 19:20:41 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-societe-01",
+          "theme": "societe",
+          "keywords": [
+            "droit",
+            "publics"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-societe-03",
+          "theme": "societe",
+          "keywords": [
+            "etudiants",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "keywords": [
+            "droit",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "keywords": [
+            "droit",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Nouvelle journée de mobilisation à l’appel des organisations syndicales, qui prennent le relai des mouvements des lycéens et étudiants.",
+        "Parmi les revendications : la revalorisation des salaires, la sauvegarde des services publics et la défense du droit à manifester.",
+        "Sébastien Lecornu réunira lundi à Matignon une \"conférence sociale\" avec les organisations syndicales et patronales."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fca69996bfb96a5030a724fd",
+      "title": "Jordan Bardella demande le vote \"en urgence\" d'une \"règle d'or\" dans la Constitution, après le rejet du budget 2027 à l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/budget/jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-apres-le-rejet-du-budget-2027-a-l-assemblee-nationale_8269751.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 19:09:03 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Cette \"règle d'or\" reprendrait le \"principe\" déjà énoncé par la candidate du RN à l'Élysée, Marine Le Pen, à savoir \"qu'aucun budget ne pourra être voté s'il augmente le niveau d'endettement du pays\", a estimé le président du RN."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e7539dd3488ab9e12258d210",
+      "title": "\"Quelle fin de règne interminable\" : pourquoi aucun député, même parmi les macronistes, n'a voté en faveur de la première partie du budget",
+      "url": "https://www.franceinfo.fr/economie/budget/quelle-fin-de-regne-interminable-pourquoi-aucun-depute-meme-parmi-les-macronistes-n-a-vote-en-faveur-de-la-premiere-partie-du-budget_8268995.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 18:58:32 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'Assemblée nationale a rejeté mercredi en première lecture la partie recettes du projet de loi de finances.",
+        "Tous les élus, y compris des groupes macronistes, ont voté contre le texte.",
+        "Une première dans l'histoire parlementaire."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3736d9136d8e1016212e096c",
+      "title": "Mobilisation du 5 novembre : Raphaël Glucksmann quitte le cortège après avoir été hué",
+      "url": "https://www.franceinfo.fr/economie/greve/greve/mobilisation-du-5-novembre-raphael-glucksmann-quitte-le-cortege-apres-avoir-ete-hue_8269736.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 18:30:21 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat social-démocrate à la présidentielle a quitté le cortège parisien de la mobilisation du 5 novembre, après des échanges tendus avec les manifestants."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f44bf396394e7bdcaa8aae89",
+      "title": "Présidentielle 2027 : la majorité du groupe communiste à l'Assemblée apporte son soutien à Jean-Luc Mélenchon plutôt qu'à Fabien Roussel",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-la-majorite-du-groupe-communiste-a-l-assemblee-apporte-son-soutien-a-jean-luc-melenchon-plutot-qu-a-fabien-roussel_8269403.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 18:09:50 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Neuf des 17 élus du groupe communiste et ultramarin ont choisi de rallier le candidat insoumis, aux dépens du candidat de leur propre parti."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "71cfa2cf5ace3d0da9f5604f",
+      "title": "“Rue du Goût Perdu” : la gastronomie pour tous",
+      "url": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20261105-rue-du-go%C3%BBt-perdu-la-gastronomie-pour-tous",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 17:30:50 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Comment rendre la gastronomie accessible à tous ?",
+        "Avec le projet \"Rue du Goût Perdu\", deux jeunes cuisiniers organisent des dîners gastronomiques solidaires pour faire découvrir la cuisine et les saveurs d'antan aux habitants de leur quartier."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4adf28d7842a580596569063",
+      "title": "Bâtiments vétustes, toilettes insalubres, chauffage défectueux... Découvrez les 200 lycées prioritaires pour être rénovés dans notre moteur de recherche",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/batiments-vetustes-toilettes-insalubres-chauffage-defectueux-decouvrez-les-200-lycees-prioritaires-pour-etre-renoves-dans-notre-moteur-de-recherche_8268914.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 17:19:28 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le gouvernement a sélectionné ces établissements en fonction du nombre de signalements effectués sur la plateforme mise en place pour répondre à la colère des lycéens."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9f43f14f0eff130b73bafcb0",
+      "title": "Manifestations contre la vie chère en France : le taux de pauvreté au plus haut",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-manifestations-contre-la-vie-ch%C3%A8re-en-france-le-taux-de-pauvret%C3%A9-au-plus-haut",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 16:41:05 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "keywords": [
+            "euros",
+            "millions"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En France, le taux de pauvreté n’a jamais été aussi haut depuis au moins trente ans.",
+        "Une situation qui fait partie des enjeux au cœur des mobilisations de ce jeudi 5 novembre.",
+        "La France comptait 9,8 millions de personnes sous le seuil de pauvreté en 2024 selon l'Insee."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "526867552e797af03802e471",
+      "title": "Budget 2027 : l'Assemblée nationale rejette à l'unanimité le projet de budget de l'État",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-budget-2027-l-assembl%C3%A9e-nationale-rejette-%C3%A0-l-unanimit%C3%A9-le-projet-de-budget-de-l-%C3%A9tat",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 16:15:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les députés ont rejeté mercredi 4 novembre en première lecture, et à l'unanimité des votes exprimés, le projet de budget de l'Etat 2027, qui sera donc envoyé dans sa version initiale au Sénat.",
+        "Après avoir supprimé plusieurs articles-clés du texte gouvernemental, l'Assemblée a rejeté comme l'an dernier la partie \"recettes\" du texte, avec 458 voix contre, issues de tous les groupes, et deux abstentions au sein du groupe communiste et ultramarin."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e128f24c32fccbf934d08ffa",
+      "title": "Grèves en France : comment les manifestations sont vues de l'étranger ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ves-en-france-comment-les-manifestations-sont-vues-de-l-%C3%A9tranger",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 16:12:01 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les mobilisations aux luttes convergentes s'enchaînent en France depuis des semaines, dépassant parfois les frontières de la France.",
+        "En Europe, la jeunesse albanaise, italienne et grecque est, elle aussi, sortie dans les rues.",
+        "À l'échelle internationale, comment ces manifestations sont -elles vues ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "584fbeb70afa1c5b4ae9b3ac",
+      "title": "Grève du 5 novembre : plus de 9,8 millions de Français sous le seuil de pauvreté",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-plus-de-9-8-millions-de-fran%C3%A7ais-sous-le-seuil-de-pauvret%C3%A9",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 16:08:22 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le pouvoir d'achat et la précarité sont aussi les luttes portées lors de ce jeudi 5 novembre, journée de grève intersyndicale.",
+        "En France, selon l'Insee, 9.8 % des Français sont sous le seuil de pauvreté (2024).",
+        "Une justice sociale est demandée, en solution, les manifestants proposent notamment la taxation des ultra-riches."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f04c81da01f680b7b5a6bdc8",
+      "title": "\"Je m'en contrefous\" : Raphaël Glucksmann répond aux militants hostiles à sa présence, avant d'être contraint de quitter le cortège",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/je-m-en-contrefous-raphael-glucksmann-repond-aux-militants-hostiles-a-sa-presence-sur-la-manifestation-parisienne_8269385.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 16:03:27 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat social-démocrate à la présidentielle est régulièrement pris à partie par des militants de la gauche radicale."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "896f2c215d372794a87401fc",
+      "title": "Grève du 5 novembre : une augmentation du SMIC demandée pas les syndicats",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-une-augmentation-du-smic-demand%C3%A9e-pas-les-syndicats",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 15:57:21 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Déjà un \"succès\" de la mobilisation du jeudi 5 novembre pour les syndicats : les grèves pour différentes causes sociales avaient rassemblé à la mi-journée des centaines de milliers de personnes hors région parisienne, mettant le gouvernement sous pression pour concéder une hausse importante du SMIC et la suppression de Parcoursup entre autres.",
+        "Les explications de Marc Perelman, chroniqueur politique à France 24."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3bd9868f9c94f43cab764068",
+      "title": "Grève du 5 novembre : le cortège devrait rassembler entre 40 000 et 80 000 manifestants à Paris",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-le-cort%C3%A8ge-devrait-rassembler-entre-40-000-et-80-000-manifestants-%C3%A0-paris",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 15:55:04 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "cadre",
+            "salaires"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Près de 10 %, des agents de la fonction publique d'Etat ont participé jeudi 5 novembre au mouvement de grève dans le cadre de la journée d'action pour les salaires et le pouvoir d'achat, d'après le ministère de l'Action et des Comptes publics.",
+        "Les précisions de Marie Schuster, journaliste France 24 en direct de la Place de la République."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "dce6435f2fde809b642eecc2",
+      "title": "Grève du 5 novembre : environ 1 000 lycées \"à l'arrêt\" selon l'Union Syndicale Étudiante",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-environ-1-000-lyc%C3%A9es-%C3%A0-l-arr%C3%AAt-selon-l-union-syndicale-%C3%A9tudiante",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 14:48:06 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-societe-02",
+          "theme": "societe",
+          "keywords": [
+            "etablissements",
+            "scolaires"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "cadre",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Environ 2,2 % des établissements scolaires étaient \"bloqués\", soit 81 lycées sur 3 700, dans le cadre de la journée de mobilisation à l'appel des syndicats ce jeudi 5 novembre, selon Matignon.",
+        "Entrant une nouvelle fois en contradiction avec l'Union syndicale lycéenne (USL), qui faisait état de 1 000 lycées \"à l'arrêt\", soit à la fois ceux bloqués et ceux fermés administrativement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "916f27ad5199499dec8c9359",
+      "title": "Mobilisations en France : \"il va falloir un peu se bouger sur les réponses sociales\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-il-va-falloir-un-peu-se-bouger-sur-les-r%C3%A9ponses-sociales",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 14:44:02 GMT",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "priorite-nationale",
+          "theme": "immigration",
+          "keywords": [
+            "nationale",
+            "social",
+            "sociales"
+          ],
+          "keywordCount": 3
+        }
+      ],
+      "extraitsRSS": [
+        "La secrétaire nationale des Écologistes Marine Tondelier a estimé \"qu'\"il faudrait peut-être se bouger sur les réponses sociales\" en soutient aux mouvement sociaux en France, qui juge que ça va être \"compliqué\" pour l'exécutif de répondre à \"une convergence des luttes\".",
+        "Le chef de l'État \"finit son mandat comme il a gouverné, c'est-à-dire seul contre tous.",
+        "Et là, on a une sorte de mouvement social qui est son bilan de mandat\", a estimé Mme Tondelier sur Public Sénat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5b4ea432cb4b745c042b730b",
+      "title": "France : un début d'incendie éteint dans un lycée près de Toulouse",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-un-d%C3%A9but-d-incendie-dans-un-lyc%C3%A9e-pr%C3%A8s-de-toulouse",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 14:39:41 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une trentaine d'individus ont pénétré tôt jeudi 5 novembre dans un lycée de Tournefeuille près de Toulouse, tirant des mortiers d'artifice et provoquant un incendie rapidement éteint par les pompiers qui a endommagé un local de la vie scolaire, selon la préfecture.",
+        "Pour les élèves, les auteurs des dégradations ne font pas partie du lycée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ec7c80527ae37043c51a4464",
+      "title": "Grève du 5 novembre : jusqu'à 700 000 manifestants attendus partout dans le pays",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-jusqu-%C3%A0-700-000-manifestants-attendus-partout-dans-le-pays",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 14:37:35 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En France, la journée d'action nationale de l'intersyndicale a rassemblé jeudi 5 novembre, 270 000 manifestants dans 180 cortèges, hors Paris, selon un bilan à 13H00 des autorités donné par l'entourage de Laurent Nuñez.",
+        "Les précisions de Pauline Godart, grand reporter à France 24 et Karel Yon, sociologue et chercheur au CNRS."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ead8cd76f241561f530ff0d7",
+      "title": "Le point sur la mobilisation du 5 novembre",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-le-point-sur-la-mobilisation-du-5-novembre",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 13:42:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En France, salariés, fonctionnaires, syndicats et lycéens sont mobilisés ce jeudi 5 novembre pour une journée de grève nationale.",
+        "France 24 s'est rendu au lycée Le Corbusier, à #Aubervilliers, où le blocage des élèves a lieu depuis 7h30."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e8ec1c23186f2cbd74e35e1b",
+      "title": "Mobilisations en France : des lycéens maintiennent les blocus avant le cortège",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-des-lyc%C3%A9ens-maintiennent-les-blocus-avant-le-cort%C3%A8ge",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 11:28:50 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des lycéens et étudiants étaient une nouvelle fois mobilisés jeudi 5 novembre matin pour dénoncer le manque de moyens dans l'Éducation nationale, avant des manifestations prévues dans la journée partout en France contre la vie chère.",
+        "À Aubervilliers, les lycéens se sont rassemblés devant le lycée Le Corbusier, faisant face à une intervention de la police qui a causé une blessure à la tête d'un des professeurs présent en soutien.",
+        "Les précisions de Pauline Godart, grand reporter à France 24."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d428eeb59b3f131ce88df70d",
+      "title": "Alerte à la bombe sur un vol Dublin - Rome : l'A320 dérouté a atterri à Évreux",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-alerte-%C3%A0-la-bombe-sur-un-vol-dublin-rome-l-a320-d%C3%A9rout%C3%A9-a-atterri-%C3%A0-%C3%A9vreux",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 11:19:57 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un avion de ligne A320 comprenant 157 personnes embarquées et qui faisait la liaison entre Dublin et Rome, \"a été dérouté\" et a atterri jeudi 5 novembre au matin sur \"la base aérienne d'Évreux\" en raison d'une alerte à la bombe, a annoncé Matignon.",
+        "L'ensemble de l'équipage et les passagers sont sains et saufs.",
+        "Les explications de Sylvain Rousseau, grand reporter à France 24."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4fe92a5485262f5c70bc4b2c",
+      "title": "En France, le nombre de victimes de violences conjugales repart à la hausse en 2025",
+      "url": "https://www.france24.com/fr/france/20261105-en-france-le-nombre-de-victimes-de-violences-conjugales-repart-%C3%A0-la-hausse-en-2025",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 11:09:58 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "ministere",
+            "violences"
+          ],
+          "keywordCount": 3
+        }
+      ],
+      "extraitsRSS": [
+        "Près de 285 000 victimes de violences commises par leur partenaire ou ex-partenaire ont été enregistrées par les forces de sécurité en France en 2025, soit une hausse de 5 % sur un an, a annoncé jeudi le ministère de l'Intérieur.",
+        "Comme les années précédentes, les victimes sont très majoritairement des femmes (84 %) et les mis en cause des hommes (85 %)."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "81f975090bad7620f4dadf30",
+      "title": "Midterms : la guerre en Iran est \"la raison de la défaite\" d'après JD Vance",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-midterms-la-guerre-en-iran-est-la-raison-de-la-d%C3%A9faite-selon-jd-vance",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:51:05 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "renouvelables",
+          "theme": "ecologie",
+          "keywords": [
+            "nucleaire",
+            "terme"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Interrogé par des journalistes sur les propos de JD Vance qui avait estimé que la guerre était \"la raison de la défaite\", Donald Trump a répondu mercredi 4 novembre, depuis le chantier de la future salle de bal de la Maison Blanche que \"c'est en grande partie vrai\", sans pour autant mentionner un quelconque regret : \"en même temps, si c'était à refaire, je le referais parce qu'à long terme, c'est la seule solution.",
+        "On ne peut pas laisser l'Iran avoir l'arme nucléaire.\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5e7ba93b79ab28683048f179",
+      "title": "Route du Rhum : le navigateur Armel Le Cléac'h secouru après avoir chaviré",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-route-du-rhum-le-navigateur-armel-le-cl%C3%A9ac-h-secouru-apr%C3%A8s-avoir-chavir%C3%A9",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:37:04 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Cléac'h, Marchand, Loison, Joyon, Caudrelier...",
+        "Alors que la météo annoncée sur la 13e Route du Rhum promettait mer d'huile et pétole sur le trajet, la liste des abandons parmi les favoris n'a cessé de s'allonger depuis le départ dimanche 1er novembre.",
+        "Armel Le Cléac'h a été secouru mercredi 4 novembre, après 13 heures coincés dans son maxi-trimaran."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0721535eee7ec86194b75172",
+      "title": "Guerre en Ukraine : la Première dame américaine Melania Trump en médiatrice ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-guerre-en-ukraine-la-premi%C3%A8re-dame-am%C3%A9ricaine-melania-trump-en-m%C3%A9diatrice",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:35:12 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Melania Trump doit recevoir jeudi 5 novembre à la Maison Blanche des représentants russes et ukrainiens, à moins d'une semaine de pourparlers à Abou Dhabi sous médiation américaine pour tenter de trouver une issue au conflit en Ukraine.",
+        "Les précisions d'Emmanuelle Chaze, correspondante France 24 à Kiev."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "884866b6f802f2ae15dc7ce9",
+      "title": "France : cyberattaque du groupe Crédit Mutuel Arkéa, une enquête ouverte",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-cyberattaque-du-groupe-cr%C3%A9dit-mutuel-ark%C3%A9a-une-enqu%C3%AAte-ouverte",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:28:19 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "keywords": [
+            "euros",
+            "millions"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La banque Crédit Mutuel Arkéa a déclaré avoir été la cible d'une \"cyberattaque\" dont les pertes sont de l'ordre de plus de 100 millions d'euros, mercredi 4 novembre au soir dans un communiqué.",
+        "Les attaquants ont \"convertis cet argent en cryptomonnaie via des plateformes spécialisées\".",
+        "Ils ne sont \"pas passés par des comptes de clients de ses fédérations ni de ses filiales\", insiste la banque."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "de12162f7f969b092d39816b",
+      "title": "Des militants contre l'antisémitisme perturbent la soirée de lancement du livre de Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/des-militants-contre-l-antisemitisme-perturbent-la-soiree-de-lancement-du-livre-de-jordan-bardella_8269049.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:27:19 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Bardella, ton antisémitisme ne s'efface pas !\" Mercredi 4 novembre, des militants du collectif de lutte contre l'antisémitisme, \"Nous vivrons\", ont perturbé la soirée de lancement du livre de Jordan Bardella"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fea3fea66bde2a2627eda56e",
+      "title": "Grève du 5 novembre en France : quelque 70 000 policiers et gendarmes mobilisés",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-gr%C3%A8ve-du-5-novembre-en-france-quelque-70-000-policiers-et-gendarmes-mobilis%C3%A9s",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:23:54 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En raison de l’appel national à la grève lancé par les syndicats pour les salaires et l'emploi, 70 000 policiers et gendarmes seront déployés ce jeudi 5 novembre à travers la France.",
+        "Le ministre de l'Intérieur a annoncé, mercredi 4 novembre lors d'un point presse place Beauvau, qu'il s'agit \"exactement du même\" dispositif que celui du 31 octobre\", promettant \"une réponse d'une extrême fermeté\" aux éventuels \"exactions\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e1ab318a6254d8b8dd7c8be2",
+      "title": "Mobilisations en France : un appel à la grève d'ampleur nationale",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261105-mobilisations-en-france-un-appel-%C3%A0-la-gr%C3%A8ve-d-ampleur-nationale",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:21:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Plus de 250 rassemblements auront lieu partout en France dans l'après-midi du 5 novembre, mais certains parcours de manifestations font l'objet de bras de fer avec les autorités.",
+        "Annoncée début octobre, cette journée doit rassembler salariés du privé, du public, retraités, mais aussi lycéens et étudiants mobilisés déjà depuis des semaines."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5dc45386ccbc2a33e6fb1b09",
+      "title": "Bruno Retailleau appelle la droite à \"se réveiller\" pour la présidentielle et défend son idée de débats, avant une éventuelle primaire",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-la-droite-a-se-reveiller-pour-la-presidentielle-et-defend-son-idee-de-debats-avant-une-eventuelle-primaire_8269013.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:12:26 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau",
+        "raphael-glucksmann",
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Les Républicains à la présidentielle 2027, plaide pour une primaire de la droite sans Raphaël Glucksmann, ni Éric Zemmour.",
+        "Il se battra, dit-il, pour proposer une \"rupture\" avec le macronisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2ec8992dbf1c6ed8a36f2435",
+      "title": "Bruno Retailleau appelle la droite à \"se réveiller\" pour la présidentielle et défend son idée de débats, avant une éventuelle primaire",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-la-droite-a-se-reveiller-pour-la-presidentielle-et-defend-son-idee-de-debats-avant-une-eventuelle-primaire_8269013.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 10:12:26 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau",
+        "raphael-glucksmann",
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Les Républicains à la présidentielle 2027, plaide pour une primaire de la droite sans Raphaël Glucksmann, ni Éric Zemmour.",
+        "Il se battra, dit-il, pour proposer une \"rupture\" avec le macronisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "1af97b8f7d8eef26ae3de0b6",
       "title": "Bruno Retailleau appelle à \"ne pas bloquer\" les lycées et dénonce \"la violence d'une minorité bruyante\"",
       "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-appelle-a-ne-pas-bloquer-les-lycees-et-denonce-la-violence-d-une-minorite-bruyante_8268953.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -5464,6 +6430,23 @@
         "Salariés et fonctionnaires sont appelés jeudi par les syndicats à faire grève, jeunes et retraités à les rejoindre en manifestation, quand le gouvernement est attendu sur des réponses concrètes.",
         "Le ministre de l'Intérieur Laurent Nuñez a annoncé mobiliser 70 000 policiers et gendarmes, promettant \"une réponse d'une extrême fermeté\" aux éventuels \"débordements\".",
         "Suivez la mobilisation en direct."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "45366e9fde88b44747ff5919",
+      "title": "Après une journée de forte mobilisation en France, Lecornu convoque les syndicats et le patronat",
+      "url": "https://www.france24.com/fr/france/20261105-apr%C3%A8s-une-journ%C3%A9e-de-forte-mobilisation-en-france-lecornu-convoque-les-syndicats-et-le-patronat",
+      "sourcePublishedAt": "Thu, 05 Nov 2026 01:20:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Au terme d'une journée de grèves et de manifestations pour les salaires et le pouvoir d'achat, le Premier ministre Sébastien Lecornu réunira lundi, à Matignon, les syndicats et le patronat pour une \"conférence sociale\".",
+        "Jeudi, les cortèges ont rassemblé salariés, fonctionnaires, retraités et jeunes dans une ambiance bon enfant, sans heurts majeurs."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -9437,6 +10420,24 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "3c238e7954216ba7aafab685",
+      "title": "Financement de la sécurité sociale pour 2027 : Examen des articles - rapport n° 144 tome II",
+      "url": "http://www.senat.fr/rap/l26-144-2/l26-144-2.html",
+      "sourcePublishedAt": "Fri,06 Nov 2026 02:03:54 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport n° 144 tome II de MM.",
+        "Olivier HENNO, rapporteur général, Jean-François RAPIN, Mmes Marie-Do AESCHLIMANN, Jocelyne GUIDEZ, MM.",
+        "Laurent BURGOA et Jean SOL, fait au nom de la commission des affaires sociales, sur le projet de loi de financement de la sécurité sociale pour 2027 : Examen des articles (4 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "d3dd17a5225609cc6ec9ebfe",
       "title": "Garantir un service public de proximité dans chaque commune - texte N° 966",
       "url": "http://www.senat.fr/leg/ppl25-966.html",
@@ -11007,6 +12008,125 @@
         "Selon Enedis, près de 290 000 foyers sont privés d'électricité vendredi en raison de la tempête Austen, principalement en Bretagne.",
         "Huit nouveaux départements ont été placés en vigilance orange pour les vents au cours de la matinée, portant à 23 le nombre de départements concernés.",
         "Au cours de la nuit, des rafales de 120 à 140 km/h ont été relevées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f6b195f5e110b660a60b9ccd",
+      "title": "\"Il faut mettre le smic net à 1 600 euros\", propose Nicolas Dupont-Aignan, candidat Debout la France à la présidentielle",
+      "url": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 09:19:17 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité des \"4 Vérités\" vendredi 6 novembre, Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, revient sur la mobilisation en France la veille.",
+        "Il présente ses propositions pour le pouvoir d'achat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "92f28f06c936df4d49541255",
+      "title": "Mobilisations sociales, salaires, ses 40 chantiers pour \"remettre la France debout\"... Le \"8h30 franceinfo\" de François Ruffin",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-salaires-ses-40-chantiers-pour-remettre-la-france-debout-le-8h30-franceinfo-de-francois-ruffin_8249932.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 09:17:41 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "francois-ruffin"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "François Ruffin, président du parti Debout !, député de la Somme, et candidat à l’élection présidentielle, est l'invité du \"8h30 franceinfo\", le 6 novembre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c5647e72cde1527c10bedb0b",
+      "title": "\"Il faut mettre le SMIC net à 1 600 euros\", propose Nicolas Dupont-Aignan au lendemain de la mobilisation contre la vie chère",
+      "url": "https://www.franceinfo.fr/politique/il-faut-mettre-le-smic-net-a-1-600-euros-propose-nicolas-dupont-aignan-au-lendemain-de-la-mobilisation-contre-la-vie-chere_8270444.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 09:01:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité des \"4 Vérités\" vendredi 6 novembre, Nicolas Dupont-Aignan, candidat Debout la France à l'élection présidentielle, revient sur la mobilisation en France la veille.",
+        "Il présente ses propositions pour le pouvoir d'achat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ff72a2206c1fdb128699b384",
+      "title": "EDITO. Une fin de règne bien solitaire pour Emmanuel Macron",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 08:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Impopulaire, abandonné et même renié, le président s'est livré ces deux dernières années à la journaliste Françoise Degois, lors d'échanges privés par sms.",
+        "Un livre tiré de ses messages est paru jeudi, intitulé \"Vous êtes tous trop durs avec moi\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c272a6a2dca632703c7b0dc6",
+      "title": "EDITO. Une fin de règne bien solitaire pour Emmanuel Macron",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-une-fin-de-regne-bien-solitaire-pour-emmanuel-macron_8249893.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 08:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Impopulaire, abandonné et même renié, le président s'est livré ces deux dernières années à la journaliste Françoise Degois, lors d'échanges privés par sms.",
+        "Un livre tiré de ses messages est paru jeudi, intitulé \"Vous êtes tous trop durs avec moi\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a097d238ddc74da9275e34f0",
+      "title": "Que peut espérer Sébastien Lecornu de sa conférence sociale prévue lundi ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/que-peut-esperer-sebastien-lecornu-de-sa-conference-sociale-prevue-lundi_8249920.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 07:17:29 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sébastien Lecornu a annoncé, jeudi, en pleine mobilisation nationale, qu'une conférence sociale aura lieu lundi pour discuter des salaires français avec syndicats et patronat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "90c22c9bea503d40c21de83e",
+      "title": "REPORTAGE. \"Ce serait presque drôle, si ça ne montait pas les gens les uns contre les autres\" : après l'incendie de la mairie de Limoges, le plateau de Millevaches pointé du doigt comme un bastion de \"l'ultragauche\"",
+      "url": "https://www.franceinfo.fr/replay-radio/le-choix-franceinfo/reportage-ce-serait-presque-drole-si-ca-ne-montait-pas-les-gens-les-uns-contre-les-autres-apres-l-incendie-de-la-mairie-de-limoges-le-plateau-de-millevaches-pointe-du-doigt-comme-un-bastion-de-l-ultragauche_8249923.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Fri, 06 Nov 2026 06:42:28 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Depuis le 17 octobre et l'incendie de son hôtel de ville, le maire (LR) de Limoges a pointé du doigt \"l'ultragauche\" et sa prétendue \"base arrière\" sur le plateau de Millevaches.",
+        "Les habitants de ce territoire, l'un des moins peuplés de France, dénoncent des \"amalgames\"."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
