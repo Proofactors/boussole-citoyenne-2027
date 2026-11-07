@@ -1,8 +1,8 @@
 {
   "schemaVersion": "24.0",
   "source": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "archiveSha256": "78c9d14206faef0cb5a42120192d4f0dd055785f919c6c91a2b5f35b304ba7e7",
-  "generatedAt": "2026-11-06T08:22:31+00:00",
+  "archiveSha256": "8223c3c022c7e4ca7e4b401b5bd53f0653fab2917ed388e3c4a8fce2ea0127fa",
+  "generatedAt": "2026-11-07T08:11:13+00:00",
   "totalParsed": 9759,
   "invalid": 0,
   "scrutins": [
@@ -32206,7 +32206,7 @@
       "uid": "VTANR5L17V9715",
       "numero": "9715",
       "date": "2026-11-04",
-      "titre": "l'amendement n° 2580 de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 2580 (rect.) de M. Coquerel après l'article 42 du projet de loi de finances pour 2027 (première lecture).",
       "votes": [
         {
           "acteurRef": "PA266797",
@@ -77242,7 +77242,7 @@
       "uid": "VTANR5L17V9640",
       "numero": "9640",
       "date": "2026-11-03",
-      "titre": "l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
       "votes": [
         {
           "acteurRef": "PA1567",
@@ -135718,7 +135718,7 @@
       "uid": "VTANR5L17V9536",
       "numero": "9536",
       "date": "2026-11-02",
-      "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 442 de M. Ferracci et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
       "votes": [
         {
           "acteurRef": "PA1567",
@@ -137690,7 +137690,7 @@
       "uid": "VTANR5L17V9531",
       "numero": "9531",
       "date": "2026-11-02",
-      "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+      "titre": "l'amendement n° 2583 (rect.) de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
       "votes": [
         {
           "acteurRef": "PA1567",

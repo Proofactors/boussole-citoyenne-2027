@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-11-06T08:22:24.934630+00:00",
+  "genereLe": "2026-11-07T08:11:05.535808+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -3856,6 +3856,452 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "33415e8b5371a7a940af1b9d",
+      "titre": "Le camp d'Edouard Philippe critiqué par la gauche pour ses propos sur l'immigration",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/le-camp-d-edouard-philippe-critique-par-la-gauche-pour-ses-propos-sur-l-immigration_8264831.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/le-camp-d-edouard-philippe-critique-par-la-gauche-pour-ses-propos-sur-l-immigration_8264831.html",
+      "publication": "Tue, 03 Nov 2026 11:53:56 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9988,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le candidat Horizons à la présidentielle a relié les pillages du 17 octobre à l'immigration. Pour Maud Bregeon, par ailleurs porte-parole du gouvernement, il a \"dit tout haut ce que beaucoup de Français pensent tout bas\".",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "a9cfe48e5943a15c213f2677",
+      "titre": "Mobilisations en France : le mouvement reprend-il de l'ampleur ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-le-mouvement-reprend-il-de-l-ampleur",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261103-mobilisations-en-france-le-mouvement-reprend-il-de-l-ampleur",
+      "publication": "Tue, 03 Nov 2026 11:51:59 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2688,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Près de 50 lycées, sur les 3 700 présents sur le territoire national, est actuellement bloqué en ce mardi 3 novembre au matin, d'après le ministère de l'Éducation. Des chiffres une fois de plus contestés par l'Union syndicale lycéenne, qui a annoncé 500 établissements bloqués. L'organisation lycéenne a également dénoncé une forte \"répression\" avec \"des jeunes plaqués au mur, des compagnies de CRS envoyées\" devant les établissements. Les explications de Johan Bodin, journaliste à France24.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "3b6a0a3609e0d79c21a42d30",
+      "titre": "Les informés du matin du mardi 03 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-03-novembre-2026_8244886.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-03-novembre-2026_8244886.html",
+      "publication": "Tue, 03 Nov 2026 10:50:45 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7903,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "c6e751a6413982e0f5da733c",
+      "titre": "Les informés du matin du mardi 03 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-03-novembre-2026_8244886.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-03-novembre-2026_8244886.html",
+      "publication": "Tue, 03 Nov 2026 10:50:45 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7903,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "c62963e4ef3c3f9800b96212",
+      "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html",
+      "publication": "Tue, 03 Nov 2026 10:17:41 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9754,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "budget-defense",
+          "theme": "europe",
+          "passageSource": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+          "motsCommuns": [
+            "augmenter",
+            "continuer"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "pensions-indexation",
+          "theme": "retraites",
+          "passageSource": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+          "motsCommuns": [
+            "augmenter",
+            "pensions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7a882b0fa2cae7ab5a9252a9",
+      "titre": "Fabien Roussel appelle à continuer la mobilisation \"tant que le gouvernement n'entend pas ce cri de souffrance, de douleur, de colère\"",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/fabien-roussel-appelle-a-continuer-la-mobilisation-tant-que-le-gouvernement-n-entend-pas-ce-cri-de-souffrance-de-douleur-de-colere_8265494.html",
+      "publication": "Tue, 03 Nov 2026 10:17:41 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9754,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "budget-defense",
+          "theme": "europe",
+          "passageSource": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+          "motsCommuns": [
+            "augmenter",
+            "continuer"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "pensions-indexation",
+          "theme": "retraites",
+          "passageSource": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+          "motsCommuns": [
+            "augmenter",
+            "pensions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Invité de la matinale de franceinfo mardi 3 novembre, Fabien Roussel appelle à des \"mobilisations monstres\", à continuer les mouvements sociaux et estime qu'il faut se saisir des débats budgétaires actuels pour \"augmenter les pensions\".",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "45521cc108fdb00ee0bb393e",
+      "titre": "Mobilisations sociales, colère des lycéens, présidentielle... Le \"8h30 franceinfo\" de Fabien Roussel",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html",
+      "publication": "Tue, 03 Nov 2026 09:24:56 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9576,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Fabien Roussel, secrétaire national du PCF et candidat à l'élection présidentielle, est l'invité du \"8h30 franceinfo\" le 3 novembre 2026.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8e573321289c4570e7a8ee8b",
+      "titre": "Mobilisations sociales, colère des lycéens, présidentielle... Le \"8h30 franceinfo\" de Fabien Roussel",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisations-sociales-colere-des-lyceens-presidentielle-le-8h30-franceinfo-de-fabien-roussel_8244898.html",
+      "publication": "Tue, 03 Nov 2026 09:24:56 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9576,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Fabien Roussel, secrétaire national du PCF et candidat à l'élection présidentielle, est l'invité du \"8h30 franceinfo\" le 3 novembre 2026.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8426fcf99d7c9d86e3cce9a1",
+      "titre": "Mobilisation lycéenne et étudiante : \"Il faut revenir sur les suppressions de postes [de professeurs]\", assure la députée Prisca Thévenot",
+      "url": "https://www.franceinfo.fr/politique/mobilisation-lyceenne-et-etudiante-il-faut-revenir-sur-les-suppressions-de-postes-de-professeurs-assure-la-deputee-prisca-thevenot_8265386.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/mobilisation-lyceenne-et-etudiante-il-faut-revenir-sur-les-suppressions-de-postes-de-professeurs-assure-la-deputee-prisca-thevenot_8265386.html",
+      "publication": "Tue, 03 Nov 2026 09:07:59 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13607,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Invitée des \"4 Vérités\" mardi 3 novembre, Prisca Thévenot, députée Renaissance des Hauts-de-Seine et soutien de Gabriel Attal, revient sur les manifestations lycéennes et les réponses du gouvernement. Selon elle, leurs revendications sont légitimes et doivent amener à repenser le budget pour ne pas supprimer de postes de professeurs.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d617024569e40b4cee656231",
+      "titre": "\"Je ne suis pas encore candidat\" à la présidentielle 2027, indique Dominique de Villepin",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/je-ne-suis-pas-encore-candidat-a-la-presidentielle-2027-indique-dominique-de-villepin_8265395.html",
+      "publication": "Tue, 03 Nov 2026 09:04:58 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8439,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "L'ancien Premier ministre Dominique de Villepin était l'invité de la matinale de France Inter mardi 3 novembre. Il annonce ne pas \"encore\" être candidat car \"ce n'est pas le moment\", selon lui.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "2d8c9eba94f98c9fe3372cb7",
+      "titre": "EDITO. Pourquoi Marine Le Pen se mêle-t-elle de la crise en Pologne ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html#xtor=RSS-3-%5Bgeneral%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/pourquoi-marine-le-pen-se-mele-t-elle-de-la-crise-en-pologne_8244814.html",
+      "publication": "Tue, 03 Nov 2026 08:00:02 +0100",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10990,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "Bref, Marine Le Pen brouille les pistes pour répandre l'idée que finalement, la loi, l'État de droit, seraient des notions toutes relatives, selon les moments, les pays, et l'identité de ceux qui sont au pouvoir.",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "passageSource": "Bref, Marine Le Pen brouille les pistes pour répandre l'idée que finalement, la loi, l'État de droit, seraient des notions toutes relatives, selon les moments, les pays, et l'identité de ceux qui sont au pouvoir.",
+          "motsCommuns": [
+            "droit",
+            "pouvoir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "passageSource": "Mais cette stratégie n'est pas sans danger, parce qu'en s'ingérant dans les affaires intérieures d'un pays étranger, Marine Le Pen prend le risque de subir demain, si elle arrive au pouvoir, les mêmes assauts de nos voisins ou de l'Union européenne.",
+          "motsCommuns": [
+            "europeenne",
+            "pouvoir",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "passageSource": "Mais cette stratégie n'est pas sans danger, parce qu'en s'ingérant dans les affaires intérieures d'un pays étranger, Marine Le Pen prend le risque de subir demain, si elle arrive au pouvoir, les mêmes assauts de nos voisins ou de l'Union européenne.",
+          "motsCommuns": [
+            "europeenne",
+            "pouvoir",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "passageSource": "Mais cette stratégie n'est pas sans danger, parce qu'en s'ingérant dans les affaires intérieures d'un pays étranger, Marine Le Pen prend le risque de subir demain, si elle arrive au pouvoir, les mêmes assauts de nos voisins ou de l'Union européenne.",
+          "motsCommuns": [
+            "europeenne",
+            "pouvoir",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Alors que le Premier ministre centriste Donald Tusk se déchire avec la droite nationaliste, Marine Le Pen s'est attirée les foudres du gouvernement polonais, qui lui reproche de s'être ingérée dans la crise politique qui secoue le pays. Pourquoi la candidate du RN se mêle-t-elle de cette affaire ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "65488f59064bbb2f3439dbd9",
+      "titre": "Jean-François Copé appelle la droite à cesser de \"chercher sans arrêt le général de Gaulle\"",
+      "url": "https://www.france24.com/fr/france/20261103-jean-fran%C3%A7ois-cop%C3%A9-appelle-la-droite-%C3%A0-cesser-de-chercher-sans-arr%C3%AAt-le-g%C3%A9n%C3%A9ral-de-gaulle",
+      "urlEffective": "https://www.france24.com/fr/france/20261103-jean-fran%C3%A7ois-cop%C3%A9-appelle-la-droite-%C3%A0-cesser-de-chercher-sans-arr%C3%AAt-le-g%C3%A9n%C3%A9ral-de-gaulle",
+      "publication": "Tue, 03 Nov 2026 07:51:09 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4349,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Alors que la perspective d'une primaire de la droite et du centre s'éloigne, le maire de Meaux LR, Jean-François Copé, a lancé, mardi, un appel d'union à sa famille politique. Il a exhorté ses congénères à arrêter de \"chercher sans arrêt le général de Gaulle\" et de \"faire avec\" les candidats actuels pour parvenir à une candidature unique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "a702100f02b7e19f7d7caf78",
+      "titre": "Les lycéens et étudiants à nouveau dans la rue, les blocages d'établissements de retour",
+      "url": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+      "urlEffective": "https://www.france24.com/fr/france/20261103-nouvelle-journ%C3%A9e-de-mobilisation-lyc%C3%A9enne-et-%C3%A9tudiante-en-france-avant-le-5-novembre",
+      "publication": "Tue, 03 Nov 2026 01:27:55 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8033,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Défiant les interdictions, plusieurs milliers d'étudiants et lycéens se sont rassemblés mardi dans plusieurs villes de France, en amont de la mobilisation interprofessionnelle nationale prévue jeudi. Quarante-huit lycées ont été bloqués selon le ministère de l'Éducation nationale, près de 500 selon l'Union syndicale lycéenne.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "b01304f3906e831bd68e0343",
       "titre": "Prix de la délégation aux droits des femmes du Sénat : Un palmarès qui reflète les travaux de la délégation en 2026",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/29-10-2026/prix-de-la-delegation-aux-droits-des-femmes-du-senat-un-palmares-qui-reflete-les-travaux-de-la-delegation-en-2026.html",
@@ -4569,6 +5015,106 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Proposition de loi visant à accélérer le développement de la médecine nucléaire thérapeutique en oncologie : texte de la commission N° 17 déposé le 7 octobre 2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "8c613db0b1b54b49d60fbc13",
+      "titre": "Article 34 du PLFSS : le bon sens l'emporte enfin !",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/05-11-2026/article-34-du-plfss-le-bon-sens-lemporte-enfin.html",
+      "urlEffective": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/05-11-2026/article-34-du-plfss-le-bon-sens-lemporte-enfin.html",
+      "publication": "Thu,05 Nov 2026 18:02:44 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1861,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Communiqué de presse du 05/11/2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d9d83ba51f5fbd9683c54201",
+      "titre": "Moderniser et rééquilibrer le fonctionnement du titre-restaurant - rapport n° 141",
+      "url": "http://www.senat.fr/rap/l26-141/l26-141.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-141/l26-141.html",
+      "publication": "Thu,05 Nov 2026 17:31:50 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2366,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Rapport n° 141 de Mme Frédérique PUISSAT, fait au nom de la commission des affaires sociales, sur la proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant (3 novembre 2026)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "0d17ae26a10ad00e08ff3cac",
+      "titre": "Règlement sur le logement abordable - rapport d'information n° 153",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-153-notice.html",
+      "urlEffective": "https://www.senat.fr/notice-rapport/2026/r26-153-notice.html",
+      "publication": "Thu,05 Nov 2026 17:31:50 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 666,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Rapport d'information n° 153 de Mme Brigitte DEVÉSA et M. Ahmed LAOUEDJ, fait au nom de la commission des affaires européennes : Règlement sur le logement abordable (5 novembre 2026)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "e3606e662fa44aaefa7987c2",
+      "titre": "Financement de la sécurité sociale pour 2027 - avis n° 139",
+      "url": "http://www.senat.fr/rap/a26-139/a26-139.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-139/a26-139.html",
+      "publication": "Thu,05 Nov 2026 16:30:32 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 3844,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Avis n° 139 de M. Vincent DELAHAYE, fait au nom de la commission des finances, sur le projet de loi de financement de la sécurité sociale pour 2027 (3 novembre 2026)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "eeef1e5bed8bf640a5856956",
+      "titre": "Avenir d'Europol - rapport d'information n° 149",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-149-notice.html",
+      "urlEffective": "https://www.senat.fr/notice-rapport/2026/r26-149-notice.html",
+      "publication": "Thu,05 Nov 2026 16:04:13 GMT",
+      "analyseLe": "2026-11-07T08:10:51.086447+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 673,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Rapport d'information n° 149 de Mmes Catherine BELRHITI et Audrey LINKENHELD, fait au nom de la commission des affaires européennes : Avenir d'Europol (5 novembre 2026)",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -9159,13 +9705,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 405,
-    "documentsLus": 395,
+    "documentsSuivis": 423,
+    "documentsLus": 413,
     "documentsSansTexteAvecResumeRss": 10,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 51,
+    "passagesCandidats": 60,
     "erreursParCause": {
-      "Texte intégral lu": 395,
+      "Texte intégral lu": 413,
       "reseau_TimeoutError": 7,
       "http_403": 3
     }

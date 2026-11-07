@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-06T08:22:37+00:00",
+  "generatedAt": "2026-11-07T08:11:16+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "78c9d14206faef0cb5a42120192d4f0dd055785f919c6c91a2b5f35b304ba7e7",
+  "votesArchiveSha256": "8223c3c022c7e4ca7e4b401b5bd53f0653fab2917ed388e3c4a8fce2ea0127fa",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -928,7 +928,7 @@
         {
           "date": "2026-11-03",
           "numero": "9640",
-          "titre": "l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "titre": "l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA842271"
         },
@@ -2499,7 +2499,7 @@
         {
           "date": "2026-11-03",
           "numero": "9640",
-          "titre": "l'amendement n° 2895 de M. Rolland après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
+          "titre": "l'amendement n° 1729 de M. Gosselin et l'amendement identique suivant après l'article 32 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
         },
@@ -3094,7 +3094,7 @@
         {
           "date": "2026-11-02",
           "numero": "9536",
-          "titre": "l'amendement n° 2314 de M. Fugit et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+          "titre": "l'amendement n° 442 de M. Ferracci et l'amendement identique suivant après l'article 25 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
         },
@@ -3129,7 +3129,7 @@
         {
           "date": "2026-11-02",
           "numero": "9531",
-          "titre": "l'amendement n° 2583 de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
+          "titre": "l'amendement n° 2583 (rect.) de Mme Lejeune à l'article 25 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
         },
@@ -6208,5 +6208,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "85c9cebcd045247dc2e8cc98941c693fbd229c3c215ad3efe7317ab4cf74176e"
+  "actorsArchiveSha256": "2dd4bae5cb1b13ce80123f1fb81ffacdefb22109f107238f9b7865e0e0592fce"
 }
