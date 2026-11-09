@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T08:12:38.564023+00:00",
-  "total": 677,
+  "generatedAt": "2026-11-09T08:35:57.654246+00:00",
+  "total": 712,
   "statistiques": {
     "a_examiner_en_priorite": 8,
-    "a_qualifier": 241,
-    "signal_non_qualifie": 428
+    "a_qualifier": 251,
+    "signal_non_qualifie": 453
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -6878,6 +6878,480 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "0595bc0165671c2033afae83",
+      "title": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 23:08:42 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Fabien Roussel, candidat PCF à la présidentielle, était l’invité du Grand Enjeu ce dimanche 8 novembre sur franceinfo.",
+        "Il est notamment revenu sur la revalorisation du SMIC et a indiqué vouloir une \"augmentation généralisée des salaires\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9f51b616c77092750e20cdd4",
+      "title": "CNews : la pétition appelant à la fermeture de la chaîne dépasse le million de signatures",
+      "url": "https://www.france24.com/fr/france/20261108-cnews-la-p%C3%A9tition-appelant-%C3%A0-la-fermeture-de-la-cha%C3%AEne-d%C3%A9passe-le-million-de-signatures",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 21:12:01 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "demande",
+            "doivent"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "proportionnelle",
+          "theme": "institutions",
+          "keywords": [
+            "deputes",
+            "doivent"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Lancée pour réclamer la suppression de CNews de l'audiovisuel français, une pétition a dépassé dimanche le million de signatures.",
+        "Mardi, les députés doivent se prononcer sur la suite à donner à cette initiative : classement sans suite ou examen de la demande."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6b8e6fe159f8bda4276b2420",
+      "title": "Présidentielle 2027 : Christine Lagarde tentée par l’Élysée ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-christine-lagarde-tentee-par-l-elysee_8273705.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 20:44:42 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le centre et la droite sont en quête d’un leadership à l’approche de l’élection présidentielle.",
+        "Et si la solution venait d’une offre supplémentaire ?",
+        "Depuis l’annonce de sa démission anticipée de la Banque centrale européenne, le nom et la personnalité de Christine Lagarde alimentent les hypothèses."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0853a0e675fe99e9e3ddd2f5",
+      "title": "Possible augmentation du SMIC lors de la conférence sociale : \"22 euros, c'est 73 centimes par jour\", rappelle Rokhaya Diallo, la directrice de publication de Politis",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/possible-augmentation-du-smic-lors-de-la-conference-sociale-22-euros-c-est-73-centimes-par-jour-rappelle-rokhaya-diallo-la-directrice-de-publication-de-politis_8273666.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 20:03:46 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les invités du \"Duel\" du dimanche 8 novembre, Rokhaya Diallo, directrice de publication de Politis et éditorialiste au Guardian, et Charles Sapin, directeur adjoint de la rédaction de \"Valeurs Actuelles\", confrontent leurs points de vue sur des thèmes d'actualité.",
+        "Selon le second, augmenter le SMIC de 100 euros serait \"une catastrophe économique\".",
+        "Rokhaya Diallo, elle, prédit des effets \"sur la consommation et possiblement sur la productivité\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "199c0d5895e5f4a626eaac98",
+      "title": "La députée de La France insoumise Farida Amrani, \"légèrement blessée\" par un tir de mortier dans un salon de coiffure",
+      "url": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 19:11:13 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La députée a été \"légèrement touchée aux jambes\" par ce tir de mortier qui s'est produit samedi dans un salon de coiffure Evry-Courcouronnes (Essonne) et se trouve \"particulièrement choquée\" par cet évènement, selon la même source."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9edbb6f2e89c9c87095fd973",
+      "title": "Route du Rhum : \"Franchement, c'est un rêve d'enfant\", savoure Laperche",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-franchement-c-est-un-r%C3%AAve-d-enfant-savoure-laperche",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 16:03:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Franchement, c'est un rêve d'enfant.",
+        "J'ai toujours vu des images incroyables des arrivées ici, celles des grands champions depuis des décennies.",
+        "Mon rêve était de courir un jour dans cette catégorie reine des multicoques et de jouer la victoire au scratch\" déclare Tom Laperche à son arrivée triomphante."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7848e8fdff2bc5f3c419f2a4",
+      "title": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 15:07:29 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le patron des Républicains à l'Assemblée nationale souhaite un candidat \"avec un programme unique à droite\" et ce, \"avant Noël\" afin d'établir une rupture claire avec le macronisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "667b6ed623ecb055c0b10beb",
+      "title": "\"Que ce jeu de massacre cesse\" : Laurent Wauquiez veut une rencontre des candidats de droite à la présidentielle dans les 15 jours pour s'accorder sur un nom",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 15:07:29 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le patron des Républicains à l'Assemblée nationale souhaite un candidat \"avec un programme unique à droite\" et ce, \"avant Noël\" afin d'établir une rupture claire avec le macronisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4ba87a710a93ef16df06549f",
+      "title": "Débâcle de Trump aux midterms, revendications lycéennes, JOJ de Dakar : la semaine en images",
+      "url": "https://www.france24.com/fr/france/20261108-d%C3%A9b%C3%A2cle-trump-midterms-revendications-lyc%C3%A9ennes-joj-dakar-semaine-images",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 14:20:20 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "keywords": [
+            "semaine",
+            "temps"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : la large victoire des démocrates américains aux élections de mi-mandat, la gronde des lycéens qui se poursuit partout en France et les Jeux olympiques de la jeunesse (JOJ) de Dakar."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a4d6b8d41f3d960efd5b3931",
+      "title": "Gabriel Attal juge \"sidérant\" le peu de place de l'intelligence artificielle dans la présidentielle, \"clé\" pour \"faire monter les salaires\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-juge-siderant-le-peu-de-place-de-l-intelligence-artificielle-dans-la-presidentielle-cle-pour-faire-monter-les-salaires_8273348.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 13:59:11 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Renaissance à la présidentielle a suggéré dimanche qu'il y avait \"deux batailles\" à mener, celle pour avoir \"les meilleurs modèles\" et celle pour diffuser à grande échelle l'IA dans la société et l'économie."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5e8b6ac1ff27a2e31059849a",
+      "title": "Gabriel Attal juge \"sidérant\" le peu de place de l'intelligence artificielle dans la présidentielle, \"clé\" pour \"faire monter les salaires\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/gabriel-attal-juge-siderant-le-peu-de-place-de-l-intelligence-artificielle-dans-la-presidentielle-cle-pour-faire-monter-les-salaires_8273348.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 13:59:11 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat Renaissance à la présidentielle a suggéré dimanche qu'il y avait \"deux batailles\" à mener, celle pour avoir \"les meilleurs modèles\" et celle pour diffuser à grande échelle l'IA dans la société et l'économie."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8afba284d57cbfcf4ec72e51",
+      "title": "\"Il faut tout changer !\" : Jean-Luc Mélenchon a présenté son programme pour l'élection présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-faut-tout-changer-jean-luc-melenchon-a-presente-son-programme-pour-l-election-presidentielle-2027_8273312.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 12:45:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jean-Luc Mélenchon, fort des derniers sondages, souhaite rassembler la gauche dès le premier tour.",
+        "Le candidat de La France insoumise a décliné lors son meeting au Bourget (Seine-Saint-Denis) plusieurs points de son programme, samedi 7 novembre.",
+        "Il a également réaffirmé son projet d'une nouvelle France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "785237f1f9a1067cc4f785e2",
+      "title": "\"Il faut tout changer !\" : Jean-Luc Mélenchon a présenté son programme pour l'élection présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-faut-tout-changer-jean-luc-melenchon-a-presente-son-programme-pour-l-election-presidentielle-2027_8273312.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 12:45:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jean-Luc Mélenchon, fort des derniers sondages, souhaite rassembler la gauche dès le premier tour.",
+        "Le candidat de La France insoumise a décliné lors son meeting au Bourget (Seine-Saint-Denis) plusieurs points de son programme, samedi 7 novembre.",
+        "Il a également réaffirmé son projet d'une nouvelle France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e406831cdda3faafa5a6a9c9",
+      "title": "\"Il ne s'agit pas de l'épouser, il s'agit de choisir un programme\", dit Antoine Léaument, responsable communication de la campagne de Jean-Luc Mélenchon et député LFI",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/il-ne-s-agit-pas-de-l-epouser-il-s-agit-de-choisir-un-programme-dit-antoine-leaument-responsable-communication-de-la-campagne-de-jean-luc-melenchon-et-depute-lfi_8273237.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 11:56:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Antoine Léaument, député La France insoumise de l'Essonne et responsable communication de la campagne de Jean-Luc Mélenchon, était l'invité du \"8h30 franceinfo\" dimanche.",
+        "Interrogé par Camille Girerd et Benjamin Recouvreur, il est revenu sur le meeting de Jean-Luc Mélenchon samedi au Bourget, qui a réuni 20 000 personnes : \"Quelque chose est en train de se passer\", veut croire le député LFI de l'Essonne, malgré la personnalité parfois clivante de son leader.",
+        "\"Il ne s'agit pas de l'épouser, il s'agit de choisir un programme\", souligne Antoine Léaument."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c307e28792ab8b956180e61f",
+      "title": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+      "url": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 11:22:23 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "keywords": [
+            "adopter",
+            "quatre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Avec la multiplication des sondages à l'approche de la présidentielle, il peut être difficile de lire entre les lignes (et les chiffres).",
+        "Nicolas Hubé, professeur en sciences de l'information et de la communication, donne quelques bons réflexes à adopter."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4af2ec531409bbf849093ca5",
+      "title": "\"Non au data-center de Rantigny\" : manifestation contre le développement de l'IA",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-non-au-data-center-de-rantigny-manifestation-contre-le-d%C3%A9veloppement-de-l-ia",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 10:55:31 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une manifestation a été organisée pour dire non au futur projet de data center à Rantigny (Oise), ce samedi 7 novembre 2026, réunissant riverains et élus d’opposition."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ed7c1ce61cf309ec665edc77",
+      "title": "Route du Rhum : le français Tom Laperche triomphe, record à la clé",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-route-du-rhum-le-fran%C3%A7ais-tom-laperche-triomphe-record-%C3%A0-la-cl%C3%A9",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 10:43:43 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Magistral depuis le coup de canon à Saint-Malo, Tom Laperche (SVR Lazartigue) a remporté samedi soir en Guadeloupe la prestigieuse Route du Rhum, dès sa première participation et en un temps record."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4a0fe1de10679edfdbd913ea",
+      "title": "Présidentielle : \"Il faut tout changer\" lance Mélenchon à son meeting au Bourget",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-pr%C3%A9sidentielle-il-faut-tout-changer-lance-m%C3%A9lenchon-%C3%A0-son-meeting-au-bourget",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 10:37:15 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat insoumis Jean-Luc Mélenchon a proposé samedi à ses partisans de \"tout changer\", une position \"raisonnable\", a-t-il dit lors d'un meeting de campagne pour la présentation du programme présidentiel de La France insoumise (LFI) au Bourget (Seine-Saint-Denis)."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f5c4ee2234a03d51fdb84354",
+      "title": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 10:27:31 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche.",
+        "Il répondait aux questions de Camille Girerd et Benjamin Recouvreur."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "55e2d91b0a146ef9635e98ca",
+      "title": "Revalorisation du Smic, mobilisation sociale, campagne présidentielle de Jean-Luc Mélenchon... Le \"8h30 franceinfo\" d'Antoine Léaument",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/revalorisation-du-smic-mobilisation-sociale-campagne-presidentielle-de-jean-luc-melenchon-le-8h30-franceinfo-d-antoine-leaument_8232082.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 10:27:31 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le député La France insoumise de l'Essonne était l'invité du \"8h30 franceinfo\" dimanche.",
+        "Il répondait aux questions de Camille Girerd et Benjamin Recouvreur."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6fe844797acc765125eb3d99",
+      "title": "Manifestations : 146 000 personnes ont défilé en France samedi",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-manifestations-146-000-personnes-ont-d%C3%A9fil%C3%A9-en-france-samedi",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 09:58:11 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "ministere"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Un total de 146.000 personnes ont manifesté samedi en France, dont 46.000 à Paris, lors de la mobilisation \"pour la jeunesse et contre la vie chère\", selon un comptage définitif du ministère de l'Intérieur, qui a recensé au moins 360 interpellations."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "493d312649b7511b47130031",
+      "title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
+      "url": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 09:49:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0e3cb21a085c2782535ab533",
+      "title": "En dessous de 1 700 euros net, toute revalorisation du Smic équivaudrait à \"des miettes accordées par des gens qui ont distribué des milliards aux plus riches\", déclare le député LFI Antoine Léaument",
+      "url": "https://www.franceinfo.fr/economie/entreprises/en-dessous-de-1-700-euros-net-toute-revalorisation-du-smic-equivaudrait-a-des-miettes-accordees-par-des-gens-qui-ont-distribues-des-milliards-aux-plus-riches-declare-le-depute-lfi-antoine-leaument_8273108.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 09:49:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le député La France insoumise de l'Essonne affirme que \"ce qui s'est passé dans les années précédentes avec Emmanuel Macron, c'est un appauvrissement généralisé de la population.\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5d4d078e3005afac6b028049",
+      "title": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\"",
+      "url": "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 09:38:36 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "A six mois de la présidentielle, Jean-Luc Mélenchon a tenu un meeting au Parc des expositions du Bourget (Seine-Saint-Denis), samedi 7 novembre.",
+        "“Nous sommes en train d’ouvrir le chemin d’un grand changement politique”, a-t-il lancé au début de sa prise de parole."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1b365fac849ac74976911d09",
+      "title": "\"On me demande de mettre de l'eau dans mon vin, je ne le ferai pas\"",
+      "url": "https://www.franceinfo.fr/politique/melenchon/on-me-demande-de-mettre-de-l-eau-dans-mon-vin-je-ne-le-ferai-pas_8273105.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 09:38:36 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "A six mois de la présidentielle, Jean-Luc Mélenchon a tenu un meeting au Parc des expositions du Bourget (Seine-Saint-Denis), samedi 7 novembre.",
+        "“Nous sommes en train d’ouvrir le chemin d’un grand changement politique”, a-t-il lancé au début de sa prise de parole."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "f26888b7841796c27160a3e3",
       "title": "En vue de la présidentielle, plus de soixante parlementaires appellent à une primaire contre les \"extrêmes\"",
       "url": "https://www.franceinfo.fr/elections/presidentielle/en-vue-de-la-presidentielle-plus-de-soixante-parlementaires-appellent-a-une-primaire-contre-les-extremes_8273075.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -6887,6 +7361,22 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Ces 66 signataires expliquent, dans une tribune publiée par \"La Tribune Dimanche\", vouloir éviter \"le spectre d'un second tour entre La France insoumise et le Rassemblement national\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8d49d2c882bb4f4058efc485",
+      "title": "Route du Rhum : Tom Laperche triomphe et bat un nouveau record",
+      "url": "https://www.france24.com/fr/france/20261108-route-du-rhum-tom-laperche-triomphe-bat-un-nouveau-record",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 03:00:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pour sa première participation, Tom Laperche (SVR Lazartigue) a remporté samedi soir en Guadeloupe la prestigieuse Route du Rhum, en un temps record."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -8356,6 +8846,24 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "ad2b2d9ec8fb23eec757a47a",
+      "title": "Manifestations à Paris : une équipe de France 24 interrompue en direct par des gaz lacrymogènes",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-manifestation-%C3%A0-paris-notre-%C3%A9quipe-de-france-24-interrompue-en-direct-par-des-gaz-lacrymog%C3%A8nes",
+      "sourcePublishedAt": "Sat, 07 Nov 2026 17:36:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que notre journaliste Johan Bodin était en duplex depuis la place de la Nation, à Paris, pour couvrir la fin de la manifestation vers 18h10, son intervention a été interrompue après quelques secondes par des tirs de gaz lacrymogènes.",
+        "\"Nous venons de nous prendre des gaz lacrymogènes\", lance-t-il.",
+        "À l'image, le journaliste est rapidement enveloppé par un nuage de fumée, tandis qu'il se baisse et tousse."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "ac80612b938bd12cafa6a5b5",
       "title": "Mélenchon : \"Je n'ai qu'une chose raisonnable à vous proposer, il faut tout changer\"",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261107-m%C3%A9lenchon-je-n-ai-qu-une-chose-raisonnable-%C3%A0-vous-proposer-il-faut-tout-changer-1",
@@ -9691,6 +10199,152 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "\"Cela nous a été dit clairement par les services de renseignements\", a déclaré Sébastien Lecornu, lundi, à l'issue d'une nouvelle cellule interministérielle de crise."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7b7a2a538ef139eb229f5365",
+      "title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
+      "url": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:35:55 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3991627fcf1618407d59f763",
+      "title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
+      "url": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:27:58 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat social-démocrate à la présidentielle a également déclaré dimanche soir vouloir \"mettre fin à l’hégémonie de Jean-Luc Mélenchon sur la gauche française\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "58efacb991de3571c50aa048",
+      "title": "Blocages de lycées : \"Le premier des droits en France, c'est le droit à l'éducation. Vous ne pouvez pas priver votre camarade du droit à l'éducation\", réagit Édouard Geffray, ministre de l'Éducation nationale",
+      "url": "https://www.franceinfo.fr/politique/blocages-de-lycees-le-premier-des-droits-en-france-c-est-le-droit-a-l-education-vous-ne-pouvez-pas-priver-votre-camarade-du-droit-a-l-education-reagit-edouard-geffray-ministre-de-l-education-nationale_8274158.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:27:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "droits",
+            "education"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Invité des \"4V\" sur France 2, lundi 9 novembre, Édouard Geffray, ministre de l'Éducation nationale, est revenu sur les blocages de lycées, les violences lors des manifestations et les discussions à venir sur l'avenir de Parcoursup."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5160fb518c9b4a375724ac5d",
+      "title": "Thierry Breton \"ne ferme pas la porte\" à une candidature pour l'élection présidentielle en 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:12:37 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien ministre de l'Économie dit attendre de \"voir ce qui émerge dans le bloc central\".",
+        "Interrogé sur France Inter, Thierry Breton assure également qu'il y a \"un problème absolument majeur en France de pouvoir d'achat\", avant la \"conférence sociale\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3559b93a23248d8e14b14261",
+      "title": "Thierry Breton \"ne ferme pas la porte\" à une candidature pour l'élection présidentielle en 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/thierry-breton-ne-ferme-pas-la-porte-a-une-candidature-pour-l-election-presidentielle-en-2027_8274176.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:12:37 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien ministre de l'Économie dit attendre de \"voir ce qui émerge dans le bloc central\".",
+        "Interrogé sur France Inter, Thierry Breton assure également qu'il y a \"un problème absolument majeur en France de pouvoir d'achat\", avant la \"conférence sociale\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4034d74399e60123a5cb9a8d",
+      "title": "EDITO. La conférence sociale, un objet plus politique qu’il n’y paraît",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-conference-sociale-un-objet-plus-politique-qu-il-n-y-parait_8253658.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 08:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre va en personne se charger des annonces lors d’une conférence de presse à l’issue, fidèle à la ligne de l’exécutif : que la démocratie sociale prenne le pas sur la rue."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "58f003941b9e752ef6de0d5b",
+      "title": "Réunion du G7 : les midterms rebattent-elles les cartes de la diplomatie de Donald Trump ?",
+      "url": "https://www.france24.com/fr/france/20261109-r%C3%A9union-du-g7-les-midterms-rebattent-elles-les-cartes-de-la-diplomatie-de-donald-trump",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 06:46:45 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Réunis ce lundi en France, les ministres des Affaires étrangères du G7 vont échanger avec le secrétaire d'État américain Marco Rubio.",
+        "Ukraine, Iran et Liban seront au cœur des discussions, alors que les alliés de Washington s'interrogent sur la stratégie de l'équipe de Donald Trump après la débâcle républicaine."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "94c24c0985373fd9330cf63f",
+      "title": "France : une conférence sociale à Matignon pour écouter la colère des syndicats et lycéens",
+      "url": "https://www.france24.com/fr/france/20261109-france-une-conf%C3%A9rence-sociale-%C3%A0-matignon-pour-%C3%A9couter-la-col%C3%A8re-des-syndicats-et-lyc%C3%A9ens",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 00:58:05 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après des semaines de manifestations dans tout le pays, le Premier ministre Sébastien Lecornu reçoit lundi à Matignon les partenaires sociaux et les dirigeants de la jeunesse venus exposer leurs revendications sociales.",
+        "Il a promis de donner des \"réponses concrètes\" dans la foulée de ces discussions, notamment à propos de l'augmentation du Smic."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
