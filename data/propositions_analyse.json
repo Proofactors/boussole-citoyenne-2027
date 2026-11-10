@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T08:35:57.654246+00:00",
-  "total": 712,
+  "generatedAt": "2026-11-10T08:23:59.384130+00:00",
+  "total": 765,
   "statistiques": {
-    "a_examiner_en_priorite": 8,
-    "a_qualifier": 251,
-    "signal_non_qualifie": 453
+    "a_examiner_en_priorite": 9,
+    "a_qualifier": 272,
+    "signal_non_qualifie": 484
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -2297,6 +2297,22 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "ee15aadf9616e4ac11456aaf",
+      "title": "Lutter contre la banalisation des discours de haine dans le débat public - texte N° 137",
+      "url": "http://www.senat.fr/leg/ppr26-137.html",
+      "sourcePublishedAt": "Tue,10 Nov 2026 02:03:40 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de résolution en application de l'article 34-1 de la Constitution, visant à lutter contre la banalisation des discours de haine dans le débat public : texte N° 137 de Mmes Cécile CUKIERMAN, Evelyne CORBIÈRE NAMINZO, Marie-Claude VARAILLAS et plusieurs de leurs collègues, déposé au Sénat le 2 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "e28be309d2b916afa3c63b85",
       "title": "Sécuriser le ciel de l'Ukraine en construisant un bouclier européen - texte N° 4",
       "url": "http://www.senat.fr/leg/ppr26-004.html",
@@ -3092,6 +3108,283 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Des dizaines d'Algériens furent tués et jetés dans la Seine par des policiers lors de manifestations à Paris le 17 octobre 1961."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a07f2c16119ef3248b4058b3",
+      "title": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 09:02:30 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Cette Américaine est accusée d'avoir diffusé et exploité la fausse information selon laquelle Brigitte Macron serait une personne transgenre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b3168c9c1d0aa42c4767b3c4",
+      "title": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 08:58:59 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre et candidat Renaissance à l'élection présidentielle de 2027 parle sur France Inter d'une candidature qui vient \"enrichir l'offre politique existante\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "75ea51d56f1b1afb627c33eb",
+      "title": "Gabriel Attal souhaite la \"bienvenue\" à Teddy Riner \"dans cette course\" à l’élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/gabriel-attal-dit-bienvenue-a-teddy-riner-dans-cette-course-a-l-election-presidentielle_8275922.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 08:58:59 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre et candidat Renaissance à l'élection présidentielle de 2027 parle sur France Inter d'une candidature qui vient \"enrichir l'offre politique existante\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fdbaf36e7ce2207b4a45eabf",
+      "title": "Comment le gouvernement remet au goût du jour les primes Macron",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/comment-le-gouvernement-remet-au-gout-du-jour-les-primes-macron_8255020.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 08:45:11 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "heures-sup",
+          "theme": "travail",
+          "keywords": [
+            "heures",
+            "supplementaires"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Exonération de la CSG, heures supplémentaires défiscalisées, prime carburant...",
+        "Le gouvernement a annoncé l'augmentation du smic, mais il mise aussi sur les primes pour soutenir le pouvoir d'achat des salariés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1ecd39b3856a9c35c9ae2c01",
+      "title": "Emmanuel Macron estime qu'il faut \"interdire\" l'IA là où elle comporte un \"risque\" pour les enfants",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-estime-qu-il-faut-interdire-l-ia-la-ou-elle-comporte-un-risque-pour-les-enfants_8275799.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 08:37:35 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Cette déclaration, relayée par le quotidien \"Les Echos\", intervient à la veille de l'adoption d'une charte en la matière au Forum de Paris sur la paix."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d8716776df181e896f75621f",
+      "title": "Teddy Riner à la présidentielle de 2027, un candidat macroniste de plus ?",
+      "url": "https://www.france24.com/fr/france/20261110-france-teddy-riner-champion-judo-candidat-election-presidentielle-2027-macroniste",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 08:16:49 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La candidature de Teddy Riner à la présidentielle de 2027 a créé la surprise lundi dans une campagne jusqu’ici dominée médiatiquement par Marine Le Pen et Jean-Luc Mélenchon.",
+        "Mais quel positionnement politique adoptera le champion de judo ?",
+        "Dans un long entretien au Parisien, il dévoile des orientations plutôt libérales, mais pourrait paradoxalement prendre des voix au leader insoumis."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "17abf7ebe2db10b39c33451f",
+      "title": "EDITO. La candidature de Teddy Riner n'est pas passée inaperçue sur les réseaux",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-candidature-de-teddy-riner-n-est-pas-passee-inapercue-sur-les-reseaux_8255011.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 07:50:58 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le quintuple champion olympique de judo a annoncé lundi dans une vidéo qu'il se lançait dans la course à l'Élysée et a cumulé des millions de pages vues."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9fc7ec3f26ebd034acfd3e13",
+      "title": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
+      "url": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 07:46:58 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Malgré le retard pris dans l'apprentissage des programmes, le gouvernement ferme pour l'instant la porte à un report des épreuves.",
+        "Il plaide plutôt pour l'instauration de cours supplémentaires."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "608f9f2394ec3afed34540eb",
+      "title": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
+      "url": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 07:46:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après un premier revers procédural aux États-Unis, les époux Macron ont relancé les poursuites contre l'influenceuse américaine Candace Owens, dont les vidéos consacrées à la Première dame ont contribué à donner une audience internationale à la théorie complotiste selon laquelle Brigitte Macron aurait effectué une transition de genre.",
+        "La nouvelle procédure la vise dans le Tennessee, où elle réside."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4ec157820a325b3a9ef1bcef",
+      "title": "A suivre Loïc de la Mornais : Teddy Riner candidat, c'est du lourd ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-teddy-riner-candidat-c-est-du-lourd_8275841.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 07:28:34 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Loïc de la Mornais conclut cette édition avec un retour sur la déclaration de candidature de Teddy Riner à l'élection présidentielle.",
+        "Le judoka peut-il devenir un candidat de poids dans la course à l'Élysée ?",
+        "Alors que les sportifs s'engagent parfois en politique dans d'autres pays, leur place dans la vie politique française soulève des questions."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "358fd8d1e1911ae2a8c99dec",
+      "title": "Le pape Léon XIV, la voix politique qu'on n'attendait pas",
+      "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/le-pape-leon-xiv-la-voix-politique-qu-on-n-attendait-pas_8254999.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 07:21:24 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le souverain pontife effectue une tournée en Amérique du Sud.",
+        "Argentine, Uruguay, Pérou, le chef de l'Église catholique, âgé de 71 ans, entend redonner de la voix à l'Église."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c899be41d67a19cd75ec5bea",
+      "title": "REPORTAGE. \"C'est un peu comme si on était des mendiants\", la hausse du smic ne convainc pas les salariés concernés",
+      "url": "https://www.franceinfo.fr/economie/reportage-c-est-un-peu-comme-si-on-etait-des-mendiants-la-hausse-du-smic-ne-convainc-pas-les-salaries-concernes_8275127.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 06:49:48 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le salaire minimum atteindra environ 1 502 euros par mois, soit près de 24 euros supplémentaires par rapport à aujourd'hui.",
+        "Une revalorisation qui ne convainc pas les premiers concernés, ceux qui sont payés au smic."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5e392d82fad82cf5d008c381",
+      "title": "\"Il en avait parlé\" : pourquoi la candidature de Teddy Riner à l'élection présidentielle n'est pas une si grande surprise",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-en-avait-parle-pourquoi-la-candidature-de-teddy-riner-a-l-election-presidentielle-n-est-pas-une-si-grande-surprise_8274893.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 06:02:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Si la décision du quintuple champion olympique de judo étonne, à moins de deux ans des Jeux de Los Angeles, elle repose sur des prises de position répétées sur la situation en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "026795a52138767f7650dbd6",
+      "title": "C'est Benjamin de franceinfo ! #Episode1",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/c-est-benjamin-de-franceinfo-episode1_8274851.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 06:00:05 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Notre reporter Benjamin Illy qui part à la rencontre des français jusqu’au deuxième tour de la présidentielle.",
+        "Première étape : Amiens, en Picardie !",
+        "Benjamin tente une expérience : se poser sur un banc public avec une petite pancarte, en espérant que les passants voudront bien s’arrêter pour discuter !"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "88004dd7aa2aa2ff457dadd0",
+      "title": "Teddy Riner candidat à l'élection présidentielle : George Weah, Imran Khan, Pal Schmitt... Ces sportifs qui ont atteint les plus hautes fonctions en politique",
+      "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-l-election-presidentielle-george-weah-imran-khan-pal-schmitt-ces-sportifs-qui-ont-atteint-les-plus-hautes-fonctions-en-politique_8274392.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Tue, 10 Nov 2026 06:00:01 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des champions de leur discipline ont déjà réussi à accéder au pouvoir, au Libéria, au Pakistan ou encore en Hongrie."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -6878,6 +7171,34 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "754937eab6e814bc0a7ec5c3",
+      "title": "Trois policiers devant la justice pour le passage à tabac de Michel Zecler en 2020",
+      "url": "https://www.france24.com/fr/france/20261108-trois-policiers-jug%C3%A9s-pour-la-violente-agression-de-michel-zecler-en-2020",
+      "sourcePublishedAt": "Sun, 08 Nov 2026 23:36:01 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "policieres",
+            "violences"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Trois policiers sont jugés à partir de lundi devant la cour criminelle de Paris pour le passage à tabac en novembre 2020 du producteur noir Michel Zecler.",
+        "Une affaire de violences policières qui, fait très rare, fait l'objet d'un procès.",
+        "De nombreuses personnalités du monde culturel sont venues soutenir Michel Zecler."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "0595bc0165671c2033afae83",
       "title": "Revalorisation du SMIC : Fabien Roussel souhaite \"l’augmentation généralisée des salaires\"",
       "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/revalorisation-du-smic-fabien-roussel-souhaite-l-augmentation-generalisee-des-salaires_8273774.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -10206,6 +10527,726 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "03eeaf4104c1dd81492d1bdf",
+      "title": "France : nouvelle journée d'action à l'appel des étudiants, lycéens et enseignants",
+      "url": "https://www.france24.com/fr/france/20261109-france-nouvelle-journ%C3%A9e-d-action-%C3%A0-l-appel-des-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 23:52:02 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Près de deux mois après le début du mouvement lycéen et étudiant, une intersyndicale appelle mardi à une journée de grève et de manifestations dans la plupart des grandes villes de France, après une réunion à Matignon sur Parcoursup qui a tourné court."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "631d3be8eee12e7cbd9e8989",
+      "title": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 22:44:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"La France est le pays le moins raciste au monde\", c’est ce qu’a affirmé Marine Le Pen à la télévision américaine.",
+        "La cheffe de file du Rassemblement national et candidate à l'élection présidentielle assure aussi qu’il n’y a pas de discriminations dans notre pays.",
+        "Mais sur quoi peut-on s’appuyer pour le dire ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5950b7c426f57e1100505dd4",
+      "title": "\"Pas de discriminations en France\" : les affirmations de Marine Le Pen sur la chaîne américaine CBS à l'épreuve des chiffres",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/pas-de-discriminations-en-france-les-affirmations-de-marine-le-pen-sur-la-chaine-americaine-cbs-a-l-epreuve-des-chiffres_8275217.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 22:44:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"La France est le pays le moins raciste au monde\", c’est ce qu’a affirmé Marine Le Pen à la télévision américaine.",
+        "La cheffe de file du Rassemblement national et candidate à l'élection présidentielle assure aussi qu’il n’y a pas de discriminations dans notre pays.",
+        "Mais sur quoi peut-on s’appuyer pour le dire ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "79ef1a77c071369591bd30f8",
+      "title": "\"Il n'y a pas de discriminations en France\" pour Marine Le Pen",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/il-n-y-a-pas-de-discriminations-en-france-pour-marine-le-pen_8275169.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 22:00:02 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Marine Le Pen estime qu'il \"n'y a pas de discriminations en France\" et considère que la France est \"le pays le moins raciste au monde\" dans un entretien au média américain CBS.",
+        "Des propos qui suscitent la polémique en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "94e3d6549b6f979eee5fa784",
+      "title": "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME",
+      "url": "https://www.franceinfo.fr/economie/entreprises/si-le-smic-augmente-je-suis-oblige-d-augmenter-les-autres-la-hausse-du-salaire-minimum-vue-par-des-salaries-et-dirigeants-de-pme_8275166.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:51:58 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "smic",
+          "theme": "travail",
+          "keywords": [
+            "augmenter",
+            "hausse"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La hausse du Smic annoncée par l'exécutif laisse de côté quelques oubliés.",
+        "Les salariés qui gagnent juste au-dessus n’auront pas forcément un euro de plus.",
+        "Avec un salaire minimum qui les rattrape, certains ont le sentiment que leur expérience ne compte plus."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4997beac6614bc8a3199305c",
+      "title": "Caméras, brigade de surveillance… Ces communes qui luttent activement contre les dépôts sauvages d'ordures",
+      "url": "https://www.franceinfo.fr/environnement/actions-ecologiques/gestion-des-dechets/cameras-brigade-de-surveillance-ces-communes-qui-luttent-activement-contre-les-depots-sauvages-d-ordures_8275148.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:25:56 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C'est un problème auquel de nombreux maires se heurtent : les décharges sauvages, dont le nettoyage coûte cher aux communes.",
+        "Alors, comment empêcher ces dépôts ?",
+        "Les équipes du \"20 Heures\" se sont penchées sur la question."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0a8bf211abee84fc038b057f",
+      "title": "Candidature de Teddy Riner à l'élection présidentielle : le judoka peut-il aller jusqu'au bout ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/candidature-de-teddy-riner-a-l-election-presidentielle-le-judoka-peut-il-aller-jusqu-au-bout_8275145.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:20:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Teddy Riner a annoncé sa candidature à l'élection présidentielle, lundi 9 novembre.",
+        "Le judoka peut-il aller jusqu'au bout ?",
+        "Le sportif guadeloupéen est certes très populaire, mais en politique il doit encore faire ses preuves, bâtir une équipe, financer sa campagne et réunir les 500 parrainages de maire."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0e8b9561cbc80d046d9f5619",
+      "title": "Le maire d'Evreux, dans l'Eure, a saisi le Conseil d'Etat pour contester l'annulation des deux tours de l'élection municipale",
+      "url": "https://www.franceinfo.fr/elections/municipales/le-maire-d-evreux-dans-l-eure-a-saisi-le-conseil-d-etat-pour-contester-l-annulation-des-deux-tours-de-l-election-municipale_8275130.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:18:38 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En cas de confirmation du jugement rendu par le tribunal administratif de Rouen, de nouvelles élections devront être organisées au plus tard début août 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "642c7645e980f126c023e0f6",
+      "title": "Augmentation du salaire minimum : Lecornu peut-il calmer la colère ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261109-augmentation-du-salaire-minimum-lecornu-peut-il-calmer-la-col%C3%A8re",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:12:12 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "heures-sup",
+          "theme": "travail",
+          "keywords": [
+            "heures",
+            "supplementaires"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Sébastien Lecornu a tenté de répondre à la colère sociale : le Premier ministre a annoncé une hausse du smic de 0,6 %.",
+        "Loin des demandes des syndicats.",
+        "Autre annonce : la prime carburant sera prolongée en 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d29b6581e17b344c3b693764",
+      "title": "Teddy Riner, candidat à la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/teddy-riner-candidat-a-la-presidentielle_8275142.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:09:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Teddy Riner a annoncé sa candidature à la présidentielle.",
+        "Le champion de judo affirme n'être \"ni de droite, ni de gauche\" et veut rassembler les Français.",
+        "Mais peut-il transformer sa popularité en voix et se faire une place, à un peu plus de 5 mois du premier tour ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4ad3ba2d98adecf7bfd884da",
+      "title": "\"L'enjeu de Mélenchon, ce n'est pas que rassembler la gauche au second tour en 2027, mais aussi fédérer le peuple\" : Manuel Cervera-Marzal, sociologue",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/l-enjeu-de-melenchon-ce-n-est-pas-que-rassembler-la-gauche-au-second-tour-en-2027-mais-aussi-federer-le-peuple-manuel-cervera-marzal-sociologue_8275076.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:05:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Manuel Cervera-Marzal, sociologue, est l'invité de l'émission \"C Ce Soir\" du 9 novembre 2026.",
+        "Selon lui, \"l'enjeu de Jean-Luc Mélenchon, ce n'est pas seulement de rassembler la gauche au second tour de la présidentielle, mais de fédérer le peuple\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e61cd4e36fe0bab904fe0a6b",
+      "title": "\"Ça arrange Mélenchon que Le Pen gagne la présidentielle\" : Lucile Schmid, présidente de la Fabrique écologique",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ca-arrange-melenchon-que-le-pen-gagne-la-presidentielle-lucile-schmid-presidente-de-la-fabrique-ecologique_8275073.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 21:00:01 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Lucile Schmid, présidente de la Fabrique écologique, est l'invitée de l'émission \"C Ce Soir\" du 9 novembre 2026.",
+        "Selon, Jean-Luc Mélenchon viserait la victoire aux législatives en 2027, ce qui l'arrangerait, \"d'une certaine façon, que Marine Le Pen gagne la présidentielle\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a97766ef8ce3151b1c0966a3",
+      "title": "Emmanuel Macron se \"félicite\" de la candidature de Teddy Riner : \"Cela ne peut qu’apporter au pays”",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/emmanuel-macron-se-felicite-de-la-candidature-de-teddy-riner-cela-ne-peut-qu-apporter-au-pays_8275115.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:45:19 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron s’est félicité de la candidature de Teddy Riner à l’élection présidentielle 2027, dans le 20h de France 2 : “Je suis très heureux (...) que quelqu’un comme Teddy Riner, qui est un grand champion, décide de s’engager dans ce débat présidentiel et d’y apporter ses convictions, ses idées, son talent, ça ne peut qu’apporter au pays”."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "90eb8efe9826632834fafa7d",
+      "title": "Candidature à la présidentielle Teddy Riner : \"Je sais ce qu'on va dire de moi : 'il est fou'\"",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/candidature-a-la-presidentielle-teddy-riner-je-sais-ce-qu-on-va-dire-de-moi-il-est-fou_8275097.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:35:52 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-08",
+          "theme": "immigration",
+          "keywords": [
+            "devenir",
+            "premier"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "C'est une candidature surprise dans la course à l'Élysée.",
+        "Teddy Riner annonce, ce lundi 9 novembre, qu'il veut devenir président de la République.",
+        "Le champion de judo se dit ni de droite ni de gauche et veut rassembler les Français."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3f63fdd99494fec3e1a6e519",
+      "title": "Peut-on augmenter les salaires dans la conjoncture économique actuelle ? Les informés de franceinfo du lundi 9 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/peut-on-augmenter-les-salaires-dans-la-conjoncture-economique-actuelle-les-informes-de-franceinfo-du-lundi-9-novembre-2026_8253646.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:29:13 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Tous les soirs, les informés débattent de l'actualité, autour de Renaud Blanc."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6523a916b9ca184f6df86e5d",
+      "title": "VIDEO. \"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:15:21 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Auprès de France 5, le président de la République a salué \"un grand champion\".",
+        "Plus tôt lundi, le judoka français a pris de court la classe politique en se lançant dans la course à l'Elysée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "26b07a15e786f81f6c961265",
+      "title": "VIDEO. \"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:15:21 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Auprès de France 5, le président de la République a salué \"un grand champion\".",
+        "Plus tôt lundi, le judoka français a pris de court la classe politique en se lançant dans la course à l'Elysée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5df56ae5cf04294f56438fb6",
+      "title": "Les primaires présidentielles, d'où ça vient ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/les-primaires-presidentielles-d-ou-ca-vient_8272349.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 20:00:02 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après Gabriel Attal et son souhait d’une “primaire des démocrates”, Bruno Retailleau, candidat LR à la présidentielle, a appelé à son tour à l’organisation d’une primaire afin de départager les candidats à droite et au centre.",
+        "Des appels boudés par Édouard Philippe et qui font suite à la primaire socialiste qui s’est tenue il y a quelques semaines.",
+        "Mais, d'où viennent les primaires ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9a655efff8441556f0677c18",
+      "title": "\"Il emprunte à la gauche et à la droite\" : où situer politiquement la candidature de Teddy Riner à l'élection présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/il-emprunte-a-la-gauche-et-a-la-droite-ou-situer-politiquement-la-candidature-de-teddy-riner-a-l-election-presidentielle_8274662.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 19:25:48 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le judoka revendique un positionnement en dehors des étiquettes politiques de gauche ou de droite qui peut rappeler celui d'Emmanuel Macron en 2017."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9510b5dfecb4518a1fffcfc0",
+      "title": "Une députée LFI blessée par un tir de mortier dans un salon de coiffure",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/une-deputee-lfi-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8274902.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 17:57:43 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La députée de La France insoumise Farida Amrani a été \"légèrement blessée\", samedi 7 novembre, par un tir de mortier dans un salon de coiffure d’Évry.",
+        "Une enquête a été ouverte pour violences volontaires aggravées, le parquet n'étant pas en mesure d'indiquer \"à ce stade\" si l'élue était \"personnellement visée\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5ad9b60bb1fb067bb0763113",
+      "title": "David Douillet, Laura Flessel, Serge Blanco… Avant Teddy Riner, ces sportifs français qui se sont lancés en politique",
+      "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/david-douillet-laura-flessel-serge-blanco-avant-teddy-riner-ces-sportifs-francais-qui-se-sont-lances-en-politique_8274731.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 17:56:41 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir annoncé sa candidature à l'élection présidentielle de 2027, le quintuple champion olympique de judo entend suivre les traces de nombreux sportifs français qui se sont lancés en politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fc7326c1f0d57302f44910b6",
+      "title": "L'augmentation du smic annoncée par le gouvernement est \"insuffisante\" pour la CFDT, et représente \"des miettes\" pour la CGT",
+      "url": "https://www.franceinfo.fr/economie/syndicats/hausse-du-smic-une-augmentation-insuffisante-pour-la-cfdt-des-miettes-selon-la-cgt_8274710.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 17:46:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "A l'issue d'une conférence sociale à Matignon, le gouvernement a annoncé une hausse anticipée d'un mois et supérieure de 5 euros par rapport à celle qui devait s'appliquer automatiquement le 1er janvier."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2474feaa6489ce2da357c037",
+      "title": "France : ouverture du procès de trois policiers pour le passage à tabac du producteur Michel Zecler",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-france-ouverture-du-proc%C3%A8s-de-trois-policiers-pour-le-passage-%C3%A0-tabac-du-producteur-michel-zecler",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 16:31:41 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "policieres",
+            "violences"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le procès de trois policiers, accusés d'avoir roué de coups le producteur de musique noir Michel Zecler en novembre 2020, s'est ouvert ce lundi 9 novembre.",
+        "L'agression, filmée et devenue virale sur les réseaux sociaux, avait provoqué un choc et relancé le débat sur les violences policières en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "60abf9276e7a2567265657b3",
+      "title": "De Guy Drut à Teddy Riner : quand les légendes françaises du sport se lancent en politique",
+      "url": "https://www.france24.com/fr/france/20261109-guy-drut-teddy-riner-legendes-fran%C3%A7aises-sport-politique",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 16:31:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Teddy Riner a provoqué la surprise lundi en annonçant se présenter à l'élection présidentielle de 2027.",
+        "Il n'est cependant pas le premier sportif de haut niveau à se lancer dans le grand bain de la politique.",
+        "Avant lui, plus d'un sont devenus maires, parlementaires ou ministres."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "25ec5a18e797661dd15e3782",
+      "title": "\"Si les Français m’y autorisent\" : Teddy Riner prévoit de continuer sa carrière de judoka malgré sa candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/si-les-francais-m-y-autorisent-teddy-riner-prevoit-de-continuer-sa-carriere-de-judoka-malgre-sa-candidature-a-la-presidentielle_8274368.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 15:53:19 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le judoka a annoncé sa candidature à la présidentielle, lundi, sans renoncer à son ambition de participer aux Jeux olympiques de Los Angeles en 2028."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f60bcd8d660e77b9fe450137",
+      "title": "Augmentation du smic, allègements de charges pour les entreprises... Ce qu'il faut retenir des annonces du gouvernement à l'issue de la conférence sociale",
+      "url": "https://www.franceinfo.fr/economie/greve/augmentation-du-smic-allegements-de-charges-pour-les-entreprises-ce-qu-il-faut-retenir-des-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale_8274527.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 15:03:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre Sébastien Lecornu a notamment promis une revalorisation du smic au-delà de l'inflation dès le 1er décembre.",
+        "Non satisfaits, les syndicats ont appelé à poursuivre la mobilisation sociale entamée fin septembre par les lycéens."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d78ba7abb3e54b55e80d5368",
+      "title": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+      "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 14:52:58 GMT",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-fiscalite-06",
+          "theme": "fiscalite",
+          "keywords": [
+            "investissements",
+            "publics"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "renouvelables",
+          "theme": "ecologie",
+          "keywords": [
+            "energies",
+            "sortie"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Pour atteindre la neutralité carbone en 2050, le candidat de la gauche sociale-démocrate à l'élection présidentielle, Raphaël Glucksmann, a promis lundi de proclamer un \"état d'urgence écologique\" et annoncé un plan de 200 milliards d'euros d'investissements publics sur le quinquennat pour engager la sortie des énergies produites à partir du pétrole, du gaz ou du charbon."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b71c9c9c12e440155ea73634",
+      "title": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 14:35:29 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invitée de l'émission américaine \"60 Minutes\" sur CBS, Marine Le Pen a affirmé que la France était \"le pays le moins raciste\" et nié l'existence de discriminations dans l'Hexagone.",
+        "Des déclarations qui suscitent de vives réactions, notamment dans la classe politique, à six mois de l'élection présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1e9870fd51af660ae81a7b72",
+      "title": "Marine Le Pen affirme que la France est \"le pays le moins raciste\" et suscite la polémique",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-affirme-que-la-france-est-le-pays-le-moins-raciste-et-suscite-la-polemique_8274581.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 14:35:29 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invitée de l'émission américaine \"60 Minutes\" sur CBS, Marine Le Pen a affirmé que la France était \"le pays le moins raciste\" et nié l'existence de discriminations dans l'Hexagone.",
+        "Des déclarations qui suscitent de vives réactions, notamment dans la classe politique, à six mois de l'élection présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3200b5ab78f8748c45725939",
+      "title": "Sébastien Chenu dénonce le programme non chiffré de LFI",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/sebastien-chenu-denonce-le-programme-non-chiffre-de-lfi_8274515.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 13:30:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sébastien Chenu, vice-président RN de l'Assemblée nationale dénonce le \"deux poids, deux mesures\", entre le contre-programme économique du RN et celui de LFI, pour l'instant non chiffré."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4307ecefac9716f1f6e00fce",
+      "title": "Le Smic porté à 1 502 euros net au 1ᵉʳ décembre, soit 24 euros de plus par mois",
+      "url": "https://www.france24.com/fr/france/20261109-smic-port%C3%A9-%C3%A0-1-502-euros-net-d%C3%A9cembre-soit-24-euros-de-plus-par-mois",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 12:42:04 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le Smic augmente de 24 euros par mois à partir du 1ᵉʳ décembre, soit une augmentation de 1,6 % qui porte le salaire minimum à 1 502 euros net mensuel, a annoncé le ministre français du Travail.",
+        "La CFDT regrette une mesure \"insuffisante\", tandis que la CGT dénonce \"des miettes\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4f2fff2ca870f70e4ba372c2",
+      "title": "France : Teddy Riner annonce sa candidature à l'élection présidentielle",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 12:04:11 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Teddy Riner, légende du judo français et quintuple médaillé d'or aux Jeux olympiques, a fait savoir ce lundi 9 novembre via ses réseaux sociaux, qu'il est candidat à la présidence de la République en 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6e21a01bf1d7338d30bb93b6",
+      "title": "Raphaël Glucksmann affirme qu'il a refusé d'être Premier ministre d'Emmanuel Macron en 2024, après la dissolution",
+      "url": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-affirme-avoir-refuse-d-etre-premier-ministre-en-2024_8274305.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 11:25:39 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une preuve, selon le candidat à la présidentielle PS-Place publique, de sa distance idéologique avec le macronisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "175d5c7c7fa7d626d72d0e5d",
+      "title": "Présidentielle : le champion olympique de judo Teddy Riner annonce sa candidature",
+      "url": "https://www.france24.com/fr/france/20261109-le-champion-olympique-de-judo-teddy-riner-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 10:49:31 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le champion olympique Teddy Riner se lance dans la course à la présidentielle de 2027.",
+        "Le judoka français a annoncé, lundi, sa candidature sur X, à la surprise générale.",
+        "Il veut porter une voix \"ni de droite, ni de gauche\" qui \"refuse le chaos\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "21190bf3d86756e175b8f4ea",
+      "title": "Consultations à Matignon, manifestations… En quête d'une sortie de crise, le gouvernement entame une nouvelle semaine sociale chargée",
+      "url": "https://www.franceinfo.fr/societe/manifestations/consultations-a-matignon-manifestations-en-quete-d-une-sortie-de-crise-le-gouvernement-entame-une-nouvelle-semaine-sociale-chargee_8274125.html#xtor=RSS-3-%5Bgeneral%5D",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 10:49:16 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre reçoit lundi matin à Matignon les partenaires sociaux, avant de rencontrer dans l'après-midi les représentants de la jeunesse.",
+        "Un appel à faire grève et à manifester a déjà été lancé par l'intersyndicale de l'Education pour mardi."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "7b7a2a538ef139eb229f5365",
       "title": "Présidentielle : contraint de quitter le cortège parisien jeudi, Raphaël Glucksmann affirme qu'il retournera aux prochaines manifestations de l'intersyndicale",
       "url": "https://www.franceinfo.fr/politique/direct-politique-je-n-attends-plus-grand-chose-de-ce-gouvernement-a-part-de-le-remplacer-par-nous-memes-tacle-le-depute-lfi-antoine-leaument_8273093.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -10261,6 +11302,34 @@
       ],
       "extraitsRSS": [
         "Invité des \"4V\" sur France 2, lundi 9 novembre, Édouard Geffray, ministre de l'Éducation nationale, est revenu sur les blocages de lycées, les violences lors des manifestations et les discussions à venir sur l'avenir de Parcoursup."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "608e429966f76062c3b61d96",
+      "title": "Sébastien Lecornu annonce une hausse du Smic, la colère sociale ne retombe pas",
+      "url": "https://www.france24.com/fr/france/20261109-en-direct-lecornu-re%C3%A7oit-syndicats-et-patronat-pour-tenter-de-r%C3%A9pondre-aux-revendications-sociales",
+      "sourcePublishedAt": "Mon, 09 Nov 2026 09:17:53 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "minimum",
+            "salaire"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Sébastien Lecornu a tenté lundi de répondre à la colère sociale exprimée depuis plusieurs semaines, sans vraiment convaincre, en annonçant une hausse du Smic et des exonérations de charge sous conditions.",
+        "Marylise Léon, la secrétaire générale de la CFDT, premier syndicat français, a jugé \"insuffisante\" la hausse du salaire minimum tandis que Sophie Binet, de la CGT, a dénoncé des \"miettes\".",
+        "Voici le fil de la journée du 9 novembre 2026."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

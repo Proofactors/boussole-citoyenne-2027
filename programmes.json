@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date_generation": "2026-11-09T08:36:56+00:00",
+  "date_generation": "2026-11-10T08:24:44+00:00",
   "avertissement": "Référencement des programmes officiels, non validation de toutes leurs mesures. Aucune position politique n’est inférée.",
   "sources": [
     {
@@ -12,8 +12,8 @@
       "statut_editorial": "programme_2027_en_preparation",
       "note_editoriale": "L’Avenir en commun : nouvelle édition annoncée le 7 novembre 2026",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-09T08:36:46+00:00",
-      "empreinte_sha256": "4a6175604363c2203cfe2b6c4c37268d8027d06afc497fd2b8ec9578ae79a589",
+      "date_verification": "2026-11-10T08:24:37+00:00",
+      "empreinte_sha256": "d7234ed2ad1e054d8839c1052171ae66fc299514da10d744fdca58e8c7957bdc",
       "aperçu": "Découvrir le programme - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle Aller au contenu Accueil Programme Découvrir le programme L’Avenir en commun Les plans"
     },
     {
@@ -25,8 +25,8 @@
       "statut_editorial": "projet_de_parti_2026",
       "note_editoriale": "Pour une prospérité écologique : projet publié, attribution présidentielle à confirmer",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-09T08:36:46+00:00",
-      "empreinte_sha256": "1afc90c885030b9e86a966b0995af7739479fbfe24f30237bddde893f2da17c3",
+      "date_verification": "2026-11-10T08:24:37+00:00",
+      "empreinte_sha256": "935ef9dfee80c78e44c522704b7d0e5f63ecc9383a8877b6f71e410b9a455c0e",
       "aperçu": "Les Écologistes Le mouvement Programme Projet 2027 Carnets de doctrine Livrets thématiques Dossiers d'actu Actus Plus Adhérer Donner Le mouvement Programme Projet 2027 Carnets de d"
     },
     {
@@ -38,7 +38,7 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "La Voie : 845 mesures présentées en 24 thèmes",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-09T08:36:47+00:00",
+      "date_verification": "2026-11-10T08:24:38+00:00",
       "empreinte_sha256": "518c58338fd67620e050b451f43523b0ca4eaa0bd7f3909e53c7aac744877e7f",
       "aperçu": "Le Projet 2027 — Programme en 6 piliers | Ruches Françaises Le Mouvement Branco 2027 Ressources Faire un don Connexion Le Mouvement Un mouvement citoyen organisé en cellules locale"
     },
@@ -51,8 +51,8 @@
       "statut_editorial": "programme_2027_partiel",
       "note_editoriale": "Livrets actualisés identifiés Projet 2027",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-09T08:36:49+00:00",
-      "empreinte_sha256": "904522f7de0c70c1f717ab7ced924fca93c552100713a1ffe1d0780466622c0d",
+      "date_verification": "2026-11-10T08:24:39+00:00",
+      "empreinte_sha256": "1f1acfa3bcc3be9de0c35d94e0a9841d9e20fb06ece6409f65a0641fd7e6c482",
       "aperçu": "Projet - Debout La France Passer au contenu Debout La France Projet Actualités NDA Organisation DLF Près de chez vous Le Bureau National Les Chargés de mission régionaux Les Consei"
     },
     {
@@ -64,8 +64,8 @@
       "statut_editorial": "programme_2027_partiel",
       "note_editoriale": "Le Projet 2027 : propositions organisées en rubriques",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-09T08:36:50+00:00",
-      "empreinte_sha256": "072d1956c1dfe631eba88d23184fc57e5afaeade8ceeec426fbad8d9bfbf8c94",
+      "date_verification": "2026-11-10T08:24:40+00:00",
+      "empreinte_sha256": "5a58bb137f7da53cc6d7436e4bfd8483650ed0770c1ed6f09429b1a18e8e27b2",
       "aperçu": "Programme - Dieudonné et Francis Lalanne : Campagne présidentielle 2027 ☀ Dieudo Lalanne 2027 — Pour une France Libre, Souveraine et Solaire ☀ ☀ DIEUDO LALANNE 2027 Accueil La Tour"
     },
     {
@@ -77,7 +77,7 @@
       "statut_editorial": "documents_anterieurs_non_valides_2027",
       "note_editoriale": "Livrets antérieurs : la rubrique RN les rattache à la présidentielle 2022",
       "statut": "indisponible",
-      "date_verification": "2026-11-09T08:36:51+00:00",
+      "date_verification": "2026-11-10T08:24:40+00:00",
       "empreinte_sha256": null,
       "diagnostic": "HTTPError: HTTP Error 307: Temporary Redirect"
     },
@@ -90,8 +90,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques : pas un programme 2027 intégral",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-09T08:36:51+00:00",
-      "empreinte_sha256": "76737722f9baf090bb4258a52ad1bbd97cd10b264c1536b4e07c301c33c8c00a",
+      "date_verification": "2026-11-10T08:24:40+00:00",
+      "empreinte_sha256": "24c6ee392ac7374edf371625339c4b9e37f656e79f47b2e60f026781069ee105",
       "aperçu": "Nos propositions sur le travail et la compétitivité - Les Républicains Skip to the content Qui sommes-nous ? Votre Fédération Nos propositions Actualités Je donne J'adhère Qui somm"
     },
     {
@@ -103,8 +103,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Notes et travaux du pôle Idées : pas un programme 2027 intégral",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-09T08:36:53+00:00",
-      "empreinte_sha256": "aab6644bf6838cb98e74ab8868cdc60f7816c3b5aba7766469dcaacec9925967",
+      "date_verification": "2026-11-10T08:24:42+00:00",
+      "empreinte_sha256": "7378431bf4ad93d6a4143a65faff907b4a0f69db96f2c69924ff35a3b8187085",
       "aperçu": "Le pôle Idées - Horizons Le parti Le parti Les instances nationales Iéna Commission nationale d’investiture Les parlementaires L’Assemblée des maires Secrétaires nationaux Le pôle "
     },
     {
@@ -116,8 +116,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques concernant notamment les retraites",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-09T08:36:55+00:00",
-      "empreinte_sha256": "41eebce4af6ef3f461ca62d3a443af4e42a9abbdd0d89e8a5eef0f4e159da244",
+      "date_verification": "2026-11-10T08:24:43+00:00",
+      "empreinte_sha256": "3683db4e43aee792218a65df734f02ee082501bae5b44c3e28fa9105bc0583ca",
       "aperçu": "Bâtissons un nouveau modèle de retraite Le parti Nos départements Nos événements Mon espace J'adhère Votre signature a été confirmée Bâtissons un nouveau modèle de retraite Âge de "
     },
     {
@@ -129,8 +129,8 @@
       "statut_editorial": "projet_de_parti_a_documenter",
       "note_editoriale": "Site du mouvement : document précis et attribution à confirmer",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-09T08:36:55+00:00",
-      "empreinte_sha256": "cba5d8f53b33317d4981886c4dbd4bc977aaf77ba0f82431d27c7c6d74a794a0",
+      "date_verification": "2026-11-10T08:24:43+00:00",
+      "empreinte_sha256": "3777e0bb3abddf3a4e65894c89bdb804e4b48d09ee1ff5fe8c505fc6f91ffd3b",
       "aperçu": "Place à l'action Les actions Les groupes Adhérer Faire un don Se connecter Les actions Les groupes Adhérer Faire un don Se connecter Place à l’action! France France Auvergne-Rhône-"
     }
   ]

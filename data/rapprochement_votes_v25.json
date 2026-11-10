@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-09T08:36:44+00:00",
+  "generatedAt": "2026-11-10T08:24:34+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "a3e413530f5d1a2cb153564d8cb1e13a70691ff335dae96b608f63d99a69d7b4",
+  "votesArchiveSha256": "d91ab1475aaa65d8c585fe0da26efde56b4b65fd4228c306d8f7ff818b421835",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -370,8 +370,8 @@
       ],
       "decompte": {
         "pour": 3,
-        "contre": 3,
-        "abstention": 1,
+        "contre": 2,
+        "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
@@ -408,20 +408,6 @@
           "date": "2026-10-13",
           "numero": "8703",
           "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA335999"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8567",
-          "titre": "l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA335999"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8566",
-          "titre": "l'amendement n° 689 (rect.) de Mme Bonnivard à l'article 27 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "vote": "contre",
           "acteurRef": "PA335999"
         }
@@ -2132,8 +2118,8 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 262,
-        "contre": 228,
+        "pour": 257,
+        "contre": 222,
         "abstention": 32,
         "non-votant": 0,
         "conflit": 0
@@ -5715,83 +5701,6 @@
           "titre": "l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8593",
-          "titre": "l'amendement n° 832 de Mme Lalanne et l'amendement identique suivant après l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8592",
-          "titre": "l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8591",
-          "titre": "l'amendement n° 459 de Mme Autain à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8590",
-          "titre": "l'amendement n° 469 de Mme Brulebois à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8589",
-          "titre": "l'amendement n° 521 de Mme Leboucher à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8588",
-          "titre": "l'amendement n° 958 de Mme Cathala à l'article 40 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8569",
-          "titre": "l'amendement n° 992 (rect.) de Mme Perrine Goulet à l'article 28 bis de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8565",
-          "titre": "l'amendement n° 1274 (rect.) du Gouvernement à l'article 25 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8564",
-          "titre": "l'article 24 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8563",
-          "titre": "l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8562",
-          "titre": "l'amendement n° 433 de Mme Legrain à l'article 23 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6208,5 +6117,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "6746d1a5e4fae2f5fc930ca7351426ff06a3c9e5df62f1e4aba463da321bb827"
+  "actorsArchiveSha256": "b2895cbc214258c4fc43cf19de019fccb8abbdd39a5e63cdcbb065034dc5193c"
 }
