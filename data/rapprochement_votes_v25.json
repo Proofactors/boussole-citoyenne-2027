@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-10T08:24:34+00:00",
+  "generatedAt": "2026-11-11T08:24:01+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "d91ab1475aaa65d8c585fe0da26efde56b4b65fd4228c306d8f7ff818b421835",
+  "votesArchiveSha256": "88c6053ecd720a0578861213134c1a2680f63e7a7e9cc866d0dc371a8bb4480a",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -435,13 +435,34 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 124,
-        "contre": 94,
+        "pour": 126,
+        "contre": 95,
         "abstention": 14,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-10",
+          "numero": "9804",
+          "titre": "l'amendement n° 295 du Gouvernement et l'amendement identique suivant à l'article 45 bis du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-10",
+          "numero": "9801",
+          "titre": "l'amendement n° 167 de M. Latombe à l'article 36 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-10",
+          "numero": "9800",
+          "titre": "l'amendement n° 383 de M. Bénard à l'article 31 du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-11-04",
           "numero": "9759",
@@ -2118,8 +2139,8 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 257,
-        "contre": 222,
+        "pour": 255,
+        "contre": 213,
         "abstention": 32,
         "non-votant": 0,
         "conflit": 0
@@ -5624,83 +5645,6 @@
           "titre": "l'amendement n° 731 de Mme Leboucher à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8606",
-          "titre": "l'amendement n° 1135 de Mme Firmin Le Bodo à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8605",
-          "titre": "l'amendement n° 509 de Mme Garin et l'amendement identique suivant à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8604",
-          "titre": "l'amendement n° 475 de Mme Brulebois à l'article 42 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8603",
-          "titre": "l'amendement n° 629 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8602",
-          "titre": "l'amendement n° 542 de Mme Leboucher après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8601",
-          "titre": "l'amendement n° 558 de Mme Cathala après l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8600",
-          "titre": "l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8597",
-          "titre": "l'amendement n° 617 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8596",
-          "titre": "l'amendement n° 652 de Mme Leboucher à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8595",
-          "titre": "l'amendement n° 263 de M. Huyghe et les amendements identiques suivants à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-07",
-          "numero": "8594",
-          "titre": "l'amendement n° 562 de Mme Erodi à l'article 41 (examen prioritaire) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6117,5 +6061,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "b2895cbc214258c4fc43cf19de019fccb8abbdd39a5e63cdcbb065034dc5193c"
+  "actorsArchiveSha256": "7c94b03ddacf42997ab52e4a1d8e040bff6bc092ad0579b2946118a8ca0ac92e"
 }
