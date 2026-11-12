@@ -13361,5 +13361,724 @@
     "review": null,
     "detectedAt": "2026-11-11T08:23:38.370525+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5910d6c046d426379dbd4861": {
+    "id": "5910d6c046d426379dbd4861",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Nous devons aller vers des solutions beaucoup plus radicales\", affirme Bruno Le Maire à propos des augmentations de salaires",
+    "url": "https://www.franceinfo.fr/politique/nous-devons-aller-vers-des-solutions-beaucoup-plus-radicales-affirme-bruno-le-maire-a-propos-des-augmentations-de-salaires_8278877.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 09:15:21 +0100",
+    "excerpt": "Invité des \"4V\" sur France 2, jeudi 12 novembre, Bruno Lemaire, ancien ministre de l'Économie, est revenu sur la hausse du SMIC prévue pour le 1er décembre. Dans son projet, il défend l'augmentation de tous les salaires, avec un salaire net médian doublé.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-travail-01"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.831586+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bc29b7fa1309e0113200510b": {
+    "id": "bc29b7fa1309e0113200510b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le gouvernement va annoncer un nouveau plan de relance de l'agriculture, après un été caniculaire",
+    "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/le-gouvernement-va-annoncer-un-nouveau-plan-de-relance-de-l-agriculture-apres-un-ete-caniculaire_8278871.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 09:04:23 +0100",
+    "excerpt": "Sébastien Lecornu doit présenter jeudi un plan pour relancer l'agriculture et adapter les exploitations au changement climatique, alors que les syndicats du secteur menacent de se remobiliser cet hiver.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.833141+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9e664685cbb507d511de3a4d": {
+    "id": "9e664685cbb507d511de3a4d",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 06:04:08 +0100",
+    "excerpt": "L'idée, portée par l'ancien Premier ministre Gabriel Attal, séduit plusieurs de ses concurrents. Mais alors qu'Edouard Philippe refuse toujours d'y participer, les modalités d'un éventuel scrutin restent encore floues.",
+    "personalitiesSuggested": [
+      "edouard-philippe",
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.834829+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "6788bba258af899ba1d80975": {
+    "id": "6788bba258af899ba1d80975",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 23:53:01 +0100",
+    "excerpt": "Tout comme le président du Conseil constitutionnel Richard Ferrand mi-octobre, ils estiment irrégulière la proposition phare du programme du RN.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "extension-institutions-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.836212+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ea74eceedde7fc524433064b": {
+    "id": "ea74eceedde7fc524433064b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 22:19:49 +0100",
+    "excerpt": "Une primaire serait un \"suicide collectif\", estime, mercredi sur franceinfo, celui qui est aussi président du conseil départemental du Finistère.",
+    "personalitiesSuggested": [
+      "edouard-philippe"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.837685+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fa8b52653e95808e1ef79c15": {
+    "id": "fa8b52653e95808e1ef79c15",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+    "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 21:26:40 +0100",
+    "excerpt": "Dans un même temps, Emmanuel Macron a commémoré mercredi l'anniversaire de l'Armistice de 1918 pour la dixième et dernière fois en tant que chef de l'État.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.839114+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "edaf3211ff9e7bfd7ec1ed91": {
+    "id": "edaf3211ff9e7bfd7ec1ed91",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 20:35:51 +0100",
+    "excerpt": "Dans une lettre adressée aux présidents d'universités, le Premier ministre évoque également son \"soutien personnel et celui du gouvernement\", dans \"cette période de fortes tensions\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-03"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.840556+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "40b7c63dbc80d0f9f403b0e9": {
+    "id": "40b7c63dbc80d0f9f403b0e9",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
+    "url": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 20:43:12 +0100",
+    "excerpt": "Depuis les propos de Jean-Luc Mélenchon sur la possibilité de consulter la population du Donbass pour savoir si elle souhaite rester ukrainienne ou devenir russe, les réactions se multiplient. Après les critiques du gouvernement français et de Raphaël Glucksmann, c’est le porte-parole de la diplomatie ukrainienne qui lui a répondu.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.842521+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9a01983b2549d63d2b6a2cac": {
+    "id": "9a01983b2549d63d2b6a2cac",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+    "url": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 21:03:28 +0100",
+    "excerpt": "\"L'Avenir en commun, le programme de la Nouvelle France\", distribué en librairie, était le livre le plus vendu en France la semaine de sa publication, devançant \"L'inconnue du quai de Javel\", mais aussi le nouvel ouvrage de Jordan Bardella.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.844253+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "55e28dd8df36e69cee8b7341": {
+    "id": "55e28dd8df36e69cee8b7341",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook",
+    "url": "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 18:22:27 +0100",
+    "excerpt": "Le message en question a été posté sous une publication de l'élu écologiste Mansour Thiamsur la cantine à un euro. \"Aujourd'hui, la honte et la peur doivent changer de camp\", a-t-il commenté.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.845839+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a7c817953bb43968213d3a7f": {
+    "id": "a7c817953bb43968213d3a7f",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
+    "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 19:05:42 +0100",
+    "excerpt": "Le président de la République a exprimé, d'un ton ému, son \"immense gratitude\" envers les anciens combattants. \"C'est une immense fierté pour moi, depuis près de dix ans, d'être là où je suis\", a-t-il déclaré.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.847410+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "1e2ef9fa726c145e87099844": {
+    "id": "1e2ef9fa726c145e87099844",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "REPORTAGE. 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
+    "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 15:13:08 +0100",
+    "excerpt": "Prenant la parole, mercredi, pour les commémorations du 11-Novembre dans son fief de Hénin-Beaumont, dans le Pas-de-Calais, Marine Le Pen répond à ceux qui, dans les établissements scolaires, ont refusé d'organiser un temps pour les \"Morts pour la France\".",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "extension-societe-02",
+      "extension-immigration-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.849300+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "8ff4dbba342cb54d36a3b15b": {
+    "id": "8ff4dbba342cb54d36a3b15b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+    "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 21:15:00 +0100",
+    "excerpt": "La décision, qui vise les élus Sacha Houlié et Arthur Delaporte et les reporters Ariane Chemin et Paul Gogo, a été prise \"en raison de leur participation au harcèlement\" de la chroniqueuse pro-Kremlin de CNews, expulsée de France fin juillet, a revendiqué Moscou.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "asile-hors-france",
+      "troupes-ukraine",
+      "palestine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.851037+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a26cacba805fc9c0cdd987bc": {
+    "id": "a26cacba805fc9c0cdd987bc",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Les informés du matin du mercredi 11 novembre 2026",
+    "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mercredi-11-novembre-2026_8256628.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 13:00:03 +0100",
+    "excerpt": "Les informés débattent de l'actualité autour de Paul Barcelonne.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.852041+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bbedd443571eda8569c59e04": {
+    "id": "bbedd443571eda8569c59e04",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 10:54:07 +0100",
+    "excerpt": "Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire.",
+    "personalitiesSuggested": [
+      "edouard-philippe",
+      "bruno-retailleau"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.853461+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c76f866e6351378b4a1dca8b": {
+    "id": "c76f866e6351378b4a1dca8b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles",
+    "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 18:57:27 +0100",
+    "excerpt": "Le ministre de l'Education nationale a pour sa part assuré mercredi sur BFMTV/RMC n'avoir eu \"aucun écho de moment de tension ou de refus sur le terrain à ce stade\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.854932+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bf98282c2d2f9f0c796bbdf5": {
+    "id": "bf98282c2d2f9f0c796bbdf5",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le gouvernement envisage de puiser une nouvelle fois dans les stocks stratégiques pour maintenir les prix à la pompe",
+    "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/le-gouvernement-pret-a-puiser-une-nouvelle-fois-dans-les-stocks-strategiques-pour-maintenir-les-prix-a-la-pompe_8256619.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 09:37:47 +0100",
+    "excerpt": "Le prix du gazole recule grâce au déblocage des stocks stratégiques décidé par le gouvernement. Les cours du pétrole sont également en baisse. Mais les automobilistes sont encore loin d'avoir retrouvé les prix d'avant la guerre en Iran. Pour éviter une nouvelle flambée, l'exécutif envisage de libérer des barils supplémentaires.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:34.856829+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "597adb18a485122b3bfe8c55": {
+    "id": "597adb18a485122b3bfe8c55",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "EDITO. Qu'on l'adore ou qu'on la déteste, tout le monde a son idée sur la Fonction publique",
+    "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-qu-on-l-adore-ou-qu-on-la-deteste-tout-le-monde-a-son-idee-sur-la-fonction-publique_8258090.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 08:37:42 +0100",
+    "excerpt": "Huit candidats à la présidentielle vont exposer jeudi leurs vues sur le service public à la Maison de la Radio. Un événement de campagne tant ces services sont au cœur de la vie des Français et révélateurs de l'état de la société.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.357172+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "1d0be0bf7a12a3ef63e9e6c0": {
+    "id": "1d0be0bf7a12a3ef63e9e6c0",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "11-Novembre : des commémorations au parfum de campagne présidentielle",
+    "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/11-novembre-des-commemorations-au-parfum-de-campagne_8278802.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 08:22:07 +0100",
+    "excerpt": "La campagne présidentielle 2027 s'est invitée dans les commémorations du 11-Novembre, avec des discours très politiques des différents candidats.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.358396+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5af93a5174c3e7d87da60846": {
+    "id": "5af93a5174c3e7d87da60846",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "\"Il a une image de gagnant\" : quel candidat à la présidentielle a le plus à craindre de la candidature de Teddy Riner ?",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/il-a-une-image-de-gagnant-quel-candidat-a-la-presidentielle-a-le-plus-a-craindre-de-la-candidature-de-teddy-riner_8277656.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 06:04:59 +0100",
+    "excerpt": "Revendiquant un positionnement \"ni de gauche, ni de droite\", le célèbre judoka bénéficie d'une bonne opinion mais son potentiel électoral est difficile à cerner. Si les différentes écuries présidentielles assurent ne pas être menacées par cette nouvelle candidature, le champion olympique pourrait tout de même bousculer la campagne.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.360265+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "cac7bd203b716076ef40f7b0": {
+    "id": "cac7bd203b716076ef40f7b0",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Quand ? Avec qui ? Comment ? A droite et au centre, l'idée d'une primaire fait encore débat à six mois de la présidentielle",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/quand-avec-qui-comment-a-droite-et-au-centre-l-idee-d-une-primaire-fait-encore-debat-a-six-mois-de-la-presidentielle_8277515.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 06:04:08 +0100",
+    "excerpt": "L'idée, portée par l'ancien Premier ministre Gabriel Attal, séduit plusieurs de ses concurrents. Mais alors qu'Edouard Philippe refuse toujours d'y participer, les modalités d'un éventuel scrutin restent encore floues.",
+    "personalitiesSuggested": [
+      "edouard-philippe",
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.361882+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4d7063dca03068db4f1b7b0e": {
+    "id": "4d7063dca03068db4f1b7b0e",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "DIRECT. Présidentielle 2027 : suivez l'interview de Gabriel Attal, premier des huit candidats interrogés dans le cadre de l'opération \"Nos services publics\", à 10h10",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 09:17:34 +0100",
+    "excerpt": "Huit des principaux candidats à l'élection présidentielle 2027 répondent jeudi, au fil de la journée, aux questions des journalistes de France Télévisions et Radio France à propos de l'accès et de la qualité des services publics sur l'ensemble du territoire.",
+    "personalitiesSuggested": [
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.363669+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "2e50b69bc7bac2564321271a": {
+    "id": "2e50b69bc7bac2564321271a",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 23:53:01 +0100",
+    "excerpt": "Tout comme le président du Conseil constitutionnel Richard Ferrand mi-octobre, ils estiment irrégulière la proposition phare du programme du RN.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "extension-institutions-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.365004+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "712277c165d5e32772583a97": {
+    "id": "712277c165d5e32772583a97",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 22:19:49 +0100",
+    "excerpt": "Une primaire serait un \"suicide collectif\", estime, mercredi sur franceinfo, celui qui est aussi président du conseil départemental du Finistère.",
+    "personalitiesSuggested": [
+      "edouard-philippe"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.366443+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "eca1c02d961a82c2e3e793bb": {
+    "id": "eca1c02d961a82c2e3e793bb",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+    "url": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 21:03:28 +0100",
+    "excerpt": "\"L'Avenir en commun, le programme de la Nouvelle France\", distribué en librairie, était le livre le plus vendu en France la semaine de sa publication, devançant \"L'inconnue du quai de Javel\", mais aussi le nouvel ouvrage de Jordan Bardella.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.368152+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "99d7f984938a97ed56ae70d7": {
+    "id": "99d7f984938a97ed56ae70d7",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Présidentielle 2027 : franceinfo organise un grand oral des candidats sur les services publics",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-franceinfo-organise-un-grand-oral-des-candidats-sur-les-services-publics_8277680.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 16:30:19 +0100",
+    "excerpt": "Jeudi 12 novembre, franceinfo organise une journée exceptionnelle consacrée aux services publics, en direct et en public au Studio 104 de la Maison de la Radio et de la Musique.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.369623+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "08ea02d2d2432e1b0b7982a1": {
+    "id": "08ea02d2d2432e1b0b7982a1",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-fevrier_8277581.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 10:54:07 +0100",
+    "excerpt": "Parmi les quatre candidats à qui le président des Républicains a adressé une lettre allant dans ce sens, seul Edouard Philippe (Horizons) est opposé à l'idée d'une primaire.",
+    "personalitiesSuggested": [
+      "edouard-philippe",
+      "bruno-retailleau"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.371034+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "6d60d4726ccdb767c5a858f8": {
+    "id": "6d60d4726ccdb767c5a858f8",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Agir pour la France\" : les propos glaçants de l'auteur de l'attentat raciste de Trappes",
+    "url": "https://www.france24.com/fr/france/20261112-agir-pour-la-france-garde-%C3%A0-vue-propos-gla%C3%A7ants-auteur-attentat-trappes",
+    "sourcePublishedAt": "Thu, 12 Nov 2026 06:49:05 GMT",
+    "excerpt": "Kévin Tessier, l'auteur de l’attentat raciste perpétré le 23 octobre dans les Yvelines, a livré des confidences glaçantes au cours de sa garde à vue à la Sous-direction antiterroriste (Sdat). Une liste de personnalités de gauche a par ailleurs été retrouvée à son domicile par les enquêteurs.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.471541+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e611dd7aa50087236ffafa7f": {
+    "id": "e611dd7aa50087236ffafa7f",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
+    "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 21:12:37 GMT",
+    "excerpt": "Yossi Dagan, qui dirige une structure représentant les colonies juives en Samarie, au nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à cause de son \"rôle actif dans la mise en uvre de la politique de colonisation de la Cisjordanie\", selon le ministère français des Affaires étrangères.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "asile-hors-france",
+      "troupes-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.473436+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f2f1b9e30c4835558652e643": {
+    "id": "f2f1b9e30c4835558652e643",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Les parents de Christophe Gleizes, journaliste détenu en Algérie depuis 500 jours, sur France 24",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-journaliste-d%C3%A9tenu-en-alg%C3%A9rie-depuis-500-jours-sur-france-24",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 18:04:24 GMT",
+    "excerpt": "\"On demande simplement la grâce à Christophe\" : les parents de Christophe Gleizes, journaliste français détenu en Algérie depuis 500 jours appellent à la libération de leur fils. Retrouvez l'entretien dans son intégralité sur le site de France 24.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.475152+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "73b20527bbb1f3a18085bc9f": {
+    "id": "73b20527bbb1f3a18085bc9f",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "11-Novembre : le Bleuet de France, symbole de mémoire",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-le-bleuet-de-france-symbole-de-m%C3%A9moire",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 16:23:51 GMT",
+    "excerpt": "Ludovic de Foucaud, journaliste à France 24, nous en dit plus sur la signification du Bleuet de France, symbole en hommage aux Morts pour la France.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.476414+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "333e8bdd62f75277d3203a6e": {
+    "id": "333e8bdd62f75277d3203a6e",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Pour les parents de Christophe Gleizes, \"il faudrait quand même qu'on nous entende\"",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-invit%C3%A9s-de-france-24",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 14:59:46 GMT",
+    "excerpt": "Cela fait 500 jours que le journaliste français Christophe Gleizes est détenu en Algérie. Ses parents ont confié à France 24 leurs inquiétudes et leurs espoirs. \"500 jours, c'est énorme pour nous et c'est très cruel. Il y a eu quelques ouvertures avec le début du réchauffement diplomatique entre la France et l'Algérie. Il y a eu aussi la visite du pape en Algérie, la FIFA qui a accrédité Christophe pour le mondial et puis au final rien ne s'est passé. De nouveau, on comprend que la relation entre Alger et Paris, n'est plus vraiment une très bonne relation. C'est très tendu et ça nous inquiète énormément\". Le ministre français des Affaires étrangères, Jean-Noël Barrot, a reçu mercredi au Quai d'Orsay la mère, le beau-père et le frère du journaliste. \"On compte sur notre diplomatie pour agir diplomatiquement parce qu'il est clair que nous ne cherchons pas de provocation vis-à-vis du gouvernement algérien. On lui demande simplement d'accorder la grâce à Christophe. Nous sommes absolument ",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "primaute-ue",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.480839+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9a06b08c2f50338da7242da3": {
+    "id": "9a06b08c2f50338da7242da3",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Bruno Retailleau propose une primaire de la droite et du centre les 31 janvier et 7 février",
+    "url": "https://www.france24.com/fr/france/20261111-bruno-retailleau-propose-une-primaire-de-la-droite-et-du-centre-les-31-janvier-et-7-f%C3%A9vrier",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 14:42:08 GMT",
+    "excerpt": "Bruno Retailleau, le candidat des Républicains à la présidentielle française, propose l'organisation d'une primaire de la droite et du centre les 31 janvier et 7 février. Ouverts à cette idée, les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard se réuniront mardi prochain. De son côté, Édouard Philippe refuse de participer à une primaire, tout en estimant qu'un \"grand rassemblement\" est nécessaire autour d'un seul candidat.",
+    "personalitiesSuggested": [
+      "gabriel-attal",
+      "bruno-retailleau",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.483077+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "130b57e0919aa8075e0f1d90": {
+    "id": "130b57e0919aa8075e0f1d90",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
+    "url": "https://www.france24.com/fr/france/20261111-dix-fois-plus-douloureux-l-impact-suspect%C3%A9-des-gaz-lacrymog%C3%A8nes-sur-les-r%C3%A8gles",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 14:05:17 GMT",
+    "excerpt": "Alors que la police française a largement recours aux gaz lacrymogènes lors des manifestations en France, des milliers de témoignages de femmes faisant état de troubles menstruels (règles très douloureuses, saignements plus abondants) remettent encore en cause l’idée selon laquelle cet agent chimique irritant n’aurait que des conséquences mineures.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "primaute-ue"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.485025+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d2333d27ffeb20e8f7986ba0": {
+    "id": "d2333d27ffeb20e8f7986ba0",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "REPLAY. Emmanuel Macron s'exprime à l'occasion des commémorations de l'Armistice du 11-Novembre",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-replay-emmanuel-macron-s-exprime-%C3%A0-l-occasion-de-l-armistice-du-11-novembre",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 13:45:16 GMT",
+    "excerpt": "Le président français s'est exprimé ce mercredi à l'occasion des commémorations de l'Armistice du 11 novembre 1918.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.486243+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "35181373512593ebd822af44": {
+    "id": "35181373512593ebd822af44",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Commémorations de l'Armistice du 11-Novembre : \"un devoir de mémoire\"",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-comm%C3%A9morations-de-l-armistice-du-11-novembre-un-devoir-de-m%C3%A9moire",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 13:25:10 GMT",
+    "excerpt": "Guillaume Ancel, ancien officier, chroniqueur et co-auteur de \"Les faussaires de la nation\" (éditions Phillipe Rey), était l'invité de l'antenne de France 24.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.487556+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c08348e252ed1444a6138d5a": {
+    "id": "c08348e252ed1444a6138d5a",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Un match solidaire pour la libération de Christophe Gleizes, détenu depuis 500 jours",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-un-match-solidaire-pour-la-lib%C3%A9ration-de-christophe-gleizes-d%C3%A9tenu-depuis-500-jours",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 12:07:09 GMT",
+    "excerpt": "Un match solidaire, organisé par Reporters sans frontières (RSF) avec la Ville de Paris et réunissant des personnalités du football, des médias et de la culture, est prévu mercredi soir pour appeler à libérer Christophe Gleizes, emprisonné en Algérie depuis 500 jours.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.489219+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5416f2246bf7be049b54bc99": {
+    "id": "5416f2246bf7be049b54bc99",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Discriminations : ils lancent une marche anti-raciste à travers la France",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-discriminations-ils-lancent-une-marche-anti-raciste-%C3%A0-travers-la-france",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 11:44:06 GMT",
+    "excerpt": "Après l'attentat raciste survenu à Trappes et La Verrière le 23 octobre, une marche nationale contre le racisme et les discours de haine veut relier Marseille aux villes de Trappes et La Verrière. Lancée par des citoyens depuis la petite ville de Millau dans l'Aveyron, cette initiative entend faire revivre les symboles de la Marche pour l'égalité et contre le racisme de 1983. En pleine organisation, les initiateurs espèrent mobiliser des participants à chaque étape du parcours. La marche partira le 23 novembre de la cité phocéenne pour arriver à Trappes le 26 décembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-01"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.491802+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "2d713a90b7b287392539805b": {
+    "id": "2d713a90b7b287392539805b",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "La France célèbre le 108e anniversaire de l'Armistice du 11 novembre 1918",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-la-france-c%C3%A9l%C3%A8bre-le-108e-anniversaire-de-l-armistice-du-11-novembre-1918",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 11:17:53 GMT",
+    "excerpt": "Une circulaire parue début juillet instaure une cérémonie annuelle \"d'hommage à tous les 'Morts pour la France'\" pour les élèves du CM1 à la terminale autour du 11-Novembre, à laquelle des élus ou des militaires pourraient participer. Dans la Loire, les collégiens se sont préparés à cet hommage. Reportage.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.493563+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "60b6961acf7d30ec3b454c04": {
+    "id": "60b6961acf7d30ec3b454c04",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "11-Novembre : ravivage de la flamme sur la tombe du soldat inconnu par Emmanuel Macron",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-ravivage-de-la-flamme-sur-la-tombe-du-soldat-inconnu-par-emmanuel-macron",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 10:51:12 GMT",
+    "excerpt": "Le président français Emmanuel Macron a procédé ce mercredi au ravivage de la flamme sur la tombe du soldat inconnu à l'occasion du 108e anniversaire de l’Armistice du 11 novembre 1918.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.495051+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c09a078c20c56f883c59ed51": {
+    "id": "c09a078c20c56f883c59ed51",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Triple narchomicide à Marseille en 2020 : le parquet requiert la perpétuité contre les accusés",
+    "url": "https://www.france24.com/fr/france/20261111-la-perp%C3%A9tuit%C3%A9-requise-contre-quatre-accus%C3%A9s-dont-deux-barons-de-la-drogue-marseillais",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 09:50:01 GMT",
+    "excerpt": "La cour d'assises d'Aix-en-Provence a requis, mercredi, la prison à perpétuité pour les deux commanditaires présumés du triple assassinat à Marseille, en 2020, dont l'une des victimes est le frère aîné du militant anti-narcotrafic Amine Kessaci. Les autres accusés risquent de lourdes peines d'emprisonnement.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-04",
+      "courtes-peines"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.496847+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ce3fd9b7b803d25741d49868": {
+    "id": "ce3fd9b7b803d25741d49868",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Christophe Gleizes, le journaliste français en prison depuis 500 jours en Algérie",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-christophe-gleizes-le-journaliste-fran%C3%A7ais-en-prison-depuis-500-jours-en-alg%C3%A9rie",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 09:15:06 GMT",
+    "excerpt": "Pierre De La Saussay, ami de Christophe Gleizes et membre du comité de soutien, est notre invité.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.498063+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9ba176827cfc8d30fbdd94a6": {
+    "id": "9ba176827cfc8d30fbdd94a6",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Emmanuel Macron préside un dernier 11-Novembre marqué par une polémique",
+    "url": "https://www.france24.com/fr/france/20261111-ceremonies-du-11-novembre-une-polemique-hommage-national-education-histoire",
+    "sourcePublishedAt": "Wed, 11 Nov 2026 08:38:54 GMT",
+    "excerpt": "À l'occasion du 108e anniversaire de l’Armistice de 1918, le président Emmanuel Macron s'est rendu mercredi sur les Champs-Élysées et à l'Arc de Triomphe pour raviver la flamme du soldat inconnu. Les célébrations du 11-Novembre ont donné lieu cette année à des débats sur les commémorations organisées dans les écoles.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-12T08:24:35.499860+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

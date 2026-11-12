@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-11T08:23:41.769853+00:00",
+  "generatedAt": "2026-11-12T08:24:38.617425+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -1697,6 +1697,477 @@
           "motsCommuns": [
             "euros",
             "millions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "6788bba258af899ba1d80975",
+      "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
+      "publication": "Wed, 11 Nov 2026 23:53:01 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10219,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Que la Constitution soit complexe à réviser ne donne pas le droit de s'en affranchir.\" Cent dix universitaires spécialistes de droit constitutionnel estiment irrégulière la proposition phare de Marine Le Pen, si elle accède à l'Elysée, de réviser la Constitution par référendum en contournant le Parlement, afin d'appliquer sa politique migratoire.",
+          "motsCommuns": [
+            "affranchir",
+            "droit"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-institutions-07",
+          "theme": "institutions",
+          "passageSource": "\"Que la Constitution soit complexe à réviser ne donne pas le droit de s'en affranchir.\" Cent dix universitaires spécialistes de droit constitutionnel estiment irrégulière la proposition phare de Marine Le Pen, si elle accède à l'Elysée, de réviser la Constitution par référendum en contournant le Parlement, afin d'appliquer sa politique migratoire.",
+          "motsCommuns": [
+            "constitutionnel",
+            "referendum"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-03",
+          "theme": "travail",
+          "passageSource": "D'où la volonté de Marine Le Pen de contourner l'article 89 par l'article 11, qui permet de réaliser des référendums \"sur l'organisation des pouvoirs publics\" en s'appuyant sur le précédent de 1962, lorsque le général de Gaulle en avait organisé un sur l'élection du président de la République au suffrage universel.",
+          "motsCommuns": [
+            "lorsque",
+            "permet"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "passageSource": "D'où la volonté de Marine Le Pen de contourner l'article 89 par l'article 11, qui permet de réaliser des référendums \"sur l'organisation des pouvoirs publics\" en s'appuyant sur le précédent de 1962, lorsque le général de Gaulle en avait organisé un sur l'élection du président de la République au suffrage universel.",
+          "motsCommuns": [
+            "pouvoirs",
+            "publics"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "2e50b69bc7bac2564321271a",
+      "titre": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html",
+      "publication": "Wed, 11 Nov 2026 23:53:01 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10219,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Que la Constitution soit complexe à réviser ne donne pas le droit de s'en affranchir.\" Cent dix universitaires spécialistes de droit constitutionnel estiment irrégulière la proposition phare de Marine Le Pen, si elle accède à l'Elysée, de réviser la Constitution par référendum en contournant le Parlement, afin d'appliquer sa politique migratoire.",
+          "motsCommuns": [
+            "affranchir",
+            "droit"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-institutions-07",
+          "theme": "institutions",
+          "passageSource": "\"Que la Constitution soit complexe à réviser ne donne pas le droit de s'en affranchir.\" Cent dix universitaires spécialistes de droit constitutionnel estiment irrégulière la proposition phare de Marine Le Pen, si elle accède à l'Elysée, de réviser la Constitution par référendum en contournant le Parlement, afin d'appliquer sa politique migratoire.",
+          "motsCommuns": [
+            "constitutionnel",
+            "referendum"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-03",
+          "theme": "travail",
+          "passageSource": "D'où la volonté de Marine Le Pen de contourner l'article 89 par l'article 11, qui permet de réaliser des référendums \"sur l'organisation des pouvoirs publics\" en s'appuyant sur le précédent de 1962, lorsque le général de Gaulle en avait organisé un sur l'élection du président de la République au suffrage universel.",
+          "motsCommuns": [
+            "lorsque",
+            "permet"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "passageSource": "D'où la volonté de Marine Le Pen de contourner l'article 89 par l'article 11, qui permet de réaliser des référendums \"sur l'organisation des pouvoirs publics\" en s'appuyant sur le précédent de 1962, lorsque le général de Gaulle en avait organisé un sur l'élection du président de la République au suffrage universel.",
+          "motsCommuns": [
+            "pouvoirs",
+            "publics"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "ea74eceedde7fc524433064b",
+      "titre": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html",
+      "publication": "Wed, 11 Nov 2026 22:19:49 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8690,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "712277c165d5e32772583a97",
+      "titre": "\"La primaire, c’est deux à trois mois de division\", déplore Maël de Calan, soutien d’Edouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/candidats/la-primaire-c-est-deux-a-trois-mois-de-division-deplore-mael-de-calan-soutien-d-edouard-philippe_8278346.html",
+      "publication": "Wed, 11 Nov 2026 22:19:49 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8690,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "fa8b52653e95808e1ef79c15",
+      "titre": "Marine Le Pen appelle à \"l'unité\" et Jean-Luc Mélenchon à se souvenir de l'Histoire, lors des commémorations du 11-Novembre",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/marine-le-pen-appelle-a-l-unite-et-jean-luc-melenchon-a-se-souvenir-de-l-histoire-lors-des-commemorations-du-11-novembre_8278301.html",
+      "publication": "Wed, 11 Nov 2026 21:26:40 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9596,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "8ff4dbba342cb54d36a3b15b",
+      "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+      "url": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html",
+      "publication": "Wed, 11 Nov 2026 21:15:00 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11560,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e611dd7aa50087236ffafa7f",
+      "titre": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
+      "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+      "urlEffective": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+      "publication": "Wed, 11 Nov 2026 21:12:37 GMT",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5792,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "9a01983b2549d63d2b6a2cac",
+      "titre": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+      "url": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html",
+      "publication": "Wed, 11 Nov 2026 21:03:28 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10056,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "eca1c02d961a82c2e3e793bb",
+      "titre": "Le livre-programme de Jean-Luc Mélenchon pour la présidentielle se vend davantage que le roman de Philippe Jaenada lauréat du prix Goncourt",
+      "url": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/culture/livres/le-livre-programme-de-jean-luc-melenchon-attire-plus-de-lecteurs-que-le-laureat-du-goncourt_8278001.html",
+      "publication": "Wed, 11 Nov 2026 21:03:28 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10056,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "40b7c63dbc80d0f9f403b0e9",
+      "titre": "Référendum dans le Donbass : pourquoi la proposition de Jean-Luc Mélenchon fait réagir jusqu’à Kiev",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/vrai-ou-fake/referendum-dans-le-donbass-pourquoi-la-proposition-de-jean-luc-melenchon-fait-reagir-jusqu-a-kiev_8278241.html",
+      "publication": "Wed, 11 Nov 2026 20:43:12 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12996,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "edaf3211ff9e7bfd7ec1ed91",
+      "titre": "Sébastien Lecornu formalise la création de 5 000 places supplémentaires en licence",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-formalise-la-creation-de-5-000-places-supplementaires-en-licence_8278265.html",
+      "publication": "Wed, 11 Nov 2026 20:35:51 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9930,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a7c817953bb43968213d3a7f",
+      "titre": "\"C'est une immense fierté pour moi (...) d'être là où je suis\" : Emmanuel Macron a présidé sa dernière cérémonie du 11-Novembre",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/emmanuel-macron-a-preside-sa-derniere-ceremonie-du-11-novembre_8278010.html",
+      "publication": "Wed, 11 Nov 2026 19:05:42 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9351,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c76f866e6351378b4a1dca8b",
+      "titre": "\"Un temps de concorde\" : Sébastien Lecornu vante les commémorations du 11-Novembre instaurées dans les écoles",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/la-polemique-autour-de-la-commemoration-du-11-novembre-a-l-ecole-est-tres-regrettable-deplore-la-ministre-deleguee-aux-armees-et-aux-anciens-combattants_8277551.html",
+      "publication": "Wed, 11 Nov 2026 18:57:27 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9739,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "55e28dd8df36e69cee8b7341",
+      "titre": "Un conseiller municipal de Sancoins, dans le Cher, porte plainte pour \"injure raciste\" après un commentaire sur Facebook",
+      "url": "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/racisme/un-conseiller-municipal-de-sancoins-dans-le-cher-porte-plainte-pour-injure-raciste-apres-un-commentaire-sur-facebook_8278121.html",
+      "publication": "Wed, 11 Nov 2026 18:22:27 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8719,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f2f1b9e30c4835558652e643",
+      "titre": "Les parents de Christophe Gleizes, journaliste détenu en Algérie depuis 500 jours, sur France 24",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-journaliste-d%C3%A9tenu-en-alg%C3%A9rie-depuis-500-jours-sur-france-24",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-parents-de-christophe-gleizes-journaliste-d%C3%A9tenu-en-alg%C3%A9rie-depuis-500-jours-sur-france-24",
+      "publication": "Wed, 11 Nov 2026 18:04:24 GMT",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2438,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "99d7f984938a97ed56ae70d7",
+      "titre": "Présidentielle 2027 : franceinfo organise un grand oral des candidats sur les services publics",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-franceinfo-organise-un-grand-oral-des-candidats-sur-les-services-publics_8277680.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-franceinfo-organise-un-grand-oral-des-candidats-sur-les-services-publics_8277680.html",
+      "publication": "Wed, 11 Nov 2026 16:30:19 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9477,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "73b20527bbb1f3a18085bc9f",
+      "titre": "11-Novembre : le Bleuet de France, symbole de mémoire",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-le-bleuet-de-france-symbole-de-m%C3%A9moire",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-le-bleuet-de-france-symbole-de-m%C3%A9moire",
+      "publication": "Wed, 11 Nov 2026 16:23:51 GMT",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2144,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "1e2ef9fa726c145e87099844",
+      "titre": "REPORTAGE. 11-Novembre : \"On ne construit pas la paix ni le sentiment d'appartenance nationale sur l'oubli\", prononce Marine Le Pen à Hénin-Beaumont après les refus d'hommages dans certaines écoles",
+      "url": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/11-novembre-on-ne-construit-pas-la-paix-ni-le-sentiment-d-appartenance-nationale-sur-l-oubli-prononce-marine-le-pen-a-henin-beaumont-apres-les-refus-d-hommages-dans-certaines-ecoles_8277827.html",
+      "publication": "Wed, 11 Nov 2026 15:13:08 +0100",
+      "analyseLe": "2026-11-12T08:24:38.617425+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10459,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-societe-02",
+          "theme": "societe",
+          "passageSource": "Prenant la parole, mercredi, pour les commémorations du 11-Novembre dans son fief de Hénin-Beaumont, dans le Pas-de-Calais, Marine Le Pen répond à ceux qui, dans les établissements scolaires, ont refusé d'organiser un temps pour les \"Morts pour la France\".",
+          "motsCommuns": [
+            "etablissements",
+            "scolaires"
           ],
           "risques": [
             "Citation ou propos rapporté possibles",
@@ -8994,10 +9465,10 @@
     }
   ],
   "statistiques": {
-    "documents": 483,
-    "textesLus": 479,
+    "documents": 501,
+    "textesLus": 497,
     "pdfLus": 0,
-    "passagesCandidats": 61,
+    "passagesCandidats": 70,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "reseau_TimeoutError": 1,
