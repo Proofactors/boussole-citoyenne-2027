@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T08:24:37.162503+00:00",
-  "total": 866,
+  "generatedAt": "2026-11-13T08:24:51.374763+00:00",
+  "total": 920,
   "statistiques": {
-    "a_examiner_en_priorite": 12,
-    "a_qualifier": 304,
-    "signal_non_qualifie": 550
+    "a_examiner_en_priorite": 15,
+    "a_qualifier": 326,
+    "signal_non_qualifie": 579
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -6391,6 +6391,22 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "fbb9492f2ff9dc78acdbd944",
+      "title": "Bureau du Sénat du jeudi 12 novembre 2026",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/12-11-2026/bureau-du-senat-du-jeudi-12-novembre-2026.html",
+      "sourcePublishedAt": "Thu,12 Nov 2026 11:21:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Communiqué de presse du 12/11/2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "5a7262d1a266dbb1045ce678",
       "title": "Les fusions de communes - Étude de législation comparée n° 363",
       "url": "http://www.senat.fr/notice-rapport/2026/lc363-notice.html",
@@ -7552,6 +7568,789 @@
       "extraitsRSS": [
         "Emmanuel Macron recevra des \"lycéens et des représentants d'organisations lycéennes\" vendredi à 15 h à l'Élysée afin d'\"écouter leurs revendications et inquiétudes\" après les manifestations émaillées de violences, a annoncé jeudi soir la présidence.",
         "Voici le fil du 22 octobre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9ac9d2b90252a83a5eb609e4",
+      "title": "Primaire à droite et au centre, les Verts courtisés à gauche… Le point sur la \"Bataille de l'Elysée\" ce 12 novembre",
+      "url": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 22:51:12 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Comme tous les jeudis, \"La bataille de l’Élysée\" fait le point sur la campagne à cinq mois de la présidentielle.",
+        "Édouard Philippe est sous pression : en difficulté dans les sondages, il refuse toujours la primaire, mais ses concurrents à droite et au centre avancent sans lui.",
+        "Leurs équipes se réunissent mardi pour en fixer les modalités… Jusqu’où peut-il faire cavalier seul ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1c6aa2fa8b05d0ea8486aaba",
+      "title": "Candidats à la présidentielle : que veulent-ils faire pour la justice ?",
+      "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-la-justice_8279930.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 22:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les candidats à la présidentielle face à “Nos services publics”.",
+        "Plus d’argent, plus d’emplois, et moins de syndicalisme, etc.",
+        "Que veulent-ils faire pour la justice ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f55e989c1450feeaafc684f0",
+      "title": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:56:47 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "dd13e601d55fc796beb1d28c",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:26:23 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Jean-Luc Mélenchon, le candidat de la France insoumise à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d69e7efa451034f38468ca3d",
+      "title": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:26:23 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Jean-Luc Mélenchon, le candidat de la France insoumise à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "40fed1d44f6556cd03107142",
+      "title": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:16:15 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1b7cec051b9d49ac4518b24b",
+      "title": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:16:15 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3ce38db21ba0ef174d53e4d2",
+      "title": "C'est Benjamin de franceinfo ! #Episode2",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027.",
+        "À Amiens (Picardie), c’est jour de manif pour défendre les services publics."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3599f0b56f7fb7bffed3545f",
+      "title": "C'est Benjamin de franceinfo ! #Episode2",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 20:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027.",
+        "À Amiens (Picardie), c’est jour de manif pour défendre les services publics."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1f5ea3df87727101e5a1ef9b",
+      "title": "VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 19:41:48 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Depuis sa rupture politique avec Emmanuel Macron, Gabriel Attal est plus que jamais \"en marche\"...",
+        "Ce jeune homme pressé y croit dur comme fer, encore plus depuis qu'il a pris le contrôle du parti présidentiel Renaissance.",
+        "Mais en coulisses, le nouveau patron ne semble pas faire l’unanimité."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b29ec3de66aca4e3f01bb786",
+      "title": "Candidats à la présidentielle : que veulent-ils faire pour l’éducation ?",
+      "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-l-education_8279921.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 19:34:37 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les candidats à la présidentielle face à “Nos services publics”.",
+        "Rémunération des enseignants, Parcoursup, emploi, etc.",
+        "Que veulent-ils faire pour l’éducation ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7fef618536b4da161a310d76",
+      "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
+      "url": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 19:05:17 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
+        "L'état hébreu a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "078f2781bf77b71ff19a1dca",
+      "title": "Quand les Sénégalais scrutent la crise française",
+      "url": "https://www.franceinfo.fr/monde/afrique/senegal/quand-les-senegalais-scrutent-la-crise-francaise_8279525.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 19:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "🇸🇳🔎🇫🇷 Alors que les Jeux olympiques de la jeunesse battent leur plein à Dakar, les yeux des Sénégalais se tournent aussi vers la France, où les manifestations perdurent.",
+        "Également en surchauffe politique et économique, les problématiques françaises résonnent au Sénégal…"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7a80f07f684410cf87f8ab12",
+      "title": "VIDEO. \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 18:51:36 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon ses détracteurs, la méthode Gabriel Attal, ce serait beaucoup de com, au détriment parfois du fond.",
+        "Cet extrait de \"Complément d'enquête\" sur l'enfant (pas si) chéri de la macronie révèle les coulisses de son annonce choc sur l’interdiction à l’école de l’abaya, à la rentrée 2023, alors qu'il venait d'arriver Rue de Grenelle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "62fcdc0c025f7d5715cdd63f",
+      "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël",
+      "url": "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 18:35:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Israël a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "41862256ad95d68ad71aab10",
+      "title": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël",
+      "url": "https://www.franceinfo.fr/monde/israel/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279831.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 18:35:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Israël a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b1ea0a52308c1525201110d7",
+      "title": "Présidentielle 2027 : \"Je ne me soumettrai pas à une primaire\", répète Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-me-soumettrai-pas-a-une-primaire-repete-edouard-philippe-candidat-horizons_8279726.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 18:21:06 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de la journée évènement franceinfo consacrée aux services publics, Edouard Philippe, candidat Horizons, affirme de nouveau son rejet d'une primaire de la droite et du centre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "23022a39b5492c95444bc990",
+      "title": "Présidentielle 2027 : \"Je ne me soumettrai pas à une primaire\", répète Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-me-soumettrai-pas-a-une-primaire-repete-edouard-philippe-candidat-horizons_8279726.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 18:21:06 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de la journée évènement franceinfo consacrée aux services publics, Edouard Philippe, candidat Horizons, affirme de nouveau son rejet d'une primaire de la droite et du centre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c192d27e8cb3fcb0b69be71f",
+      "title": "\"J'arrive avec un projet\" : Bruno Le Maire présente un programme pour \"une autre France\" mais reste flou sur une candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/j-arrive-avec-un-projet-bruno-le-maire-presente-un-programme-pour-une-autre-france-mais-reste-flou-sur-une-candidature-a-la-presidentielle_8279576.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 17:28:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien ministre de l'Economie d'Emmanuel Macron tente un retour dans le débat public et ne veut pas se résigner au scénario d'un second tour entre Jean-Luc Mélenchon et Marine Le Pen."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "16225b2679aba818f911d20f",
+      "title": "\"J'arrive avec un projet\" : Bruno Le Maire présente un programme pour \"une autre France\" mais reste flou sur une candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/j-arrive-avec-un-projet-bruno-le-maire-presente-un-programme-pour-une-autre-france-mais-reste-flou-sur-une-candidature-a-la-presidentielle_8279576.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 17:28:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien ministre de l'Economie d'Emmanuel Macron tente un retour dans le débat public et ne veut pas se résigner au scénario d'un second tour entre Jean-Luc Mélenchon et Marine Le Pen."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9fbcc985e12708fb2a6bee8c",
+      "title": "Israël interdit l'entrée sur son territoire à Mélenchon, Paris dénonce une \"décision démagogique\"",
+      "url": "https://www.france24.com/fr/france/20261112-isra%C3%ABl-interdit-entr%C3%A9e-territoire-jean-luc-m%C3%A9lenchon-lfi-gauche-radicale-gaza-colonies",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 17:25:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le leader de LFI et candidat à l'élection présidentielle en France, Jean-Luc Mélenchon, a reçu l'interdiction d'entrer en Israël, a fait savoir le ministère israélien des Affaires étrangères, accusant son parti de tenir une \"position extrêmement hostile à Israël\".",
+        "Le chef de la diplomatie française, Jean-Noël Barrot a dénoncé \"une décision démagogique\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eb02082085645abc0af55185",
+      "title": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 17:03:43 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Marine Tondelier, candidate écologiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a5f53695f9f523b28d3023be",
+      "title": "Présidentielle 2027 : Marine Tondelier promet l'ouverture de 2 000 centres de santé d'ici 2030 en France",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-marine-tondelier-promet-l-ouverture-de-2-000-centres-de-sante-d-ici-2030-en-france_8279639.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 17:03:43 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Marine Tondelier, candidate écologiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3488d95455dcf31c1a27e484",
+      "title": "Présidentielle 2027 : \"Je ne veux pas d'une société où les grands médias sont contrôlés par quelques oligarques\", assure Raphaël Glucksmann",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-ne-veux-pas-d-une-societe-ou-les-grands-medias-sont-controles-par-quelques-oligarques-assure-raphael-glucksmann_8279636.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 16:55:30 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Raphaël Glucksmann, candidat PS/Place publique a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "77c7e163da89c8ce87f637ac",
+      "title": "Attentat raciste de Trappes : \"C’est au Rassemblement national de s’expliquer plutôt que de m’attaquer en justice\", estime Marine Tondelier",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-c-est-au-rassemblement-national-de-s-expliquer-plutot-que-de-m-attaquer-en-justice-estime-marine-tondelier_8279558.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 16:20:46 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-tondelier"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-04",
+          "theme": "securite",
+          "keywords": [
+            "justice",
+            "plutot"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Invitée de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, la candidate écologiste réagit au fait que le Rassemblement national a annoncé porter plainte contre elle pour ses propos sur les motivations de l'auteur présumé de l'attentat raciste dans les Yvelines du 23 octobre dernier."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "01bacb2c098da1ad1289fc52",
+      "title": "France : le pays devient-il le nouvel eldorado des data centers ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-le-pays-devient-il-le-nouvel-eldorado-des-data-centers",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 16:12:15 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En France, 68 projets de data centers sont en cours selon les observatoires spécialisés, bien qu'un collectif d'opposant en ait décompté 110.",
+        "Ces énormes centres de données utilisés surtout pour l'intelligence artificielle, sont déjà plus de 300 en France et leur présence suscite de plus en plus d'opposition, à cause du bruit et l'impact sur l'écologie."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c5d94a4faf36d92df988af8a",
+      "title": "Présidentielle 2027 : Bruno Retailleau veut \"économiser 300 000 postes\" dans la fonction publique grâce à l'intelligence artificielle",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-bruno-retailleau-veut-economiser-300-000-postes-dans-la-fonction-publique-grace-a-l-intelligence-artificielle_8279522.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 16:01:38 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Bruno Retailleau, candidat Les Républicains à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "772eed9049e2444625be1f4f",
+      "title": "Présidentielle 2027 : Eric Zemmour souhaite supprimer 800 000 postes dans la fonction publique",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-eric-zemmour-souhaite-supprimer-800-000-postes-dans-la-fonction-publique_8279303.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 15:23:32 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Eric Zemmour, candidat du parti Reconquête à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c2bfae14d3af3aafc9c0538e",
+      "title": "Narchomicide en France : perpétuité requise contre quatre accusés",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-perp%C3%A9tuit%C3%A9-requise-contre-quatre-accus%C3%A9s-dont-deux-barons-de-la-drogue",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 15:17:47 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dénonçant la \"barbarie poussée à l'extrême\" d'un triple narchomicide dont l'une des victimes est le frère d'Amine Kessaci, figure de la lutte anti-narcotrafic, l'accusation a requis mercredi 11 novembre la réclusion à perpétuité pour quatre des cinq co-accusés, dont deux figures du narcobanditisme marseillais.",
+        "Les explications de Marie Schuster, journaliste à France 24."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "61ed98f231f973be5bd27928",
+      "title": "Présidentielle 2027 : le \"Made in France\", un enjeu devenu majeur dans la campagne",
+      "url": "https://www.france24.com/fr/france/20261112-france-presidentielle-2027-le-made-in-france-un-enjeu-devenu-majeur-dans-la-campagne",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 15:15:33 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le salon du \"Made in France\", qui se tient du 12 au 15 novembre à Paris, verra défiler de nombreux candidats à l’élection présidentielle française.",
+        "Ceux-ci ont conscience qu’il s’agit d’un levier pour relancer l’économie française, mais aussi de l’importance de cet enjeu auprès des électeurs."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ead51365b1cc30b725a08218",
+      "title": "Stockage de l'eau : \"J'en ai marre des bobos qui racontent n'importe quoi\", dénonce Bruno Retailleau",
+      "url": "https://www.franceinfo.fr/politique/bruno-retailleau/plan-de-relance-agricole-de-725-millions-d-euros-c-est-trop-tard-et-c-est-sans-doute-trop-peu-denonce-bruno-retailleau_8279387.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 14:59:16 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "keywords": [
+            "euros",
+            "millions"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Bruno Retailleau réagit au fait que le plan de relance agricole pour 2027, déjà présenté mi-octobre, s'élèvera finalement à 725 millions d'euros, selon le gouvernement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a9890c4cb16777220b48c8ca",
+      "title": "\"Je n'ai jamais entendu un politique dire que c'était scandaleux qu'on me menace\", assure Eric Zemmour, après la découverte d'une liste de personnalités de gauche chez le suspect de l'attentat raciste de Trappes",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/liste-de-personnalites-de-gauche-retrouvee-chez-le-suspect-de-l-attentat-raciste-de-trappes-moi-meme-je-vis-sous-protection-policiere-depuis-des-annees-reagit-eric-zemmour_8279345.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 14:49:52 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de la journée spéciale \"Nos Services Publics\", le candidat Reconquête à la présidentielle réagissait à la découverte d'une liste de personnalités de gauche et d'extrême gauche lors d'une perquisition au domicile de Kévin Tessier."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3dc63246e3ab69489f126666",
+      "title": "Présidentielle 2027 : la candidature de Teddy Riner peut-elle peser sur les résultats ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-pr%C3%A9sidentielle-2027-la-candidature-de-teddy-riner-peut-elle-peser-sur-les-r%C3%A9sultats",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 14:47:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un nouveau grand oral pour les candidats à la présidentielle qui retrouvent sur France info TV ce jeudi 12 novembre pour un débat sur les services publics.",
+        "À 157 jours du premier tour, les candidatures se multiplient, à l'instar de celle du quintuple champion de judo Teddy Riner, officialisée ce lundi 9 novembre.",
+        "Les précisions d'Oliviers Guyotto, enseignant-chercheur en stratégie et en sciences politiques à Bordeaux."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f0879bf40c95e0e98b3274f3",
+      "title": "Teddy Riner candidat à la présidentielle : \"Ni de droite, ni de gauche, c'est ce qu'on a vu pendant 10 ans\", ironise Raphaël Glucksmann",
+      "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-la-presidentielle-ni-de-droite-ni-de-gauche-c-est-ce-qu-on-a-vu-pendant-10-ans-ironise-raphael-glucksmann_8279291.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 13:35:23 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Raphaël Glucksmann a réagi à l'actualité politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b6012ad9ac663c81f30ea760",
+      "title": "Présidentielle 2027 : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-fabien-roussel-propose-la-mise-en-place-de-60-000-policiers-gendarmes-et-douaniers-de-proximite_8279156.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 13:29:18 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "gendarmes",
+            "policiers"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Fabien Roussel, candidat communiste à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f0366dd1420d1e0f0997a156",
+      "title": "Match de soutien à Christophe Gleizes : l'espoir d'une grâce présidentielle",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-match-de-soutien-%C3%A0-christophe-gleizes-l-espoir-d-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 13:16:12 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des personnalités ont revêtu maillots et crampons mercredi 11 novembre au soir à Paris pour marquer les 500 jours de détention du journaliste français Christophe Gleizes, dont la famille a été reçue au Quai d'Orsay, sur fond d'impasse diplomatique avec Alger.",
+        "Les précisions de Barthélémy Gaillard, journaliste France Culture."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "53ff9a2865fc3f3ecfdc9615",
+      "title": "Les informés du matin du jeudi 12 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-12-novembre-2026_8258066.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 12:34:12 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour de Paul Barcelonne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a8481414a1f311b747e98d92",
+      "title": "ÉDITO. Quel avenir pour nos services publics dans la campagne présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edito-quel-avenir-pour-nos-services-publics-dans-la-campagne-presidentielle_8279216.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 12:28:14 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Santé, école, justice, transports… Huit candidats à la présidentielle sont interrogés jeudi sur l'avenir des services publics.",
+        "Derrière leurs propositions, deux visions de la société s'opposent."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d712fadb91b4174521f30133",
+      "title": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 12:07:25 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "fabien-roussel"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité de la journée évènement franceinfo consacrée aux services publics, jeudi 12 novembre, Fabien Roussel réagit à ces noms de personnalité de gauche retrouvés sur un post-it au domicile de Kévin Tessier, le suspect de l'attentat terroriste raciste dans les Yvelines, le 23 octobre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "be6767434f23c17c129d4cd6",
+      "title": "Ligue des Nations : la France affronte l'Italie sans Kylian Mbappé",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-ligue-des-nations-la-france-affronte-l-italie-sans-kylian-mbapp%C3%A9",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 12:01:53 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Amoindrie par les pépins physiques de Kylian Mbappé, forfait, l'équipe de France va tout de même tenter de confirmer ses bons débuts en Ligue des nations en s'offrant contre l'Italie une place en quarts de finale, jeudi 12 novembre à Milan.",
+        "Avec trois victoires et un nul en quatre sorties, les Bleus de Zinédine Zidane sont dans une situation idéale pour poursuivre leur route dans cette compétition."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2205a99d0b35e78dc7984943",
+      "title": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 11:57:36 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, le candidat Renaissance à la présidentielle a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b7ceb6f9a02453f246dca292",
+      "title": "Accusations d'antisémitisme : Jordan Bardella a porté plainte pour faux et usage de faux",
+      "url": "https://www.france24.com/fr/france/20261112-france-accusations-antisemitisme-jordan-bardella-a-porte-plainte-pour-faux-et-usage-de-faux",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 11:50:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président du Rassemblement national, Jordan Bardella, a porté plainte contre X pour faux et usage de faux après les révélations de Mediapart, qui l'avait accusé d'avoir tenu des propos antisémites en 2013 lorsqu'il était jeune militant du Front national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "22c517f83d9bc84344a07a82",
+      "title": "Italie : des milliers d'écoles visées par des alertes à la bombe",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-italie-des-milliers-d-%C3%A9coles-vis%C3%A9es-par-des-alertes-%C3%A0-la-bombe",
+      "sourcePublishedAt": "Thu, 12 Nov 2026 10:19:43 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Des milliers d'écoles italiennes ont reçu, mercredi 12 novembre, par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles, sans qu'aucun \"danger concret\" n'ait été identifié, selon la Première ministre italienne Giorgia Meloni.",
+        "Des menaces similaires, également considérées comme de fausses alertes, ont été signalées dans des écoles au Royaume-Uni et en Irlande, entraînant, selon la presse, l'évacuation de plusieurs établissements en Écosse."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -14814,6 +15613,57 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "7d3b84878d8d34ab5b4d0bc5",
+      "title": "Périmètre de l'utilisation du produit du droit départemental de passage - texte N° 140",
+      "url": "http://www.senat.fr/leg/ppl26-140.html",
+      "sourcePublishedAt": "Fri,13 Nov 2026 02:03:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à élargir le périmètre de l'utilisation du produit du droit départemental de passage : texte N° 140 de M.",
+        "Mickaël VALLET, déposé au Sénat le 3 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2d12c210f5c12a46afa42f14",
+      "title": "Règlement sur le logement abordable - texte N° 152",
+      "url": "http://www.senat.fr/leg/ppr26-152.html",
+      "sourcePublishedAt": "Fri,13 Nov 2026 02:03:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de résolution règlement sur le logement abordable : texte N° 152 de Mme Brigitte DEVÉSA et M.",
+        "Ahmed LAOUEDJ, déposé au Sénat le 5 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0eca3f2a24724380ee26ef6b",
+      "title": "Création d'une commission d'enquête sur la gestion de l'amiante en outre-mer - texte N° 147",
+      "url": "http://www.senat.fr/leg/ppr26-147.html",
+      "sourcePublishedAt": "Fri,13 Nov 2026 02:03:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de résolution tendant à la création d'une commission d'enquête sur le suivi de la gestion de l'amiante dans les outre-mer : texte N° 147 de M.",
+        "Dominique THÉOPHILE, déposé au Sénat le 4 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "f3a3f6919b3a76475be6b532",
       "title": "Dématérialiser l'état civil des bénéficiaires de la protection internationale - rapport n° 9",
       "url": "http://www.senat.fr/rap/l26-009/l26-009.html",
@@ -16583,6 +17433,171 @@
         "Selon Enedis, près de 290 000 foyers sont privés d'électricité vendredi en raison de la tempête Austen, principalement en Bretagne.",
         "Huit nouveaux départements ont été placés en vigilance orange pour les vents au cours de la matinée, portant à 23 le nombre de départements concernés.",
         "Au cours de la nuit, des rafales de 120 à 140 km/h ont été relevées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "100d091dd64d7c4cc687467d",
+      "title": "Mélenchon interdit d'entrée en Israël, suppressions de postes dans la Fonction publique, le smic et les salaires... Le \"8h30 franceinfo\" d'Élisabeth Borne",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/melenchon-interdit-d-entree-en-israel-suppressions-de-postes-dans-la-fonction-publique-le-smic-et-les-salaires-le-8h30-franceinfo-d-elisabeth-borne_8259692.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 09:15:21 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Élisabeth Borne, ancienne Première ministre, députée Renaissance du Calvados, est l'invitée du \"8h30 franceinfo\" le 13 novembre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3bd16db7760aa36ce1afadcd",
+      "title": "La Suède ouvre la voie à la déchéance de nationalité pour certains binationaux",
+      "url": "https://www.franceinfo.fr/replay-radio/le-monde-et-vous/la-suede-ouvre-la-voie-a-la-decheance-de-nationalite-pour-certains-binationaux_8259659.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 08:51:28 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-institutions-07",
+          "theme": "institutions",
+          "keywords": [
+            "constitutionnelle",
+            "revision"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le Parlement suédois a adopté une révision constitutionnelle permettant, à terme, de retirer la nationalité à certains citoyens possédant un autre passeport.",
+        "Une réforme soutenue par la droite et les sociaux-démocrates, mais dénoncée par ses opposants, qui craignent la création de deux catégories de citoyens."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eed0eec8f548c9af022fa240",
+      "title": "INFO FRANCEINFO. LFI présente un plan d'investissement de 3,45 milliards d'euros pour le textile français",
+      "url": "https://www.franceinfo.fr/elections/programmes-election-presidentielle-2022/info-franceinfo-lfi-presente-un-plan-d-investissement-de-3-45-milliards-d-euros-pour-le-textile-francais_8279693.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 07:27:47 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "augmenter",
+            "produits"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "pensions-indexation",
+          "theme": "retraites",
+          "keywords": [
+            "augmenter",
+            "doivent"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Ce plan consiste en une dizaine de mesures qui doivent enrichir le programme du parti pour la présidentielle.",
+        "Il s'agit notamment d'augmenter la part de vêtements produits en France de 3% à 10% ou de développer la filière lin et chanvre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "552f803bc321eafadb557956",
+      "title": "Colère sociale : l'arsenal antiterroriste né des attentats de 2015 utilisé contre les manifestants",
+      "url": "https://www.france24.com/fr/france/20261113-col%C3%A8re-sociale-l-arsenal-antiterroriste-n%C3%A9-des-attentats-de-2015-utilis%C3%A9-contre-les-manifestants",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 06:08:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que la France est secouée par la mobilisation lycéenne et des manifestations contre la vie chère, des associations de défense des droits de l'Homme dénoncent l'utilisation par le gouvernement de mesures héritées de l'état d'urgence décrété suite aux attentats de 2015.",
+        "Elles ont notamment été employées pour assigner à résidence des personnes identifiées pour leur activité politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bd2a3175d12a1b328c8ae46d",
+      "title": "\"On crée de la proximité\" : comment La France insoumise s'inspire de la campagne présidentielle de Lula sur les réseaux sociaux",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 05:51:22 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En vue de 2027, les proches de Jean-Luc Mélenchon reprennent plusieurs principes d'André Janones, le stratège numérique du président du Brésil, en lançant une chaîne WhatsApp ou en tentant d'invisibiliser les contenus d'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "95a680409238811a220dc0ca",
+      "title": "\"On crée de la proximité\" : comment La France insoumise s'inspire de la campagne présidentielle de Lula sur les réseaux sociaux",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/on-cree-de-la-proximite-comment-la-france-insoumise-s-inspire-de-la-campagne-presidentielle-de-lula-sur-les-reseaux-sociaux_8279390.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 05:51:22 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En vue de 2027, les proches de Jean-Luc Mélenchon reprennent plusieurs principes d'André Janones, le stratège numérique du président du Brésil, en lançant une chaîne WhatsApp ou en tentant d'invisibiliser les contenus d'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9ae87234ee162bc9d8e723d3",
+      "title": "Mobilisation lycéenne : \"épuisés\", \"abîmés\", les proviseurs appelés à se rassembler",
+      "url": "https://www.france24.com/fr/france/20261113-apr%C3%A8s-deux-mois-de-tensions-dans-les-lyc%C3%A9es-de-france-les-proviseurs-appel%C3%A9s-%C3%A0-se-mobiliser",
+      "sourcePublishedAt": "Fri, 13 Nov 2026 00:23:30 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Face à la multiplication des insultes, des menaces et des agressions sur fond de mobilisation lycéenne depuis près de deux mois, les chefs d'établissement sont appelés à se rassembler vendredi.",
+        "La dernière mobilisation nationale comparable remonte à 2006, selon le secrétaire général du SNPDEN-Unsa, principal syndicat des chefs d'établissement, à l'initiative de cet appel."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
