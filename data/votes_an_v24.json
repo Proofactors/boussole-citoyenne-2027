@@ -1,8 +1,8 @@
 {
   "schemaVersion": "24.0",
   "source": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "archiveSha256": "718ab48591e7d069f18325e533a635f79b62641a381e8a3544387fb1f6c8774e",
-  "generatedAt": "2026-11-13T08:25:09+00:00",
+  "archiveSha256": "f378afa11e37f36242e51029f2e8b4ec09202f3f4d270cd086aaf11f8ccdf651",
+  "generatedAt": "2026-11-14T08:12:52+00:00",
   "totalParsed": 9895,
   "invalid": 0,
   "scrutins": [

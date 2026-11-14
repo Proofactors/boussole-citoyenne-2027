@@ -14973,5 +14973,549 @@
     "review": null,
     "detectedAt": "2026-11-13T08:24:49.106597+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "db09fe08e95c93617f2f9777": {
+    "id": "db09fe08e95c93617f2f9777",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Projet de loi de finances de fin de gestion pour 2026 - texte N° 172",
+    "url": "http://www.senat.fr/leg/pjl26-172.html",
+    "sourcePublishedAt": "Sat,14 Nov 2026 02:03:40 GMT",
+    "excerpt": "Projet de loi de finances de fin de gestion pour 2026 : texte N° 172 transmis au Sénat le 13 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:21.096460+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fa198716071d51643f8917e0": {
+    "id": "fa198716071d51643f8917e0",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Reconnaître une présomption de légitime défense pour les forces de l'ordre - rapport n° 167",
+    "url": "http://www.senat.fr/rap/l26-167/l26-167.html",
+    "sourcePublishedAt": "Sat,14 Nov 2026 02:03:41 GMT",
+    "excerpt": "Rapport n° 167 de Mme Lauriane JOSENDE, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre dans l'exercice de leurs fonctions (10 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "legitime-defense",
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:23.920477+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f4bd5a8f6abab398e572e7cb": {
+    "id": "f4bd5a8f6abab398e572e7cb",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Octroi des prérogatives d'une commission d'enquête - rapport n° 166",
+    "url": "http://www.senat.fr/rap/l26-166/l26-166.html",
+    "sourcePublishedAt": "Fri,13 Nov 2026 16:20:41 GMT",
+    "excerpt": "Rapport n° 166 de Mme Muriel JOURDA, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur la demande d'attribution des prérogatives d'une commission d'enquête par la commission des lois des prérogatives attribuées aux commissions d'enquête pour mener sa mission d'information sur les événements des 17 et 18 octobre 2026 (10 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:23.922238+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a5ade40388c0a83ed3b3b111": {
+    "id": "a5ade40388c0a83ed3b3b111",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "TEMOIGNAGES. \"J'ai l'impression de travailler à perte\" : salariés au smic, ils racontent un quotidien de privations, de galères et de déclassement",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/temoignages-j-ai-l-impression-de-travailler-a-perte-salaries-au-smic-ils-racontent-un-quotidien-de-privations-de-galeres-et-de-declassement_8276399.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 07:08:33 +0100",
+    "excerpt": "Le gouvernement a fait le choix de revaloriser le salaire minimum de 1,6% en décembre, soit une hausse d'environ 24 euros. Pour les personnes au smic, cela représente bien peu face à la hausse des prix.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-travail-01"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.274460+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "dd080ed3ce700416a92f355d": {
+    "id": "dd080ed3ce700416a92f355d",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Peut-il mettre à mal l'annonce faite d'un combat entre le RN et LFI ?\" : Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, ne ferme par la porte à Teddy Riner",
+    "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/avant-le-20h/peut-il-mettre-a-mal-l-annonce-faite-d-un-combat-entre-le-rn-et-lfi-jean-charles-orsucci-porte-parole-de-campagne-de-gabriel-attal-ne-ferme-par-la-porte-a-teddy-riner_8281595.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 22:31:29 +0100",
+    "excerpt": "Vendredi 13 novembre, Jean-Charles Orsucci, porte-parole de campagne de Gabriel Attal, et Aleksandar Nikolic, porte-parole de la campagne de Marine Le Pen, étaient les invités du \"Duel\" sur franceinfo. Ils ont notamment débattu sur l’entrée en politique de Teddy Riner, dont la candidature pourrait rebattre les cartes à l’approche de la présidentielle, et de la place que le champion olympique pourrait prendre dans le paysage politique.",
+    "personalitiesSuggested": [
+      "marine-le-pen",
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.276948+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "033ed13d102b7c09847842a7": {
+    "id": "033ed13d102b7c09847842a7",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Laurent Nuñez promet aux policiers une revalorisation de leur prime de risque, les syndicats insatisfaits",
+    "url": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-promet-aux-policiers-une-revalorisation-de-leur-prime-de-risque-les-syndicats-mecontents_8281625.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 21:18:21 +0100",
+    "excerpt": "Cette proposition faite par le ministre de l'Intérieur lors d'une réunion vendredi place Beauvau est jugée \"insuffisante\", voire \"inadmissible\", par les syndicats.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.278264+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "760cc558ed225b13a2cc157b": {
+    "id": "760cc558ed225b13a2cc157b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Marine Le Pen se dit prête à rencontrer le président ukrainien Volodymyr Zelensky à Bruxelles",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/si-je-peux-le-rencontrer-a-bruxelles-je-le-dirai-a-l-ambassadeur-d-ukraine-marine-le-pen-se-dit-prete-a-echanger-avec-volodymyr-zelensky_8281529.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 19:29:43 +0100",
+    "excerpt": "Par le passé, la candidate du Rassemblement national à la présidentielle avait déclaré que, si elle était élue, elle \"maintiendrait durant six mois\" l'aide financière à l'Ukraine, envahie depuis 2022 par la Russie, \"cesserait\" ce soutien au-delà.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "troupes-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.279750+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7a847a0b06acd27cbd90fe90": {
+    "id": "7a847a0b06acd27cbd90fe90",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Candidats à la présidentielle : que veulent-ils faire des fonctionnaires ?",
+    "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-des-fonctionnaires_8281235.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 18:00:03 +0100",
+    "excerpt": "Les candidats à la présidentielle face à “Nos services publics”. Suppression ou augmentation d’agents, intelligence artificielle, départs volontaires, etc. Que veulent-ils faire à propos des fonctionnaires ?",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-fiscalite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.281114+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "84a748c5f8114f6cff978a60": {
+    "id": "84a748c5f8114f6cff978a60",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Franc-Jeu\". Avec Michel-Edouard Leclerc",
+    "url": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-michel-edouard-leclerc_8279501.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 17:47:41 +0100",
+    "excerpt": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 15 novembre 2026, il reçoit Michel-Edouard Leclerc, président du comité stratégique des centres E.Leclerc",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.282819+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4c6683d32e4f1237d760ec12": {
+    "id": "4c6683d32e4f1237d760ec12",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+    "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 17:15:52 +0100",
+    "excerpt": "\"Le gouvernement refuse toujours de débloquer les moyens budgétaires (…) pour répondre à la perte continue de pouvoir d'achat des agents\", déplore la troisième force syndicale chez les fonctionnaires, après une réunion avec le Premier ministre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.284689+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b790b04b70a890a56e865b09": {
+    "id": "b790b04b70a890a56e865b09",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Voitures en centres-villes : Mulhouse rétropédale et rouvre l'une de ses principales rues commerçantes à la circulation",
+    "url": "https://www.franceinfo.fr/france/grand-est/haut-rhin/voitures-en-centres-villes-mulhouse-retropedale-et-rouvre-l-une-de-ses-principales-rues-commercantes-a-la-circulation_8281196.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 17:00:19 +0100",
+    "excerpt": "Faut-il faire revenir les voitures dans les centres-villes pour relancer le commerce de proximité ? De plus en plus de communes font marche arrière ; c'est le cas à Besançon, Avignon, et plus récemment, Mulhouse. La ville du Haut-Rhin a décidé de rouvrir l'une des principales rues commerçantes aux voitures, qui permet d'accéder au marché couvert.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.286475+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e7f59956c5c686df61a13993": {
+    "id": "e7f59956c5c686df61a13993",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Sébastien Lecornu pointe du doigt certains agents de l'Education nationale complices de violences lors du mouvement lycéen",
+    "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/sebastien-lecornu-pointe-du-doigt-certains-agents-de-l-education-nationale-complices-de-violences-lors-du-mouvement-lyceen_8281178.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 15:18:32 +0100",
+    "excerpt": "Au moins 40 membres du personnel de l’Éducation nationale auraient fait preuve de complicité lors des violences en marge du mouvement lycéen, a avancé, jeudi 12 novembre, le Premier ministre, Sébastien Lecornu. Il souhaite que ces personnes soient poursuivies, provoquant la colère des syndicats d’enseignants.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.288428+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7397091b86508cc9c022de71": {
+    "id": "7397091b86508cc9c022de71",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Sébastien Lecornu ouvre une discussion d'un mois avec les syndicats de fonctionnaires portant notamment sur une \"revalorisation des bas salaires\"",
+    "url": "https://www.franceinfo.fr/economie/syndicats/sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats-de-fonctionnaires-portant-notamment-sur-une-revalorisation-des-bas-salaires_8281073.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 14:31:37 +0100",
+    "excerpt": "Le Premier ministre recevra à nouveau les organisations représentatives de la fonction publique le 11 décembre, après les élections professionnelles, pour \"sceller des avancées dès la mi-décembre\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.289871+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "01da7c1a3c8665aafb936290": {
+    "id": "01da7c1a3c8665aafb936290",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Candidats à la présidentielle : quelle santé en France après 2027 ?",
+    "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-quelle-sante-en-france-apres-2027_8280977.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 13:00:02 +0100",
+    "excerpt": "Les candidats à la présidentielle face à “Nos services publics”. Déserts médicaux, médecins retraités, déclassement du pays, etc. Que veulent-ils faire pour la santé des Français ?",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-07",
+      "troupes-ukraine",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.291244+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "41f5c88ebe06621a3999d94e": {
+    "id": "41f5c88ebe06621a3999d94e",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Les informés du matin du vendredi 13 novembre 2026",
+    "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-13-novembre-2026_8259743.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 12:18:25 +0100",
+    "excerpt": "Les informés débattent de l'actualité autour Benjamin Recouvreur et Paul Barcelonne.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.292200+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "6a4ec9ac44610043f44e0758": {
+    "id": "6a4ec9ac44610043f44e0758",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "VRAI OU FAUX. \"Nos services publics\" : nous avons vérifié des déclarations des huit candidats à la présidentielle",
+    "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-nos-services-publics-nous-avons-verifie-des-declarations-des-huit-candidats-a-la-presidentielle_8259722.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 11:40:36 +0100",
+    "excerpt": "Des candidats à l'élection présidentielle ont été interviewé sur le sujet des services publics, jeudi par franceinfo. Le Vrai ou Faux a vérifié plusieurs de leurs déclarations sur le salaire des profs, la justice présumée laxiste, la petite enfance et les conséquences des privatisations.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.293849+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a381386a1ea5dcdf92ba2186": {
+    "id": "a381386a1ea5dcdf92ba2186",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Tirs de mortiers dans les lycées : Sébastien Lecornu dénonce des complicités internes",
+    "url": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/tirs-de-mortiers-dans-les-lycees-sebastien-lecornu-denonce-des-complicites-internes_8280776.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 11:26:25 +0100",
+    "excerpt": "Le gouvernement hausse le ton face à l'intensification des violences dans les établissements scolaires. Jeudi 12 novembre, deux lycées de Montpellier ont été visés par des départs de feu. Sébastien Lecornu a évoqué des complices parmi les agents de l'Éducation nationale.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.295354+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "631b24ba130cdaca947ab041": {
+    "id": "631b24ba130cdaca947ab041",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Bruno Retailleau, le candidat des Républicains à la présidentielle, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
+    "url": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 11:22:37 +0100",
+    "excerpt": "En juillet dernier, l'exécutif avait entrepris de chercher avec les banques françaises une solution pour fournir des prêts aux candidats. Mais plusieurs groupes bancaires ont opposé des refus définitifs.",
+    "personalitiesSuggested": [
+      "bruno-retailleau"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.296817+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "62d08dc3088e383f4ec86ea0": {
+    "id": "62d08dc3088e383f4ec86ea0",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
+    "url": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 11:09:17 +0100",
+    "excerpt": "Des écoles en Italie, en Irlande et au Royaume-Uni ont fait l'objet de fausses alertes à la bombe mercredi. En France, trois établissements scolaires ont reçu le même type de menaces jeudi.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.298241+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "2abb4207ed5c34b0d8847a2d": {
+    "id": "2abb4207ed5c34b0d8847a2d",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
+    "url": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 10:18:09 +0100",
+    "excerpt": "Après celles du privé mardi, les organisations syndicales de la fonction publique sont reçues vendredi matin par Sébastien Lecornu. Elles souhaitent principalement la revalorisation du point d'indice, sur la base duquel est calculée la rémunération des agents publics.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-fiscalite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.299799+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "8e1cfa0ed4ebcb81c52df542": {
+    "id": "8e1cfa0ed4ebcb81c52df542",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard en vue de l'élection présidentielle de 2027",
+    "url": "https://www.franceinfo.fr/elections/elisabeth-borne-ecarte-une-primaire-allant-jusqu-a-david-lisnard-en-vue-de-l-election-presidentielle-de-2027_8280728.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 10:11:22 +0100",
+    "excerpt": "L'ancienne Première ministre plaide plutôt pour un rassemblement \"de Bernard Cazeneuve à Xavier Bertrand\" et assure ne pas avoir de doute \"sur le fait qu'il faut se rassembler\".",
+    "personalitiesSuggested": [
+      "xavier-bertrand",
+      "bernard-cazeneuve",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.301154+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "46069baf26f305a00b0a27d6": {
+    "id": "46069baf26f305a00b0a27d6",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "VIDEO. Dans les fauteuils rouges de \"Complément d'enquête\" : Prisca Thevenot, directrice de campagne de Gabriel Attal",
+    "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-dans-les-fauteuils-rouges-de-complement-d-enquete-prisca-thevenot-directrice-de-campagne-de-gabriel-attal_8280116.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 09:42:09 +0100",
+    "excerpt": "Bien qu'omniprésent dans les médias, Gabriel Attal n'a pas souhaité se faire interviewer dans les fauteuils rouges de \"Complément d'enquête\". Le candidat centriste à qui l'émission consacrait un portrait le 12 novembre 2026 a envoyé sa directrice de campagne, Prisca Thevenot, pour répondre aux questions de Tristan Waleckx.",
+    "personalitiesSuggested": [
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.302939+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "79281aea53ff1d7ef42d3836": {
+    "id": "79281aea53ff1d7ef42d3836",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Vous avez en France des minorités bruyantes, agissantes, violentes, qu'on laisse agir\", affirme Bruno Retailleau à propos du mouvement social",
+    "url": "https://www.franceinfo.fr/politique/vous-avez-en-france-des-minorites-bruyantes-agissantes-violentes-qu-on-laisse-agir-affirme-bruno-retailleau-a-propos-du-mouvement-social_8280638.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 09:29:11 +0100",
+    "excerpt": "Invité des \"4V\" sur France 2, vendredi 13 novembre, Bruno Retailleau, candidat Les Républicains à l'élection présidentielle, est revenu sur le mouvement social en France. Il a aussi exposé ses propositions sur l'immigration.",
+    "personalitiesSuggested": [
+      "bruno-retailleau"
+    ],
+    "questionsSuggested": [
+      "extension-immigration-07",
+      "extension-immigration-01"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.304467+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "388ede8ae75f466b5fc2ae28": {
+    "id": "388ede8ae75f466b5fc2ae28",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "\"Ils nous mettent dans le pressoir à pommes\" : combien de temps Edouard Philippe va-t-il pouvoir résister à l'appel de la primaire dans le bloc central ?",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/ils-nous-mettent-dans-le-pressoir-a-pommes-combien-de-temps-edouard-philippe-va-t-il-pouvoir-resister-a-l-appel-de-la-primaire-dans-le-bloc-central_8279444.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 07:13:09 +0100",
+    "excerpt": "Le candidat Horizons à l'élection présidentielle refuse de participer à un processus de départage au sein de la droite et du centre, alors qu'aucun candidat issu de ce camp ne semble en mesure de se qualifier pour le second tour, selon les enquêtes d'opinion.",
+    "personalitiesSuggested": [
+      "edouard-philippe"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.685996+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d974a521aecdddfaacf3abc7": {
+    "id": "d974a521aecdddfaacf3abc7",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "ÉDITO. Quel avenir pour les services publics en France ?",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/quel-avenir-pour-les-services-publics-en-france_8281037.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 13:18:25 +0100",
+    "excerpt": "Primaire à droite, avenir des services publics… La campagne présidentielle s'accélère et les lignes de fracture se dessinent déjà. À droite et au centre, la pression monte autour d'une éventuelle primaire. Sur les services publics, deux visions de la société s'opposent frontalement. À six mois du scrutin, la bataille est lancée.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.687834+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "0c94eee779c1257b60f706c8": {
+    "id": "0c94eee779c1257b60f706c8",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Manifestations du 14 novembre en direct : des revendications diverses en amont de l'Acte V",
+    "url": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 06:55:23 GMT",
+    "excerpt": "La mobilisation de la jeunesse et des gilets jaunes se poursuit samedi 14 novembre, où des revendications diverses s'exprimeront après plusieurs semaines de mouvement et de mesures répressives : protection des enfants et des adolescents, opposition au \"permis de tuer\", augmentation des moyens pour l'Education nationale... À Paris, le cortège s'élancera à 14 h place de la République. Suivez notre direct.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.858774+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "07088cc8de4c4a8772bf5485": {
+    "id": "07088cc8de4c4a8772bf5485",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
+    "url": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 18:36:52 GMT",
+    "excerpt": "Alors que les cyberattaques se multiplient en France, l’Assemblée s'apprête à adopter, mardi, la loi résilience sur le renforcement de la cybersécurité. Retardé depuis deux ans, le texte multiplie par dix le nombre d’entités régulées et impose des sanctions financières en cas de manquement aux obligations de prévention, sans prévoir de financements supplémentaires.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.860723+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a37ad108e1075ada168f257f": {
+    "id": "a37ad108e1075ada168f257f",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "En Guadeloupe, le fléau des armes à feu",
+    "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261113-guadeloupe-violences-armes-feu-homicides",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 16:18:40 GMT",
+    "excerpt": "En Guadeloupe, 40 000 armes circuleraient de façon illégale. Sur cette île, le nombre d'homicides est neuf fois supérieur à la moyenne nationale. Alors pourquoi tant d'habitants décident de porter un fusil dans ce département ?",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.862031+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "701451a1c8ee8cb9e48b7eeb": {
+    "id": "701451a1c8ee8cb9e48b7eeb",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Commémoration du 13-Novembre : un hommage rendu à Paris à \"toutes les victimes du terrorisme\"",
+    "url": "https://www.france24.com/fr/france/20261113-onze-ans-apr%C3%A8s-le-13-novembre-un-hommage-citoyen-%C3%A0-toutes-les-victimes-du-terrorisme",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 12:45:29 GMT",
+    "excerpt": "Un \"hommage citoyen\" est organisé vendredi pour \"toutes les victimes du terrorisme\" à l'initiative de l'association Life for Paris. Son président, Arthur Dénouveaux, rescapé des attentats du 13-Novembre 2015, a déploré les difficultés à faire \"unité nationale\" après l'attentat raciste du 23 octobre à La Verrière et Trappes.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.863719+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "0a5e1aec35b9f11ec025566b": {
+    "id": "0a5e1aec35b9f11ec025566b",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Fonction publique : l'intersyndicale sort remontée de Matignon, la CFDT rejoint l'appel à la grève",
+    "url": "https://www.france24.com/fr/france/20261113-fonction-publique-lecornu-ouvre-mois-discussions-cinq-chantiers-bas-salaires",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 12:40:00 GMT",
+    "excerpt": "Après avoir reçu les syndicats de la fonction publique vendredi, le Premier ministre Sébastien Lecornu a annoncé l'ouverture d'une discussion d'un mois, notamment sur une \"revalorisation des bas salaires\". Une annonce jugée insuffisante par l'intersyndicale qui appelle à la grève et à la mobilisation mardi 17 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-immigration-08"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.865378+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9cba39b4c0deda364670a708": {
+    "id": "9cba39b4c0deda364670a708",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Teddy Riner lance sa campagne présidentielle dans un hôpital de Saint-Denis",
+    "url": "https://www.france24.com/fr/france/20261113-teddy-riner-lance-sa-campagne-pr%C3%A9sidentielle-dans-un-h%C3%B4pital-de-saint-denis",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 12:02:25 GMT",
+    "excerpt": "Teddy Riner, candidat surprise à l'élection présidentielle, s'est rendu vendredi à l'hôpital Delafontaine de Saint-Denis pour son premier déplacement de campagne. L'objectif affiché du judoka aspirant à l'Élysée : \"Replacer la santé au cœur de nos priorités.\"",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.867031+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "eae0ac3ffbe14810ca99688e": {
+    "id": "eae0ac3ffbe14810ca99688e",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Agressions sexuelles : Gérard Depardieu, condamné, renonce à son appel juste avant son procès",
+    "url": "https://www.france24.com/fr/france/20261113-depardieu-renonce-%C3%A0-son-appel-juste-avant-son-proc%C3%A8s-pour-agressions-sexuelles",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 11:23:34 GMT",
+    "excerpt": "L'acteur Gérard Depardieu s'est désisté vendredi, trois jours avant l'ouverture de son procès en appel pour agressions sexuelles sur deux femmes lors du tournage du film \"Les Volets verts\" en 2021. L'acteur venait d'être à nouveau mis en cause par Mediapart et Le Média pour des attouchements sexuels lors du tournage du film \"Turf\" en 2013 sur une figurante.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.868844+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "08ba8e31fb762439e2f8d626": {
+    "id": "08ba8e31fb762439e2f8d626",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
+    "url": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
+    "sourcePublishedAt": "Fri, 13 Nov 2026 09:43:27 GMT",
+    "excerpt": "Les organisations de jeunesse et la coordination des gilets jaunes ont appelé à manifester samedi dans toute la France pour l'acte V du mouvement contre la \"vie chère\". À Paris, le cortège partira de la place de la République pour rejoindre Nation, avec plusieurs collectifs mobilisés autour d'autres revendications, notamment contre les violences faites aux enfants et les violences policières.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-14T08:12:24.870708+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }
