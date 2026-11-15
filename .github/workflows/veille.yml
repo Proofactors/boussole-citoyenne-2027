@@ -1,4 +1,4 @@
-name: Veille documentaire Boussole 2027 — Référence V36
+name: Veille documentaire Boussole 2027 — Référence V37
 
 on:
   workflow_dispatch:
@@ -87,13 +87,17 @@ jobs:
         run: |
           python scripts/auditer_v36.py
           python -m unittest discover -s tests -p 'test_audit_v36.py' -v
+      - name: Vérifier le suivi des candidatures et l’audit des 150 questions V37
+        run: |
+          python -m unittest discover -s tests -p test_v37.py -v
+          python scripts/generer_suivi_v37.py
       - name: Enregistrer les résultats
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A -- data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures-detections.html propositions.html verification.html qualification.html programmes.json programmes.html programmes-analyse.html boussole_2027_positions.json manifest.json
+          git add -A -- candidatures.html audit-questions.html data/ revue.html analyse.html preuves.html diagnostic.html diagnostic-v23.html votes.html votes-personnalites.html couverture.html candidatures-detections.html propositions.html verification.html qualification.html programmes.json programmes.html programmes-analyse.html boussole_2027_positions.json manifest.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Veille V36 : suivi des candidatures et programmes'
+            git commit -m 'Veille V37 : candidatures et audit editorial'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
