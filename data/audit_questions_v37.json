@@ -1,0 +1,1123 @@
+{
+  "version": "V37",
+  "date_audit": "2026-11-15",
+  "total_questions": 150,
+  "questions_modifiees_automatiquement": 0,
+  "principe": "Les 150 formulations et tous les identifiants sont conservés. Les suggestions ci-dessous sont uniquement éditoriales. Aucun codage historique ne doit être transféré vers une question substantiellement reformulée sans réévaluation.",
+  "questions": [
+    {
+      "id": "retraite-62",
+      "titre": "Retraite à 62 ans",
+      "formulation_actuelle": "L'âge légal de départ à la retraite doit être ramené à 62 ans ou moins.",
+      "theme": "retraites",
+      "statut": "revision_recommandee",
+      "motif_type": "dependance_au_contexte",
+      "formulation_proposee_non_active": "L’âge légal de départ à la retraite doit être fixé au plus à 62 ans.",
+      "justification": "La référence à un âge légal variable exige un suivi des réformes et une définition stable.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "capitalisation",
+      "titre": "Retraite par capitalisation",
+      "formulation_actuelle": "Il faut introduire une part de retraite par capitalisation dans le système.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "smic",
+      "titre": "Hausse du SMIC",
+      "formulation_actuelle": "L'État doit augmenter fortement le SMIC, au-delà de l'inflation.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "isf",
+      "titre": "Impôt sur la fortune",
+      "formulation_actuelle": "Il faut rétablir un impôt sur la fortune ou taxer davantage les très hauts patrimoines.",
+      "theme": "fiscalite",
+      "statut": "revision_recommandee",
+      "motif_type": "question_double",
+      "formulation_proposee_non_active": "Il faut rétablir un impôt annuel sur la fortune des patrimoines élevés.",
+      "justification": "Distinguer du mécanisme de taxation plancher des patrimoines très élevés; deux politiques différentes.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "depense-publique",
+      "titre": "Baisse de la dépense publique",
+      "formulation_actuelle": "La priorité budgétaire doit être de réduire fortement la dépense publique.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "fonctionnaires",
+      "titre": "Nombre de fonctionnaires",
+      "formulation_actuelle": "Il faut réduire le nombre de fonctionnaires.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "immigration",
+      "titre": "Réduction de l'immigration légale",
+      "formulation_actuelle": "Il faut réduire fortement l'immigration légale.",
+      "theme": "immigration",
+      "statut": "revision_recommandee",
+      "motif_type": "ambiguite",
+      "formulation_proposee_non_active": "Il faut fixer un objectif de baisse du nombre annuel de nouveaux titres de séjour accordés pour immigration légale.",
+      "justification": "Un périmètre précis facilite l’attribution, sans juger du niveau souhaité.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "droit-du-sol",
+      "titre": "Droit du sol",
+      "formulation_actuelle": "Il faut supprimer ou restreindre fortement le droit du sol.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "voile",
+      "titre": "Voile dans l'espace public",
+      "formulation_actuelle": "Il faut interdire le port du voile dans l'espace public.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "peines-planchers",
+      "titre": "Peines planchers",
+      "formulation_actuelle": "Il faut instaurer des peines planchers pour les récidivistes.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "nucleaire",
+      "titre": "Nouveaux réacteurs nucléaires",
+      "formulation_actuelle": "La France doit construire de nouveaux réacteurs nucléaires.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "thermique-2035",
+      "titre": "Fin des voitures thermiques en 2035",
+      "formulation_actuelle": "La fin de la vente des voitures thermiques neuves en 2035 doit être maintenue.",
+      "theme": "ecologie",
+      "statut": "revision_recommandee",
+      "motif_type": "reference_temporelle",
+      "formulation_proposee_non_active": "La France doit soutenir l’interdiction européenne de vente de voitures neuves à moteur thermique à l’horizon 2035.",
+      "justification": "La règle européenne et ses éventuelles révisions doivent être vérifiées à la date de publication.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "primaute-ue",
+      "titre": "Primauté du droit européen",
+      "formulation_actuelle": "La France doit pouvoir s'affranchir des règles européennes quand elles contredisent ses choix nationaux.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "otan",
+      "titre": "Commandement intégré de l'OTAN",
+      "formulation_actuelle": "La France doit quitter le commandement intégré de l'OTAN.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "ukraine",
+      "titre": "Aide militaire à l'Ukraine",
+      "formulation_actuelle": "La France doit maintenir ou renforcer son aide militaire à l'Ukraine.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "proportionnelle",
+      "titre": "Proportionnelle aux législatives",
+      "formulation_actuelle": "Les députés doivent être élus à la proportionnelle.",
+      "theme": "institutions",
+      "statut": "revision_recommandee",
+      "motif_type": "ambiguite",
+      "formulation_proposee_non_active": "Une part significative des députés doit être élue au scrutin proportionnel.",
+      "justification": "Proportionnelle intégrale ou mixte : distinguer.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "vie-republique",
+      "titre": "VIe République",
+      "formulation_actuelle": "Il faut passer à une VIe République.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "ric",
+      "titre": "Référendum d'initiative citoyenne",
+      "formulation_actuelle": "Il faut instaurer le référendum d'initiative citoyenne (RIC).",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "fin-de-vie",
+      "titre": "Aide à mourir",
+      "formulation_actuelle": "Le droit à l'aide à mourir, inscrit dans la loi en août 2026, doit être maintenu.",
+      "theme": "societe",
+      "statut": "revision_recommandee",
+      "motif_type": "actualisation_juridique",
+      "formulation_proposee_non_active": "Le droit français doit permettre une aide à mourir sous conditions définies par la loi.",
+      "justification": "La formulation actuelle contient une affirmation datée sur la législation qu’il faut contrôler. La nouvelle formulation change aussi le sens du « maintien »; requalification des positions indispensable.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "cannabis",
+      "titre": "Légalisation du cannabis",
+      "formulation_actuelle": "Il faut légaliser le cannabis récréatif.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "abroger-2023",
+      "titre": "Abrogation de la réforme des retraites",
+      "formulation_actuelle": "Il faut abroger la réforme des retraites de 2023 (départ à 64 ans).",
+      "theme": "retraites",
+      "statut": "revision_recommandee",
+      "motif_type": "reference_temporelle",
+      "formulation_proposee_non_active": "Il faut revenir sur les dispositions relatives à l’âge de départ introduites par la réforme des retraites de 2023.",
+      "justification": "La question doit être revue si des réformes ultérieures remplacent ces dispositions.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "tva-energie",
+      "titre": "Baisse de la TVA",
+      "formulation_actuelle": "Il faut baisser la TVA sur l'énergie ou sur les produits de première nécessité.",
+      "theme": "travail",
+      "statut": "revision_recommandee",
+      "motif_type": "question_double",
+      "formulation_proposee_non_active": "Il faut appliquer un taux réduit de TVA à la consommation d’énergie des ménages.",
+      "justification": "Énergie et produits de première nécessité sont deux sujets distincts.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "temps-travail",
+      "titre": "Réduction du temps de travail",
+      "formulation_actuelle": "Il faut réduire le temps de travail (32 heures ou semaine de quatre jours).",
+      "theme": "travail",
+      "statut": "revision_recommandee",
+      "motif_type": "question_double",
+      "formulation_proposee_non_active": "La durée légale hebdomadaire de travail doit passer en dessous de 35 heures.",
+      "justification": "La semaine de quatre jours peut être réalisée sans réduire la durée hebdomadaire; codages non transférables.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "rsa-conditionne",
+      "titre": "RSA sous conditions",
+      "formulation_actuelle": "Le RSA doit être conditionné à des heures d'activité ou de formation.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "superprofits",
+      "titre": "Taxation des superprofits",
+      "formulation_actuelle": "Il faut taxer davantage les superprofits et les dividendes des grandes entreprises.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "impots-production",
+      "titre": "Impôts et cotisations des entreprises",
+      "formulation_actuelle": "Il faut baisser les impôts et les cotisations qui pèsent sur les entreprises.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "priorite-nationale",
+      "titre": "Priorité nationale",
+      "formulation_actuelle": "Les Français doivent être prioritaires pour le logement social et les aides sociales.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "regularisation",
+      "titre": "Régularisation des travailleurs sans papiers",
+      "formulation_actuelle": "Il faut régulariser les travailleurs sans papiers.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "places-prison",
+      "titre": "Places de prison",
+      "formulation_actuelle": "Il faut construire beaucoup plus de places de prison.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "majorite-penale",
+      "titre": "Majorité pénale à 16 ans",
+      "formulation_actuelle": "Il faut juger les mineurs de 16 ans comme des majeurs pour les faits graves.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "renouvelables",
+      "titre": "100 % renouvelables et sortie du nucléaire",
+      "formulation_actuelle": "La France doit viser 100 % d'énergies renouvelables et sortir du nucléaire à terme.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "eolien",
+      "titre": "Éoliennes",
+      "formulation_actuelle": "Il faut arrêter les nouveaux projets d'éoliennes.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "pesticides",
+      "titre": "Pesticides et glyphosate",
+      "formulation_actuelle": "Il faut interdire les pesticides les plus dangereux, dont le glyphosate.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "defense-europeenne",
+      "titre": "Défense européenne",
+      "formulation_actuelle": "Il faut construire une défense européenne commune.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "budget-defense",
+      "titre": "Budget de la défense",
+      "formulation_actuelle": "Le budget de la défense doit continuer à augmenter fortement.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "uniforme",
+      "titre": "Uniforme à l'école",
+      "formulation_actuelle": "L'uniforme ou une tenue commune doit être généralisé à l'école.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "encadrement-loyers",
+      "titre": "Encadrement des loyers",
+      "formulation_actuelle": "Il faut encadrer ou geler les loyers dans les zones tendues.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "assurance-chomage",
+      "titre": "Assurance chômage",
+      "formulation_actuelle": "Il faut durcir les règles de l'assurance chômage, en réduisant la durée ou le montant de l'indemnisation.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "pensions-indexation",
+      "titre": "Indexation des pensions",
+      "formulation_actuelle": "Les pensions de retraite doivent toujours augmenter au moins autant que les prix, sans gel ni sous-indexation.",
+      "theme": "retraites",
+      "statut": "revision_recommandee",
+      "motif_type": "formulation_absolue",
+      "formulation_proposee_non_active": "Les pensions de retraite doivent être indexées au minimum sur l’inflation.",
+      "justification": "« Toujours » et « sans » introduisent une rigidité parfois incompatible avec les déclarations partielles.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "taxe-zucman",
+      "titre": "Taxe Zucman",
+      "formulation_actuelle": "Il faut créer un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros (taxe Zucman).",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "succession",
+      "titre": "Droits de succession",
+      "formulation_actuelle": "Il faut réduire fortement les droits de succession et de donation.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "ame",
+      "titre": "Aide médicale d'État",
+      "formulation_actuelle": "L'aide médicale d'État doit être supprimée ou remplacée par une aide limitée aux soins urgents.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "dissuasion-europeenne",
+      "titre": "Dissuasion nucléaire européenne",
+      "formulation_actuelle": "La dissuasion nucléaire française doit s'étendre à la protection des alliés européens.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "loi-sru",
+      "titre": "Logements sociaux et loi SRU",
+      "formulation_actuelle": "L'obligation faite aux communes de compter 20 à 25 % de logements sociaux (loi SRU) doit être assouplie.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "35-heures",
+      "titre": "Fin des 35 heures",
+      "formulation_actuelle": "Il faut mettre fin aux 35 heures et augmenter la durée légale du travail.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "heures-sup",
+      "titre": "Heures supplémentaires",
+      "formulation_actuelle": "Les heures supplémentaires doivent être totalement exonérées d'impôt et de cotisations.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "retraite-65",
+      "titre": "Retraite après 64 ans",
+      "formulation_actuelle": "L'âge légal de départ à la retraite doit être repoussé au-delà de 64 ans.",
+      "theme": "retraites",
+      "statut": "revision_recommandee",
+      "motif_type": "dependance_au_contexte",
+      "formulation_proposee_non_active": "L’âge légal de départ à la retraite doit être porté à 65 ans ou davantage.",
+      "justification": "Définir une valeur plutôt qu’un décalage relatif à la législation du moment.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "referendum-immigration",
+      "titre": "Référendum sur l'immigration",
+      "formulation_actuelle": "Il faut organiser un référendum sur l'immigration.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "regroupement-familial",
+      "titre": "Regroupement familial",
+      "formulation_actuelle": "Il faut restreindre fortement le regroupement familial.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "accord-1968",
+      "titre": "Accord franco-algérien de 1968",
+      "formulation_actuelle": "La France doit dénoncer l'accord franco-algérien de 1968 sur le séjour des Algériens en France.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "delit-sejour",
+      "titre": "Délit de séjour irrégulier",
+      "formulation_actuelle": "Le séjour irrégulier en France doit redevenir un délit.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "expulsion-condamnes",
+      "titre": "Expulsion des étrangers condamnés",
+      "formulation_actuelle": "Tout étranger condamné pour un crime ou un délit doit être expulsé à l'issue de sa peine.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "legitime-defense",
+      "titre": "Présomption de légitime défense",
+      "formulation_actuelle": "Les policiers et les gendarmes doivent bénéficier d'une présomption de légitime défense.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "courtes-peines",
+      "titre": "Courtes peines de prison",
+      "formulation_actuelle": "Les courtes peines de prison doivent être exécutées en prison, sans aménagement automatique.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "zfe",
+      "titre": "Zones à faibles émissions",
+      "formulation_actuelle": "Les zones à faibles émissions (ZFE), qui limitent la circulation des véhicules les plus polluants, doivent être supprimées.",
+      "theme": "ecologie",
+      "statut": "revision_recommandee",
+      "motif_type": "reference_legale",
+      "formulation_proposee_non_active": "Les restrictions de circulation dans les zones à faibles émissions doivent être supprimées.",
+      "justification": "Suivre l’état du droit et des politiques locales.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "megabassines",
+      "titre": "Mégabassines",
+      "formulation_actuelle": "Il faut un moratoire sur les mégabassines.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "adhesion-ukraine",
+      "titre": "Adhésion de l'Ukraine à l'UE",
+      "formulation_actuelle": "L'Ukraine doit pouvoir adhérer à l'Union européenne.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "palestine",
+      "titre": "Reconnaissance de l'État de Palestine",
+      "formulation_actuelle": "La France a eu raison de reconnaître l'État de Palestine.",
+      "theme": "europe",
+      "statut": "revision_recommandee",
+      "motif_type": "question_historique",
+      "formulation_proposee_non_active": "La France doit maintenir sa reconnaissance diplomatique de l’État de Palestine.",
+      "justification": "La formulation actuelle interroge une décision passée, pas nécessairement une intention pour 2027.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "service-national",
+      "titre": "Service national obligatoire",
+      "formulation_actuelle": "Un service national, civil ou militaire, doit devenir obligatoire pour tous les jeunes.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "aide-developpement",
+      "titre": "Aide au développement",
+      "formulation_actuelle": "L'aide publique au développement doit être fortement réduite.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "signes-religieux-sport",
+      "titre": "Signes religieux dans le sport",
+      "formulation_actuelle": "Le port de signes religieux doit être interdit dans les compétitions sportives.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "ecole-privee",
+      "titre": "Financement de l'école privée",
+      "formulation_actuelle": "Il faut réduire ou supprimer le financement public des écoles privées.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "audiovisuel-public",
+      "titre": "Privatisation de l'audiovisuel public",
+      "formulation_actuelle": "L'audiovisuel public doit être privatisé.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "flat-tax",
+      "titre": "Flat tax",
+      "formulation_actuelle": "Il faut supprimer la flat tax, le prélèvement forfaitaire unique sur les revenus du capital.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "asile-hors-france",
+      "titre": "Demandes d'asile hors de France",
+      "formulation_actuelle": "Les demandes d'asile doivent être déposées et examinées hors du territoire français.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "allocations-delinquants",
+      "titre": "Allocations et mineurs délinquants",
+      "formulation_actuelle": "Les allocations familiales doivent pouvoir être suspendues pour les parents de mineurs délinquants.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "zan",
+      "titre": "Zéro artificialisation nette",
+      "formulation_actuelle": "L'objectif de zéro artificialisation nette des sols (ZAN) doit être abandonné ou fortement assoupli.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "elevage-intensif",
+      "titre": "Élevage intensif",
+      "formulation_actuelle": "Les élevages intensifs (fermes-usines) doivent être interdits.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "frexit",
+      "titre": "Sortie de l'Union européenne",
+      "formulation_actuelle": "La France doit sortir de l'Union européenne.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "contribution-ue",
+      "titre": "Contribution au budget européen",
+      "formulation_actuelle": "La France doit réduire sa contribution au budget de l'Union européenne.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "troupes-ukraine",
+      "titre": "Soldats français en Ukraine",
+      "formulation_actuelle": "La France doit être prête à déployer des soldats en Ukraine pour garantir un accord de paix.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "frontieres-nationales",
+      "titre": "Contrôles aux frontières nationales",
+      "formulation_actuelle": "La France doit rétablir des contrôles permanents à ses frontières nationales.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "vote-etrangers",
+      "titre": "Droit de vote des étrangers",
+      "formulation_actuelle": "Les étrangers non européens installés en France doivent pouvoir voter aux élections locales.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "deserts-medicaux",
+      "titre": "Installation des médecins",
+      "formulation_actuelle": "Les médecins ne doivent plus pouvoir s'installer librement dans les zones déjà bien dotées.",
+      "theme": "societe",
+      "statut": "revision_recommandee",
+      "motif_type": "doublon",
+      "formulation_proposee_non_active": "La liberté d’installation des médecins doit pouvoir être régulée dans les territoires déjà bien pourvus.",
+      "justification": "Fort recouvrement avec extension-societe-07; éviter de surpondérer le thème.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "reseaux-15-ans",
+      "titre": "Réseaux sociaux avant 15 ans",
+      "formulation_actuelle": "Les réseaux sociaux doivent être interdits aux moins de 15 ans.",
+      "theme": "societe",
+      "statut": "revision_recommandee",
+      "motif_type": "reference_legale",
+      "formulation_proposee_non_active": "L’accès aux réseaux sociaux doit être soumis à un âge minimum légal de 15 ans.",
+      "justification": "Vérifier l’état de la législation française et européenne avant de parler d’interdiction.",
+      "priorite": "a_examiner"
+    },
+    {
+      "id": "parcoursup",
+      "titre": "Parcoursup",
+      "formulation_actuelle": "Parcoursup doit être supprimé.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "passoires-thermiques",
+      "titre": "Location des passoires thermiques",
+      "formulation_actuelle": "L'interdiction de louer les logements les plus énergivores doit être assouplie ou reportée.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-01",
+      "titre": "Retraite à points",
+      "formulation_actuelle": "Un système universel de retraite par points doit remplacer les régimes actuels.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-02",
+      "titre": "Pénibilité",
+      "formulation_actuelle": "Les métiers pénibles doivent ouvrir droit à un départ anticipé.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-03",
+      "titre": "Retraites minimales",
+      "formulation_actuelle": "La pension minimale doit être relevée significativement pour les carrières complètes.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-04",
+      "titre": "Cumul emploi-retraite",
+      "formulation_actuelle": "Il faut faciliter davantage le cumul intégral d’un emploi et d’une pension de retraite.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-05",
+      "titre": "Financement des retraites",
+      "formulation_actuelle": "L’équilibre des retraites doit être recherché en augmentant les cotisations plutôt que la durée de travail.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-06",
+      "titre": "Retraites des femmes",
+      "formulation_actuelle": "Les périodes consacrées à l’éducation des enfants doivent ouvrir davantage de droits à retraite.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-07",
+      "titre": "Régimes spéciaux",
+      "formulation_actuelle": "Il faut maintenir des régimes de retraite spécifiques pour certains métiers.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-retraites-08",
+      "titre": "Retraite progressive",
+      "formulation_actuelle": "La retraite progressive doit être accessible plus tôt et plus largement.",
+      "theme": "retraites",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-01",
+      "titre": "Salaire minimum européen",
+      "formulation_actuelle": "L’Union européenne doit instaurer un cadre contraignant pour les salaires minimums.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-02",
+      "titre": "Représentation des salariés",
+      "formulation_actuelle": "Les salariés doivent disposer de davantage de sièges dans les conseils d’administration des grandes entreprises.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-03",
+      "titre": "Télétravail",
+      "formulation_actuelle": "Le droit au télétravail doit être renforcé lorsque le poste le permet.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-04",
+      "titre": "Contrats courts",
+      "formulation_actuelle": "Il faut augmenter le coût des contrats très courts pour les employeurs.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-05",
+      "titre": "Salaire des apprentis",
+      "formulation_actuelle": "La rémunération des apprentis doit être augmentée par la loi.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-06",
+      "titre": "Travailleurs des plateformes",
+      "formulation_actuelle": "Les travailleurs des plateformes numériques doivent bénéficier par défaut du statut de salarié.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-07",
+      "titre": "Semaine de quatre jours",
+      "formulation_actuelle": "Les entreprises doivent être incitées financièrement à adopter la semaine de quatre jours sans baisse de salaire.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-travail-08",
+      "titre": "Rupture conventionnelle",
+      "formulation_actuelle": "Les conditions d’accès à la rupture conventionnelle doivent être durcies.",
+      "theme": "travail",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-01",
+      "titre": "Taxe carbone redistribuée",
+      "formulation_actuelle": "Il faut instaurer une taxe carbone accrue en redistribuant intégralement ses recettes aux ménages.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-02",
+      "titre": "Fiscalité des héritages",
+      "formulation_actuelle": "Les transmissions de patrimoines très élevés doivent être davantage taxées.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-03",
+      "titre": "TVA différenciée",
+      "formulation_actuelle": "Il faut appliquer une TVA réduite à davantage de produits alimentaires essentiels.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-04",
+      "titre": "Niches fiscales",
+      "formulation_actuelle": "Il faut supprimer la plupart des niches fiscales bénéficiant aux ménages les plus aisés.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-05",
+      "titre": "Impôt sur le revenu",
+      "formulation_actuelle": "Le barème de l’impôt sur le revenu doit comporter davantage de tranches progressives.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-06",
+      "titre": "Dette publique",
+      "formulation_actuelle": "La réduction de la dette publique doit primer sur l’augmentation des investissements publics.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-07",
+      "titre": "Taxation numérique",
+      "formulation_actuelle": "Les grandes plateformes numériques doivent être davantage imposées sur leurs activités françaises.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-fiscalite-08",
+      "titre": "Fiscalité locale",
+      "formulation_actuelle": "Les communes doivent retrouver une plus grande autonomie pour fixer leurs impôts.",
+      "theme": "fiscalite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-01",
+      "titre": "Quotas migratoires",
+      "formulation_actuelle": "La France doit fixer chaque année des quotas d’immigration professionnelle.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-02",
+      "titre": "Accès au travail",
+      "formulation_actuelle": "Les demandeurs d’asile doivent pouvoir travailler dès le dépôt de leur demande.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-03",
+      "titre": "Réunification familiale",
+      "formulation_actuelle": "Les conditions de la réunification familiale doivent être assouplies.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-04",
+      "titre": "Rétention administrative",
+      "formulation_actuelle": "La durée maximale de rétention administrative des étrangers doit être réduite.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-05",
+      "titre": "Nationalité et intégration",
+      "formulation_actuelle": "L’accès à la nationalité française doit exiger un niveau de français plus élevé.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-06",
+      "titre": "Mineurs isolés",
+      "formulation_actuelle": "L’État doit accroître les moyens d’accueil des mineurs étrangers non accompagnés.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-07",
+      "titre": "Immigration climatique",
+      "formulation_actuelle": "La France doit créer un statut de protection pour certaines personnes déplacées par le changement climatique.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-immigration-08",
+      "titre": "Titres de séjour pluriannuels",
+      "formulation_actuelle": "Les titres de séjour pluriannuels doivent devenir la règle après un premier séjour régulier.",
+      "theme": "immigration",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-01",
+      "titre": "Police de proximité",
+      "formulation_actuelle": "Il faut généraliser des unités de police de proximité dans les quartiers.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-02",
+      "titre": "Caméras-piétons",
+      "formulation_actuelle": "L’activation des caméras-piétons des forces de l’ordre doit être systématique lors des interventions.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-03",
+      "titre": "Reconnaissance faciale",
+      "formulation_actuelle": "La reconnaissance faciale en temps réel doit être autorisée dans l’espace public pour lutter contre la criminalité.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-04",
+      "titre": "Justice des mineurs",
+      "formulation_actuelle": "Il faut renforcer les mesures éducatives plutôt que les peines de prison pour les mineurs.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-05",
+      "titre": "Amendes forfaitaires",
+      "formulation_actuelle": "Il faut étendre les amendes forfaitaires à davantage de délits.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-06",
+      "titre": "Contrôle indépendant de la police",
+      "formulation_actuelle": "Le contrôle des violences policières doit être confié à une autorité plus indépendante du ministère de l’Intérieur.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-07",
+      "titre": "Surpopulation carcérale",
+      "formulation_actuelle": "La réduction de la surpopulation carcérale doit passer prioritairement par des peines alternatives.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-securite-08",
+      "titre": "Sécurité privée",
+      "formulation_actuelle": "Il faut élargir les missions de sécurité confiées aux entreprises privées.",
+      "theme": "securite",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-01",
+      "titre": "Rénovation thermique",
+      "formulation_actuelle": "Les pouvoirs publics doivent financer davantage la rénovation énergétique obligatoire des logements.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-02",
+      "titre": "Taxation des vols",
+      "formulation_actuelle": "Il faut augmenter fortement la fiscalité sur les trajets en avion lorsqu’une alternative ferroviaire existe.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-03",
+      "titre": "Agriculture biologique",
+      "formulation_actuelle": "La France doit fixer un objectif contraignant de progression de la surface agricole biologique.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-04",
+      "titre": "Artificialisation",
+      "formulation_actuelle": "Les objectifs de réduction de l’artificialisation des sols doivent être renforcés.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-05",
+      "titre": "Interdiction des SUV",
+      "formulation_actuelle": "Il faut augmenter fortement les taxes sur les véhicules particuliers les plus lourds.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-06",
+      "titre": "Consigne des emballages",
+      "formulation_actuelle": "Une consigne nationale sur les emballages de boissons doit être instaurée.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-07",
+      "titre": "Transport ferroviaire",
+      "formulation_actuelle": "Il faut privilégier l’investissement ferroviaire sur les nouveaux projets autoroutiers.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-08",
+      "titre": "Protection de la biodiversité",
+      "formulation_actuelle": "Il faut accroître les zones naturelles strictement protégées, y compris en limitant certains usages économiques.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-ecologie-09",
+      "titre": "Captage du carbone",
+      "formulation_actuelle": "L’État doit financer à grande échelle des technologies industrielles de captage du CO₂.",
+      "theme": "ecologie",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-01",
+      "titre": "Budget fédéral européen",
+      "formulation_actuelle": "L’Union européenne doit disposer d’un budget commun nettement plus important.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-02",
+      "titre": "Unanimité au Conseil",
+      "formulation_actuelle": "Il faut supprimer la règle de l’unanimité dans davantage de décisions européennes.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-03",
+      "titre": "Dette européenne",
+      "formulation_actuelle": "L’Union européenne doit pouvoir émettre régulièrement une dette commune.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-04",
+      "titre": "Élargissement européen",
+      "formulation_actuelle": "L’Union européenne doit poursuivre son élargissement même avant une réforme institutionnelle profonde.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-05",
+      "titre": "Protection commerciale",
+      "formulation_actuelle": "L’Union européenne doit augmenter ses droits de douane sur les produits ne respectant pas ses normes environnementales.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-06",
+      "titre": "Diplomatie européenne",
+      "formulation_actuelle": "L’Union européenne doit pouvoir conduire une diplomatie commune décidée à la majorité qualifiée.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-07",
+      "titre": "Coopération militaire",
+      "formulation_actuelle": "Les achats militaires communs européens doivent être privilégiés sur les achats nationaux.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-europe-08",
+      "titre": "Accords commerciaux",
+      "formulation_actuelle": "Les nouveaux accords de libre-échange européens doivent être suspendus tant que leurs effets environnementaux ne sont pas mieux évalués.",
+      "theme": "europe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-01",
+      "titre": "Mandat présidentiel",
+      "formulation_actuelle": "Le mandat présidentiel doit redevenir un septennat non renouvelable.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-02",
+      "titre": "Vote obligatoire",
+      "formulation_actuelle": "Le vote doit devenir obligatoire aux élections nationales.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-03",
+      "titre": "Vote blanc",
+      "formulation_actuelle": "Le vote blanc doit être comptabilisé parmi les suffrages exprimés.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-04",
+      "titre": "Non-cumul",
+      "formulation_actuelle": "Le non-cumul des mandats doit être renforcé pour les élus nationaux.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-05",
+      "titre": "Tirage au sort citoyen",
+      "formulation_actuelle": "Des assemblées citoyennes tirées au sort doivent pouvoir proposer directement des textes au Parlement.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-06",
+      "titre": "Décentralisation",
+      "formulation_actuelle": "Il faut transférer davantage de compétences et de ressources fiscales aux régions.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-07",
+      "titre": "Référendum constitutionnel",
+      "formulation_actuelle": "Toute révision constitutionnelle importante doit être soumise obligatoirement à référendum.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-institutions-08",
+      "titre": "Financement des campagnes",
+      "formulation_actuelle": "Il faut abaisser les plafonds de dépenses autorisées lors des campagnes électorales.",
+      "theme": "institutions",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-01",
+      "titre": "Droit au logement",
+      "formulation_actuelle": "Le droit au logement doit devenir directement opposable à davantage d’organismes publics.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-02",
+      "titre": "École publique",
+      "formulation_actuelle": "Il faut augmenter la part de financement public consacrée aux établissements scolaires défavorisés.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-03",
+      "titre": "Universités",
+      "formulation_actuelle": "Les universités publiques doivent pouvoir sélectionner davantage d’étudiants à l’entrée en licence.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-04",
+      "titre": "Liberté numérique",
+      "formulation_actuelle": "Il faut interdire l’usage commercial des données personnelles des mineurs.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-05",
+      "titre": "Droits reproductifs",
+      "formulation_actuelle": "La procréation médicalement assistée doit être davantage prise en charge par l’assurance maladie.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-06",
+      "titre": "Laïcité scolaire",
+      "formulation_actuelle": "Les règles de neutralité religieuse à l’école doivent être étendues aux accompagnateurs des sorties scolaires.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    },
+    {
+      "id": "extension-societe-07",
+      "titre": "Déserts médicaux",
+      "formulation_actuelle": "L’installation des médecins doit pouvoir être régulée dans les zones déjà bien pourvues.",
+      "theme": "societe",
+      "statut": "revision_recommandee",
+      "motif_type": "doublon",
+      "formulation_proposee_non_active": "La liberté d’installation des médecins doit pouvoir être régulée dans les territoires déjà bien pourvus.",
+      "justification": "Doublon avec deserts-medicaux; proposer fusion lors d’une refonte versionnée, pas automatiquement.",
+      "priorite": "prioritaire"
+    },
+    {
+      "id": "extension-societe-08",
+      "titre": "Handicap",
+      "formulation_actuelle": "Il faut renforcer les obligations d’accessibilité des entreprises, avec des sanctions plus élevées.",
+      "theme": "societe",
+      "statut": "pas_de_revision_prioritaire_identifiee"
+    }
+  ]
+}
