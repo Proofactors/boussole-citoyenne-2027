@@ -1,7 +1,7 @@
 {
-  "version": "V36",
-  "as_of": "2026-11-01",
-  "scope": "Suivi des annonces publiques; aucune validation du Conseil constitutionnel",
+  "version": "V37",
+  "as_of": "2026-11-15",
+  "scope": "Déclarations publiques vérifiées; jamais liste des candidatures validées par le Conseil constitutionnel.",
   "primary": {
     "name": "Choisir 2027 — primaire sociale-démocrate",
     "date": "2026-10-11",
@@ -79,6 +79,259 @@
       "evidence": [
         "https://www.lemonde.fr/les-decodeurs/article/2026/10/12/presidentielle-2027-qui-sont-les-principaux-candidats-declares-ou-probables_6680905_4355771.html"
       ]
+    },
+    {
+      "id": "teddy-riner",
+      "name": "Teddy Riner",
+      "party": "Sans étiquette",
+      "status": "declare",
+      "status_since": "2026-11-09",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "eric-zemmour",
+      "name": "Éric Zemmour",
+      "party": "Reconquête",
+      "status": "declare",
+      "status_since": "2026-11-10",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "clara-egger",
+      "name": "Clara Egger",
+      "party": "Solution Démocratique",
+      "status": "declare",
+      "status_since": "2026-11-05",
+      "evidence": [
+        "https://solutiondemocratique.fr/presidentielle-2027-solution-democratique-devoile-son-programme-pour-rendre-aux-francais-le-pouvoir-de-decider/"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "jean-luc-melenchon",
+      "name": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lafranceinsoumise.fr/2026/11/02/avenir-en-commun-nouvelle-france/"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "david-lisnard",
+      "name": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Candidature annoncée ou ambition publique selon LCP ; peut évoluer selon les discussions sur une primaire. Aucune validation officielle."
+    },
+    {
+      "id": "marine-tondelier",
+      "name": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "status": "declare_sous_condition",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "nicolas-dupont-aignan",
+      "name": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "status": "declare",
+      "status_since": "2026-11-12",
+      "evidence": [
+        "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/"
+      ],
+      "note": "Statut provisoire. Ne préjuge pas de la validation officielle."
+    },
+    {
+      "id": "edouard-philippe",
+      "name": "Édouard Philippe",
+      "party": "Horizons",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Candidature annoncée ou ambition publique selon LCP ; peut évoluer selon les discussions sur une primaire. Aucune validation officielle."
+    },
+    {
+      "id": "gabriel-attal",
+      "name": "Gabriel Attal",
+      "party": "Renaissance",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Candidature annoncée ou ambition publique selon LCP ; peut évoluer selon les discussions sur une primaire. Aucune validation officielle."
+    },
+    {
+      "id": "bruno-retailleau",
+      "name": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Candidature annoncée ou ambition publique selon LCP ; peut évoluer selon les discussions sur une primaire. Aucune validation officielle."
+    },
+    {
+      "id": "francois-ruffin",
+      "name": "François Ruffin",
+      "party": "Debout !",
+      "status": "declare_sous_condition",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Candidature déclarée, avec possibilité de retrait conditionnel évoquée publiquement (LCP, 10 novembre 2026)."
+    },
+    {
+      "id": "nathalie-arthaud",
+      "name": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "fabien-roussel",
+      "name": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "florian-philippot",
+      "name": "Florian Philippot",
+      "party": "Les Patriotes",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "francois-asselineau",
+      "name": "François Asselineau",
+      "party": "UPR",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "jean-lassalle",
+      "name": "Jean Lassalle",
+      "party": "Résistons !",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "selma-labib",
+      "name": "Selma Labib",
+      "party": "NPA-Révolutionnaires",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "mira-markovic",
+      "name": "Mira Markovic",
+      "party": "Parti animaliste",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "anasse-kazib",
+      "name": "Anasse Kazib",
+      "party": "Révolution permanente",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "juan-branco",
+      "name": "Juan Branco",
+      "party": "Les Ruches",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "antoine-mikolajczak",
+      "name": "Antoine Mikolajczak",
+      "party": "Équinoxe",
+      "status": "declare",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "dominique-de-villepin",
+      "name": "Dominique de Villepin",
+      "party": "Indépendant",
+      "status": "intention_non_formalisee",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
+    },
+    {
+      "id": "xavier-bertrand",
+      "name": "Xavier Bertrand",
+      "party": "Les Républicains",
+      "status": "potentiel",
+      "status_since": "2026-11-15",
+      "evidence": [
+        "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-declares-et-potentiels-444932"
+      ],
+      "note": "Classement documentaire provisoire fondé sur le panorama LCP du 10 novembre ; date de mise au registre, non date de déclaration."
     }
   ]
 }

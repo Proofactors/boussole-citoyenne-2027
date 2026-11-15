@@ -1,31 +1,31 @@
 {
-  "schemaVersion": 2,
-  "date_etat": "2026-10-23",
+  "schemaVersion": 3,
+  "date_etat": "2026-11-15",
   "avertissement": "Un projet de parti ou une ancienne édition n’est pas automatiquement un programme présidentiel 2027. Aucune position ni score n’est attribué.",
   "sources": [
     {
       "personnalite_id": "jean-luc-melenchon",
       "personnalite": "Jean-Luc Mélenchon",
       "editeur": "La France insoumise",
-      "url": "https://melenchon2027.fr/programme/decouvrir/",
+      "url": "https://melenchon2027.fr/programme/livre",
       "domaines_autorises": [
         "melenchon2027.fr"
       ],
-      "nature": "programme_2027_en_preparation",
-      "statut_editorial": "programme_2027_en_preparation",
-      "note_editoriale": "L’Avenir en commun : nouvelle édition annoncée le 7 novembre 2026"
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "Texte officiel en ligne de la 5e édition de L’Avenir en commun, publié le 6 novembre 2026. La page d’index renvoie aux chapitres : la couverture exhaustive nécessite le suivi de ces pages."
     },
     {
       "personnalite_id": "marine-tondelier",
       "personnalite": "Marine Tondelier / Les Écologistes",
       "editeur": "Les Écologistes",
-      "url": "https://lesecologistes.fr/",
+      "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
       "domaines_autorises": [
         "lesecologistes.fr"
       ],
-      "nature": "projet_de_parti_2026",
-      "statut_editorial": "projet_de_parti_2026",
-      "note_editoriale": "Pour une prospérité écologique : projet publié, attribution présidentielle à confirmer"
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "Pour une prospérité écologique, document officiel des Écologistes, juillet 2026; programme du parti, non validation de candidature."
     },
     {
       "personnalite_id": "juan-branco",
@@ -43,13 +43,13 @@
       "personnalite_id": "nicolas-dupont-aignan",
       "personnalite": "Nicolas Dupont-Aignan",
       "editeur": "Debout la France",
-      "url": "https://www.debout-la-france.fr/notre-projet/",
+      "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
       "domaines_autorises": [
-        "www.debout-la-france.fr"
+        "dupontaignan.fr"
       ],
-      "nature": "programme_2027_partiel",
-      "statut_editorial": "programme_2027_partiel",
-      "note_editoriale": "Livrets actualisés identifiés Projet 2027"
+      "nature": "propositions_2027_partielles",
+      "statut_editorial": "propositions_2027_partielles",
+      "note_editoriale": "Présentation du projet économique 2027 le 12 novembre 2026; document thématique non programme intégral."
     },
     {
       "personnalite_id": "francis-lalanne",
@@ -115,13 +115,37 @@
       "personnalite_id": "raphael-glucksmann",
       "personnalite": "Raphaël Glucksmann / Place publique",
       "editeur": "Place publique",
-      "url": "https://action.place-publique.eu/",
+      "url": "https://glucks2027.fr/revolution-ecologique/",
       "domaines_autorises": [
-        "action.place-publique.eu"
+        "glucks2027.fr"
       ],
-      "nature": "projet_de_parti_a_documenter",
-      "statut_editorial": "projet_de_parti_a_documenter",
-      "note_editoriale": "Site du mouvement : document précis et attribution à confirmer"
+      "nature": "propositions_2027_partielles",
+      "statut_editorial": "propositions_2027_partielles",
+      "note_editoriale": "Livret thématique (24 pages), annoncé le 9 novembre 2026 ; ne constitue pas le programme présidentiel complet."
+    },
+    {
+      "personnalite_id": "clara-egger",
+      "personnalite": "Clara Egger",
+      "editeur": "Solution Démocratique",
+      "url": "https://solutiondemocratique.fr/programme-presidentielle/",
+      "domaines_autorises": [
+        "solutiondemocratique.fr"
+      ],
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "Programme présidentiel 2027 présenté par Solution Démocratique, 5 novembre 2026."
+    },
+    {
+      "personnalite_id": "david-lisnard",
+      "personnalite": "David Lisnard",
+      "editeur": "Nouvelle Énergie",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/",
+      "domaines_autorises": [
+        "unenouvelleenergie.fr"
+      ],
+      "nature": "programme_2027_publie",
+      "statut_editorial": "programme_2027_publie",
+      "note_editoriale": "Le programme de Nouvelle Énergie pour 2027 (document de parti)."
     }
   ]
 }
