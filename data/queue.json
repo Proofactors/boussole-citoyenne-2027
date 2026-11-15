@@ -15517,5 +15517,260 @@
     "review": null,
     "detectedAt": "2026-11-14T08:12:24.870708+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "eebd9866dd182ca7ccd6ad8f": {
+    "id": "eebd9866dd182ca7ccd6ad8f",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle 2027 : \"Je ne suis pas un macroniste\", affirme Teddy Riner",
+    "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-ne-suis-pas-un-macroniste-affirme-teddy-riner_8283248.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 09:00:42 +0100",
+    "excerpt": "En visite au salon Made in France, Teddy Riner a fermement rejeté l’étiquette macroniste, martelant qu’il n’appartient à “aucune famille politique” malgré l’appui d’Emmanuel Macron.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.445769+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e47d2433f7e9ddd727f39026": {
+    "id": "e47d2433f7e9ddd727f39026",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Il y aura bien une hausse des points pour les plus bas salaires de la fonction publique\", confirme le ministre David Amiel",
+    "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 09:07:51 +0100",
+    "excerpt": "David Amiel, ministre de l'Action et des Comptes publics, est l'invité du \"8h30 franceinfo\" dimanche.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-fiscalite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.447056+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bcc63c48f1488117450e2286": {
+    "id": "bcc63c48f1488117450e2286",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Pour le président, la position de Marine Le Pen sur l'Ukraine \"est antipatriotique et irréaliste\", déclare l'entourage d'Emmanuel Macron",
+    "url": "https://www.franceinfo.fr/politique/emmanuel-macron/le-president-veut-maintenir-l-ukraine-en-situation-de-donner-des-coups-alors-que-les-americains-s-occupent-de-l-enfoncer-affirme-l-entourage-d-emmanuel-macron_8283194.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 08:48:43 +0100",
+    "excerpt": "Le chef de l'Etat dénonce des \"candidats qui passent leur temps à vomir les Européens, à dénoncer les Ukrainiens\", a déclaré l'entourage d'Emmanuel Macron à France Inter.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "vote-etrangers",
+      "ukraine",
+      "troupes-ukraine",
+      "accord-1968"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.448465+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4bdd37f5211f566fa2406a74": {
+    "id": "4bdd37f5211f566fa2406a74",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le grand oral des candidats sur franceinfo",
+    "url": "https://www.franceinfo.fr/replay-radio/le-rendez-vous-du-mediateur/le-grand-oral-des-candidats-sur-franceinfo_8261240.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 17:00:02 +0100",
+    "excerpt": "À l'occasion de la présidentielle 2027, franceinfo a organisé, jeudi 12 novembre, un grand oral des candidats, sur les services publics. Une journée exceptionnelle en direct et en public au studio 104 de la Maison de la radio et de la musique.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.449800+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "da5ad64f0933fd211fa20f15": {
+    "id": "da5ad64f0933fd211fa20f15",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Emmanuel Macron est arrivé au Cambodge pour le sommet de la Francophonie",
+    "url": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-est-arrive-au-cambodge-pour-le-sommet-de-la-francophonie_8282396.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 15:08:11 +0100",
+    "excerpt": "Le président français doit y signer une dizaine d'accords dans divers domaines (IA, énergie, santé, patrimoine...) et participer dimanche et lundi au XXe sommet de la Francophonie.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.451086+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "cd8dca5db88e6ee777f1b9f1": {
+    "id": "cd8dca5db88e6ee777f1b9f1",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Aide à l'Ukraine : E. Diaz assume vouloir stopper les financements français",
+    "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/aide-a-l-ukraine-e-diaz-assume-vouloir-stopper-les-financements-francais_8282348.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 12:00:02 +0100",
+    "excerpt": "Au salon du Made in France hier, Marine Le Pen a indiqué qu'elle accepterait de rencontrer Volodymyr Zelensky à Bruxelles. La candidate RN à l'élection présidentielle avait affirmé vouloir couper les aides à l'Ukraine \"sous 6 mois\" si elle était élue en 2027, et pour Edwige Diaz, présidente des sénateurs RN, cela s'explique par une réalité économique.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "ukraine",
+      "priorite-nationale",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.452800+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "6d906c6299ab4763a2dfe848": {
+    "id": "6d906c6299ab4763a2dfe848",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Mobilisation du 14 novembre, guerre en Ukraine, parrainages et financement de la campagne de Marine Le Pen… Le \"8h30 franceinfo d'Edwige Diaz",
+    "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/mobilisation-du-14-novembre-guerre-en-ukraine-parrainages-et-financement-de-la-campagne-le-8h30-franceinfo-d-edwige-diaz_8261291.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 11:32:35 +0100",
+    "excerpt": "Edwige Diaz, présidente du groupe Rassemblement national au Sénat, et sénatrice de la Gironde, répondait aux questions de Camille Girerd et Benjamin Recouvreur.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.454309+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "0384f214a8991e17a1448e2f": {
+    "id": "0384f214a8991e17a1448e2f",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Il nous manque encore une centaine\" de parrainages pour la candidature à la présidentielle de Marine Le Pen, chiffre Edwige Diaz",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/il-nous-manque-encore-une-centaine-de-parrainages-pour-la-candidature-a-la-presidentielle-de-marine-le-pen-chiffre-edwige-diaz_8282216.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 09:32:43 +0100",
+    "excerpt": "La sénatrice sénatrice du Rassemblement national est en charge de la collecte des parrainages du parti d'extrême droite pour la présidentielle.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.455630+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a71623ea817733c198e38419": {
+    "id": "a71623ea817733c198e38419",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "INFO FRANCEINFO. Raphaël Glucksmann va diffuser ce week-end un tract présentant dix propositions pour \"sortir de la crise\"",
+    "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/info-franceinfo-raphael-glucksmann-va-diffuser-ce-week-end-un-tract-presentant-dix-propositions-pour-sortir-de-la-crise_8261228.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 16:14:25 +0100",
+    "excerpt": "Souvent placé à la troisième place dans les sondages, mais assez loin derrière Marine Le Pen et Jean-Luc Mélenchon, le candidat PS-Place Publique doit maintenant combler son retard sur le candidat LFI. Un tract sera largement diffusé ce week-end, contenant dix propositions phares de son programme.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.457370+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9a925b8fa9906423a4e7d25f": {
+    "id": "9a925b8fa9906423a4e7d25f",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
+    "url": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 21:43:20 GMT",
+    "excerpt": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "tva-energie",
+      "frexit",
+      "extension-securite-06",
+      "extension-immigration-07",
+      "extension-europe-05"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.552752+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "38b7244e4a3010329f65f9cd": {
+    "id": "38b7244e4a3010329f65f9cd",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
+    "url": "https://www.france24.com/fr/france/20261114-la-cyberattaque-d-une-filiale-de-la-poste-entra%C3%AEne-un-vol-de-donn%C3%A9es-touchant-22-millions-de-personnes",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 20:50:52 GMT",
+    "excerpt": "Maileva, filiale du groupe La Poste, a été victime d'une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes. L'an dernier, une cyberattaque revendiquée par des hackers prorusses avait déjà touché La Poste à quelques jours de Noël.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.554357+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "87ae6fe0bb5c99750a3775b7": {
+    "id": "87ae6fe0bb5c99750a3775b7",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
+    "url": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 20:02:07 GMT",
+    "excerpt": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé, si elle est élue.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.556362+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c1ab8750ee9ff3eca48162cf": {
+    "id": "c1ab8750ee9ff3eca48162cf",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "De communiste à conseiller de Macron, le parcours de l'économiste Philippe Aghion",
+    "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-de-communiste-%C3%A0-conseiller-de-macron-le-parcours-de-l-%C3%A9conomiste-philippe-aghion",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 15:50:57 GMT",
+    "excerpt": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Philippe Aghion, économiste français, prix Nobel d'économie 2025.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.557673+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "1651123d830a4b45f4bd7a75": {
+    "id": "1651123d830a4b45f4bd7a75",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Teddy Riner réfute être macroniste et qualifie de \"baiser empoisonné\" les félicitations de Macron",
+    "url": "https://www.france24.com/fr/france/20261114-teddy-riner-r%C3%A9fute-%C3%AAtre-macroniste-qualifie-baiser-empoisonn%C3%A9-f%C3%A9licitations-macron",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 15:12:57 GMT",
+    "excerpt": "Le judoka et désormais candidat à la présidentielle Teddy Riner s'est défendu samedi d'être macroniste, lors de son déplacement au salon du \"Made in France\". Le sportif de haut niveau a, en outre, qualifié de \"baiser empoisonné\" les félicitations d'Emmanuel Macron.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.559268+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "60f256e93111efc5b5f67de6": {
+    "id": "60f256e93111efc5b5f67de6",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Je ne pensais quand même pas avoir un père nazi\" : Edith Pagot, née dans un Lebensborn",
+    "url": "https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 12:57:53 GMT",
+    "excerpt": "Il y a 80 ans, en 1946, deux convois d'enfants, dont certains nés dans un Lebensborn, une pouponnière nazie, étaient accueillis à Commercy, dans la Meuse, en provenance d'Allemagne. Parmi eux se trouvait Edith Pagot. Jusqu'à aujourd'hui, cette femme adoptée ignorait qu'elle était née dans un Lebensborn. Elle ne l'a appris que cette année, après des recherches entreprises par sa fille.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T08:16:43.561152+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }
