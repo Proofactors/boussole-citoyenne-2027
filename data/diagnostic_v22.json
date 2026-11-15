@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-11-15T08:16:57.341876+00:00",
+  "genereLe": "2026-11-15T13:27:56.886649+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -5541,6 +5541,46 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "6f22139d520e567c0b4f6e74",
+      "titre": "Plébiscitée en Guadeloupe, la candidature de Teddy Riner va devoir se plier aux règles qui encadrent l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/plebiscitee-en-guadeloupe-la-candidature-de-teddy-riner-va-devoir-se-plier-aux-regles-qui-encadrent-l-election-presidentielle_8275817.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/plebiscitee-en-guadeloupe-la-candidature-de-teddy-riner-va-devoir-se-plier-aux-regles-qui-encadrent-l-election-presidentielle_8275817.html",
+      "publication": "Tue, 10 Nov 2026 10:52:20 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11516,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Teddy Riner a annoncé lundi sa candidature à l'élection présidentielle. Le judoka, quintuple champion du monde, espère capitaliser sur sa popularité. Un choix qui se profilait depuis des mois, notamment par des prises de position répétées sur la situation en France.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "aa1132e3044d2eaa50a6054c",
+      "titre": "Mobilisations en France : le Smic à 1 502 € net, \"des miettes\" selon la CGT",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-le-smic-%C3%A0-1-502-%E2%82%AC-net-des-miettes-selon-la-cgt",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-le-smic-%C3%A0-1-502-%E2%82%AC-net-des-miettes-selon-la-cgt",
+      "publication": "Tue, 10 Nov 2026 10:27:00 GMT",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2636,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "La revalorisation du Smic de 1,6 % au 1er décembre sera \"la deuxième hausse la plus importante en 20 ans\", a affirmé lundi le Premier ministre Sébastien Lecornu, défendant un \"coup de pouce\" qui \"n'est pas que symbolique\", pour tenter de calmer la colère sociale. La secrétaire général de la CGT a fustigé cette décision, pointant que le \"gouvernement n'a annoncé que des miettes\". Les précisions d'Olivier Guyottot, enseignant-chercheur en stratégie et en sciences politiques",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "a07f2c16119ef3248b4058b3",
       "titre": "Le couple présidentiel a déposé une nouvelle plainte en diffamation contre l'influenceuse complotiste Candace Owens",
       "url": "https://www.franceinfo.fr/politique/emmanuel-macron/brigitte-macron/le-couple-presidentiel-a-depose-une-nouvelle-plainte-en-diffamation-contre-l-influenceuse-complotiste-candace-owens_8275838.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -5716,6 +5756,26 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Après un premier revers procédural aux États-Unis, les époux Macron ont relancé les poursuites contre l'influenceuse américaine Candace Owens, dont les vidéos consacrées à la Première dame ont contribué à donner une audience internationale à la théorie complotiste selon laquelle Brigitte Macron aurait effectué une transition de genre. La nouvelle procédure la vise dans le Tennessee, où elle réside.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "70d98fcfb4b209650ef8d199",
+      "titre": "Frigos victimes de cyberattaques : la France \"ne s'interdit rien\" dans la riposte contre l'Iran",
+      "url": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
+      "urlEffective": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
+      "publication": "Tue, 10 Nov 2026 07:32:02 GMT",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6432,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "⁠L'ambassadeur d'Iran en France, dont le pays est soupçonné d'être à l'origine des ⁠cyberattaques de grande ampleur ayant visé les réfrigérateurs de plusieurs supermarchés, a été convoqué mardi matin, a indiqué le ministère français des Affaires étrangères. Jean-Noël Barrot a déclaré mardi que Paris \"ne s'interdit rien\" dans sa riposte contre Téhéran.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -7265,6 +7325,26 @@
       "utilisableCommePreuvePolitique": false
     },
     {
+      "id": "fbb9492f2ff9dc78acdbd944",
+      "titre": "Bureau du Sénat du jeudi 12 novembre 2026",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/12-11-2026/bureau-du-senat-du-jeudi-12-novembre-2026.html",
+      "urlEffective": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/12-11-2026/bureau-du-senat-du-jeudi-12-novembre-2026.html",
+      "publication": "Thu,12 Nov 2026 11:21:55 GMT",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2495,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Communiqué de presse du 12/11/2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
       "id": "5a7262d1a266dbb1045ce678",
       "titre": "Les fusions de communes - Étude de législation comparée n° 363",
       "url": "http://www.senat.fr/notice-rapport/2026/lc363-notice.html",
@@ -8705,6 +8785,634 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Emmanuel Macron recevra des \"lycéens et des représentants d'organisations lycéennes\" vendredi à 15 h à l'Élysée afin d'\"écouter leurs revendications et inquiétudes\" après les manifestations émaillées de violences, a annoncé jeudi soir la présidence. Voici le fil du 22 octobre 2026.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "9ac9d2b90252a83a5eb609e4",
+      "titre": "Primaire à droite et au centre, les Verts courtisés à gauche… Le point sur la \"Bataille de l'Elysée\" ce 12 novembre",
+      "url": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html",
+      "publication": "Thu, 12 Nov 2026 22:51:12 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11216,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal",
+            "bruno-retailleau",
+            "david-lisnard"
+          ],
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "passageSource": "L'ex-Premier ministre l'a redit ce soir sur franceinfo, lors de la journée spéciale \"Nos services publics\" : \"J'ai pris ma décision il y a maintenant de nombreux mois en disant que je ne me soumettrai pas à une primaire et que je présenterais ma candidature aux Françaises et aux Français.\" Les équipes de Bruno Retailleau, de Gabriel Attal et de David Lisnard doivent échanger dans quelques jours.",
+          "motsCommuns": [
+            "doivent",
+            "jours"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal",
+            "bruno-retailleau",
+            "david-lisnard"
+          ],
+          "questionId": "extension-fiscalite-07",
+          "theme": "fiscalite",
+          "passageSource": "L'ex-Premier ministre l'a redit ce soir sur franceinfo, lors de la journée spéciale \"Nos services publics\" : \"J'ai pris ma décision il y a maintenant de nombreux mois en disant que je ne me soumettrai pas à une primaire et que je présenterais ma candidature aux Françaises et aux Français.\" Les équipes de Bruno Retailleau, de Gabriel Attal et de David Lisnard doivent échanger dans quelques jours.",
+          "motsCommuns": [
+            "doivent",
+            "francaises"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal",
+            "bruno-retailleau",
+            "david-lisnard"
+          ],
+          "questionId": "extension-immigration-08",
+          "theme": "immigration",
+          "passageSource": "L'ex-Premier ministre l'a redit ce soir sur franceinfo, lors de la journée spéciale \"Nos services publics\" : \"J'ai pris ma décision il y a maintenant de nombreux mois en disant que je ne me soumettrai pas à une primaire et que je présenterais ma candidature aux Françaises et aux Français.\" Les équipes de Bruno Retailleau, de Gabriel Attal et de David Lisnard doivent échanger dans quelques jours.",
+          "motsCommuns": [
+            "doivent",
+            "premier"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Comme tous les jeudis, \"La bataille de l’Élysée\" fait le point sur la campagne à cinq mois de la présidentielle. Édouard Philippe est sous pression : en difficulté dans les sondages, il refuse toujours la primaire, mais ses concurrents à droite et au centre avancent sans lui. Leurs équipes se réunissent mardi pour en fixer les modalités… Jusqu’où peut-il faire cavalier seul ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1c6aa2fa8b05d0ea8486aaba",
+      "titre": "Candidats à la présidentielle : que veulent-ils faire pour la justice ?",
+      "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-la-justice_8279930.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-la-justice_8279930.html",
+      "publication": "Thu, 12 Nov 2026 22:00:02 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7099,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Les candidats à la présidentielle face à “Nos services publics”. Plus d’argent, plus d’emplois, et moins de syndicalisme, etc. Que veulent-ils faire pour la justice ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f55e989c1450feeaafc684f0",
+      "titre": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html",
+      "publication": "Thu, 12 Nov 2026 20:56:47 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9753,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", a réagi Jean-Luc Mélenchon sur franceinfo, assurant qu'il ne changerait pas son discours sur le pays s'il était élu.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d69e7efa451034f38468ca3d",
+      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html",
+      "publication": "Thu, 12 Nov 2026 20:26:23 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9517,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Jean-Luc Mélenchon, le candidat de la France insoumise à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "dd13e601d55fc796beb1d28c",
+      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon veut créer un \"service public de la petite enfance\" et 500 000 places en crèche",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-2027-jean-luc-melenchon-veut-creer-un-service-public-de-la-petite-enfance-et-la-creation-de-500-000-places-de-creches_8279966.html",
+      "publication": "Thu, 12 Nov 2026 20:26:23 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9517,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Jean-Luc Mélenchon, le candidat de la France insoumise à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1b7cec051b9d49ac4518b24b",
+      "titre": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html",
+      "publication": "Thu, 12 Nov 2026 20:16:15 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11555,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "places-prison",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "places",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "courtes-peines",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "peines",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "extension-securite-04",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "peines",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "extension-societe-02",
+          "theme": "societe",
+          "passageSource": "Edouard Philippe veut aussi donner plus d'autonomie aux établissements, \"pour organiser la pédagogie parfois, [pour] organiser l'école en fonction des priorités et des circonstances locales \", avance le candidat Horizons à la présidentielle.",
+          "motsCommuns": [
+            "ecole",
+            "etablissements"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "Sur la question des rythmes scolaires, \" concentrer beaucoup d'heures de cours sur peu de jours, sur peu de semaines dans l'année, c'est imposer un rythme qui n'est pas le meilleur rythme pour les élèves, je pense donc qu'il faut desserrer cet étau \", tranche Edouard Philippe.",
+          "motsCommuns": [
+            "heures",
+            "jours"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "fonctionnaires",
+          "theme": "fiscalite",
+          "passageSource": "Edouard Philippe dit \" formellement contester l'idée que la qualité du service public passe par l'augmentation continue du nombre de fonctionnaires \".",
+          "motsCommuns": [
+            "fonctionnaires",
+            "nombre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "40fed1d44f6556cd03107142",
+      "titre": "Présidentielle 2027 : \"La possibilité de se syndiquer doit être interdite\" dans la magistrature, estime Édouard Philippe",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-2027-la-possibilite-de-se-syndiquer-doit-etre-interdite-dans-la-magistrature-estime-edouard-philippe_8279816.html",
+      "publication": "Thu, 12 Nov 2026 20:16:15 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11555,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "places-prison",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "places",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "courtes-peines",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "peines",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe",
+            "gabriel-attal",
+            "bruno-retailleau",
+            "eric-zemmour"
+          ],
+          "questionId": "extension-securite-04",
+          "theme": "securite",
+          "passageSource": "\" On ne construit pas assez de places de prison et on enferme trop tard et trop longtemps \", poursuit Édouard Philippe, qui appelle, comme Gabriel Attal, Éric Zemmour et Bruno Retailleau, à la suppression du juge de l'application des peines.",
+          "motsCommuns": [
+            "peines",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "extension-societe-02",
+          "theme": "societe",
+          "passageSource": "Edouard Philippe veut aussi donner plus d'autonomie aux établissements, \"pour organiser la pédagogie parfois, [pour] organiser l'école en fonction des priorités et des circonstances locales \", avance le candidat Horizons à la présidentielle.",
+          "motsCommuns": [
+            "ecole",
+            "etablissements"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "Sur la question des rythmes scolaires, \" concentrer beaucoup d'heures de cours sur peu de jours, sur peu de semaines dans l'année, c'est imposer un rythme qui n'est pas le meilleur rythme pour les élèves, je pense donc qu'il faut desserrer cet étau \", tranche Edouard Philippe.",
+          "motsCommuns": [
+            "heures",
+            "jours"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "fonctionnaires",
+          "theme": "fiscalite",
+          "passageSource": "Edouard Philippe dit \" formellement contester l'idée que la qualité du service public passe par l'augmentation continue du nombre de fonctionnaires \".",
+          "motsCommuns": [
+            "fonctionnaires",
+            "nombre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Dans le cadre de la journée évènement franceinfo consacrée aux services publics, Édouard Philippe, candidat Horizons à la présidentielle, a détaillé son programme sur cet enjeu majeur du scrutin, jeudi 12 novembre, au studio 104 de la Maison de la Radio et de la Musique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "3599f0b56f7fb7bffed3545f",
+      "titre": "C'est Benjamin de franceinfo ! #Episode2",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html",
+      "publication": "Thu, 12 Nov 2026 20:00:02 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6883,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. À Amiens (Picardie), c’est jour de manif pour défendre les services publics.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "3ce38db21ba0ef174d53e4d2",
+      "titre": "C'est Benjamin de franceinfo ! #Episode2",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/c-est-benjamin-de-franceinfo-episode2_8279429.html",
+      "publication": "Thu, 12 Nov 2026 20:00:02 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6883,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027. À Amiens (Picardie), c’est jour de manif pour défendre les services publics.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "1f5ea3df87727101e5a1ef9b",
+      "titre": "VIDEO. \"Culte de la personnalité\", purges supposées de militants… des témoignages pointent une dérive autocratique de Gabriel Attal à la tête de Renaissance",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-culte-de-la-personnalite-purges-supposees-de-militants-des-temoignages-pointent-une-derive-autocratique-de-gabriel-attal-a-la-tete-de-renaissance_8279141.html",
+      "publication": "Thu, 12 Nov 2026 19:41:48 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12621,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Depuis sa rupture politique avec Emmanuel Macron, Gabriel Attal est plus que jamais \"en marche\"... vers l’Elysée ! Ce jeune homme pressé y croit dur comme fer, encore plus depuis qu'il a pris le contrôle du parti présidentiel Renaissance. Mais en coulisses, le nouveau patron ne semble pas faire l’unanimité. \"Complément d'enquête\" a recueilli des témoignages exclusifs pointant du doigt un comportement qualifié par certains d'autocratique, une mise au pas des militants, et même des purges…",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "b29ec3de66aca4e3f01bb786",
+      "titre": "Candidats à la présidentielle : que veulent-ils faire pour l’éducation ?",
+      "url": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-l-education_8279921.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/candidats-a-la-presidentielle-que-veulent-ils-faire-pour-l-education_8279921.html",
+      "publication": "Thu, 12 Nov 2026 19:34:37 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7230,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Les candidats à la présidentielle face à “Nos services publics”. Rémunération des enseignants, Parcoursup, emploi, etc. Que veulent-ils faire pour l’éducation ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7fef618536b4da161a310d76",
+      "titre": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël.",
+      "url": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/melenchon/je-regrette-que-le-gouvernement-d-israel-me-poursuive-de-cette-maniere-denonce-jean-luc-melenchon-interdit-de-territoire-en-israel_8279888.html",
+      "publication": "Thu, 12 Nov 2026 19:05:17 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7334,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "\"Je regrette que le gouvernement d'Israël me poursuive de cette manière\", dénonce Jean-Luc Mélenchon, interdit de territoire en Israël. L'état hébreu a annoncé jeudi qu'il interdisait l'entrée sur son territoire au dirigeant de la France insoumise, imputant à sa formation une \"position extrêmement hostile à Israël\".",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "078f2781bf77b71ff19a1dca",
+      "titre": "Quand les Sénégalais scrutent la crise française",
+      "url": "https://www.franceinfo.fr/monde/afrique/senegal/quand-les-senegalais-scrutent-la-crise-francaise_8279525.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/monde/afrique/senegal/quand-les-senegalais-scrutent-la-crise-francaise_8279525.html",
+      "publication": "Thu, 12 Nov 2026 19:00:02 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7409,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "🇸🇳🔎🇫🇷 Alors que les Jeux olympiques de la jeunesse battent leur plein à Dakar, les yeux des Sénégalais se tournent aussi vers la France, où les manifestations perdurent. Également en surchauffe politique et économique, les problématiques françaises résonnent au Sénégal…",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7a80f07f684410cf87f8ab12",
+      "titre": "VIDEO. \"Complément d'enquête\". \"J'ai décidé qu'on ne pourrait plus porter l'abaya à l'école\" : les coulisses d'une opération de communication en 2023 qui a fait bondir la popularité de Gabriel Attal",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-magazine/france-2/complement-d-enquete/video-complement-d-enquete-j-ai-decide-qu-on-ne-pourrait-plus-porter-l-abaya-a-l-ecole-les-coulisses-d-une-operation-de-communication-en-2023-qui-a-fait-bondir-la-popularite-de-gabriel-attal_8278169.html",
+      "publication": "Thu, 12 Nov 2026 18:51:36 +0100",
+      "analyseLe": "2026-11-15T13:27:44.175657+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12636,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-societe-02",
+          "theme": "societe",
+          "passageSource": "En matière de communication, le principal fait d'armes du duo que forment alors Gabriel Attal et son conseiller en communication reste l'interdiction dans les établissements scolaires du port de l'abaya, ce long vêtement traditionnel popularisé par les pays du Golfe.",
+          "motsCommuns": [
+            "etablissements",
+            "scolaires"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Selon ses détracteurs, la méthode Gabriel Attal, ce serait beaucoup de com, au détriment parfois du fond. Cet extrait de \"Complément d'enquête\" sur l'enfant (pas si) chéri de la macronie révèle les coulisses de son annonce choc sur l’interdiction à l’école de l’abaya, à la rentrée 2023, alors qu'il venait d'arriver Rue de Grenelle.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -12571,13 +13279,13 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 554,
-    "documentsLus": 550,
+    "documentsSuivis": 572,
+    "documentsLus": 568,
     "documentsSansTexteAvecResumeRss": 4,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 72,
+    "passagesCandidats": 88,
     "erreursParCause": {
-      "Texte intégral lu": 550,
+      "Texte intégral lu": 568,
       "reseau_TimeoutError": 1,
       "http_403": 3
     }

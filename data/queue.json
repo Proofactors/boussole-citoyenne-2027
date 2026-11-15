@@ -15772,5 +15772,56 @@
     "review": null,
     "detectedAt": "2026-11-15T08:16:43.561152+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a3a3eaf791324707e975b583": {
+    "id": "a3a3eaf791324707e975b583",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Agression d’un responsable universitaire : \"Tout ça s'inscrit dans un contexte de violence croissante\", estime le ministre de l'Enseignement supérieur et de la Recherche Philippe Baptiste",
+    "url": "https://www.franceinfo.fr/politique/agression-d-un-responsable-universitaire-tout-ca-s-inscrit-dans-un-contexte-de-violence-croissante-estime-le-ministre-de-l-enseignement-superieur-et-de-la-recherche-philippe-baptiste_8283326.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 10:37:59 +0100",
+    "excerpt": "Philippe Baptiste, ministre de l'Enseignement supérieur et de la Recherche, était l'invité du 7.40 de ce dimanche 15 novembre. Il est notamment revenu sur l'agression à l'arme blanche du Vice-président de l'université de Versailles Saint-Quentin-en-Yvelines.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T13:27:41.050266+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c724000fd8a6a4cc0f25c3b0": {
+    "id": "c724000fd8a6a4cc0f25c3b0",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Dette publique française : \"La France ne va pas être la Grèce\", affirme Clément Beaune",
+    "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/dette-publique-francaise-la-france-ne-va-pas-etre-la-grece-affirme-clement-beaune_8283317.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 10:38:11 +0100",
+    "excerpt": "Clément Beaune, haut-commissaire à la Stratégie et au Plan était l'invité du 7.40 de Franceinfo ce samedi 14 novembre. Il est notamment revenu sur la nouvelle journée de mobilisation sociale de ce samedi mais également sur la dette publique française et la présidentielle qui arrive à grands pas.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-fiscalite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T13:27:41.051814+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bbef2789090ab99b6838a974": {
+    "id": "bbef2789090ab99b6838a974",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points",
+    "url": "https://www.france24.com/fr/france/20261115-pr%C3%A9sidentielle-2027-teddy-riner-cr%C3%A9dit%C3%A9-de-4-5-dans-un-sondage-david-lisnard-gagne-des-points",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 09:35:16 GMT",
+    "excerpt": "Le candidat tout juste déclaré Teddy Riner est crédité de 4,5 % des intentions de vote dans un sondage pour BFMTV et La Tribune Dimanche. Selon cette enquête, le maire de Cannes, David Lisnard, fait un bon de quatre points au détriment de Bruno Retailleau. Marine Le Pen reste en tête des intentions de vote, suivie par Jean-Luc Mélenchon, qui s'installe à la deuxième place.",
+    "personalitiesSuggested": [
+      "marine-le-pen",
+      "bruno-retailleau",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-15T13:27:41.762480+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }
