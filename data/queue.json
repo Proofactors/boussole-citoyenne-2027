@@ -15823,5 +15823,194 @@
     "review": null,
     "detectedAt": "2026-11-15T13:27:41.762480+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f7ed2d928e44809ff4b8c7fc": {
+    "id": "f7ed2d928e44809ff4b8c7fc",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Il y a 30 ans de mensonges sur le système des retraites\", lance Jean-Philippe Tanguy, député RN",
+    "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Mon, 16 Nov 2026 09:25:59 +0100",
+    "excerpt": "Jean-Philippe Tanguy, député RN de la Somme et chargé du programme économique de Marine Le Pen, était l’invité des 4 Vérités sur France 2, lundi 16 novembre.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.384078+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "16ec67972bb19eb2f9c96b0b": {
+    "id": "16ec67972bb19eb2f9c96b0b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "PODCAST. Les proviseurs épuisés, Jean-Luc Melenchon interdit en Israël et rumeur de black-out : ça dit quoi ce 13 novembre ?",
+    "url": "https://www.franceinfo.fr/replay-radio/ca-dit-quoi/podcast-les-proviseurs-epuises-jean-luc-melenchon-interdit-en-israel-et-rumeur-de-black-out-ca-dit-quoi-ce-13-novembre_8271587.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Mon, 16 Nov 2026 09:08:52 +0100",
+    "excerpt": "Ce vendredi 13 novembre, les proviseurs sont appelés à se mobiliser devant les lycées et les rectorats pour dénoncer les violences, Israël interdit à Jean-Luc Mélenchon d'entrer sur son territoire et une rumeur de black-out mondial fleurit sur les réseaux sociaux.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "reseaux-15-ans"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.385948+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "98d0f6326de2459f8bcd7d88": {
+    "id": "98d0f6326de2459f8bcd7d88",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "EDITO. À cinq mois du premier tour de la présidentielle, le dossier ukrainien s’invite dans la campagne",
+    "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-a-cinq-mois-du-premier-tour-de-la-presidentielle-le-dossier-ukrainien-s-invite-dans-la-campagne_8263355.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Mon, 16 Nov 2026 08:43:16 +0100",
+    "excerpt": "Alors que plus des deux tiers des Français continuent d’être favorables au soutien à Kiev, Marine Le Pen veut couper toute aide. Une \"position antipatriotique et irréaliste\", critique Emmanuel Macron.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.387574+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "500b685c69aebe5be2316974": {
+    "id": "500b685c69aebe5be2316974",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
+    "url": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Mon, 16 Nov 2026 08:38:02 +0100",
+    "excerpt": "\"C'est au moins la troisième année consécutive\" que le gouvernement demande un effort budgétaire aux départements, déplore notamment auprès de France Culture le président LR de Saône-et-Loire.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "reseaux-15-ans",
+      "extension-immigration-01",
+      "contribution-ue"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.389225+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c4c8f5d43acf716b3b1ed509": {
+    "id": "c4c8f5d43acf716b3b1ed509",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle 2027 : les coulisses de l'accélération de la campagne de David Lisnard",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-les-coulisses-de-l-acceleration-de-la-campagne-de-david-lisnard_8283962.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 23:42:31 +0100",
+    "excerpt": "Combien seront-ils finalement sur la ligne de départ de cette présidentielle ? Au 15 novembre, ils sont actuellement plus de 30. Au-delà du duo de tête, les autres candidats ont des hauts et des bas, mais l'un d'entre eux affiche en ce moment une certaine dynamique : David Lisnard. Crédité de 8 à 10 %, il se dit prêt à participer à la primaire qu’Édouard Philippe refuse.",
+    "personalitiesSuggested": [
+      "david-lisnard"
+    ],
+    "questionsSuggested": [
+      "retraite-65"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.391236+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fda13aa2041934a3f571ab71": {
+    "id": "fda13aa2041934a3f571ab71",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle : \"Toutes celles et ceux qui veulent nous abattre soutiennent Marine Le Pen\", dénonce Marine Tondelier en évoquant les appuis de Donald Trump et Elon Musk à la candidate RN",
+    "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-denonce-marine-tondelier-en-evoquant-les-appuis-de-donald-trump-et-elon-musk-a-la-candidate-rn_8283797.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 20:02:15 +0100",
+    "excerpt": "Marine Tondelier était l'invitée du Grand Enjeu sur franceinfo ce dimanche 15 novembre. La candidate des Écologistes à l'élection présidentielle est revenue sur les déclarations d'Emmanuel Macron concernant Marine Le Pen et Jean-Luc Mélenchon et leur position sur la guerre en Ukraine. Elle a également critiqué le bilan du chef de l'État et alerté sur les risques d'une arrivée de l'extrême droite au pouvoir.",
+    "personalitiesSuggested": [
+      "marine-le-pen",
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "adhesion-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.393629+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "66e2c11a3a742238afcc1cfc": {
+    "id": "66e2c11a3a742238afcc1cfc",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en dix ans",
+    "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 19:08:54 +0100",
+    "excerpt": "Pour faire baisser les prix de l'immobilier, le candidat Horizons entend \"construire plus et louer beaucoup plus\", grâce en particulier à \"des normes simplifiées et une fiscalité avantageuse\".",
+    "personalitiesSuggested": [
+      "edouard-philippe"
+    ],
+    "questionsSuggested": [
+      "places-prison",
+      "passoires-thermiques"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.395155+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e19db8073eac9e232554d58c": {
+    "id": "e19db8073eac9e232554d58c",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
+    "url": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 19:02:53 +0100",
+    "excerpt": "Le maire RN du secteur a dénoncé les agissements d'une \"milice d'extrême gauche\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.396285+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "59a0f2595134528e55971dd7": {
+    "id": "59a0f2595134528e55971dd7",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Francophonie : l'élection du secrétaire général reportée, Macron salue un \"compromis\"",
+    "url": "https://www.france24.com/fr/france/20261116-francophonie-oif-vote-%C3%A9lection-secr%C3%A9taire-g%C3%A9n%C3%A9ral-louise-mushikiwabo-rwanda-rd-congo-juliana-lumumba-dacian-ciolos-coumba-ba",
+    "sourcePublishedAt": "Mon, 16 Nov 2026 07:01:33 GMT",
+    "excerpt": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie a été reportée d'un an lundi à Phnom Penh, au Cambodge. Après deux mandats de Louise Mushikiwabo, la République démocratique du Congo, qui accuse le Rwanda de soutenir le groupe armé rebelle du M23 dans ses provinces de l'Est, s'opposait à une reconduction de la Rwandaise à la tête de l'OIF. Emmanuel Macron a salué un \"compromis\" à l'issue du vote.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.907239+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "eb27935bc4e376139bf17429": {
+    "id": "eb27935bc4e376139bf17429",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Les rassemblements autour de certains lycées et universités interdits à Paris",
+    "url": "https://www.france24.com/fr/france/20261115-les-rassemblements-autour-de-certains-lyc%C3%A9es-et-universit%C3%A9s-interdits-%C3%A0-paris",
+    "sourcePublishedAt": "Sun, 15 Nov 2026 20:19:27 GMT",
+    "excerpt": "Publié dimanche, un arrêté préfectoral prévoit l'interdiction de tout rassemblement ou cortège non déclaré \"dans un rayon de 100 mètres\" autour de dix lycées et cinq sites universitaires de Paris. Le syndicat étudiant Unef a exigé son \"retrait immédiat\" et annoncé saisir le tribunal administratif en référé.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.909058+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ba3e37a53c68911784740b9e": {
+    "id": "ba3e37a53c68911784740b9e",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-victorin-lurel-s%C3%A9nateur-ps-de-la-guadeloupe-l-oisivet%C3%A9-est-la-m%C3%A8re-de-tous-les-vices",
+    "sourcePublishedAt": "Sat, 14 Nov 2026 16:28:09 GMT",
+    "excerpt": "Chaque semaine, Judith Grimaldi reçoit un invité dans son émission \"Avec Judith.\" Cette fois-ci, c'est le sénateur PS de la Guadeloupe Victorin Lurel. Il revient sur son parcours de vie, et réagit notamment au taux de chômage élevé en Guadeloupe ainsi qu'à la candidature à l'élection présidentielle de Teddy Riner.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-16T09:50:55.910930+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

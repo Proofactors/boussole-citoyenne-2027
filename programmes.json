@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date_generation": "2026-11-15T13:28:17+00:00",
+  "date_generation": "2026-11-16T09:51:32+00:00",
   "avertissement": "Référencement des programmes officiels, non validation de toutes leurs mesures. Aucune position politique n’est inférée.",
   "sources": [
     {
@@ -12,8 +12,8 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "Texte officiel en ligne de la 5e édition de L’Avenir en commun, publié le 6 novembre 2026. La page d’index renvoie aux chapitres : la couverture exhaustive nécessite le suivi de ces pages.",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:04+00:00",
-      "empreinte_sha256": "6491a859fcb81a72d9a42d7f75fe0415a422d54642636199ca1beb76813b1ccf",
+      "date_verification": "2026-11-16T09:51:19+00:00",
+      "empreinte_sha256": "08a18e16784823c79bdf6a11a96597f8801c7eff13789657568d52b46c436abb",
       "aperçu": "L’Avenir en commun – Table des matières - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle Aller au contenu Accueil Programme Découvrir le programme L’Avenir en"
     },
     {
@@ -25,10 +25,9 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "Pour une prospérité écologique, document officiel des Écologistes, juillet 2026; programme du parti, non validation de candidature.",
       "statut": "indisponible",
-      "date_verification": "2026-11-15T13:28:05+00:00",
+      "date_verification": "2026-11-16T09:51:19+00:00",
       "empreinte_sha256": null,
-      "diagnostic": "ValueError: Document trop volumineux",
-      "dernier_document_valide": "ceb132e68567422039df64c526c6e5dc540c32b54d825cd56b792bfb1c81ab05"
+      "diagnostic": "ValueError: Document trop volumineux"
     },
     {
       "personnalite_id": "juan-branco",
@@ -39,7 +38,7 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "La Voie : 845 mesures présentées en 24 thèmes",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:06+00:00",
+      "date_verification": "2026-11-16T09:51:20+00:00",
       "empreinte_sha256": "518c58338fd67620e050b451f43523b0ca4eaa0bd7f3909e53c7aac744877e7f",
       "aperçu": "Le Projet 2027 — Programme en 6 piliers | Ruches Françaises Le Mouvement Branco 2027 Ressources Faire un don Connexion Le Mouvement Un mouvement citoyen organisé en cellules locale"
     },
@@ -52,8 +51,8 @@
       "statut_editorial": "propositions_2027_partielles",
       "note_editoriale": "Présentation du projet économique 2027 le 12 novembre 2026; document thématique non programme intégral.",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:08+00:00",
-      "empreinte_sha256": "9795954785262fd42c825d0194a17cd6c94b66a62b18a9adde919c6247ba3e89",
+      "date_verification": "2026-11-16T09:51:22+00:00",
+      "empreinte_sha256": "9bf393ff3358b05cb9e66d19558761960b56b59184eb1b8f2b19efb80f59e217",
       "aperçu": "Présentation du projet économique 2027 - DUPONT-AIGNAN 2027 Skip to content Skip to footer DUPONT-AIGNAN 2027 Aider Donner Actualités Parrainages Projet Réseaux sociaux Nicolas Dup"
     },
     {
@@ -65,8 +64,8 @@
       "statut_editorial": "programme_2027_partiel",
       "note_editoriale": "Le Projet 2027 : propositions organisées en rubriques",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:09+00:00",
-      "empreinte_sha256": "30d01226bad7854c7ef0ba91d9bb4e1d09ce987a26d3cf028ed6111c48680f79",
+      "date_verification": "2026-11-16T09:51:23+00:00",
+      "empreinte_sha256": "fd077625ccdb29ace1f4defa8dd8b7ee3bfd9bf2181e1a872882860b633252d4",
       "aperçu": "Programme - Dieudonné et Francis Lalanne : Campagne présidentielle 2027 ☀ Dieudo Lalanne 2027 — Pour une France Libre, Souveraine et Solaire ☀ ☀ DIEUDO LALANNE 2027 Accueil La Tour"
     },
     {
@@ -78,7 +77,7 @@
       "statut_editorial": "documents_anterieurs_non_valides_2027",
       "note_editoriale": "Livrets antérieurs : la rubrique RN les rattache à la présidentielle 2022",
       "statut": "indisponible",
-      "date_verification": "2026-11-15T13:28:09+00:00",
+      "date_verification": "2026-11-16T09:51:23+00:00",
       "empreinte_sha256": null,
       "diagnostic": "HTTPError: HTTP Error 307: Temporary Redirect"
     },
@@ -91,8 +90,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques : pas un programme 2027 intégral",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-15T13:28:10+00:00",
-      "empreinte_sha256": "da7588069d9d648738ab68aaf6aa3fead37abb5076400b74e74d8291afff0999",
+      "date_verification": "2026-11-16T09:51:24+00:00",
+      "empreinte_sha256": "da97a029217be67059f7964556f703f57c6c3c0647076215338843b0d506c682",
       "aperçu": "Nos propositions sur le travail et la compétitivité - Les Républicains Skip to the content Qui sommes-nous ? Votre Fédération Nos propositions Actualités Je donne J'adhère Qui somm"
     },
     {
@@ -104,8 +103,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Notes et travaux du pôle Idées : pas un programme 2027 intégral",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-15T13:28:11+00:00",
-      "empreinte_sha256": "0936ed431313d7ad4dd5e1ea99eea2887dd6df7d9206f7e3867e30a81b01ca3d",
+      "date_verification": "2026-11-16T09:51:25+00:00",
+      "empreinte_sha256": "827b08ea0b72418beda2a93a421467ba1ac42bdf92373b1300515a322d9169e5",
       "aperçu": "Le pôle Idées - Horizons Le parti Le parti Les instances nationales Iéna Commission nationale d’investiture Les parlementaires L’Assemblée des maires Secrétaires nationaux Le pôle "
     },
     {
@@ -117,8 +116,8 @@
       "statut_editorial": "propositions_officielles",
       "note_editoriale": "Propositions thématiques concernant notamment les retraites",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-15T13:28:12+00:00",
-      "empreinte_sha256": "b38ae6bd5cf5c43774294ecafbcfb621d160aff20da59adcf33844c871ee6827",
+      "date_verification": "2026-11-16T09:51:27+00:00",
+      "empreinte_sha256": "c26283b85b91963f23693c9272caf08aa6add3088f315a58ccb6efb694bc95ec",
       "aperçu": "Bâtissons un nouveau modèle de retraite Le parti Nos départements Nos événements Mon espace J'adhère Votre signature a été confirmée Bâtissons un nouveau modèle de retraite Âge de "
     },
     {
@@ -130,8 +129,8 @@
       "statut_editorial": "propositions_2027_partielles",
       "note_editoriale": "Livret thématique (24 pages), annoncé le 9 novembre 2026 ; ne constitue pas le programme présidentiel complet.",
       "statut": "page_officielle_a_examiner",
-      "date_verification": "2026-11-15T13:28:13+00:00",
-      "empreinte_sha256": "2b98c98e3326dfb31f7d724500a7048eec4dbef26b2446ee74c54a0edbc035d6",
+      "date_verification": "2026-11-16T09:51:27+00:00",
+      "empreinte_sha256": "28377b8bdf0c13ebf056ea205d5fe478fd697a454d17109cde13f962cdc91acb",
       "aperçu": "Révolution écologique : les premiers 100 jours – Raphaël Glucksmann, candidat à l’élection présidentielle de 2027 Aller au contenu Accueil Les 100 jours Contact Je rejoins la campa"
     },
     {
@@ -143,8 +142,8 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "Programme présidentiel 2027 présenté par Solution Démocratique, 5 novembre 2026.",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:14+00:00",
-      "empreinte_sha256": "af261ee00d5f5633d0cfa17a9e365a7db2f871052c3b9cdbdfc7840b49c1a68f",
+      "date_verification": "2026-11-16T09:51:28+00:00",
+      "empreinte_sha256": "3e0c2bb82bbd49c7322cdbea1bbbf8640c4e69cfbe77924e7b213cdacb4cd0f8",
       "aperçu": "Programme présidentielle 2027 Solution Démocratique (C. Egger) Aller au contenu Accueil Programme Qui sommes-nous ? Adhérez Faites un don 🛒 Rechercher : Rechercher Rechercher Accue"
     },
     {
@@ -156,7 +155,7 @@
       "statut_editorial": "programme_2027_publie",
       "note_editoriale": "Le programme de Nouvelle Énergie pour 2027 (document de parti).",
       "statut": "programme_officiel_reference",
-      "date_verification": "2026-11-15T13:28:16+00:00",
+      "date_verification": "2026-11-16T09:51:31+00:00",
       "empreinte_sha256": "464c3a05f211992b213fdc73f2ce66dbf26af703c6cdbe1e905bccf0bbf0f03c",
       "aperçu": "Le programme pour 2027 | Nouvelle Énergie Aller au contenu Réglages d’affichage Mon compte Agenda Nous contacter J’adhère Donnez Découvrir notre parti Programme Actualités J’adhère"
     }
