@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T09:50:57.794220+00:00",
-  "total": 982,
+  "generatedAt": "2026-11-17T08:27:02.617535+00:00",
+  "total": 1021,
   "statistiques": {
-    "a_examiner_en_priorite": 18,
-    "a_qualifier": 353,
-    "signal_non_qualifie": 611
+    "a_examiner_en_priorite": 21,
+    "a_qualifier": 366,
+    "signal_non_qualifie": 634
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -3947,6 +3947,214 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Des dizaines d'Algériens furent tués et jetés dans la Seine par des policiers lors de manifestations à Paris le 17 octobre 1961."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5d3280ea5369947aba57b41a",
+      "title": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 09:18:39 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Manuel Bompard, coordinateur national de la France insoumise, député des Bouches-du-Rhône, est l'invité du \"8h30 franceinfo\", le 17 novembre 2026."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d135be58b15a16a6efdacf7b",
+      "title": "Marine Le Pen \"a toujours été alignée sur les positions du Kremlin\", estime Benjamin Haddad, ministre chargé de l'Europe",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen-a-toujours-ete-alignee-sur-les-positions-du-kremlin-estime-benjamin-haddad-ministre-charge-de-l-europe_8286116.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 08:57:00 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Benjamin Haddad, ministre chargé de l'Europe, était l'invité des \"4 Vérités\", mardi 17 novembre.",
+        "Il est revenu sur le projet de Marine Le Pen d'arrêter de soutenir financièrement l'Ukraine si elle était élue.",
+        "Selon lui, ce soutien garantit la sécurité de la France et de l'Europe."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3c11fe12617e1ccd95044a6d",
+      "title": "\"J'ai fait de mon mieux\", Emmanuel Macron fait le bilan de ses deux mandats",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-fait-le-bilan-de-ses-deux-mandats_8286098.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 08:00:36 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron a marqué, lundi 16 novembre, les dix ans de l’annonce de sa première candidature à l’Elysée par un message sur X, affirmant avoir “fait de [son] mieux pour l’intérêt supérieur du pays”, tout en concédant “parfois des erreurs”."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "492f24dddd2b9064c8221b5c",
+      "title": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
+      "url": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 07:04:35 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les sénateurs ont adopté des amendements supprimant entièrement cette mesure susceptible de rapporter environ 4 milliards d'euros.",
+        "La majorité de droite et du centre a toutefois promis d'accepter une part d'effort des retraités pour freiner le déficit."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7bb61795278a771ccad89881",
+      "title": "En direct : nouvelle journée de mobilisation et de grève dans la fonction publique",
+      "url": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 06:57:54 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les syndicats appellent les agents de la fonction publique à une nouvelle journée d'action mardi pour protester contre la vie chère.",
+        "Des dizaines de manifestations sont prévues à travers le pays, auxquelles doivent également participer des organisations étudiantes et de Gilets jaunes qui entendent poursuivre la mobilisation débutée en septembre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a51f2f1b8404e8808bdb9ff4",
+      "title": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+      "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 06:44:29 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le sujet agite la droite et le centre en ce moment, en vue de l'élection présidentielle.",
+        "Edouard Philippe répète qu'il n'y participera pas, mais les trois autres candidats appelés par Gérard Larcher semblent s'y préparer."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "94b41aa8e9ae2c86b29ea06b",
+      "title": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+      "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 06:35:04 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "retraite-62",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "legal"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "retraite-65",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "legal"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La candidate Marine Le Pen, le patron du RN Jordan Bardella et le député Jean-Philippe Tanguy présentent mardi matin l'un des projets phares de leur programme : leur réforme des retraites, en vue de la présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5be9019ea3d6af33e3ba7c63",
+      "title": "Dans les lycées, le personnel éducatif éprouvé après deux mois de mobilisation",
+      "url": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 06:29:49 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que 25 lycées étaient toujours perturbés lundi en Île-de-France, selon la région, France 24 a échangé avec des personnels éducatifs de trois établissements.",
+        "Enseignants et membres de la vie scolaire témoignent, après deux mois de mobilisation, des relations dégradées avec les directions, de l'inquiétude pour les élèves et des adaptations organisationnelles bâclées."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "058aa6406a91cadbd983d0b4",
+      "title": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 05:41:37 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-societe-08",
+          "theme": "societe",
+          "keywords": [
+            "entreprises",
+            "obligations",
+            "renforcer"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-securite-08",
+          "theme": "securite",
+          "keywords": [
+            "entreprises",
+            "securite"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le texte prévoit de durcir les obligations de sécurité informatique pour de nombreuses entreprises et administrations, et doit renforcer les pouvoirs du \"cyber-pompier\" français."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -13943,6 +14151,599 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "\"Cela nous a été dit clairement par les services de renseignements\", a déclaré Sébastien Lecornu, lundi, à l'issue d'une nouvelle cellule interministérielle de crise."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b052519ceddd61da454fd825",
+      "title": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 23:11:50 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Au Cambodge, le sommet de la Francophonie s’est achevé ce lundi sur le report d’un an de l’élection à la tête de l’organisation.",
+        "En cause notamment : les tensions entre la République démocratique du Congo et le Rwanda.",
+        "La secrétaire générale, la Rwandaise Louise Mushikiwabo, reste donc en poste jusqu’au prochain scrutin."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d077d13a946409da476a72ec",
+      "title": "L'Assemblée adopte un texte soutenu par le gouvernement pour faciliter le déblocage de l'épargne salariale",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/l-assemblee-adopte-un-texte-soutenu-par-le-gouvernement-pour-faciliter-le-deblocage-de-l-epargne-salariale_8285510.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 22:46:35 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La proposition de loi doit désormais faire l'objet d'un compromis entre députés et sénateurs lors d'une prochaine commission mixte paritaire."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d79f41046a4ef5deafd792fc",
+      "title": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
+      "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 22:39:30 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les candidats à la présidentielle française Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont débattu lundi soir sur les inégalités, le pouvoir d’achat et la solidarité, lors d’un débat organisé en région parisienne dans un entrepôt des Restos du Cœur, en l’absence d’Édouard Philippe."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "13f605c7690383980f78d4f5",
+      "title": "Marine Le Pen réitère auprès de l'ambassadeur ukrainien que la France ne pourrait \"plus aider financièrement\" Kiev si elle est élue",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 22:09:09 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La candidate du RN à la présidentielle a cependant assuré qu'elle \"tiendrait les engagements pris jusqu'à présent par la France\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ae284dcc0f915dcd1113d8cc",
+      "title": "Ukraine : Marine Le Pen confirme à l'ambassadeur la fin de l'aide financière si elle est élue",
+      "url": "https://www.france24.com/fr/france/20261116-ukraine-marine-le-pen-confirme-%C3%A0-l-ambassadeur-la-fin-de-l-aide-financi%C3%A8re-si-elle-est-%C3%A9lue",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 21:46:15 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Los d'une rencontre lundi avec l'ambassadeur d'Ukraine à Paris, Marine Le Pen a réaffirmé que si elle était élue à l'Élysée \"l'état des finances publiques de la France ne permett(rait) plus d'aider financièrement l'Ukraine dans les prochains mois\", selon un communiqué du Rassemblement national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0d1d8c394bfce0a92b33f805",
+      "title": "\"J'ai fait de mon mieux\" : Emmanuel Macron dresse un bilan de son passage à l'Élysée sous forme de mea culpa pour les dix ans de sa candidature à la présidentielle",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-dresse-un-bilan-de-son-passage-a-l-elysee-sous-forme-de-mea-culpa-pour-les-dix-ans-de-sa-candidature-a-la-presidentielle_8285444.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 21:29:05 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "\"J'ai fait de mon mieux\", écrit Emmanuel Macron dans un message sur les réseaux sociaux ce lundi 16 novembre, qui sonne comme un premier bilan.",
+        "Il y a 10 ans jour pour jour, il se lançait dans la course à l'Élysée.",
+        "Ce soir, il reconnaît des \"erreurs\", sans dire lesquelles."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2b49960f3191a514ed103095",
+      "title": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
+      "url": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 20:53:52 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président de la République s'est exprimé lundi sur X à l'occasion des dix ans de l'annonce de sa première candidature à la présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5b30055037ae1154fc7257e3",
+      "title": "Emmanuel Macron reconnaît des \"erreurs\" durant ses quinquennats : \"Il ne s'est pas trompé, c'est sa politique qui était une erreur\", réagit Alexis Corbière",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron-reconnait-des-erreurs-durant-ses-quinquennats-il-ne-s-est-pas-trompe-c-est-sa-politique-qui-etait-une-erreur-reagit-alexis-corbiere_8285372.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 20:25:45 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sur le plateau du \"Duel\" du 16 novembre, le député Écologiste et Social de Seine-Saint-Denis est notamment revenu sur le message publié par le président de la République sur X, à l'occasion des dix ans de sa première candidature à l'Élysée.",
+        "Face à lui, Céline Imart, eurodéputée et vice-présidente Les Républicains, déplore une continuité du \"en même temps\" macroniste dans ce bilan."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4467ba84ac8007c920b6ac55",
+      "title": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
+      "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 18:35:29 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron a posté, lundi, un message sur X en forme de bilan pour les 10 ans de l'annonce de sa première candidature à l'Élysée.",
+        "\"J'ai fait de mon mieux\", a-t-il assuré, tout en concédant \"parfois des erreurs\", à six mois de la fin de son second mandat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "81d6fe28616d9ff0a2a43139",
+      "title": "La primaire de la droite, \"un aveu d’échec\" pour Gabriel Attal et Bruno Retailleau",
+      "url": "https://www.france24.com/fr/france/20261116-france-presidentielle-2027-primaire-de-la-droite-un-aveu-dechec-pour-gabriel-attal-et-bruno-retailleau",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 17:57:20 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "gabriel-attal",
+        "bruno-retailleau"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après y avoir longtemps été opposés, Gabriel Attal et Bruno Retailleau appellent désormais de leurs vœux à l’organisation d’une primaire pour désigner un candidat unique de la droite et du centre.",
+        "L'objectif : éviter un second tour de la présidentielle opposant Marine Le Pen et Jean-Luc Mélenchon.",
+        "Un revirement qui coïncide avec leur chute conjointe dans les sondages."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e14270feba9384f64655d27c",
+      "title": "Triple narchomicide à Marseille en 2020 : deux accusés condamnés à la perpétuité",
+      "url": "https://www.france24.com/fr/france/20261116-triple-narchomicide-%C3%A0-marseille-en-2020-deux-accus%C3%A9s-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 17:23:12 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "courtes-peines",
+          "theme": "securite",
+          "keywords": [
+            "peines",
+            "prison"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-securite-04",
+          "theme": "securite",
+          "keywords": [
+            "peines",
+            "prison"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Deux figures du narcobanditisme marseillais jugées pour un triple assassinat ont été condamnées, lundi, à des peines de prison à perpétuité assorties d'une période de sûreté.",
+        "L'une des victimes est le frère aîné du militant antitrafic Amine Kessaci."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1ad57e0f1da934169b6948a7",
+      "title": "\"Des promesses qui ne pourront pas être tenues\", déplore le président UDI du Loiret qui décline l'invitation à Matignon concernant le budget 2027",
+      "url": "https://www.franceinfo.fr/economie/budget/des-promesses-qui-ne-pourront-pas-etre-tenues-deplore-le-president-udi-du-loiret-qui-decline-l-invitation-a-matignon-concernant-le-budget-2027_8285018.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 17:13:32 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre Sébastien Lecornu a invité lundi après-midi des présidents de départements et de collectivités territoriales à compétences départementales en métropole et en Outre-mer afin de répondre aux inquiétudes concernant le budget 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "345515f83273e750900431af",
+      "title": "Triple narchomicide en France : l'heure du verdict pour la DZ Mafia",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-triple-narchomicide-en-france-l-heure-du-verdict-pour-la-dz-mafia",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 16:06:48 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les cinq accusés ont tour à tour présenté leurs \"condoléances\" aux familles des victimes lundi 16 novembre, sous le regard notamment d'Amine Kessaci et de sa mère, Ouassila, qui portait un pull blanc orné du portrait de son fils cadet Mehdi, lui aussi assassiné.",
+        "Ce jeune homme de 20 ans, étranger au narcotrafic, a été abattu en plein jour à Marseille il y a un an, en novembre 2025.",
+        "Le verdict du procès pour triple narchomicide est attendu dans la journée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b9dbb4bebe1d36e52898e05a",
+      "title": "Procès Depardieu : \"je croyais mes gestes sans conséquence, ils ne l'étaient pas\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-proc%C3%A8s-depardieu-je-croyais-mes-gestes-sans-cons%C3%A9quences-ils-ne-l-%C3%A9taient-pas",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 16:04:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Reconnaissant que ses propos et \"certains de (ses) gestes\" n'étaient pas \"sans conséquence\", \"particulièrement de la part d'un personnage puissant tel que j'ai pu l'être\", admet Gérard Depardieu, condamné à 18 mois de prison avec sursis.",
+        "L'acteur âgé de 77 ans, a été reconnu coupable d'avoir agressé sexuellement Amélie, une décoratrice, et Sarah (prénom modifié), une assistante réalisatrice sur le film de Jean Becker sorti en 2022."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6105f046e94f841a2bb2436b",
+      "title": "France : Depardieu condamné pour agressions sexuelles, les victimes soulagées mais perplexes",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-depardieu-condamn%C3%A9-pour-agressions-sexuelles-les-victimes-soulag%C3%A9es-mais-perplexes",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:55:12 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "keywords": [
+            "condamne",
+            "peine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Gérard Depardieu a renoncé, lundi 16 novembre, à son procès en appel pour agressions sexuelles lors du tournage du film \"Les Volets verts\", présentant des \"excuses profondes et sincères\" aux plaignantes et rendant définitive sa peine de 18 mois de prison avec sursis.",
+        "La fin d'une ère d'omerta pour les victimes qui restent perplexes : \"j'aurais aimé que les excuses arrivent plus tôt (...) ça aurait été mieux qu'il soit là\" déclare Amélie, une des deux victimes ayant remporté le procès."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7e7cf29df61e015eb0b484f9",
+      "title": "Un quart des Français adhèrent encore à des préjugés antisémites, alerte une étude",
+      "url": "https://www.franceinfo.fr/societe/antisemitisme/un-quart-des-francais-adhere-encore-a-des-prejuges-antisemites-alerte-une-etude_8284583.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:33:47 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon un sondage de l'Ifop et de la Fondapol pour l'American Jewish Committee, paru lundi, 24% des Français pensent que les juifs ont \"trop de pouvoir dans le domaine des médias\" ou \"dans le domaine de l'économie et de la finance\".",
+        "Des niveaux comparables à ceux d'il y a douze ans."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8a9b59a2b853091f7b6b9697",
+      "title": "Épilogue du procès Kessaci en France : émotions et tensions en salle d'audience",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-%C3%A9pilogue-du-proc%C3%A8s-kessaci-en-france-%C3%A9motions-et-tensions-en-salle-d-audience",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:23:19 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avant que les magistrats ne se retirent, le lundi 16 novembre au matin, pour délibérer, les deux figures du narcotrafic, Amine Oualane et Karim Harrat, ont une nouvelle fois nié toute implication dans l'assassinat, en 2020, de Reda, de Nassim et de Brahim, frère aîné d'Amine Kessaci, mort à 22 ans.",
+        "La cour d'assises rendra son verdict dans la journée.",
+        "Les précisions de Frédéric Saliba, journaliste spécialiste du narcotrafic."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3203315bef759fe9fd9344e2",
+      "title": "APPEL A TEMOIGNAGES. Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:20:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre, candidat Renaissance à la présidentielle de 2027, est l'invité de Caroline Roux, jeudi soir sur France 2."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "28b5a27d5eacddd862c21a97",
+      "title": "APPEL A TEMOIGNAGES. Présidentielle 2027 : posez vos questions à Gabriel Attal, invité de \"L'Heure de vérité\"",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/appel-a-temoignages-presidentielle-2027-posez-vos-questions-a-gabriel-attal-invite-de-l-heure-de-verite_8284901.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:20:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre, candidat Renaissance à la présidentielle de 2027, est l'invité de Caroline Roux, jeudi soir sur France 2."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "749d6319cbe5dc195cc49e6d",
+      "title": "Triple narchomicide en France : retour sur le procès mené par la famille Kessaci",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-triple-narchomicide-en-france-retour-sur-le-proc%C3%A8s-men%C3%A9-par-la-famille-kessaci",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:20:28 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après un mois de débats sous haute tension au procès d'un triple narchomicide sanglant commis près de Marseille, la cour d’assises rend, lundi 16 novembre, son verdict, très attendu par Amine Kessaci, militant anti-narcotrafic dont le frère aîné est l'une des trois victimes.",
+        "Dans ce dossier, qui illustre l'ultra-violence des réseaux de drogue de la cité phocéenne, des peines de réclusion à perpétuité ont été requises pour quatre des cinq co-accusés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "43aaeb14775241979c822c1d",
+      "title": "Transports, cortèges… Quelles perturbations pour la mobilisation du 17 novembre ?",
+      "url": "https://www.franceinfo.fr/societe/manifestations/transports-corteges-quelles-perturbations-pour-la-mobilisation-du-17-novembre_8284916.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 15:07:35 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une nouvelle journée de mobilisation se tiendra mardi 17 novembre, à l'appel des syndicats de la fonction publique, qui réclament toujours des hausses de salaires.",
+        "Les lycéens et étudiants ont déjà prévu de se joindre au mouvement.",
+        "À quelles perturbations faut-il s'attendre ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a8c1e1d0d10c030354bcecfe",
+      "title": "\"Nous pouvons sortir de la dette\" plaide François Villeroy de Galhau",
+      "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/nous-pouvons-sortir-de-la-dette-plaide-francois-villeroy-de-galhau_8284859.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 13:43:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "François Villeroy de Galhau, ancien Gouverneur de la Banque de France, estime que malgré la situation des finances publiques, la France peut parvenir à régler son problème de la dette."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8c7bec1590a67107c0f6d3f3",
+      "title": "Sommet de l'OIF : l'élection du secrétaire général reportée, Macron salue \"un compromis\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-report%C3%A9e-macron-salue-un-compromis",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 13:41:48 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'élection du secrétaire général de l'Organisation internationale de la Francophonie (OIF) a été reportée d'un an ce lundi 16 novembre, faute de consensus.",
+        "Dans un communiqué, la présidence française a salué \"l'esprit de responsabilité des membres de la Francophonie qui a permis cette décision (...) et leur capacité, en son sein, à trouver le compromis\".",
+        "Les précisions d'Adrien Delgrange, envoyé spécial RFI."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "23e31449087e279eab0b5138",
+      "title": "\"Le rassemblement commence par la primaire\" de la droite et du centre pour la présidentielle, plaident un millier d'élus locaux dans une tribune",
+      "url": "https://www.franceinfo.fr/elections/le-rassemblement-commence-par-la-primaire-de-la-droite-et-du-centre-plaident-un-millier-d-elus-locaux-dans-une-tribune_8284796.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 13:41:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les signataires du texte paru lundi dans \"Le Figaro\" souhaitent \"éviter une prolifération de candidatures sur laquelle prospéreraient les extrêmes\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "88b2bb667a14d3eea363a7d0",
+      "title": "Présidentielle 2027 : la primaire de droite refusée par Édouard Philippe",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-pr%C3%A9sidentielle-2027-la-primaire-de-droite-refus%C3%A9e-par-%C3%A9douard-philippe",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 13:33:09 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À cinq mois du premier tour de l'élection présidentielle en France, la droite cherche son candidat pour \"éviter la dispersion des voix\", selon Gabriel Attal.",
+        "La question d'une primaire de droite se pose alors, bien qu'Édouard Philippe refuse catégoriquement d'y prendre part pour l'instant.",
+        "Les précisions de Fleur Simon, chroniqueuse politique à France 24."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "25fed796984535f89d15b507",
+      "title": "ÉDITO. Sur l'Ukraine, Marine Le Pen a-t-elle une \"position antipatriotique\" ?",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/edito-sur-l-ukraine-marine-le-pen-a-t-elle-une-position-antipatriotique_8284844.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 13:14:16 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "pouvoir",
+            "ukraine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Aide à l'Ukraine, rapport à la Russie, soutien à Volodymyr Zelensky… La guerre s'invite dans la campagne présidentielle.",
+        "Emmanuel Macron accuse Marine Le Pen de fragiliser le soutien français à Kiev.",
+        "La candidate à la présidentielle promet, en effet, de couper toute aide à l'Ukraine six mois après son arrivée au pouvoir."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f7e3ce692a87adf82bcee8b2",
+      "title": "VIDEO. Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+      "url": "https://www.franceinfo.fr/economie/retraite/il-y-a-30-ans-de-mensonges-sur-le-systeme-des-retraites-lance-jean-philippe-tanguy-depute-rn_8284433.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 11:41:43 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Jean-Philippe Tanguy, député Rassemblement national de la Somme et chargé du programme économique de Marine Le Pen pour la présidentielle, était l'invité des \"4 Vérités\" sur France 2, lundi 16 novembre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "060dd1d8c7b4756d027522c8",
+      "title": "France : le lycée Neslon Mandela rouvre ses portes à Nantes",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-france-le-lyc%C3%A9e-neslon-mandela-rouvre-ses-portes-%C3%A0-nantes",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 11:33:00 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le lycée Nelson-Mandela de Nantes, en partie incendié début octobre en marge de la mobilisation lycéenne, a rouvert ses portes lundi 16 novembre au matin pour une reprise partielle des cours, tandis que les travaux se poursuivent sur la partie des bâtiments encore endommagée.",
+        "Le ministre de l'Éducation, Édouard Geffray, venu pour la réouverture des portes du lycée, a été hué par des élèves lors de son arrivée, ces derniers étant consternés par le manque d'écoute de leurs revendications."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "757a8b1ed0156cf7db74d183",
+      "title": "Sommet de l'OIF : la Francophonie c'est quoi ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261116-sommet-de-l-oif-la-francophonie-c-est-quoi",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 10:32:27 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le sommet de l'Organisation internationale de la Francophonie (OIF) prend place tous les deux ans.",
+        "L'objectif principal : promouvoir la langue française et son apprentissage.",
+        "Les chefs d'État et de gouvernement des 90 membres de l'organisation, parmi lesquels le président français et le Premier ministre canadien Mark Carney, sont donc réunis depuis le 15 novembre jusqu'à ce lundi 16 au soir, à Phnom Penh, au Cambodge."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "38551bbacf219e3482e0942c",
+      "title": "Depardieu se désiste de son procès en appel pour agressions sexuelles et présente ses \"excuses\"",
+      "url": "https://www.france24.com/fr/france/20261116-g%C3%A9rard-depardieu-se-d%C3%A9siste-proc%C3%A8s-appel-agressions-sexuelles-pr%C3%A9sente-excuses",
+      "sourcePublishedAt": "Mon, 16 Nov 2026 10:11:54 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans un communiqué intitulé \"J'entends\" et publié lundi, Gérard Depardieu a annoncé \"assumer\" sa condamnation à 18 mois de prison avec sursis prononcée en mai 2025 pour deux agressions sexuelles commises sur le tournage d'un film.",
+        "L'acteur présente également des \"excuses, profondes et sincères\", à celles et ceux qui ont \"pu en souffrir\"."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-16T09:50:58.978778+00:00",
+  "generatedAt": "2026-11-17T08:27:04.020135+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -3798,6 +3798,212 @@
       "motif": null,
       "versionDiagnostic": 23,
       "nombreCaracteres": 9377,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "5d3280ea5369947aba57b41a",
+      "titre": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html",
+      "publication": "Tue, 17 Nov 2026 09:18:39 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9366,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d135be58b15a16a6efdacf7b",
+      "titre": "Marine Le Pen \"a toujours été alignée sur les positions du Kremlin\", estime Benjamin Haddad, ministre chargé de l'Europe",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen-a-toujours-ete-alignee-sur-les-positions-du-kremlin-estime-benjamin-haddad-ministre-charge-de-l-europe_8286116.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen-a-toujours-ete-alignee-sur-les-positions-du-kremlin-estime-benjamin-haddad-ministre-charge-de-l-europe_8286116.html",
+      "publication": "Tue, 17 Nov 2026 08:57:00 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14583,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "passageSource": "Francis Letellier : Hier, il y avait un rendez-vous très attendu entre Marine Le Pen et l'ambassadeur d'Ukraine en France, durant lequel Marine Le Pen est allée redire que si elle accédait au pouvoir, la France couperait les vivres à l'Ukraine, parce qu'elle n'en a plus les moyens.",
+          "motsCommuns": [
+            "pouvoir",
+            "ukraine"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "3c11fe12617e1ccd95044a6d",
+      "titre": "\"J'ai fait de mon mieux\", Emmanuel Macron fait le bilan de ses deux mandats",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-fait-le-bilan-de-ses-deux-mandats_8286098.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/emmanuel-macron/j-ai-fait-de-mon-mieux-emmanuel-macron-fait-le-bilan-de-ses-deux-mandats_8286098.html",
+      "publication": "Tue, 17 Nov 2026 08:00:36 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7263,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "492f24dddd2b9064c8221b5c",
+      "titre": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
+      "url": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/budget/le-senat-rejette-la-desindexation-des-retraites-sur-l-inflation-prevue-dans-le-budget-de-la-securite-sociale_8286014.html",
+      "publication": "Tue, 17 Nov 2026 07:04:35 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9689,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7bb61795278a771ccad89881",
+      "titre": "En direct : nouvelle journée de mobilisation et de grève dans la fonction publique",
+      "url": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
+      "urlEffective": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
+      "publication": "Tue, 17 Nov 2026 06:57:54 GMT",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4369,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a51f2f1b8404e8808bdb9ff4",
+      "titre": "Les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard négocient les modalités d'une potentielle primaire de la droite et du centre",
+      "url": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/primaire-ou-pas-primaire-gabriel-attal-bruno-retailleau-et-david-lisnard-semblent-favorables_8285471.html",
+      "publication": "Tue, 17 Nov 2026 06:44:29 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9735,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "94b41aa8e9ae2c86b29ea06b",
+      "titre": "Retour de l'âge légal de départ à 62 ans, capitalisation obligatoire… Le RN présente sa réforme des retraites",
+      "url": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/retour-de-l-age-legal-de-depart-a-62-ans-capitalisation-obligatoire-le-rn-presente-sa-reforme-des-retraites_8285453.html",
+      "publication": "Tue, 17 Nov 2026 06:35:04 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9219,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La candidate Marine Le Pen, le patron du RN Jordan Bardella et le député Jean-Philippe Tanguy présentent mardi matin l'un des projets phares de leur programme : leur réforme des retraites, en vue de la présidentielle.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen, Jordan Bardella et le député Jean-Philippe Tanguy seront présents pour présenter devant la presse la réforme des retraites qu'ils comptent appliquer s'ils remportent la présidentielle de 2027.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "5be9019ea3d6af33e3ba7c63",
+      "titre": "Dans les lycées, le personnel éducatif éprouvé après deux mois de mobilisation",
+      "url": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
+      "urlEffective": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
+      "publication": "Tue, 17 Nov 2026 06:29:49 GMT",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8799,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "058aa6406a91cadbd983d0b4",
+      "titre": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France",
+      "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html",
+      "publication": "Tue, 17 Nov 2026 05:41:37 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13701,
       "tentatives": 1,
       "passages": [],
       "modificationPositions": false
@@ -8560,6 +8766,334 @@
       "modificationPositions": false
     },
     {
+      "id": "3dc63246e3ab69489f126666",
+      "titre": "Présidentielle 2027 : la candidature de Teddy Riner peut-elle peser sur les résultats ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-pr%C3%A9sidentielle-2027-la-candidature-de-teddy-riner-peut-elle-peser-sur-les-r%C3%A9sultats",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261112-pr%C3%A9sidentielle-2027-la-candidature-de-teddy-riner-peut-elle-peser-sur-les-r%C3%A9sultats",
+      "publication": "Thu, 12 Nov 2026 14:47:44 GMT",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2512,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "f0879bf40c95e0e98b3274f3",
+      "titre": "Teddy Riner candidat à la présidentielle : \"Ni de droite, ni de gauche, c'est ce qu'on a vu pendant 10 ans\", ironise Raphaël Glucksmann",
+      "url": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-la-presidentielle-ni-de-droite-ni-de-gauche-c-est-ce-qu-on-a-vu-pendant-10-ans-ironise-raphael-glucksmann_8279291.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/sports/judo/teddy-riner/teddy-riner-candidat-a-la-presidentielle-ni-de-droite-ni-de-gauche-c-est-ce-qu-on-a-vu-pendant-10-ans-ironise-raphael-glucksmann_8279291.html",
+      "publication": "Thu, 12 Nov 2026 13:35:23 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9744,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b6012ad9ac663c81f30ea760",
+      "titre": "Présidentielle 2027 : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-fabien-roussel-propose-la-mise-en-place-de-60-000-policiers-gendarmes-et-douaniers-de-proximite_8279156.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-fabien-roussel-propose-la-mise-en-place-de-60-000-policiers-gendarmes-et-douaniers-de-proximite_8279156.html",
+      "publication": "Thu, 12 Nov 2026 13:29:18 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12339,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "passageSource": "Présidentielle 2027 : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité – franceinfo",
+          "motsCommuns": [
+            "gendarmes",
+            "policiers"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "passageSource": "Présidentielle 2027 : Fabien Roussel propose la mise en place de 60 000 \"policiers, gendarmes et douaniers\" de proximité",
+          "motsCommuns": [
+            "gendarmes",
+            "policiers"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "passageSource": "Le candidat du Parti communiste français à l'élection présidentielle, Fabien Roussel, propose de créer, s'il est élu, 60 000 postes de \"policiers, gendarmes et douaniers\" de proximité, pour lutter notamment contre le narcotrafic.",
+          "motsCommuns": [
+            "gendarmes",
+            "policiers"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Concernant son programme sur l'Éducation nationale, Fabien Roussel propose d'abord d' abroger la plateforme d'orientation post-bac Parcoursup ainsi que la réforme du baccalauréat mise en place par l'ancien ministre de l'Éducation nationale Jean-Michel Blanquer.",
+          "motsCommuns": [
+            "abroger",
+            "reforme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "fabien-roussel"
+          ],
+          "questionId": "extension-societe-01",
+          "theme": "societe",
+          "passageSource": "Enfin, concernant le logement, Fabien Roussel propose la mise en place d'un \"service public du logement qui garantisse le droit au logement pour tous\".",
+          "motsCommuns": [
+            "droit",
+            "logement"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "f0366dd1420d1e0f0997a156",
+      "titre": "Match de soutien à Christophe Gleizes : l'espoir d'une grâce présidentielle",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-match-de-soutien-%C3%A0-christophe-gleizes-l-espoir-d-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261112-match-de-soutien-%C3%A0-christophe-gleizes-l-espoir-d-une-gr%C3%A2ce-pr%C3%A9sidentielle",
+      "publication": "Thu, 12 Nov 2026 13:16:12 GMT",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2388,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "53ff9a2865fc3f3ecfdc9615",
+      "titre": "Les informés du matin du jeudi 12 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-12-novembre-2026_8258066.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-12-novembre-2026_8258066.html",
+      "publication": "Thu, 12 Nov 2026 12:34:12 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7996,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a8481414a1f311b747e98d92",
+      "titre": "ÉDITO. Quel avenir pour nos services publics dans la campagne présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/edito-quel-avenir-pour-nos-services-publics-dans-la-campagne-presidentielle_8279216.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/edito-quel-avenir-pour-nos-services-publics-dans-la-campagne-presidentielle_8279216.html",
+      "publication": "Thu, 12 Nov 2026 12:28:14 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7272,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen, qui va présenter mardi son projet de réforme des retraites, a \"une solution pour financer une part de capitalisation pour tous les Français\", assure Jean-Philippe Tanguy",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "d712fadb91b4174521f30133",
+      "titre": "Attentat raciste de Trappes : \"L'extrême droite tue la démocratie et l'extrême droite tue même celles et ceux qui l'exercent\", dénonce Fabien Roussel",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-de-trappes-l-extreme-droite-tue-la-democratie-et-l-extreme-droite-tue-meme-celles-et-ceux-qui-l-exercent-denonce-fabien-roussel_8279168.html",
+      "publication": "Thu, 12 Nov 2026 12:07:25 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9893,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "be6767434f23c17c129d4cd6",
+      "titre": "Ligue des Nations : la France affronte l'Italie sans Kylian Mbappé",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-ligue-des-nations-la-france-affronte-l-italie-sans-kylian-mbapp%C3%A9",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261112-ligue-des-nations-la-france-affronte-l-italie-sans-kylian-mbapp%C3%A9",
+      "publication": "Thu, 12 Nov 2026 12:01:53 GMT",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2592,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "2205a99d0b35e78dc7984943",
+      "titre": "Présidentielle 2027 : Gabriel Attal promet qu'il n'y aura \"pas de poste supprimé\" dans l'Éducation nationale s'il est élu",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-candidat-renaissance-gabriel-attal-promet-qu-il-n-y-aura-pas-de-poste-supprime-dans-l-education-nationale-s-il-est-elu_8278985.html",
+      "publication": "Thu, 12 Nov 2026 11:57:36 +0100",
+      "analyseLe": "2026-11-17T08:27:04.020135+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10933,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "places-prison",
+          "theme": "securite",
+          "passageSource": "Gabriel Attal dénonce également la surpopulation carcérale et veut construire davantage de places en prison.",
+          "motsCommuns": [
+            "construire",
+            "places",
+            "prison"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-securite-07",
+          "theme": "securite",
+          "passageSource": "Gabriel Attal dénonce également la surpopulation carcérale et veut construire davantage de places en prison.",
+          "motsCommuns": [
+            "carcerale",
+            "surpopulation"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "priorite-nationale",
+          "theme": "immigration",
+          "passageSource": "Interrogé enfin sur sa politique en matière de logement, Gabriel Attal veut créer une banque nationale d'investissement dans le logement pour faciliter l'accès à la propriété, domaine dans lequel les jeunes ont un sentiment de \"déclassement\".",
+          "motsCommuns": [
+            "logement",
+            "nationale"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
       "id": "dfcbbd6f1a4739c74ea21827",
       "titre": "Présidentielle 2027 : des députés communistes lâchent Fabien Roussel au profit de Jean-Luc Mélenchon",
       "url": "https://www.franceinfo.fr/politique/parti-communiste-francais/presidentielle-2027-des-deputes-communistes-lachent-fabien-roussel-au-profit-de-jean-luc-melenchon_8269967.html#xtor=RSS-3-%5Bgeneral%5D",
@@ -11749,10 +12283,10 @@
     }
   ],
   "statistiques": {
-    "documents": 590,
-    "textesLus": 585,
+    "documents": 608,
+    "textesLus": 603,
     "pdfLus": 0,
-    "passagesCandidats": 111,
+    "passagesCandidats": 123,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "http_404": 1,
