@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T08:27:02.617535+00:00",
-  "total": 1021,
+  "generatedAt": "2026-11-18T08:26:43.421013+00:00",
+  "total": 1051,
   "statistiques": {
-    "a_examiner_en_priorite": 21,
-    "a_qualifier": 366,
-    "signal_non_qualifie": 634
+    "a_examiner_en_priorite": 25,
+    "a_qualifier": 378,
+    "signal_non_qualifie": 648
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -292,6 +292,22 @@
       "extraitsRSS": [
         "Proposition de loi renforçant la transparence de la représentation d'intérêts, au service du débat démocratique : texte N° 24 de M.",
         "Arnaud BAZIN, déposé au Sénat le 12 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "44dcea31873e6b1a3b347aea",
+      "title": "Sanctuariser la liberté des artistes - texte N° 169",
+      "url": "http://www.senat.fr/leg/ppl26-169.html",
+      "sourcePublishedAt": "Wed,18 Nov 2026 02:03:35 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à sanctuariser la liberté des artistes et à renforcer l'effectivité des libertés de création, de diffusion et de programmation artistiques et culturelles : texte N° 169 de Mme Sylvie ROBERT et plusieurs de ses collègues, déposé au Sénat le 12 novembre 2026"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -1809,6 +1825,151 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "d895c9cbcfefb1935692010e",
+      "title": "Le colloque sur la \"négrophobie\" à l'Assemblée est un débat nécessaire pour \"faire bouger les lignes\", assure un député de Guyane",
+      "url": "https://www.franceinfo.fr/societe/racisme/le-colloque-sur-la-negrophobie-a-l-assemblee-est-un-debat-necessaire-pour-faire-bouger-les-lignes-assure-un-depute-de-guyane_8287850.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 09:08:51 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Davy Rimane est à l'origine du colloque consacré à la \"négrophobie\", la haine des noirs, à l'Assemblée nationale.",
+        "Faisant référence à l'attentat de Trappes, le député de Guyane espère voir un jour un texte de loi pour que le terme de \"négrophobie\", \"y apparaisse\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9d93d2f7bf04c853225cb506",
+      "title": "\"L'heure de vérité\". Avec Gabriel Attal",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/l-heure-de-verite-avec-gabriel-attal_8284823.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 09:05:17 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jeudi 19 novembre à 20h40 sur France 2, dans \"L'heure de vérité\", Caroline Roux reçoit Gabriel Attal, candidat Renaissance à l’élection présidentielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "65070c0c67ff1a016a91b33e",
+      "title": "Avec l'augmentation du SMIC, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du MEDEF",
+      "url": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 09:02:20 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Patrick Martin, président du MEDEF, était l'invité des \"4 Vérités\", mercredi 18 novembre.",
+        "Il est revenu sur l'augmentation du SMIC de 1,6% qui va entrer en vigueur le 1er décembre.",
+        "Selon lui, cette hausse entraînera des suppressions d'emplois en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0e2d6221ba7945fd0bc0c665",
+      "title": "VRAI OU FAUX. Est-il possible d'arrêter de subventionner des associations parce qu'elles sont \"politisées\", comme le souhaite Marine Le Pen ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-arreter-de-subventionner-des-associations-parce-qu-elles-sont-politisees-comme-le-souhaite-marine-le-pen_8266754.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 08:22:06 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La candidate du RN à la présidentielle annonce que, si elle remporte l'élection de 2027, elle cessera de financer certaines associations qu'elle juge trop politiques."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fd69d7d27b0ca27fc5aa2929",
+      "title": "EDITO. La primaire Koh-Lanta à droite et au centre : David Lisnard, Gabriel Attal et Bruno Retailleau face à l'épreuve des poteaux",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-la-primaire-koh-lanta-a-droite-et-au-centre-les-candidats-face-a-l-epreuve-des-poteaux_8266721.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 08:01:23 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après une première réunion des équipes des candidats mardi, l’idée d’une primaire de la droite et du centre fin janvier prend forme, même si Édouard Philippe refuse toujours d'y participer."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "27379392cb58ef48f1d8ac9b",
+      "title": "Le premier procès d'ampleur du masculinisme s'ouvre à Paris, sept hommes jugés",
+      "url": "https://www.france24.com/fr/france/20261118-premier-proc%C3%A8s-ampleur-masculinisme-s-ouvre-paris-sept-hommes-jug%C3%A9s",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 07:51:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sept hommes faisant partie de la mouvance masculiniste comparaissent mercredi et jeudi devant le tribunal judiciaire de Paris pour des publications en ligne relayant des propos misogynes, racistes, antisémites ainsi que des références nazies.",
+        "Ce premier procès d'ampleur du masculinisme doit être suivi de plusieurs autres audiences jusqu'en janvier pour juger au total 34 membres d'un canal Telegram."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "70411440f0ec3504d852623b",
+      "title": "A suivre Alban Mikoczy : dîner Mélenchon/patrons, la soupe à la grimace ?",
+      "url": "https://www.franceinfo.fr/politique/melenchon/a-suivre-alban-mikoczy-diner-melenchon-patrons-la-soupe-a-la-grimace_8287691.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 06:39:25 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans cette deuxième partie, Alban Mikoczy et ses invités parlent du dîner entre Jean-Luc Mélenchon et des grands patrons qui s'est tenu mardi 17 novembre au soir.",
+        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "836ae8abef389e216216968e",
+      "title": "\"Il est déjà au coin du ring, il pourrait en tomber\" : comment Edouard Philippe a perdu son statut d'ultra-favori de la droite et du centre pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/il-est-deja-au-coin-du-ring-il-pourrait-en-tomber-comment-edouard-philippe-a-perdu-son-statut-d-ultra-favori-de-la-droite-et-du-centre-pour-la-presidentielle_8286176.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Wed, 18 Nov 2026 05:45:03 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre n'en finit pas de dégringoler dans les sondages, qui ne lui prédisent désormais plus une accession au second tour.",
+        "Ses soutiens s'inquiètent d'une campagne \"convenue\" et ses rivaux accentuent la pression pour lui imposer une primaire, qu'il refuse catégoriquement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "6788bba258af899ba1d80975",
       "title": "Plus de cent constitutionnalistes critiquent le référendum pour changer la Constitution tel que proposé par Marine Le Pen",
       "url": "https://www.franceinfo.fr/politique/marine-le-pen/plus-de-cent-constitutionnalistes-critiquent-le-referendum-pour-changer-la-constitution-tel-que-propose-par-marine-le-pen_8278388.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -3136,6 +3297,48 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "572a51d0912c97c8d7a9cb45",
+      "title": "Transparence salariale et PME dans l'économie de la défense : la délégation aux entreprises lance deux nouvelles missions d'information",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/17-11-2026/transparence-salariale-et-pme-dans-leconomie-de-la-defense-la-dae-lance-deux-missions-dinformation.html",
+      "sourcePublishedAt": "Tue,17 Nov 2026 17:51:40 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-08",
+          "theme": "securite",
+          "keywords": [
+            "entreprises",
+            "missions"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Communiqué de presse du 17/11/2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3ed22883ec892fad398b96c1",
+      "title": "Projet de loi de finances de fin de gestion pour 2026 - rapport n° 176",
+      "url": "http://www.senat.fr/rap/l26-176/l26-176.html",
+      "sourcePublishedAt": "Tue,17 Nov 2026 11:01:12 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport n° 176 de Mme Christine LAVARDE, rapporteur général, fait au nom de la commission des finances, sur le projet de loi de finances de fin de gestion pour 2026 (17 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "ee15aadf9616e4ac11456aaf",
       "title": "Lutter contre la banalisation des discours de haine dans le débat public - texte N° 137",
       "url": "http://www.senat.fr/leg/ppr26-137.html",
@@ -3947,6 +4150,534 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Des dizaines d'Algériens furent tués et jetés dans la Seine par des policiers lors de manifestations à Paris le 17 octobre 1961."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a3d98ac5f2be40a1b48802a9",
+      "title": "Une primaire de la droite et du centre prend forme avec les équipes d'Attal, Retailleau et Lisnard",
+      "url": "https://www.france24.com/fr/france/20261117-equipes-attal-retailleau-lisnard-avancent-sur-une-primaire-droite-centre-sans-edouard-philippe-presidentielle-2027-election-candidats-lr-nouvelle-energie-renaissance",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 23:04:52 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Réunis mardi, les représentants des candidats à la présidentielle Gabriel Attal (Renaissance), Bruno Retailleau (Les Républicains) et David Lisnard (Nouvelle Énergie) se sont mis d'accord sur le principe d'une primaire à deux tours, organisée en janvier.",
+        "Ils la veulent \"la plus ouverte possible\", y conviant Édouard Philippe, tout en excluant les candidats de partis \"extrêmes\", selon Renaissance."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3cd30d0107d614b829086d63",
+      "title": "Comment Marine Le Pen veut-elle financer son plan pour les retraites ?",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-marine-le-pen-veut-elle-financer-son-plan-pour-les-retraites_8287178.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 21:48:50 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "keywords": [
+            "capitalisation",
+            "retraite"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "keywords": [
+            "financer",
+            "obligatoire"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-03",
+          "theme": "retraites",
+          "keywords": [
+            "carrieres",
+            "retraites"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "retraite",
+            "retraites"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Partir à la retraite à 62 ans, voire 60 ans : Marine Le Pen a détaillé son projet mardi 17 novembre.",
+        "Il y aura une nouveauté : une part de capitalisation obligatoire.",
+        "Mais son plan durcirait aussi les règles pour les carrières incomplètes."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "24e06c666f3220166f2e2b2f",
+      "title": "Grève du 17 novembre : \"On les a fait bouger sur le Smic, on va les faire bouger sur la question du point d'indice\", assure Thomas Vacheron, secrétaire confédéral de la CGT",
+      "url": "https://www.franceinfo.fr/societe/manifestations/greve-du-17-novembre-on-les-a-fait-bouger-sur-le-smic-on-va-les-faire-bouger-sur-la-question-du-point-d-indice-assure-thomas-vacheron-secretaire-confederal-de-la-cgt_8287019.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 20:09:56 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "keywords": [
+            "baisse",
+            "salaire"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Invité du \"Duel\" d'\"Avant le 20h\", Thomas Vacheron salue une \"mobilisation importante\", malgré une baisse du nombre de manifestants dans la rue, mardi 17 novembre, soulignant que \"les agents de la fonction publique ont perdu leur journée complète de salaire pour la deuxième fois en novembre.\" Maël de Calan, porte-parole d'Édouard Philippe, lui répond que \"si on veut du salaire en plus, il faut mettre des économies en face\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "32537882d5e6b0e5722522ca",
+      "title": "C’est Benjamin... à l'ex-usine Whirlpool, à Amiens",
+      "url": "https://www.franceinfo.fr/politique/c-est-benjamin-a-l-ex-usine-whirlpool-a-amiens_8286821.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 20:00:03 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C’est Benjamin de franceinfo, à la rencontre des Français jusqu’au deuxième tour de la présidentielle 2027.",
+        "A Amiens (Picardie), il y a bientôt dix ans, la fermeture de l’usine Whirlpool a été au cœur de l’élection présidentielle.",
+        "Benjamin a retrouvé un délégué syndical emblématique de l’époque, pour constater que le parking de l’usine est devenu un terrain vague."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "79c911dd3dccfd6265283cf5",
+      "title": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
+      "url": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 19:25:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "gabriel-attal"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'entourage de Gabriel Attal affirme que les premières modalités de la primaire de la droite et du centre ont été acceptées par les trois principaux candidats."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f8c76b4ba72d8ab85572a6f7",
+      "title": "\"Fractures françaises\" : jusqu'où ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261117-fractures-fran%C3%A7aises-jusqu-o%C3%B9",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 19:20:47 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "interieur",
+            "ministere"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "fonctionnaires",
+          "theme": "fiscalite",
+          "keywords": [
+            "fonctionnaires",
+            "nombre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "smic",
+          "theme": "travail",
+          "keywords": [
+            "hausse",
+            "inflation"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La mobilisation se poursuit en France.",
+        "Les fonctionnaires ont battu le pavé dans plusieurs villes du pays pour réclamer une hausse des salaires face à l'inflation.",
+        "Des lycéens et des étudiants étaient également présents dans les cortèges."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "445381d807ccc63533d129ad",
+      "title": "\"On souhaite sortir de ce carcan de contraintes qui ne fonctionne pas\" : le RN veut revenir à un DPE purement informatif",
+      "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/on-souhaite-sortir-de-ce-carcan-de-contraintes-qui-ne-fonctionne-pas-le-rn-veut-revenir-a-un-dpe-purement-informatif_8265083.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 18:48:00 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Rassemblement national souhaite supprimer les obligations liées au diagnostic de performance énergétique (DPE) pour les propriétaires bailleurs.",
+        "Invité de franceinfo, Frédéric Falcon, député RN de l'Aude chargé des questions de logement, défend un DPE qui redeviendrait \"informatif purement et simplement\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "023508fb74c8b3a698034086",
+      "title": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 18:06:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat à la présidentielle de La France insoumise, qui dénonce les exactions de l'armée israélienne à Gaza, est régulièrement taxé d'ambiguïté sur la question de l'antisémitisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "548b60e9b22a46cd90cdc846",
+      "title": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 18:05:19 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Lundi soir, la candidate d'extrême droite a déclaré vouloir \"arrêter de subventionner les associations politisées\", qualifiant la LDH de \"ramassis de gauchistes\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bb2ee63893f8143117f8244d",
+      "title": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
+      "url": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 17:31:40 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon plusieurs publications Facebook, Christine Lagarde aurait déclaré que \"les personnes âgées vivent trop longtemps\", ce qui représenterait un \"risque\" pour l’économie.",
+        "Une fausse citation attribuée à tort à la présidente de la Banque centrale européenne, actuellement relayée par un réseau de désinformation basé au Sri Lanka."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0802d80de67e3553a13ab1fb",
+      "title": "Quelle est votre madeleine de Proust ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-quelle-est-votre-madeleine-de-proust",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 17:01:29 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "retraite-62",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "ramene"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Quel goût vous ramène instantanément en enfance ?",
+        "Avec “Rue du Goût Perdu”, ces souvenirs d'enfance deviennent le point de départ d'un projet autour de la gastronomie et de la transmission."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "46c55cbd6fef8b4933b0b294",
+      "title": "Mouvement social en France : une mobilisation qui tient malgré des chiffres en baisse",
+      "url": "https://www.france24.com/fr/france/20261117-mouvement-social-en-france-une-mobilisation-qui-tient-malgr%C3%A9-des-chiffres-en-baisse",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 16:51:31 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Selon les sources, entre 500 000 et 146 000 personnes, lycéens, étudiants, retraités, salariés du privé ont battu le pavé en France, mardi, autour d'un large éventail de revendications, à l'appel des syndicats d'agents publics pour obtenir de meilleures rémunérations, alors que de nouvelles mobilisations se profilent."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "376005b827566abfb832a8ce",
+      "title": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+      "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 15:31:35 GMT",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-retraites-05",
+          "theme": "retraites",
+          "keywords": [
+            "equilibre",
+            "retraites",
+            "travail"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "keywords": [
+            "capitalisation",
+            "systeme"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "keywords": [
+            "davantage",
+            "obligatoire"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "davantage",
+            "retraites"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "keywords": [
+            "conditions",
+            "durcies"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "service-national",
+          "theme": "europe",
+          "keywords": [
+            "national",
+            "obligatoire"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans, voire 60 ans, financé par davantage de travail et une dose de capitalisation obligatoire.",
+        "Mais sans garantir le retour à l'équilibre financier du système."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d2ef6a37dd1a085e168739dd",
+      "title": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 14:03:56 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 3
+        }
+      ],
+      "extraitsRSS": [
+        "Si elle est élue présidente, Marine Le Pen promet d'abolir au \"1er janvier 2028\" la réforme actuelle des retraites, suspendue en 2025 mais qui prévoit de reculer l'âge de départ à 64 ans."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5d78a721328be445f3fb9cce",
+      "title": "ÉDITO. Y a-t-il trop de fonctionnaires en France ?",
+      "url": "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 13:09:57 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-ecologie-01",
+          "theme": "ecologie",
+          "keywords": [
+            "davantage",
+            "publics"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-societe-01",
+          "theme": "societe",
+          "keywords": [
+            "davantage",
+            "publics"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Faut-il moins de fonctionnaires pour faire des économies ou davantage pour sauver les services publics ?",
+        "À droite, les candidats promettent des centaines de milliers de suppressions de postes.",
+        "À gauche, certains défendent au contraire des recrutements massifs."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b487372ed3bd784b770b8cb6",
+      "title": "\"Des accusations fallacieuses, des méthodes trumpistes\" peste Manuel Bompard, coordinateur LFI",
+      "url": "https://www.franceinfo.fr/politique/des-accusations-fallacieuses-des-methodes-trumpistes-peste-manuel-bompard-coordinateur-lfi_8286482.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 12:56:14 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Agression d'un proviseur, mortiers fournis à des élèves.",
+        "\"Des accusations fallacieuses, des méthodes trumpistes\" contre la France insoumise.",
+        "C'est le coup de gueule de Manuel Bompard, député LFI des Bouches-du-Rhône contre l'exécutif."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b97ccaadf01e5ee74bfbbf67",
+      "title": "INFO FRANCEINFO. La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
+      "url": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 11:28:07 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les instances du Palais-Bourbon ont voté pour qu'un débat se tienne sur la liberté d'expression, mais il ne portera pas seulement sur la chaîne d'information en continu du groupe Bolloré, spécifiquement visée par le texte qui a recueilli plus d'un million de signatures."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ab3642caec83c5f6e25930fd",
+      "title": "Jean-Luc Mélenchon, candidat LFI à la présidentielle, va dîner avec des grands patrons français dont Bernard Arnault et Patrick Pouyanné",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 11:23:56 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le leader de La France insoumise répond à l'invitation d'une association patronale qui avait reçu Marine Le Pen au printemps."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3b86f086d307e69d6b257569",
+      "title": "Les informés du matin du mardi 17 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 17 Nov 2026 10:09:10 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
