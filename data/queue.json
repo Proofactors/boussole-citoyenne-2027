@@ -17171,5 +17171,734 @@
     "review": null,
     "detectedAt": "2026-11-18T08:26:42.007533+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4529b2798c3237e902edcb18": {
+    "id": "4529b2798c3237e902edcb18",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Budget 2027 - texte N° 155",
+    "url": "http://www.senat.fr/leg/pjl26-155.html",
+    "sourcePublishedAt": "Thu,19 Nov 2026 08:26:34 GMT",
+    "excerpt": "Projet de loi de finances pour 2027 : texte N° 155 transmis au Sénat le 19 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:36.520630+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "97830d62d03830c4f7a401e1": {
+    "id": "97830d62d03830c4f7a401e1",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Agence pour l'enseignement français à l'étranger et emprunt à long terme - texte N° 174",
+    "url": "http://www.senat.fr/leg/ppl26-174.html",
+    "sourcePublishedAt": "Wed,18 Nov 2026 14:35:54 GMT",
+    "excerpt": "Proposition de loi visant à permettre à l'Agence pour l'enseignement français à l'étranger de recourir à l'emprunt à long terme : texte N° 174 de Mme Sophie BRIANTE GUILLEMONT et plusieurs de ses collègues, déposé au Sénat le 13 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:36.522705+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d9ffb55048ce8285ace981a8": {
+    "id": "d9ffb55048ce8285ace981a8",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Sécuriser la procédure de mainlevée des mesures de soins psychiatriques - texte N° 132",
+    "url": "http://www.senat.fr/leg/ppl26-132.html",
+    "sourcePublishedAt": "Wed,18 Nov 2026 14:35:54 GMT",
+    "excerpt": "Proposition de loi visant à sécuriser la procédure de mainlevée des mesures de soins psychiatriques sans consentement des patients pris en charge en unités pour malades difficiles : texte N° 132 de M. Khalifé KHALIFÉ et Mme Lauriane JOSENDE, déposé au Sénat le 30 octobre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:36.524887+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "29349be9fef57fd5e1bcbb65": {
+    "id": "29349be9fef57fd5e1bcbb65",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Améliorer les moyens d'action de l'AGRASC - texte de la commission N° 180",
+    "url": "http://www.senat.fr/leg/ppl26-180.html",
+    "sourcePublishedAt": "Wed,18 Nov 2026 14:35:54 GMT",
+    "excerpt": "Proposition de loi visant à améliorer les moyens d'action de l'AGRASC et à faciliter l'exercice des missions d'expert judiciaire : texte de la commission N° 180 déposé le 17 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:36.526762+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "87e0fd61594419dc4200ce05": {
+    "id": "87e0fd61594419dc4200ce05",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Budget 2027 : Le budget de 2027 et son contexte économique et financier - rapport général n° 156 tome I",
+    "url": "http://www.senat.fr/rap/l26-156-1/l26-156-1.html",
+    "sourcePublishedAt": "Thu,19 Nov 2026 08:26:34 GMT",
+    "excerpt": "Rapport général n° 156 tome I de Mme Christine LAVARDE, rapporteur général, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Le budget de 2027 et son contexte économique et financier (19 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.381775+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "06b6dfdd87ad0e4fcd73dbb4": {
+    "id": "06b6dfdd87ad0e4fcd73dbb4",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Améliorer les moyens d'action de l'AGRASC - rapport n° 179",
+    "url": "http://www.senat.fr/rap/l26-179/l26-179.html",
+    "sourcePublishedAt": "Thu,19 Nov 2026 02:03:29 GMT",
+    "excerpt": "Rapport n° 179 de Mme Nadine BELLUROT, sénatrice et M. Jean-Luc WARSMANN, député, fait au nom de la commission mixte paritaire, sur la proposition de loi visant à améliorer les moyens d'action de l'AGRASC et à faciliter l'exercice des missions d'expert judiciaire (17 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.383920+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fc18937adb350fd4c2446f55": {
+    "id": "fc18937adb350fd4c2446f55",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Cérémonie de remise du Prix 2026 de la délégation aux droits des femmes - 3 novembre 2026 - rapport d'information n° 143",
+    "url": "http://www.senat.fr/notice-rapport/2026/r26-143-notice.html",
+    "sourcePublishedAt": "Wed,18 Nov 2026 14:35:55 GMT",
+    "excerpt": "Rapport d'information n° 143 de Mme Dominique VÉRIEN, fait au nom de la délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes : Cérémonie de remise du Prix 2026 de la délégation aux droits des femmes - 3 novembre 2026 (4 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-retraites-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.386197+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c4a490809812dac2f7feb333": {
+    "id": "c4a490809812dac2f7feb333",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Sommet international, présidentielle, pouvoir d'achat... Le 8h30 franceinfo de Raphaël Glucksmann",
+    "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/sommet-international-presidentielle-pouvoir-d-achat-le-8h30-franceinfo-de-raphael-glucksmann_8268626.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 09:10:01 +0100",
+    "excerpt": "Le 8h30 franceinfo de Raphaël Glucksmann, eurodéputé et cofondateur de Place publique, candidat à l’élection présidentielle.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.613239+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bca492c4159f591df2bbe01b": {
+    "id": "bca492c4159f591df2bbe01b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle 2027 : \"Je considère que la place des Écologistes est à nos côtés\", affirme Olivier Faure, premier secrétaire du Parti socialiste",
+    "url": "https://www.franceinfo.fr/politique/presidentielle-2027-je-considere-que-la-place-des-ecologistes-est-a-nos-cotes-affirme-olivier-faure-premier-secretaire-du-parti-socialiste_8289572.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 09:08:33 +0100",
+    "excerpt": "Olivier Faure, premier secrétaire du Parti socialiste, était l'invité des \"4 Vérités\", jeudi 19 novembre. Il regrette la proposition formulée la veille par Marine Tondelier que les Écologistes travaillent à une coalition autour de la candidature de Jean-Luc Mélenchon pour 2027.",
+    "personalitiesSuggested": [
+      "marine-tondelier",
+      "olivier-faure"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.615635+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "77efd7231ad1aae0381fab3d": {
+    "id": "77efd7231ad1aae0381fab3d",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+    "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 09:01:48 +0100",
+    "excerpt": "Invité du 8h30 de France Info, le leader de Place publique, Raphaël Glucksmann réagit à l'annonce de Marine Tondelier de \"travailler à une coalition\" avec Jean-Luc Mélenchon, chef de file de la France Insoumise.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.617834+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5812917df9251c86e5d36a5d": {
+    "id": "5812917df9251c86e5d36a5d",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Accusée d'avoir cautionné des écrits antisémites, la députée RN Laure Lavalette invoque des faits vieux de \"30 ans, dans un climat tout à fait différent\"",
+    "url": "https://www.franceinfo.fr/elections/accusee-d-avoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-invoque-des-faits-vieux-de-30-ans_8289503.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 08:15:07 +0100",
+    "excerpt": "Le média en ligne Les Jours a dévoilé des articles et une caricature antisémites parus dans une revue du syndicat étudiant que présidait la porte-parole de Marine Le Pen dans les années 90.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.619915+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "979cc67370669cee16e85d36": {
+    "id": "979cc67370669cee16e85d36",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Édito. Pour la présidentielle, Édouard Philippe peut-il convaincre les Français en misant sur le sérieux ?",
+    "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-la-presidentielle-edouard-philippe-peut-il-convaincre-les-francais-en-misant-sur-le-serieux_8268629.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 08:10:02 +0100",
+    "excerpt": "En difficulté dans les sondages, Édouard Philippe dévoile un programme de réformes et mise sur le \"sérieux\" pour convaincre. Un pari risqué dans un paysage politique dominé par les populistes et la confrontation.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.621896+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bedf795351cb7abff919e790": {
+    "id": "bedf795351cb7abff919e790",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "A suivre Alban Mikoczy : Édouard Philippe, à droite toute ?",
+    "url": "https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-edouard-philippe-a-droite-toute_8289428.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 06:38:34 +0100",
+    "excerpt": "Dans cette première partie, Alban Mikoczy et ses invités reviennent, mercredi 18 novembre sur la présentation du programme d'Édouard Philippe, candidat Horizons à l'élection présidentielle. Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.624104+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e8a435f56194fc977687e384": {
+    "id": "e8a435f56194fc977687e384",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Journal de campagne : la bataille de l'Élysée",
+    "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/journal-de-campagne-la-bataille-de-l-elysee_8289041.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 23:34:29 +0100",
+    "excerpt": "Mardi 17 novembre, Jean-Luc Mélenchon dînait avec de grands patrons. À Villeurbanne (Rhône), Raphaël Glucksmann vient le défier sur ses terres. Chez les Écologistes, Sandrine Rousseau demande à Marine Tondelier de retirer sa candidature.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.626015+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "42fb87a0513ff02b49271b79": {
+    "id": "42fb87a0513ff02b49271b79",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Je veux qu'on alerte sur les 10 ans d'inaction climatique des deux quinquennats Macron\", lance Marine Tondelier, candidate Les Écologistes à l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/elections/je-veux-qu-on-alerte-sur-les-10-ans-d-inaction-climatique-des-deux-quinquennats-macron-lance-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_8289020.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 23:12:58 +0100",
+    "excerpt": "Marine Tondelier, secrétaire nationale des Écologistes et candidate à l’élection présidentielle était l’invitée du journal de 20 Heures de France 2, ce mercredi 18 novembre.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "extension-immigration-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.628116+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7c1e9c4c83596e4c42105a5e": {
+    "id": "7c1e9c4c83596e4c42105a5e",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
+    "url": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 22:30:14 +0100",
+    "excerpt": "La secrétaire nationale des Ecologistes s'est dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "troupes-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.630162+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9537344bcc429812a64bdec5": {
+    "id": "9537344bcc429812a64bdec5",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+    "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 22:36:41 +0100",
+    "excerpt": "La secrétaire nationale des Ecologistes et candidate à l'élection présidentielle était l'invitée du \"20 Heures\" de France 2 mercredi.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "troupes-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.631972+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ce53259474938018c9ffe1db": {
+    "id": "ce53259474938018c9ffe1db",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Mobilisation lycéenne : \"40 membres de l'Éducation nationale\" ont-ils été complices de violences commises, comme l'avance Sébastien Lecornu ?",
+    "url": "https://www.franceinfo.fr/vrai-ou-fake/mobilisation-lyceenne-40-membres-de-l-education-nationale-ont-ils-ete-complices-de-violences-commises-comme-l-avance-sebastien-lecornu_8288870.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 20:25:27 +0100",
+    "excerpt": "Jeudi 12 novembre, Sébastien Lecornu, a affirmé qu'\"au moins 40 membres du personnel de l'Éducation nationale\" étaient complices des violences commises en marge du mouvement lycéen. Les chiffres avancés par le Premier ministre sont-ils exacts ?",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.634228+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f9f4b330d5426b210e94be35": {
+    "id": "f9f4b330d5426b210e94be35",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Réforme des retraites du RN : \"On ferait payer plus les plus vulnérables\", estime la députée EPR Violette Spillebout",
+    "url": "https://www.franceinfo.fr/politique/reforme-des-retraites-du-rn-on-ferait-payer-plus-les-plus-vulnerables-estime-la-deputee-epr-violette-spillebout_8288867.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 20:06:33 +0100",
+    "excerpt": "L'élue Ensemble pour la République du Nord et porte-parole de Gabriel Attal pour la campagne présidentielle de 2027 revient dans le \"Duel\" du 18 novembre sur les propositions du Rassemblement national pour réformer les retraites si Marine Le Pen était élue. Les \"allers-retours du RN et de l'UDR ne rendent pas crédible leurs propositions\", estime-t-elle. Son adversaire du jour, le député ciottiste de Saône-et-Loire, Éric Michoux, défend et précise le projet.",
+    "personalitiesSuggested": [
+      "marine-le-pen",
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [
+      "abroger-2023"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.637060+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fd401806b62f99976f119c06": {
+    "id": "fd401806b62f99976f119c06",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques",
+    "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 16:29:12 +0100",
+    "excerpt": "Un amendement du parti d'extrême droite, voté de justesse mardi à l'Assemblée, revient sur l'une des mesures phares du projet de loi du gouvernement. Il n'est toutefois pas adopté définitivement, un vote solennel sur l'ensemble du texte est prévu mardi 24 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "passoires-thermiques"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.639537+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "6218efb47b6f1931238de3ca": {
+    "id": "6218efb47b6f1931238de3ca",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La municipalité RN de Perpignan exposera une crèche géante sur la voie publique, après s'être vue interdire une crèche dans l'hôtel de ville",
+    "url": "https://www.franceinfo.fr/decouverte/noel/la-municipalite-rn-de-perpignan-exposera-une-creche-geante-sur-la-voie-publique-a-partir-du-4-decembre-apres-s-etre-vue-interdire-une-creche-dans-l-hotel-de-ville_8288459.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 16:00:41 +0100",
+    "excerpt": "Cette crèche a été présentée comme la plus grande crèche de Noël de France et se situera sur la place de la République.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.641388+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a0474a987dc5a8d2cf351beb": {
+    "id": "a0474a987dc5a8d2cf351beb",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle : Jean-Luc Mélenchon, \"rouleau compresseur\" ? \"On/Off\", épisode 9",
+    "url": "https://www.franceinfo.fr/politique/presidentielle-jean-luc-melenchon-rouleau-compresseur-on-off-episode-9_8287910.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 14:59:13 +0100",
+    "excerpt": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.643118+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a6b670fe165a799978876658": {
+    "id": "a6b670fe165a799978876658",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Marine Le Pen dénonce à nouveau ce qu'elle voit comme des \"dérives financières et éthiques des associations politisées\"",
+    "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-denonce-a-nouveau-ce-qu-elle-juge-comme-des-derives-financieres-et-ethiques-des-associations-politisees_8288303.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 14:43:48 +0100",
+    "excerpt": "La candidate d'extrême droite a été vivement critiquée par ses rivaux, lors d'un débat télévisé, pour sa proposition de couper les subventions à des \"associations politisées\".",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.645004+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e4e865ba943e210e8a78ee5b": {
+    "id": "e4e865ba943e210e8a78ee5b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+    "url": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 12:48:45 +0100",
+    "excerpt": "La primaire de la droite et du centre s'annonce comme une compétition à trois, avec David Lisnard, Gabriel Attal et Bruno Retailleau en lice. Mais plus qu'une primaire de rassemblement, cette primaire ressemble à un règlement de comptes interne, avec Édouard Philippe en ligne de mire. Une bataille qui pourrait finalement affaiblir tout le camp de la droite et du centre.",
+    "personalitiesSuggested": [
+      "gabriel-attal",
+      "bruno-retailleau",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.647651+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "66a373fa682a31b26d7bfae6": {
+    "id": "66a373fa682a31b26d7bfae6",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 12:44:49 +0100",
+    "excerpt": "En déplacement dans la banlieue lyonnaise, le candidat PS-Place publique à la présidentielle tente de relancer sa campagne après un mois de \"faux plat\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.649438+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fb0f78f357134684adfaadc3": {
+    "id": "fb0f78f357134684adfaadc3",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
+    "url": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 12:51:52 +0100",
+    "excerpt": "Le candidat Horizons à la présidentielle a présenté mercredi, lors d'une conférence de presse, son projet \"à date\".",
+    "personalitiesSuggested": [
+      "edouard-philippe"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.651233+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c0d836cbd266f006cab8af21": {
+    "id": "c0d836cbd266f006cab8af21",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+    "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 09:34:00 +0100",
+    "excerpt": "La candidate du Rassemblement national a détaillé mardi sa réforme des retraites. Elle prévoit d'abaisser l'âge légal de départ, en fonction du moment d'entrée dans la vie active et propose, notamment, d'introduire une part de capitalisation pour financer le système.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [
+      "capitalisation",
+      "abroger-2023",
+      "retraite-65",
+      "retraite-62"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:38.653434+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c956024ed20f0da899722d30": {
+    "id": "c956024ed20f0da899722d30",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "DIRECT. Présidentielle : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+    "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 08:19:07 +0000",
+    "excerpt": "La secrétaire nationale des Ecologistes envisage une coalition avec Jean-Luc Mélenchon, ce qui l'amènerait à renoncer à sa candidature à l'élection présidentielle.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.076507+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ed0ee294f74e98b5ede27971": {
+    "id": "ed0ee294f74e98b5ede27971",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+    "url": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 12:48:45 +0100",
+    "excerpt": "La primaire de la droite et du centre s'annonce comme une compétition à trois, avec David Lisnard, Gabriel Attal et Bruno Retailleau en lice. Mais plus qu'une primaire de rassemblement, cette primaire ressemble à un règlement de comptes interne, avec Édouard Philippe en ligne de mire. Une bataille qui pourrait finalement affaiblir tout le camp de la droite et du centre.",
+    "personalitiesSuggested": [
+      "gabriel-attal",
+      "bruno-retailleau",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.079236+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a3feec427502402105e05d0e": {
+    "id": "a3feec427502402105e05d0e",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 12:44:49 +0100",
+    "excerpt": "En déplacement dans la banlieue lyonnaise, le candidat PS-Place publique à la présidentielle tente de relancer sa campagne après un mois de \"faux plat\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.081065+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bbf9ac4d4db885423c6e3cad": {
+    "id": "bbf9ac4d4db885423c6e3cad",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Femmeblancherie\" : le procès de la haine des femmes",
+    "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 23:18:12 GMT",
+    "excerpt": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram \"Femmeblancherie\" au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont \"provocation publique à commettre un crime\". Un procès qui découle d’une idéologie très en vogue chez les jeunes, notamment sur les réseaux sociaux : le masculinisme.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "reseaux-15-ans"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.149560+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "3595806fce05883a4eaf0eb3": {
+    "id": "3595806fce05883a4eaf0eb3",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+    "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 22:39:24 GMT",
+    "excerpt": "Qualifiant la dynamique de campagne de Jean-Luc Mélenchon d'\"indéniable\", la candidate des Écologistes à la présidentielle, Marine Tondelier, a dit, mercredi sur France 2, être \"prête\" à \"travailler à une coalition\" avec l'Insoumis. Dans les sondages, elle est créditée de 2 à 4 % des intentions de vote alors que Jean-Luc Mélenchon est donné au second tour.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "troupes-ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.152077+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "ffdee2583bdd856cc5bd2c30": {
+    "id": "ffdee2583bdd856cc5bd2c30",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+    "url": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 17:09:31 GMT",
+    "excerpt": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader de la gauche radicale en rupture avec le capitalisme et fervent critique des ultra-riches.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "extension-immigration-05",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.154261+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "540a2641baad61c606966234": {
+    "id": "540a2641baad61c606966234",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "France : le comté du Fort des Rousses élu meilleure fromage du monde",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 16:42:17 GMT",
+    "excerpt": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.156471+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7623ff1a5b3d45e19a9985ad": {
+    "id": "7623ff1a5b3d45e19a9985ad",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Élection présidentielle française 2027 – épisode 2 : le grand flou",
+    "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261118-%C3%A9lection-pr%C3%A9sidentielle-fran%C3%A7aise-2027-%E2%80%93-%C3%A9pisode-2-le-grand-flou",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 14:57:16 GMT",
+    "excerpt": "Au printemps prochain, la France se rendra aux urnes pour élire un nouveau président de la République. Trente-huit candidats sont actuellement en lice et ont jusqu'au 12 mars pour obtenir 500 parrainages. Aujourd'hui, quels que soient les candidats, les sondages donnent Marine Le Pen en tête du premier et du second tour.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.158893+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d64c308e0a97b816fd7fbdbe": {
+    "id": "d64c308e0a97b816fd7fbdbe",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Présidentielle 2027 : le candidat Édouard Philippe veut \"oser des réformes radicales\"",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 14:48:46 GMT",
+    "excerpt": "Lors d'une conférence de presse de présentation de son programme pour l'élection présidentielle, Édouard Philippe a affirmé mercredi 18 novembre que \"nous devons oser des réformes radicales, en rupture avec ce qui a été fait ces dernières années\". Le candidat Horizons de nouveau affirmé son refus à l'idée de participer à une primaire de la droite. Les précisions de Flore Simon, chroniqueuse politique à France 24.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.161524+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a5d4559ce8235a2c115fa43a": {
+    "id": "a5d4559ce8235a2c115fa43a",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Jeux vidéo : dernier jour d'attente avant la sortie de GTA VI en France",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-jeux-vid%C3%A9o-dernier-jour-d-attente-avant-la-sortie-de-gta-vi-en-france",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 14:43:17 GMT",
+    "excerpt": "Treize années après son prédécesseur, \"GTA VI\" a commencé à déferler sur les consoles des joueurs du monde entier, impatients d'essayer le jeu vidéo le plus cher jamais développé et déjà le mieux noté de l'histoire de cette industrie. Le jeu affichait mercredi 18 novembre une moyenne de 99 sur 100 pour la centaine de critiques de la presse spécialisée recensées sur le site d'avis Metacritic, du jamais-vu. En France, la sortie est prévue pour le 19 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "renouvelables",
+      "frexit"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.164322+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "de8994e702badf8f9a7a2385": {
+    "id": "de8994e702badf8f9a7a2385",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "En France, la police manifeste pour demander une revalorisation de la prime de risque",
+    "url": "https://www.france24.com/fr/france/20261118-en-france-la-police-manifeste-pour-demander-une-revalorisation-de-la-prime-de-risque",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 13:59:34 GMT",
+    "excerpt": "Des policiers ont manifesté, mercredi, à Paris, pour demander une revalorisation de leur prime de risque. Ils se sont rendus devant le ministère de l'Intérieur, où une délégation a été reçue. Ils réclament également des effectifs plus importants, alors que les mobilisations lycéennes et sociales se tiennent depuis plusieurs semaines en France.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.166750+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "3647d6eff01dd1e274270f90": {
+    "id": "3647d6eff01dd1e274270f90",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Pour se relancer, Édouard Philippe promet de \"rétablir l'ordre\" dans \"nos comptes\" et \"nos rues\"",
+    "url": "https://www.france24.com/fr/france/20261118-france-presidentielle-2027-pour-relancer-campagne-edouard-philippe-promet-retablir-ordre-comptes-rues",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 13:56:19 GMT",
+    "excerpt": "Le candidat Horizons à l'élection présidentielle de 2027, Édouard Philippe, a présenté mercredi de nouvelles mesures \"radicales\" pour relancer une campagne qui patine. Celles-ci mettent l'accent sur le retour de l'ordre dans les comptes publics et dans la rue, mais en respectant l'État de droit, promet l'ancien Premier ministre d'Emmanuel Macron, qui refuse toujours de participer à une primaire de la droite et du centre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-societe-01"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.169579+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "96dc83ee30aabd3fa9519640": {
+    "id": "96dc83ee30aabd3fa9519640",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Édouard Philippe \"financé par McKinsey\" ? Un média sénégalais reprend une intox russe",
+    "url": "https://www.france24.com/fr/france/20261118-%C3%A9douard-philippe-financ%C3%A9-mckinsey-m%C3%A9dia-s%C3%A9n%C3%A9galais-reprend-intox-russe",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 13:16:42 GMT",
+    "excerpt": "Lundi, le média sénégalais SeneNews a repris sur son site pendant quelques heures l'intox russe selon laquelle Édouard Philippe aurait reçu 30 millions d'euros du cabinet de conseil McKinsey. Une enquête des Observateurs de France 24 avait révélé en mars comment des médias ouest-africains reprenaient des narratifs russes, parfois contre rémunération.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "taxe-zucman"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.172135+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b6cb5cc7011a15d3b5d5e5ff": {
+    "id": "b6cb5cc7011a15d3b5d5e5ff",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "La France dans le monde : des moyens réduits pour la diplomatie ?",
+    "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261118-la-france-dans-le-monde-des-moyens-r%C3%A9duits-pour-la-diplomatie",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 11:01:49 GMT",
+    "excerpt": "De l'argent pour les armes, pas pour la diplomatie. La France nourrit de grandes ambitions internationales mais elle ne s'en donne pas les moyens. Pire, elle supprime des postes et diminue le budget du ministère des Affaires étrangères. Et ce au moment où la diplomatie reste indispensable pour faire face aux bouleversements géopolitiques et géoéconomiques du monde.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "contribution-ue"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.174543+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "559e3a8d1b70da1d6874dbc7": {
+    "id": "559e3a8d1b70da1d6874dbc7",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "France : les parents d'Inass Touloub condamnés pour actes de torture",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 10:44:55 GMT",
+    "excerpt": "La mère d'Inass Touloub, fillette de quatre ans retrouvée morte au bord de l'A10 à l'été 1987, a été condamnée mardi 17 novembre à 20 ans de réclusion criminelle, tandis que le père écope d'une peine de 15 ans de prison pour complicité. Les deux accusés sont incarcérés immédiatement avec cette décision, rendue 39 ans après les faits et qui marque l'aboutissement d'un des plus anciens cold cases français.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "troupes-ukraine",
+      "expulsion-condamnes",
+      "asile-hors-france"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.177130+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7029c65fe13f61d8ca82bc84": {
+    "id": "7029c65fe13f61d8ca82bc84",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Mobilisations en France : la police au bord de l'épuisement professionnel",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-mobilisations-en-france-la-police-au-bord-de-l-%C3%A9puisement-professionnel",
+    "sourcePublishedAt": "Wed, 18 Nov 2026 10:41:43 GMT",
+    "excerpt": "Au lendemain de la mobilisation du 17 novembre, on relève que les cortèges étaient plutôt calmes : 146 000 personnes ont manifesté selon le ministère de l'Intérieur, plus de 500 000 pour la CGT. À force d’encadrer ces manifestations, des CRS se disent à bout : manque de repos, fatigue physique, prime de risque jugée insuffisante, la colère monte et le syndicat appelle à une \"journée noire\" le 26 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06",
+      "extension-immigration-07"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-19T08:30:39.179868+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

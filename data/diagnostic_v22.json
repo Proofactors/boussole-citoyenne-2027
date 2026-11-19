@@ -1,6 +1,6 @@
 {
   "schemaVersion": 22,
-  "genereLe": "2026-11-18T08:26:52.619116+00:00",
+  "genereLe": "2026-11-19T08:30:58.432100+00:00",
   "avertissement": "Résumé RSS et scrutin sont des signaux documentaires, pas des preuves suffisantes pour attribuer un soutien ou une opposition.",
   "documents": [
     {
@@ -319,6 +319,86 @@
       "passages": [],
       "modificationPositions": false,
       "resumeRss": "Proposition de loi renforçant la transparence de la représentation d'intérêts, au service du débat démocratique : texte N° 24 de M. Arnaud BAZIN, déposé au Sénat le 12 octobre 2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "fc18937adb350fd4c2446f55",
+      "titre": "Cérémonie de remise du Prix 2026 de la délégation aux droits des femmes - 3 novembre 2026 - rapport d'information n° 143",
+      "url": "http://www.senat.fr/notice-rapport/2026/r26-143-notice.html",
+      "urlEffective": "https://www.senat.fr/notice-rapport/2026/r26-143-notice.html",
+      "publication": "Wed,18 Nov 2026 14:35:55 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 595,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Rapport d'information n° 143 de Mme Dominique VÉRIEN, fait au nom de la délégation aux droits des femmes et à l'égalité des chances entre les hommes et les femmes : Cérémonie de remise du Prix 2026 de la délégation aux droits des femmes - 3 novembre 2026 (4 novembre 2026)",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "97830d62d03830c4f7a401e1",
+      "titre": "Agence pour l'enseignement français à l'étranger et emprunt à long terme - texte N° 174",
+      "url": "http://www.senat.fr/leg/ppl26-174.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-174.html",
+      "publication": "Wed,18 Nov 2026 14:35:54 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 637,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Proposition de loi visant à permettre à l'Agence pour l'enseignement français à l'étranger de recourir à l'emprunt à long terme : texte N° 174 de Mme Sophie BRIANTE GUILLEMONT et plusieurs de ses collègues, déposé au Sénat le 13 novembre 2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "d9ffb55048ce8285ace981a8",
+      "titre": "Sécuriser la procédure de mainlevée des mesures de soins psychiatriques - texte N° 132",
+      "url": "http://www.senat.fr/leg/ppl26-132.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-132.html",
+      "publication": "Wed,18 Nov 2026 14:35:54 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 602,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Proposition de loi visant à sécuriser la procédure de mainlevée des mesures de soins psychiatriques sans consentement des patients pris en charge en unités pour malades difficiles : texte N° 132 de M. Khalifé KHALIFÉ et Mme Lauriane JOSENDE, déposé au Sénat le 30 octobre 2026",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "29349be9fef57fd5e1bcbb65",
+      "titre": "Améliorer les moyens d'action de l'AGRASC - texte de la commission N° 180",
+      "url": "http://www.senat.fr/leg/ppl26-180.html",
+      "urlEffective": "https://www.senat.fr/leg/ppl26-180.html",
+      "publication": "Wed,18 Nov 2026 14:35:54 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 556,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Proposition de loi visant à améliorer les moyens d'action de l'AGRASC et à faciliter l'exercice des missions d'expert judiciaire : texte de la commission N° 180 déposé le 17 novembre 2026",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -2066,6 +2146,617 @@
       ],
       "modificationPositions": false,
       "resumeRss": "Les violences du week-end des 17 et 18 octobre offrent à Marine Le Pen l’occasion de faire oublier les polémiques qui ont marqué son début de campagne. À six mois de la présidentielle elle conserve le statut de favorite.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "e8a435f56194fc977687e384",
+      "titre": "Journal de campagne : la bataille de l'Élysée",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/journal-de-campagne-la-bataille-de-l-elysee_8289041.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/journal-de-campagne-la-bataille-de-l-elysee_8289041.html",
+      "publication": "Wed, 18 Nov 2026 23:34:29 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11093,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Mardi 17 novembre, Jean-Luc Mélenchon dînait avec de grands patrons. À Villeurbanne (Rhône), Raphaël Glucksmann vient le défier sur ses terres. Chez les Écologistes, Sandrine Rousseau demande à Marine Tondelier de retirer sa candidature.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "bbf9ac4d4db885423c6e3cad",
+      "titre": "\"Femmeblancherie\" : le procès de la haine des femmes",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
+      "urlEffective": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
+      "publication": "Wed, 18 Nov 2026 23:18:12 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 3295,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram \"Femmeblancherie\" au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont \"provocation publique à commettre un crime\". Un procès qui découle d’une idéologie très en vogue chez les jeunes, notamment sur les réseaux sociaux : le masculinisme.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "42fb87a0513ff02b49271b79",
+      "titre": "\"Je veux qu'on alerte sur les 10 ans d'inaction climatique des deux quinquennats Macron\", lance Marine Tondelier, candidate Les Écologistes à l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/je-veux-qu-on-alerte-sur-les-10-ans-d-inaction-climatique-des-deux-quinquennats-macron-lance-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_8289020.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/je-veux-qu-on-alerte-sur-les-10-ans-d-inaction-climatique-des-deux-quinquennats-macron-lance-marine-tondelier-candidate-les-ecologistes-a-l-election-presidentielle_8289020.html",
+      "publication": "Wed, 18 Nov 2026 23:12:58 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14177,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Marine Tondelier, secrétaire nationale des Écologistes et candidate à l’élection présidentielle était l’invitée du journal de 20 Heures de France 2, ce mercredi 18 novembre.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "3595806fce05883a4eaf0eb3",
+      "titre": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
+      "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+      "urlEffective": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
+      "publication": "Wed, 18 Nov 2026 22:39:24 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6944,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann",
+            "marine-tondelier"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "\"On a besoin d'avoir une discussion et d'un travail d'une semaine avec eux pour pouvoir avancer sur l'accord de gouvernement, sur l'accord des législatives, sur l'accord programmatique et sur un dispositif de campagne commun\", a précisé Marine Tondelier, qui a toujours dit ne pas se reconnaître dans le projet du candidat social-démocrate Raphaël Glucksmann .",
+          "motsCommuns": [
+            "semaine",
+            "travail"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann",
+            "marine-tondelier"
+          ],
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "passageSource": "\"On a besoin d'avoir une discussion et d'un travail d'une semaine avec eux pour pouvoir avancer sur l'accord de gouvernement, sur l'accord des législatives, sur l'accord programmatique et sur un dispositif de campagne commun\", a précisé Marine Tondelier, qui a toujours dit ne pas se reconnaître dans le projet du candidat social-démocrate Raphaël Glucksmann .",
+          "motsCommuns": [
+            "pouvoir",
+            "travail"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "passageSource": "Marine Tondelier, grande partisane de l'union, a cependant rappelé qu'il existait des divergences entre son parti et les Insoumis, notamment autour des questions internationales comme l'Ukraine, l'Otan et l'Union européenne, dont les Écologistes ont une conception beaucoup plus fédéraliste que le mouvement de gauche radicale.",
+          "motsCommuns": [
+            "europeenne",
+            "ukraine",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "frexit",
+          "theme": "europe",
+          "passageSource": "Marine Tondelier, grande partisane de l'union, a cependant rappelé qu'il existait des divergences entre son parti et les Insoumis, notamment autour des questions internationales comme l'Ukraine, l'Otan et l'Union européenne, dont les Écologistes ont une conception beaucoup plus fédéraliste que le mouvement de gauche radicale.",
+          "motsCommuns": [
+            "europeenne",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "passageSource": "Marine Tondelier, grande partisane de l'union, a cependant rappelé qu'il existait des divergences entre son parti et les Insoumis, notamment autour des questions internationales comme l'Ukraine, l'Otan et l'Union européenne, dont les Écologistes ont une conception beaucoup plus fédéraliste que le mouvement de gauche radicale.",
+          "motsCommuns": [
+            "europeenne",
+            "union"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Qualifiant la dynamique de campagne de Jean-Luc Mélenchon d'\"indéniable\", la candidate des Écologistes à la présidentielle, Marine Tondelier, a dit, mercredi sur France 2, être \"prête\" à \"travailler à une coalition\" avec l'Insoumis. Dans les sondages, elle est créditée de 2 à 4 % des intentions de vote alors que Jean-Luc Mélenchon est donné au second tour.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "9537344bcc429812a64bdec5",
+      "titre": "VIDEO. L'écologiste Marine Tondelier se dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-2027-je-suis-prete-a-travailler-a-une-coalition-autour-de-jean-luc-melenchon-declare-l-ecologiste-marine-tondelier-au-20-heures-de-france-2_8288519.html",
+      "publication": "Wed, 18 Nov 2026 22:36:41 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10268,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "La secrétaire nationale des Ecologistes et candidate à l'élection présidentielle était l'invitée du \"20 Heures\" de France 2 mercredi.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7c1e9c4c83596e4c42105a5e",
+      "titre": "\"C'est une bonne nouvelle qui renforce la possibilité d'une victoire populaire\", réagit Manuel Bompard après la main tendue de Marine Tondelier à La France insoumise",
+      "url": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/c-est-une-bonne-nouvelle-qui-renforce-la-possibilite-d-une-victoire-populaire-reagit-manuel-bompard-apres-la-main-tendue-de-marine-tondelier-a-la-france-insoumise_8288990.html",
+      "publication": "Wed, 18 Nov 2026 22:30:14 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9621,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "passageSource": "\"On a besoin d'avoir une discussion, un travail d'une semaine avec eux pour pouvoir avancer sur l'accord de gouvernement, un accord sur les législatives, un accord programmatique et un dispositif de campagne commun et si nous sommes convaincus de cette discussion, alors nous pourrions rejoindre cette dynamique\" , a estimé Marine Tondelier.",
+          "motsCommuns": [
+            "semaine",
+            "travail"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "passageSource": "\"On a besoin d'avoir une discussion, un travail d'une semaine avec eux pour pouvoir avancer sur l'accord de gouvernement, un accord sur les législatives, un accord programmatique et un dispositif de campagne commun et si nous sommes convaincus de cette discussion, alors nous pourrions rejoindre cette dynamique\" , a estimé Marine Tondelier.",
+          "motsCommuns": [
+            "pouvoir",
+            "travail"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "La secrétaire nationale des Ecologistes s'est dit \"prête à travailler à une coalition autour de la candidature de Jean-Luc Mélenchon\" pour la présidentielle 2027.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "ce53259474938018c9ffe1db",
+      "titre": "Mobilisation lycéenne : \"40 membres de l'Éducation nationale\" ont-ils été complices de violences commises, comme l'avance Sébastien Lecornu ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/mobilisation-lyceenne-40-membres-de-l-education-nationale-ont-ils-ete-complices-de-violences-commises-comme-l-avance-sebastien-lecornu_8288870.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/vrai-ou-fake/mobilisation-lyceenne-40-membres-de-l-education-nationale-ont-ils-ete-complices-de-violences-commises-comme-l-avance-sebastien-lecornu_8288870.html",
+      "publication": "Wed, 18 Nov 2026 20:25:27 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10901,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Jeudi 12 novembre, Sébastien Lecornu, a affirmé qu'\"au moins 40 membres du personnel de l'Éducation nationale\" étaient complices des violences commises en marge du mouvement lycéen. Les chiffres avancés par le Premier ministre sont-ils exacts ?",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "f9f4b330d5426b210e94be35",
+      "titre": "Réforme des retraites du RN : \"On ferait payer plus les plus vulnérables\", estime la députée EPR Violette Spillebout",
+      "url": "https://www.franceinfo.fr/politique/reforme-des-retraites-du-rn-on-ferait-payer-plus-les-plus-vulnerables-estime-la-deputee-epr-violette-spillebout_8288867.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/reforme-des-retraites-du-rn-on-ferait-payer-plus-les-plus-vulnerables-estime-la-deputee-epr-violette-spillebout_8288867.html",
+      "publication": "Wed, 18 Nov 2026 20:06:33 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 15053,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Perrine Storme : D'abord, j'aimerais qu'on revienne sur la réforme des retraites de Marine Le Pen , qu'elle a dévoilée hier.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Violette Spillebout : Déjà, nous, avec Gabriel Attal, on porte une réforme des retraites qui est très profonde et qui est très claire depuis de nombreux mois.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "passageSource": "Violette Spillebout : Déjà, nous, avec Gabriel Attal, on porte une réforme des retraites qui est très profonde et qui est très claire depuis de nombreux mois.",
+          "motsCommuns": [
+            "profonde",
+            "reforme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Du côté de Renaissance, comment vous regardez cette réforme des retraites qui a été proposée par Marine Le Pen ?",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "L'élue Ensemble pour la République du Nord et porte-parole de Gabriel Attal pour la campagne présidentielle de 2027 revient dans le \"Duel\" du 18 novembre sur les propositions du Rassemblement national pour réformer les retraites si Marine Le Pen était élue. Les \"allers-retours du RN et de l'UDR ne rendent pas crédible leurs propositions\", estime-t-elle. Son adversaire du jour, le député ciottiste de Saône-et-Loire, Éric Michoux, défend et précise le projet.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "ffdee2583bdd856cc5bd2c30",
+      "titre": "\"Les taxes, ils les boufferont\" : Mélenchon et le controversé dîner avec des grands patrons",
+      "url": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+      "urlEffective": "https://www.france24.com/fr/france/20261118-les-taxes-ils-les-boufferont-m%C3%A9lenchon-et-le-controvers%C3%A9-d%C3%AEner-avec-des-grands-patrons",
+      "publication": "Wed, 18 Nov 2026 17:09:31 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7021,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le candidat de la France insoumise à l'élection présidentielle française de 2027, Jean-Luc Mélenchon, a dîné, mardi, avec les 13 plus grands patrons français. Un événement qui étonne pour le leader de la gauche radicale en rupture avec le capitalisme et fervent critique des ultra-riches.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "540a2641baad61c606966234",
+      "titre": "France : le comté du Fort des Rousses élu meilleure fromage du monde",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
+      "publication": "Wed, 18 Nov 2026 16:42:17 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "indisponible",
+      "formatDetecte": "indisponible",
+      "motif": "http_403",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 0,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Le meilleur fromage du monde a été désigné hier parmi les 5 000 produits en lice, une la quarantaine de pays en compétition. La médaille d'or a été décernée à un fromage français : le comté du fort des Rousses, petite commune près de la frontière suisse. Une consécration qui fait la fierté de toute la région.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "fd401806b62f99976f119c06",
+      "titre": "\"Un bras d'honneur invraisemblable aux locataires en précarité énergétique\" : les députés votent un amendement du RN levant les interdictions de louer des passoires thermiques",
+      "url": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/immobilier/reforme-du-logement/un-bras-d-honneur-invraisemblable-aux-locataires-en-precarite-energetique-les-deputes-votent-un-amendement-du-rn-levant-les-interdictions-de-louer-des-passoires-thermiques_8288078.html",
+      "publication": "Wed, 18 Nov 2026 16:29:12 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 11080,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Un amendement du parti d'extrême droite, voté de justesse mardi à l'Assemblée, revient sur l'une des mesures phares du projet de loi du gouvernement. Il n'est toutefois pas adopté définitivement, un vote solennel sur l'ensemble du texte est prévu mardi 24 novembre.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "6218efb47b6f1931238de3ca",
+      "titre": "La municipalité RN de Perpignan exposera une crèche géante sur la voie publique, après s'être vue interdire une crèche dans l'hôtel de ville",
+      "url": "https://www.franceinfo.fr/decouverte/noel/la-municipalite-rn-de-perpignan-exposera-une-creche-geante-sur-la-voie-publique-a-partir-du-4-decembre-apres-s-etre-vue-interdire-une-creche-dans-l-hotel-de-ville_8288459.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/decouverte/noel/la-municipalite-rn-de-perpignan-exposera-une-creche-geante-sur-la-voie-publique-a-partir-du-4-decembre-apres-s-etre-vue-interdire-une-creche-dans-l-hotel-de-ville_8288459.html",
+      "publication": "Wed, 18 Nov 2026 16:00:41 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8698,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Cette crèche a été présentée comme la plus grande crèche de Noël de France et se situera sur la place de la République.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "a0474a987dc5a8d2cf351beb",
+      "titre": "Présidentielle : Jean-Luc Mélenchon, \"rouleau compresseur\" ? \"On/Off\", épisode 9",
+      "url": "https://www.franceinfo.fr/politique/presidentielle-jean-luc-melenchon-rouleau-compresseur-on-off-episode-9_8287910.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/presidentielle-jean-luc-melenchon-rouleau-compresseur-on-off-episode-9_8287910.html",
+      "publication": "Wed, 18 Nov 2026 14:59:13 +0100",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7854,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false,
+      "resumeRss": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
+      "resumeRssDisponible": true,
+      "provenanceResume": "flux RSS non vérifié sur le document original",
+      "utilisableCommePreuvePolitique": false
+    },
+    {
+      "id": "7623ff1a5b3d45e19a9985ad",
+      "titre": "Élection présidentielle française 2027 – épisode 2 : le grand flou",
+      "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261118-%C3%A9lection-pr%C3%A9sidentielle-fran%C3%A7aise-2027-%E2%80%93-%C3%A9pisode-2-le-grand-flou",
+      "urlEffective": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261118-%C3%A9lection-pr%C3%A9sidentielle-fran%C3%A7aise-2027-%E2%80%93-%C3%A9pisode-2-le-grand-flou",
+      "publication": "Wed, 18 Nov 2026 14:57:16 GMT",
+      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4328,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false,
+      "resumeRss": "Au printemps prochain, la France se rendra aux urnes pour élire un nouveau président de la République. Trente-huit candidats sont actuellement en lice et ont jusqu'au 12 mars pour obtenir 500 parrainages. Aujourd'hui, quels que soient les candidats, les sondages donnent Marine Le Pen en tête du premier et du second tour.",
       "resumeRssDisponible": true,
       "provenanceResume": "flux RSS non vérifié sur le document original",
       "utilisableCommePreuvePolitique": false
@@ -15158,16 +15849,16 @@
     }
   ],
   "statistiques": {
-    "documentsSuivis": 626,
-    "documentsLus": 621,
-    "documentsSansTexteAvecResumeRss": 5,
+    "documentsSuivis": 644,
+    "documentsLus": 638,
+    "documentsSansTexteAvecResumeRss": 6,
     "documentsSansTexteNiResume": 0,
-    "passagesCandidats": 127,
+    "passagesCandidats": 143,
     "erreursParCause": {
-      "Texte intégral lu": 621,
+      "Texte intégral lu": 638,
+      "http_403": 4,
       "http_404": 1,
-      "reseau_TimeoutError": 1,
-      "http_403": 3
+      "reseau_TimeoutError": 1
     }
   },
   "inventaireAN": {

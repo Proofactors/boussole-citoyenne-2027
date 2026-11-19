@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-18T08:27:01+00:00",
+  "date": "2026-11-19T08:31:10+00:00",
   "scrutinsEchantillon": 1200,
-  "scrutinsArchive": 9969,
+  "scrutinsArchive": 10032,
   "personnalites": 30,
-  "votesIndividuels": 837,
+  "votesIndividuels": 845,
   "identifiantsUniques": 9,
   "lignes": [
     {
@@ -143,7 +143,7 @@
       "personnalite": "emmanuel-maurel",
       "id_an": "PA842271",
       "identification": "identifiant_unique",
-      "votes": 225,
+      "votes": 220,
       "positions": 41
     },
     {
@@ -171,7 +171,7 @@
       "personnalite": "jerome-guedj",
       "id_an": "PA1567",
       "identification": "identifiant_unique",
-      "votes": 562,
+      "votes": 575,
       "positions": 41
     },
     {

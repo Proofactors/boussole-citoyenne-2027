@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-18T08:27:01+00:00",
+  "generatedAt": "2026-11-19T08:31:10+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "0b65aaf4758e3289479550a7a21ff0d6ac0ada5376021b888b89a0be967b5530",
+  "votesArchiveSha256": "c7ce9ef982644dce1ff6f5b9914ec33f376a837968815b8a00b4f7e079aa8d93",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -365,8 +365,8 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 117,
-        "contre": 94,
+        "pour": 113,
+        "contre": 93,
         "abstention": 14,
         "non-votant": 0,
         "conflit": 0
@@ -1911,41 +1911,6 @@
           "titre": "l'amendement n° 1077 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8776",
-          "titre": "l'amendement n° 856 de M. Ballard après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8775",
-          "titre": "l'amendement n° 3339 de Mme Pantel et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8774",
-          "titre": "l'amendement n° 1524 de M. Philippe Brun après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8773",
-          "titre": "l'amendement n° 1495 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8772",
-          "titre": "l'amendement n° 3184 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1999,13 +1964,433 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 312,
-        "contre": 200,
-        "abstention": 50,
+        "pour": 304,
+        "contre": 222,
+        "abstention": 49,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-18",
+          "numero": "10032",
+          "titre": "l'amendement n° 29 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10031",
+          "titre": "l'amendement n° 76 de Mme Pollet à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10030",
+          "titre": "l'amendement n° 69 de Mme Robert-Dehault à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10029",
+          "titre": "l'amendement n° 28 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10028",
+          "titre": "l'amendement n° 27 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10027",
+          "titre": "l'amendement n° 68 de Mme Robert-Dehault à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10026",
+          "titre": "l'amendement n° 26 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10022",
+          "titre": "l'amendement n° 20 de Mme Rey-Rinchet et les amendements identiques suivants de suppression de l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10021",
+          "titre": "l'amendement n° 902 de M. Nicolas Bonnet après l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10020",
+          "titre": "l'amendement n° 848 de M. Ratenon après l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10019",
+          "titre": "l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10018",
+          "titre": "l'amendemement n° 850 de Mme Nosbé à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10017",
+          "titre": "l'amendemement n° 912 de M. Peu à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10016",
+          "titre": "l'amendemement n° 104 de M. Falcon à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10015",
+          "titre": "l'amendemement n° 199 de M. Roseren à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10014",
+          "titre": "l'amendemement n° 930 de M. Nicolas Bonnet à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10013",
+          "titre": "l'amendemement n° 264 de M. Falcon à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10012",
+          "titre": "l'amendemement n° 100 de M. Falcon à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10011",
+          "titre": "l'amendemement n° 570 de Mme Mette à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10010",
+          "titre": "l'amendemement n° 1091 de M. Daubié à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10009",
+          "titre": "l'amendemement n° 97 de M. Falcon à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10008",
+          "titre": "l'amendemement n° 846 de M. Piquemal à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10007",
+          "titre": "l'amendemement n° 95 de M. Falcon à l'article 6 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10006",
+          "titre": "l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10005",
+          "titre": "l'amendement n° 819 de M. Piquemal à l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10004",
+          "titre": "l'amendement n° 831 de Mme à l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10003",
+          "titre": "l'amendement n° 818 de Mme Bentorki de suppression de l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10002",
+          "titre": "l'amendement n° 521 de M. Ratenon à l'article 4 ter du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10001",
+          "titre": "l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "10000",
+          "titre": "l'amendement n° 516 de M. Ratenon et l'amendement identique suivant à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9999",
+          "titre": "l'amendement n° 874 de Mme Brulebois à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9998",
+          "titre": "l'amendement n° 48 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9997",
+          "titre": "l'amendement n° 926 de Mme Chatelain à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9996",
+          "titre": "l'amendement n° 47 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9995",
+          "titre": "l'amendement n° 824 de Mme Pantel à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9994",
+          "titre": "l'amendement n° 45 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9993",
+          "titre": "l'amendement n° 46 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9992",
+          "titre": "l'amendement n° 331 de M. Echaniz à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9991",
+          "titre": "l'amendement n° 606 de M. Nicolas Bonnet à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9990",
+          "titre": "l'amendement n° 604 de M. Nicolas Bonnet à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9989",
+          "titre": "l'amendement n° 605 de M. Nicolas Bonnet à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9988",
+          "titre": "l'amendement n° 37 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9987",
+          "titre": "l'amendement n° 36 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9986",
+          "titre": "l'amendement n° 39 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9985",
+          "titre": "l'amendement n° 40 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9984",
+          "titre": "l'amendement n° 41 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9983",
+          "titre": "l'amendement n° 35 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9982",
+          "titre": "l'amendement n° 42 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9981",
+          "titre": "l'amendement n° 43 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9980",
+          "titre": "l'amendement n° 44 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9979",
+          "titre": "l'amendement n° 982 de M. Bataille à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9978",
+          "titre": "l'amendement n° 520 de M. Ratenon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9977",
+          "titre": "le sous-amendement n° 1124 du Gouvernement à l'amendement n° 342 de Mme Carteron et les amendements identiques suivants à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9976",
+          "titre": "l'amendement n° 33 de M. Falcon à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9975",
+          "titre": "l'amendement n° 519 de Mme Nosbé à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9974",
+          "titre": "l'amendement n° 514 de Mme Bentorki à l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9973",
+          "titre": "l'amendement n° 513 de M. Piquemal et les amendements identiques suivants de suppression de l'article 4 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9972",
+          "titre": "l'article 2 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9971",
+          "titre": "l'amendement n° 655 de M. Tavernier à l'article 2 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-18",
+          "numero": "9970",
+          "titre": "l'amendement n° 651 de M. Tavernier et l'amendement identique suivant de suppression de l'article 2 bis du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-17",
           "numero": "9969",
@@ -2401,7 +2786,7 @@
         {
           "date": "2026-11-16",
           "numero": "9903",
-          "titre": "l'amendement n° 2 de Mme Sylvie Bonnet et les amendements identiques suivants de rétablissement de l'article 2 (supprimé) de la proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en œuvre d'une procédure de déblocage exceptionnelle (première lecture).",
+          "titre": "l'amendement n° 2 de Mme Sylvie Bonnet et l'amendement identique suivant de rétablissement de l'article 2 (supprimé) de la proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en œuvre d'une procédure de déblocage exceptionnelle (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
         },
@@ -5610,335 +5995,6 @@
           "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8832",
-          "titre": "l'amendement n° 3443 de M. Piquemal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8831",
-          "titre": "l'amendement n° 1665 de M. Dufau et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8830",
-          "titre": "l'amendement n° 2565 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8829",
-          "titre": "l'amendement n° 2925 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8828",
-          "titre": "l'amendement n° 53 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8827",
-          "titre": "l'amendement n° 3914 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8826",
-          "titre": "l'amendement n° 1088 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8825",
-          "titre": "l'amendement n° 469 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8824",
-          "titre": "l'amendement n° 1084 de Mme Feld après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8823",
-          "titre": "l'amendement n° 1083 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8822",
-          "titre": "l'amendement n° 3932 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8821",
-          "titre": "l'amendement n° 1599 de M. Ciotti après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8820",
-          "titre": "l'amendement n° 3533 (rect.) de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8818",
-          "titre": "l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8817",
-          "titre": "l'amendement n° 320 de Mme Maximi à l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8816",
-          "titre": "l'amendement n° 319 de M. Coquerel à l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8815",
-          "titre": "l'amendement n° 456 de M. Lahais et les amendements identiques suivants de suppression de l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8813",
-          "titre": "l'amendement n° 263 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8812",
-          "titre": "l'amendement n° 264 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8811",
-          "titre": "l'amendement n° 266 de Mme Félicie Gérard et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8810",
-          "titre": "l'amendement n° 1047 de Mme Legrain après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8809",
-          "titre": "l'amendement n° 356 de M. Le Fur après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8808",
-          "titre": "l'amendement n° 1280 de Mme d'Intorni après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8807",
-          "titre": "l'amendement n° 357 de M. Le Fur après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8806",
-          "titre": "l'amendement n° 636 de M. Renault après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8805",
-          "titre": "l'amendement n° 3187 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8804",
-          "titre": "l'amendement n° 3188 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8803",
-          "titre": "l'amendement n° 3186 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8802",
-          "titre": "l'amendement n° 454 de M. Lahais et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8801",
-          "titre": "l'amendement n° 3918 de M. Sansu après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8800",
-          "titre": "l'amendement n° 3190 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8799",
-          "titre": "l'amendement n° 3189 de M. Castellani après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8798",
-          "titre": "l'amendement n° 448 de M. Lahais après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8797",
-          "titre": "l'amendement n° 2517 de M. Coquerel après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8796",
-          "titre": "l'amendement n° 2789 de M. de Courson après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8795",
-          "titre": "l'amendement n° 3810 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8794",
-          "titre": "l'amendement n° 3811 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8793",
-          "titre": "l'amendement n° 2448 de Mme Jourdan après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8792",
-          "titre": "l'amendement n° 3812 (rect.) de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8791",
-          "titre": "l'amendement n° 299 de M. Le Coq après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8790",
-          "titre": "l'amendement n° 3787 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8789",
-          "titre": "l'amendement n° 1310 de M. Isaac-Sibille après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8788",
-          "titre": "l'amendement n° 2171 de Mme Mette après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8787",
-          "titre": "l'amendement n° 1602 de Mme Pirès-Beaune après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8786",
-          "titre": "l'amendement n° 1999 de M. Courbon après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8785",
-          "titre": "l'amendement n° 1798 de M. Mauvieux après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-15",
-          "numero": "8784",
-          "titre": "l'amendement n° 206 de M. Ben Cheikh et l'amendement identique suivant après l'article 3 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6313,5 +6369,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "15d6568db69c30b42623cc8d87c5a7b149cabe5e6fffba8a8a0426ada105853a"
+  "actorsArchiveSha256": "077488702ac4e0e66936d1814dea71f79bd72fe65d5fcb075990995d8c49b740"
 }
