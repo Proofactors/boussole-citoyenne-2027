@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-19T08:30:44.546778+00:00",
+  "generatedAt": "2026-11-20T08:26:50.930520+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -2332,6 +2332,435 @@
           "motsCommuns": [
             "conditions",
             "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "d64c308e0a97b816fd7fbdbe",
+      "titre": "Présidentielle 2027 : le candidat Édouard Philippe veut \"oser des réformes radicales\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-pr%C3%A9sidentielle-2027-le-candidat-%C3%A9douard-philippe-veut-oser-des-r%C3%A9formes-radicales",
+      "publication": "Wed, 18 Nov 2026 14:48:46 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2453,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a6b670fe165a799978876658",
+      "titre": "Marine Le Pen dénonce à nouveau ce qu'elle voit comme des \"dérives financières et éthiques des associations politisées\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-denonce-a-nouveau-ce-qu-elle-juge-comme-des-derives-financieres-et-ethiques-des-associations-politisees_8288303.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/marine-le-pen-denonce-a-nouveau-ce-qu-elle-juge-comme-des-derives-financieres-et-ethiques-des-associations-politisees_8288303.html",
+      "publication": "Wed, 18 Nov 2026 14:43:48 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9652,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La candidate du Rassemblement national à l'élection présidentielle, Marine Le Pen, lors d'une conférence de presse sur le projet de réforme des retraites porté par le RN, le 17 novembre 2026 à Paris.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "a5d4559ce8235a2c115fa43a",
+      "titre": "Jeux vidéo : dernier jour d'attente avant la sortie de GTA VI en France",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-jeux-vid%C3%A9o-dernier-jour-d-attente-avant-la-sortie-de-gta-vi-en-france",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-jeux-vid%C3%A9o-dernier-jour-d-attente-avant-la-sortie-de-gta-vi-en-france",
+      "publication": "Wed, 18 Nov 2026 14:43:17 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2349,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "de8994e702badf8f9a7a2385",
+      "titre": "En France, la police manifeste pour demander une revalorisation de la prime de risque",
+      "url": "https://www.france24.com/fr/france/20261118-en-france-la-police-manifeste-pour-demander-une-revalorisation-de-la-prime-de-risque",
+      "urlEffective": "https://www.france24.com/fr/france/20261118-en-france-la-police-manifeste-pour-demander-une-revalorisation-de-la-prime-de-risque",
+      "publication": "Wed, 18 Nov 2026 13:59:34 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6394,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "3647d6eff01dd1e274270f90",
+      "titre": "Pour se relancer, Édouard Philippe promet de \"rétablir l'ordre\" dans \"nos comptes\" et \"nos rues\"",
+      "url": "https://www.france24.com/fr/france/20261118-france-presidentielle-2027-pour-relancer-campagne-edouard-philippe-promet-retablir-ordre-comptes-rues",
+      "urlEffective": "https://www.france24.com/fr/france/20261118-france-presidentielle-2027-pour-relancer-campagne-edouard-philippe-promet-retablir-ordre-comptes-rues",
+      "publication": "Wed, 18 Nov 2026 13:56:19 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8955,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen",
+            "edouard-philippe",
+            "bruno-retailleau"
+          ],
+          "questionId": "frexit",
+          "theme": "europe",
+          "passageSource": "\"Mais je ne veux pas sortir de l'économie de marché, ni de la construction européenne, ni de l'État de droit, ni de la V e  République, ni de l'universalisme républicain\", a ajouté Édouard Philippe, dans une allusion à ses adversaires Marine Le Pen et Jean-Luc Mélenchon , voire à ses concurrents comme le candidat du parti Les Républicains (LR) Bruno Retailleau .",
+          "motsCommuns": [
+            "europeenne",
+            "sortir"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "96dc83ee30aabd3fa9519640",
+      "titre": "Édouard Philippe \"financé par McKinsey\" ? Un média sénégalais reprend une intox russe",
+      "url": "https://www.france24.com/fr/france/20261118-%C3%A9douard-philippe-financ%C3%A9-mckinsey-m%C3%A9dia-s%C3%A9n%C3%A9galais-reprend-intox-russe",
+      "urlEffective": "https://www.france24.com/fr/france/20261118-%C3%A9douard-philippe-financ%C3%A9-mckinsey-m%C3%A9dia-s%C3%A9n%C3%A9galais-reprend-intox-russe",
+      "publication": "Wed, 18 Nov 2026 13:16:42 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8628,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "passageSource": "Lundi, le média sénégalais SeneNews a repris sur son site pendant quelques heures l'intox russe selon laquelle Édouard Philippe aurait reçu 30 millions d'euros du cabinet de conseil McKinsey.",
+          "motsCommuns": [
+            "euros",
+            "millions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "passageSource": "La vidéo, en anglais, soutient qu'Édouard Philippe a reçu 30 millions d'euros de dons de la part de la société de conseil McKinsey pour financer sa campagne.",
+          "motsCommuns": [
+            "euros",
+            "millions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "taxe-zucman",
+          "theme": "fiscalite",
+          "passageSource": "Avec un titre sur les 30 millions d'euros qu'aurait reçu Édouard Philippe, l'article évoque l'idée que McKinsey aurait établi une \"collaboration stratégique en vue de l'élection présidentielle de 2027\".",
+          "motsCommuns": [
+            "euros",
+            "millions"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "fb0f78f357134684adfaadc3",
+      "titre": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html",
+      "publication": "Wed, 18 Nov 2026 12:51:52 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13984,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "extension-immigration-08",
+          "theme": "immigration",
+          "passageSource": "Sur la reprise en main \"du contrôle des frontières\" , Edouard Philippe a réitéré ses propositions, comme cantonner la délivrance des titres de séjour à une immigration liée au travail et aux études, ou la division par deux de ces titres.",
+          "motsCommuns": [
+            "sejour",
+            "titres"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "e4e865ba943e210e8a78ee5b",
+      "titre": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+      "url": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html",
+      "publication": "Wed, 18 Nov 2026 12:48:45 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7209,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "ed0ee294f74e98b5ede27971",
+      "titre": "ÉDITO. Présidentielle 2027 : Gabriel Attal, Bruno Retailleau et David Lisnard se préparent à l'épreuve des poteaux",
+      "url": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/edito-presidentielle-2027-gabriel-attal-bruno-retailleau-et-david-lisnard-se-preparent-a-l-epreuve-des-poteaux_8288219.html",
+      "publication": "Wed, 18 Nov 2026 12:48:45 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7209,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "66a373fa682a31b26d7bfae6",
+      "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html",
+      "publication": "Wed, 18 Nov 2026 12:44:49 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12097,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "a3feec427502402105e05d0e",
+      "titre": "\"Vous allez voir qu'il est de gauche !\" : un mois après la primaire, Raphaël Glucksmann veut donner des gages à son camp",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/vous-allez-voir-qu-il-est-de-gauche-un-mois-apres-la-primaire-raphael-glucksmann-veut-donner-des-gages-a-son-camp_8288081.html",
+      "publication": "Wed, 18 Nov 2026 12:44:49 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12097,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b6cb5cc7011a15d3b5d5e5ff",
+      "titre": "La France dans le monde : des moyens réduits pour la diplomatie ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261118-la-france-dans-le-monde-des-moyens-r%C3%A9duits-pour-la-diplomatie",
+      "urlEffective": "https://www.france24.com/fr/%C3%A9missions/aux-avant-postes/20261118-la-france-dans-le-monde-des-moyens-r%C3%A9duits-pour-la-diplomatie",
+      "publication": "Wed, 18 Nov 2026 11:01:49 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4133,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "559e3a8d1b70da1d6874dbc7",
+      "titre": "France : les parents d'Inass Touloub condamnés pour actes de torture",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-les-parents-d-inass-touloub-condamn%C3%A9s-en-france-l-aboutissement-d-un-des-plus-anciens-cold-case",
+      "publication": "Wed, 18 Nov 2026 10:44:55 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2352,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7029c65fe13f61d8ca82bc84",
+      "titre": "Mobilisations en France : la police au bord de l'épuisement professionnel",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-mobilisations-en-france-la-police-au-bord-de-l-%C3%A9puisement-professionnel",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-mobilisations-en-france-la-police-au-bord-de-l-%C3%A9puisement-professionnel",
+      "publication": "Wed, 18 Nov 2026 10:41:43 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2400,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c0d836cbd266f006cab8af21",
+      "titre": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-reforme-des-retraites-de-marine-le-pen-decryptee-un-depart-a-60-ans-mais-a-quelles-conditions-et-a-quel-prix_8266760.html",
+      "publication": "Wed, 18 Nov 2026 09:34:00 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10176,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La réforme des retraites de Marine Le Pen décryptée : un départ à 60 ans mais à quelles conditions et à quel prix ?",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen a présenté mardi 17 novembre sa réforme des retraites .",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
           ],
           "risques": [
             "Citation ou propos rapporté possibles",
@@ -4788,6 +5217,54 @@
       "motif": null,
       "versionDiagnostic": 23,
       "nombreCaracteres": 9385,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "023508fb74c8b3a698034086",
+      "titre": "La chanson \"Les Antisémites\" de Pierre Perret, qui cible LFI avec virulence, suscite la \"peine\" de Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/culture/musique/chanson-francaise/la-chanson-les-antisemites-de-pierre-perret-qui-cible-lfi-avec-virulence-suscite-la-peine-de-jean-luc-melenchon_8286701.html",
+      "publication": "Tue, 17 Nov 2026 18:06:50 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9679,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "548b60e9b22a46cd90cdc846",
+      "titre": "La Ligue des droits de l'homme accuse Marine Le Pen de vouloir \"supprimer tous les contre-pouvoirs\", après ses déclarations sur des associations jugées \"politisées\"",
+      "url": "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-le-pen/la-ligue-des-droits-de-l-homme-accuse-marine-le-pen-de-vouloir-supprimer-tous-les-contre-pouvoirs-apres-ses-declarations-sur-des-associations-jugees-politisees_8286773.html",
+      "publication": "Tue, 17 Nov 2026 18:05:19 +0100",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9423,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "bb2ee63893f8143117f8244d",
+      "titre": "Comment une fausse citation de Christine Lagarde a été amplifiée par un réseau de désinformation srilankais",
+      "url": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
+      "urlEffective": "https://www.france24.com/fr/france/20261117-comment-fausse-citation-christine-lagarde-amplifi%C3%A9e-par-r%C3%A9seau-d%C3%A9sinformation-sri-lanka",
+      "publication": "Tue, 17 Nov 2026 17:31:40 GMT",
+      "analyseLe": "2026-11-20T08:26:50.930520+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8587,
       "tentatives": 1,
       "passages": [],
       "modificationPositions": false
@@ -13273,10 +13750,10 @@
     }
   ],
   "statistiques": {
-    "documents": 644,
-    "textesLus": 638,
+    "documents": 662,
+    "textesLus": 656,
     "pdfLus": 0,
-    "passagesCandidats": 143,
+    "passagesCandidats": 152,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "http_403": 4,

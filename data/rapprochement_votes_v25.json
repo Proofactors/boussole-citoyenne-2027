@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-19T08:31:10+00:00",
+  "generatedAt": "2026-11-20T08:27:08+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "c7ce9ef982644dce1ff6f5b9914ec33f376a837968815b8a00b4f7e079aa8d93",
+  "votesArchiveSha256": "9564ad7bbe5f3df41f46e6a6bf652eb6807667fa62c9ad91a059d5f91a7f8092",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -365,13 +365,83 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 113,
-        "contre": 93,
-        "abstention": 14,
+        "pour": 104,
+        "contre": 97,
+        "abstention": 13,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-19",
+          "numero": "10080",
+          "titre": "l'ensemble de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10079",
+          "titre": "l'article 4 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10078",
+          "titre": "l'amendement n° 39 de M. Gillet à l'article 4 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10077",
+          "titre": "l'amendement n° 13 de Mme Bamana après l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10076",
+          "titre": "l'amendement n° 14 de Mme Bamana après l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10075",
+          "titre": "l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10074",
+          "titre": "l'amendement n° 38 de M. Gillet à l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10073",
+          "titre": "l'amendement n° 37 de M. Gillet après l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10072",
+          "titre": "l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10042",
+          "titre": "l'amendement n° 36 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-11-17",
           "numero": "9920",
@@ -1799,118 +1869,6 @@
           "titre": "l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8874",
-          "titre": "l'amendement n° 424 de M. Ray et les amendements identiques suivants de suppression de l'article 5 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8873",
-          "titre": "l'amendement n° 1398 de M. Midy après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8872",
-          "titre": "l'amendement n° 3626 de M. Le Coq et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8871",
-          "titre": "l'amendement n° 3625 de Mme Maximi et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8869",
-          "titre": "l'amendement n° 262 de M. Arnaud Bonnet et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8868",
-          "titre": "l'amendement n° 2385 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8867",
-          "titre": "l'amendement n° 1106 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8866",
-          "titre": "l'amendement n° 3783 de M. Mattei après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8865",
-          "titre": "l'amendement n° 1080 de M. Coquerel après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8862",
-          "titre": "l'amendement n° 1046 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8861",
-          "titre": "l'amendement n° 38 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8860",
-          "titre": "l'amendement n° 471 de M. Mickaël Bouloux après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8859",
-          "titre": "l'amendement n° 2566 de M. Coquerel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8858",
-          "titre": "l'amendement n° 54 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8857",
-          "titre": "l'amendement n° 1069 de M. Tavel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8856",
-          "titre": "l'amendement n° 1077 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1964,13 +1922,342 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 304,
-        "contre": 222,
-        "abstention": 49,
+        "pour": 290,
+        "contre": 250,
+        "abstention": 47,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-19",
+          "numero": "10080",
+          "titre": "l'ensemble de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10079",
+          "titre": "l'article 4 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10078",
+          "titre": "l'amendement n° 39 de M. Gillet à l'article 4 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10077",
+          "titre": "l'amendement n° 13 de Mme Bamana après l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10076",
+          "titre": "l'amendement n° 14 de Mme Bamana après l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10075",
+          "titre": "l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10074",
+          "titre": "l'amendement n° 38 de M. Gillet à l'article 3 bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10073",
+          "titre": "l'amendement n° 37 de M. Gillet après l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10072",
+          "titre": "l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10071",
+          "titre": "l'amendement n° 26 de M. Rivière à l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10070",
+          "titre": "l'amendement n° 36 de M. Gillet à l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10069",
+          "titre": "l'amendement n° 27 (rect.) de M. Rivière à l'article 2 de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10068",
+          "titre": "l'amendement n° 12 de Mme Lebec à l'article 1er ter de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10067",
+          "titre": "l'article 1er bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10066",
+          "titre": "l'amendement n° 34 de M. Gillet à l'article 1er bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10065",
+          "titre": "l'amendement n° 33 de M. Gillet à l'article 1er bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10064",
+          "titre": "l'amendement n° 15 de Mme Bamana à l'article 1er bis de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10063",
+          "titre": "l'amendement n° 29 de M. Rivière à l'article premier de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10062",
+          "titre": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10061",
+          "titre": "l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10060",
+          "titre": "l'amendement n° 73 de Mme Pollet à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10059",
+          "titre": "l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10058",
+          "titre": "l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10057",
+          "titre": "l'amendement n° 70 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10056",
+          "titre": "l'amendement n° 74 de Mme Pollet à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10055",
+          "titre": "l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10054",
+          "titre": "l'amendement n° 14 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10053",
+          "titre": "l'amendement n° 13 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10052",
+          "titre": "l'amendement n° 12 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10051",
+          "titre": "l'amendement n° 11 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10050",
+          "titre": "l'amendement n° 10 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10049",
+          "titre": "l'amendement n° 9 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10048",
+          "titre": "l'amendement n° 8 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10047",
+          "titre": "l'amendement n° 7 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10046",
+          "titre": "l'amendement n° 6 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10045",
+          "titre": "l'amendement n° 5 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10044",
+          "titre": "l'amendement n° 4 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10043",
+          "titre": "l'amendement n° 3 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10042",
+          "titre": "l'amendement n° 36 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10040",
+          "titre": "l'amendement n° 34 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10039",
+          "titre": "l'amendement n° 2 de M. Falcon et les amendements identiques suivants à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10038",
+          "titre": "l'amendement n° 33 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10037",
+          "titre": "l'amendement n° 72 de Mme Pollet à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10036",
+          "titre": "l'amendement n° 31 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10035",
+          "titre": "l'amendement n° 75 de Mme Pollet à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10034",
+          "titre": "l'amendement n° 59 de M. Kasbarian à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10033",
+          "titre": "l'ensemble de la proposition de loi visant à exercer l'accès à l'emploi, à pérenniser et à étendre progressivement l'expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l'emploi pour les personnes privées durablement d'emploi (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-18",
           "numero": "10032",
@@ -2149,7 +2436,7 @@
         {
           "date": "2026-11-18",
           "numero": "10004",
-          "titre": "l'amendement n° 831 de Mme à l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "titre": "l'amendement n° 831 de Mme Bentorki à l'article 5 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
         },
@@ -5750,251 +6037,6 @@
           "titre": "l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8877",
-          "titre": "l'amendement n° 3865 de Mme Olivia Grégoire après l'article 5 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8876",
-          "titre": "l'article 5 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8875",
-          "titre": "l'amendement n° 3089 de M. Juvin à l'article 5 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8874",
-          "titre": "l'amendement n° 424 de M. Ray et les amendements identiques suivants de suppression de l'article 5 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8873",
-          "titre": "l'amendement n° 1398 de M. Midy après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8872",
-          "titre": "l'amendement n° 3626 de M. Le Coq et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8871",
-          "titre": "l'amendement n° 3625 de Mme Maximi et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8870",
-          "titre": "l'amendement n° 1079 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8869",
-          "titre": "l'amendement n° 262 de M. Arnaud Bonnet et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8868",
-          "titre": "l'amendement n° 2385 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8867",
-          "titre": "l'amendement n° 1106 de M. Le Coq après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8866",
-          "titre": "l'amendement n° 3783 de M. Mattei après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8864",
-          "titre": "l'amendement n° 666 de M. Jean-Philippe Tanguy après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8863",
-          "titre": "l'amendement n° 47 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8862",
-          "titre": "l'amendement n° 1046 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8861",
-          "titre": "l'amendement n° 38 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8860",
-          "titre": "l'amendement n° 471 de M. Mickaël Bouloux après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8859",
-          "titre": "l'amendement n° 2566 de M. Coquerel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8858",
-          "titre": "l'amendement n° 54 de Mme Sas après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8857",
-          "titre": "l'amendement n° 1069 de M. Tavel et l'amendement identique suivant après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8856",
-          "titre": "l'amendement n° 1077 de Mme Maximi après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8853",
-          "titre": "l'amendement n° 2276 de M. Jolivet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8852",
-          "titre": "l'amendement n° 3655 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8851",
-          "titre": "l'amendement n° 3656 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8843",
-          "titre": "l'amendement n° 3929 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8842",
-          "titre": "l'amendement n° 465 de Mme Mercier après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8841",
-          "titre": "l'amendement n° 472 de Mme Pirès Beaune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8840",
-          "titre": "l'amendement n° 3933 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8839",
-          "titre": "l'amendement n° 260 de M. Arnaud Bonnet après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8838",
-          "titre": "l'amendement n° 3469 de Mme Trouvé après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8837",
-          "titre": "l'amendement n° 3653 de M. Attal après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8836",
-          "titre": "l'amendement n° 3898 de M. Sansu après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8835",
-          "titre": "l'amendement n° 1460 de M. Echaniz après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8834",
-          "titre": "l'amendement n° 300 de Mme Lejeune après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-16",
-          "numero": "8833",
-          "titre": "l'amendement n° 113 de M. Falcon après l'article 4 du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6086,13 +6128,209 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 29,
-        "contre": 4,
+        "pour": 34,
+        "contre": 27,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-19",
+          "numero": "10080",
+          "titre": "l'ensemble de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10062",
+          "titre": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10061",
+          "titre": "l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10060",
+          "titre": "l'amendement n° 73 de Mme Pollet à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10059",
+          "titre": "l'amendement n° 71 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10058",
+          "titre": "l'amendement n° 17 de M. Falcon à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10057",
+          "titre": "l'amendement n° 70 de Mme Robert-Dehault à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10056",
+          "titre": "l'amendement n° 74 de Mme Pollet à l'article 1er bis A de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10055",
+          "titre": "l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10054",
+          "titre": "l'amendement n° 14 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10053",
+          "titre": "l'amendement n° 13 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10052",
+          "titre": "l'amendement n° 12 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10051",
+          "titre": "l'amendement n° 11 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10050",
+          "titre": "l'amendement n° 10 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10049",
+          "titre": "l'amendement n° 9 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10048",
+          "titre": "l'amendement n° 8 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10047",
+          "titre": "l'amendement n° 7 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10046",
+          "titre": "l'amendement n° 6 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10045",
+          "titre": "l'amendement n° 5 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10044",
+          "titre": "l'amendement n° 4 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10043",
+          "titre": "l'amendement n° 3 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10042",
+          "titre": "l'amendement n° 36 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10040",
+          "titre": "l'amendement n° 34 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10039",
+          "titre": "l'amendement n° 2 de M. Falcon et les amendements identiques suivants à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10036",
+          "titre": "l'amendement n° 31 de M. Alfandari et l'amendement identique suivant à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10035",
+          "titre": "l'amendement n° 75 de Mme Pollet à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10034",
+          "titre": "l'amendement n° 59 de M. Kasbarian à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+          "vote": "contre",
+          "acteurRef": "PA609332"
+        },
+        {
+          "date": "2026-11-19",
+          "numero": "10033",
+          "titre": "l'ensemble de la proposition de loi visant à exercer l'accès à l'emploi, à pérenniser et à étendre progressivement l'expérimentation « territoires zéro chômeur de longue durée » comme solution de retour à l'emploi pour les personnes privées durablement d'emploi (deuxième lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
         {
           "date": "2026-11-17",
           "numero": "9916",
@@ -6369,5 +6607,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "077488702ac4e0e66936d1814dea71f79bd72fe65d5fcb075990995d8c49b740"
+  "actorsArchiveSha256": "8be1f6ae68e4253b7bd35d6ba0b45e2b5f0e0c724df2c8faad96e021b4f54a1f"
 }
