@@ -18575,5 +18575,660 @@
     "review": null,
     "detectedAt": "2026-11-20T08:26:46.057930+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "790b83b32fcae3254b457ef2": {
+    "id": "790b83b32fcae3254b457ef2",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Favoriser le développement de l'oenotourisme - texte N° 173",
+    "url": "http://www.senat.fr/leg/ppl26-173.html",
+    "sourcePublishedAt": "Sat,21 Nov 2026 02:03:41 GMT",
+    "excerpt": "Proposition de loi visant à favoriser le développement de l'oenotourisme : texte N° 173 de Mme Nathalie DELATTRE, déposé au Sénat le 13 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:42.169316+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b527cd1070b1f6bff8283937": {
+    "id": "b527cd1070b1f6bff8283937",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Budget 2027 : Aide publique au développement : Aide économique et financière au développement - Solidarité à l'égard des pays en développement - Renforcement des fonds propres de l'Agence française de développement - Restitution des « biens mal acquis » - avis n° 158 tome III",
+    "url": "http://www.senat.fr/rap/a26-158-3/a26-158-3.html",
+    "sourcePublishedAt": "Sat,21 Nov 2026 02:03:41 GMT",
+    "excerpt": "Avis n° 158 tome III de MM. Christian CAMBON et François REBSAMEN, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi de finances pour 2027 : Aide publique au développement : Aide économique et financière au développement - Solidarité à l'égard des pays en développement - Renforcement des fonds propres de l'Agence française de développement - Restitution des « biens mal acquis » (19 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "budget-defense",
+      "aide-developpement"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.347460+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "714157fdd5fd1c54b0579fff": {
+    "id": "714157fdd5fd1c54b0579fff",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Budget 2027 : Monde combattant, mémoire et liens avec la Nation - avis n° 159 tome I",
+    "url": "http://www.senat.fr/rap/a26-159-1/a26-159-1.html",
+    "sourcePublishedAt": "Sat,21 Nov 2026 02:03:41 GMT",
+    "excerpt": "Avis n° 159 tome I de Mme Jocelyne GUIDEZ, fait au nom de la commission des affaires sociales, sur le projet de loi de finances pour 2027 : Monde combattant, mémoire et liens avec la Nation (19 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.348547+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "36108b39a6c5682f6c14d0de": {
+    "id": "36108b39a6c5682f6c14d0de",
+    "status": "a_examiner",
+    "feed": "senat-rapports",
+    "title": "Budget 2027 : Cohésion des territoires - Hébergement, parcours vers le logement et insertion des personnes vulnérables - avis n° 159 tome II",
+    "url": "http://www.senat.fr/rap/a26-159-2/a26-159-2.html",
+    "sourcePublishedAt": "Sat,21 Nov 2026 02:03:41 GMT",
+    "excerpt": "Avis n° 159 tome II de Mme Nadia SOLLOGOUB, fait au nom de la commission des affaires sociales, sur le projet de loi de finances pour 2027 : Cohésion des territoires - Hébergement, parcours vers le logement et insertion des personnes vulnérables (19 novembre 2026)",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "priorite-nationale"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.349773+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b03aa200d6224232b7fb0ebb": {
+    "id": "b03aa200d6224232b7fb0ebb",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présomption d’usage légal des armes par les forces de l’ordre : \"Ce n'est en aucun cas un permis de tuer\", estime le syndicat Unsa Police",
+    "url": "https://www.franceinfo.fr/faits-divers/police/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-ce-n-est-en-aucun-cas-un-permis-de-tuer-estime-le-syndicat-unsa-police_8293457.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 08:03:27 +0100",
+    "excerpt": "\"Ce n'est en aucun cas un permis de tuer\", explique ce samedi sur franceinfo, Rudy Manna, délégué national du syndicat Unsa Police au sujet de la présomption d’usage légal des armes par les forces de l’ordre qui a été définitivement adoptée vendredi soir par le Parlement. \"Ce n'est pas une présomption générale de légitime défense\", assure-t-il.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "legitime-defense",
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.525556+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "52459db1d1027d97af757f30": {
+    "id": "52459db1d1027d97af757f30",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Bulldozer\", \"super shérif\" et \"serviteur de l'Etat\" : qui est Hugues Moutouh, le préfet soupçonné d'avoir fait fuiter des informations au RN ?",
+    "url": "https://www.franceinfo.fr/politique/front-national/bulldozer-super-sherif-et-serviteur-de-l-etat-qui-est-hugues-moutouh-le-prefet-soupconne-d-avoir-fait-fuiter-des-informations-au-rn_8292374.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 07:18:08 +0100",
+    "excerpt": "Le haut fonctionnaire, qui a été le numéro deux du ministère de l'Intérieur entre avril 2025 et mai 2026, a été convoqué vendredi par Laurent Nuñez après l'ouverture d'une enquête pour \"violation du secret professionnel, violation du secret de l'enquête et recel de ces délits\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.526978+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4a06be625f160e23fe76b391": {
+    "id": "4a06be625f160e23fe76b391",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "L'auteur du tir de mortier d'artifice contre la députée LFI Farida Amrani a été condamné à 10 mois de bracelet électronique",
+    "url": "https://www.franceinfo.fr/faits-divers/l-auteur-du-tir-de-mortier-d-artifice-contre-la-deputee-lfi-farida-amrani-a-ete-condamne-a-10mois-de-bracelet-electronique_8293004.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 22:55:57 +0100",
+    "excerpt": "Le 7 novembre, un individu masqué était entré dans un salon de coiffure d'Evry-Courcouronnes (Essonne) où se trouvait l'élue. Elle avait été légèrement blessée.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.528067+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5ddbc6541b7585922094c6ed": {
+    "id": "5ddbc6541b7585922094c6ed",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présidentielle 2027 : ces maires réticents à l'idée de donner leur parrainage",
+    "url": "https://www.franceinfo.fr/elections/presidentielle-2027-ces-maires-reticents-a-l-idee-de-donner-leur-parrainage_8292998.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 23:46:37 +0100",
+    "excerpt": "Le calendrier des édiles dans les prochaines semaines devrait être occupé par le traitement des demandes de parrainages : 48,3% d’entre eux excluent d’apporter leur soutien à un candidat. Comment expliquer cette réticence ? 33%reconnaissent désormais ne pas se situer sur un axe politique gauche-droite.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.529454+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b96f044b44ab775ffd52207e": {
+    "id": "b96f044b44ab775ffd52207e",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Députés et sénateurs parviennent à un accord sur le projet de budget de \"fin de gestion\" pour 2026, avant une possible adoption définitive mardi",
+    "url": "https://www.franceinfo.fr/economie/budget/deputes-et-senateurs-parviennent-a-un-accord-sur-le-projet-de-budget-de-fin-de-gestion-pour-2026-avant-une-possible-adoption-definitive-mardi_8292914.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 22:35:30 +0100",
+    "excerpt": "Le texte, qui procède aux derniers ajustements budgétaires de l'année en cours, a fait l'objet d'un accord en commission mixte paritaire.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.530579+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9c63902dd866e812a98740c6": {
+    "id": "9c63902dd866e812a98740c6",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh",
+    "url": "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 22:30:11 +0100",
+    "excerpt": "L’ancien secrétaire général du ministère de l’Intérieur a-t-il transmis des informations confidentielles au Rassemblement National ? Une enquête a été ouverte par le parquet de Paris. Hugues Moutouh est toujours actuellement préfet du Loiret et de la région Centre-Val de Loire.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.532173+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d5c511f2249578674776c411": {
+    "id": "d5c511f2249578674776c411",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Préfet soupçonné d'avoir renseigné le RN : \"J'espère que ce n'est pas une pression pour tous ceux qui oseraient discuter avec nous\", réagit l'eurodéputé RN Aleksandar Nikolic",
+    "url": "https://www.franceinfo.fr/politique/prefet-soupconne-d-avoir-renseigne-le-rn-j-espere-que-ce-n-est-pas-une-pression-pour-tous-ceux-qui-oseraient-discuter-avec-nous-reagit-l-eurodepute-rn-aleksandar-nikolic_8292947.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 21:31:04 +0100",
+    "excerpt": "Invité du \"Duel\" vendredi 20 novembre, l'eurodéputé et porte-parole du Rassemblement national réagit aux révélations du Monde sur les investigations autour d'une collusion présumée, entre un ancien haut cadre du ministère de l'Intérieur et le parti de Marine Le Pen, notamment d'éventuelles fuites sur des affaires en cours visant la formation d'extrême droite. \"J'ai confiance en la justice\", estime-t-il, tandis que Jad Zahab, porte-parole de Gabriel Attal, évoque un \"halo de suspicion autour du Rassemblement national\".",
+    "personalitiesSuggested": [
+      "marine-le-pen",
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.534128+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "bda35107333bdd78a572bcd2": {
+    "id": "bda35107333bdd78a572bcd2",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Dominique de Villepin : des coups par sa droite",
+    "url": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 20:00:02 +0100",
+    "excerpt": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique. On en parle dans l'épisode 10 du podcast \"On/Off\".",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.535190+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fa2e2c602544d3c6b7f758a1": {
+    "id": "fa2e2c602544d3c6b7f758a1",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le Parlement adopte définitivement la présomption d'usage légal des armes par les forces de l'ordre",
+    "url": "https://www.franceinfo.fr/faits-divers/police/le-parlement-adopte-definitivement-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8292845.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 20:26:13 +0100",
+    "excerpt": "La proposition de loi, soutenue par le centre, la droite et l'extrême droite, a été adoptée à 205 voix pour et 110 contre au Sénat.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.536193+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "27592617c7556ce7dcad6855": {
+    "id": "27592617c7556ce7dcad6855",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Je ne savais pas qu'il était encore là\", réagit Marine Tondelier après le départ de Yannick Jadot des Ecologistes",
+    "url": "https://www.franceinfo.fr/elections/je-ne-savais-pas-qu-il-etait-encore-la-reagit-marine-tondelier-apres-le-depart-de-yannick-jadot-des-ecologistes_8292785.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 19:01:22 +0100",
+    "excerpt": "Yannick Jadot a annoncé quitter les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon pour la présidentielle 2027. Le désormais ex-membre du parti était déjà suspendu pour avoir rejoint Raphaël Glucksmann.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [
+      "retraite-65"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.537438+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "a6d447d9537fd2b60854387f": {
+    "id": "a6d447d9537fd2b60854387f",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Franc-Jeu\". Avec Marine Le Pen",
+    "url": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-marine-le-pen_8266898.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 17:27:43 +0100",
+    "excerpt": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 22 novembre 2026, il reçoit Marine Le Pen, candidate du Rassemblement national à l’élection présidentielle.",
+    "personalitiesSuggested": [
+      "marine-le-pen"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.538742+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "60d28a88fc9af0fcd9654fdc": {
+    "id": "60d28a88fc9af0fcd9654fdc",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Dominique De Villepin, le pari de l'Elysée : \"On/Off\" épisode 10",
+    "url": "https://www.franceinfo.fr/politique/dominique-de-villepin-le-pari-de-l-elysee-on-off-episode-10_8292278.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 16:41:49 +0100",
+    "excerpt": "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique.",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.539730+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "d5ffe80fa2b719b3ba50c4c4": {
+    "id": "d5ffe80fa2b719b3ba50c4c4",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "L'élu RN qui a reçu un procureur au siège du parti évoque \"une discussion entre professionnels\" qui se connaissent \"depuis près de trente ans\"",
+    "url": "https://www.franceinfo.fr/politique/l-elu-rn-qui-a-recu-un-procureur-au-siege-du-parti-evoque-une-discussion-entre-professionnels-qui-se-connaissent-depuis-pres-de-trente-ans_8292344.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 15:32:01 +0100",
+    "excerpt": "Lors d'une perquisition au siège du parti Rassemblement national début novembre, les policiers en charge de l'enquête ont constaté la présence sur place du procureur adjoint du parquet de Paris. Il rendait visite à Jean-Paul Garraud, eurodéputé du Rassemblement national, qui s'explique.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.541126+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "0a6eaccf188186b0bd2de0f1": {
+    "id": "0a6eaccf188186b0bd2de0f1",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Partie de LFI en 2024, Clémentine Autain appelle à son tour à se rallier à la candidature de Jean-Luc Mélenchon",
+    "url": "https://www.franceinfo.fr/elections/exclue-de-lfi-en-2024-clementine-autain-appelle-a-son-tour-a-se-rallier-a-la-candidature-de-jean-luc-melenchon_8292170.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 13:35:07 +0100",
+    "excerpt": "Qualifié par plusieurs sondages au second tour de l'élection présidentielle, Jean-Luc Mélenchon commence à engranger ralliements et mains tendues. Ce vendredi, c'est la députée Clémentine Autain qui appelle à soutenir sa candidature à l'élection présidentielle.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.542371+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c75f08d078d1fcb4dc3cbe2b": {
+    "id": "c75f08d078d1fcb4dc3cbe2b",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "ÉDITO. Les Écologistes sont-ils solubles dans l'élection présidentielle ?",
+    "url": "https://www.franceinfo.fr/politique/marine-tondelier/edito-les-ecologistes-sont-ils-solubles-dans-l-election-presidentielle_8292236.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 12:59:25 +0100",
+    "excerpt": "En se disant prête à négocier une coalition autour de Jean-Luc Mélenchon en 2027, Marine Tondelier acte un nouveau recul des écologistes, toujours en difficulté pour s'imposer à la présidentielle et fragilisés par leurs divisions internes.",
+    "personalitiesSuggested": [
+      "marine-tondelier"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.543520+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f1211712b00a55d4d98e7990": {
+    "id": "f1211712b00a55d4d98e7990",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La procureure générale de Paris doit rendre vendredi un rapport à Gérald Darmanin sur la présence d'un procureur lors d'une perquisition au siège du RN",
+    "url": "https://www.franceinfo.fr/politique/front-national/la-procureure-generale-de-paris-a-remis-son-rapport-a-gerald-darmanin-sur-la-presence-d-un-procureur-lors-d-une-perquisition-au-siege-du-rn_8292188.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 15:38:31 +0100",
+    "excerpt": "Lors d'une perquisition au siège du parti Rassemblement national début novembre, un procureur adjoint du parquet de Paris a été aperçu.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.544634+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fc8d5e81efd8b7b4904207a0": {
+    "id": "fc8d5e81efd8b7b4904207a0",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Un préfet soupçonné d'avoir renseigné le RN est convoqué au ministère de l'Intérieur",
+    "url": "https://www.franceinfo.fr/societe/justice/un-prefet-soupconne-d-avoir-renseigne-le-rn-est-convoque-au-ministere-de-l-interieur_8291963.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 10:41:40 +0100",
+    "excerpt": "Le préfet Hugues Moutouh, qui travaillait avant au ministère de l'Intérieur, est soupçonné d'avoir fait fuiter des documents confidentiels vers le Rassemblement national. Il est convoqué par Laurent Nuñez vendredi 20 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.545765+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "44fca3c2845555d87e753849": {
+    "id": "44fca3c2845555d87e753849",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national",
+    "url": "https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 10:32:08 +0100",
+    "excerpt": "Le parti d'extrême droite est soupçonné d'avoir bénéficié de fuites sur des affaires en cours, avec des informations normalement couvertes par le secret de l'enquête. La participation d'un préfet est étudiée, selon plusieurs médias.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.547196+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "21339406b4f26bdd207361b2": {
+    "id": "21339406b4f26bdd207361b2",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "VIDEO. Gabriel Attal interrogé par Neïla Latrous dans \"L'Heure de vérité\" : comment convaincre les jeunes ?",
+    "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-neila-latrous-dans-l-heure-de-verite-comment-convaincre-les-jeunes_8290673.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 09:58:31 +0100",
+    "excerpt": "Celui qui fut le plus jeune Premier ministre de la Ve République peut-il s'imposer comme le candidat des jeunes ? Dans \"L'Heure de vérité\", Gabriel Attal était interrogé le 19 novembre 2026 par Neïla Latrous, rédactrice en chef politique de France Télévisions.",
+    "personalitiesSuggested": [
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.548500+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "0e7c1788706c1134cad87b51": {
+    "id": "0e7c1788706c1134cad87b51",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "VIDEO. Gabriel Attal interrogé par Benjamin Duhamel dans \"L'Heure de vérité\". Une campagne en panne ?",
+    "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-benjamin-duhamel-dans-l-heure-de-verite-une-campagne-en-panne_8290634.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 09:54:31 +0100",
+    "excerpt": "Le 19 novembre 2026, \"L'Heure de vérité\" recevait Gabriel Attal. Distancé dans les sondages, le chef du parti Renaissance va-t-il maintenir sa candidature à l'élection présidentielle ? Il répond aux questions de Benjamin Duhamel, journaliste à France Inter et France Télévisions.",
+    "personalitiesSuggested": [
+      "gabriel-attal"
+    ],
+    "questionsSuggested": [
+      "ukraine"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:44.549816+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c3c9bb5af29441382c4801bc": {
+    "id": "c3c9bb5af29441382c4801bc",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Dominique de Villepin : des coups par sa droite",
+    "url": "https://www.franceinfo.fr/elections/dominique-de-villepin-des-coups-par-sa-droite_8292857.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 20:00:02 +0100",
+    "excerpt": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle. Une candidature critiquée par certains de son historique famille politique. On en parle dans l'épisode 10 du podcast \"On/Off\".",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.188707+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "78f42f8887118e4f4037627a": {
+    "id": "78f42f8887118e4f4037627a",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "On vous explique les nouvelles règles de pluralisme que l'Arcom veut appliquer aux influenceurs comme HugoDécrypte ou Guillaume Pley pour la présidentielle",
+    "url": "https://www.franceinfo.fr/economie/medias/on-vous-presente-les-nouvelles-regles-de-pluralisme-que-l-arcom-veut-appliquer-aux-influenceurs-comme-hugodecrypte-ou-guillaume-pley-pour-la-presidentielle_8292011.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 17:48:54 +0100",
+    "excerpt": "Le gendarme de l'audiovisuel souhaite que les principaux créateurs de contenus en ligne, comme HugoDécrypte ou Guillaume Pley, respectent des règles de temps de parole et de déontologie durant la campagne présidentielle 2027.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.189997+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b44c2bc3dbe803945bbf8280": {
+    "id": "b44c2bc3dbe803945bbf8280",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Dominique de Villepin annonce sa candidature à l'élection présidentielle, évoquant une \"décision lourde, difficile\"",
+    "url": "https://www.franceinfo.fr/elections/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-evoquant-une-decision-lourde-difficile_8292431.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 16:08:17 +0100",
+    "excerpt": "L'ancien Premier ministre de Jacques Chirac assure qu'il n'a \"pas l'esprit partisan\" et estime que la macronie, le Rassemblement national et La France insoumise sont responsables d'un \"pourrissement\".",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.191132+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "45a0fadce42073ef85a503f2": {
+    "id": "45a0fadce42073ef85a503f2",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "\"Je suis candidat\" : Dominique de Villepin se lance dans la course de l'élection présidentielle",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/je-suis-candidat-dominique-de-villepin-se-lance-dans-la-course-de-l-election-presidentielle_8292371.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 15:09:21 +0100",
+    "excerpt": "L’ancien Premier ministre de Jacques Chirac annonce sa candidature à l’élection présidentielle de 2027. Il s’ajoute aux 38 candidats déjà déclarés à cette élection.",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.192267+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f7f7d056439fd8eadcdcf396": {
+    "id": "f7f7d056439fd8eadcdcf396",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Sixième samedi de manifestation contre la vie chère, premier round contre les violences sexistes",
+    "url": "https://www.france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 06:16:30 GMT",
+    "excerpt": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à protester samedi dans la rue contre la vie chère, dans un contexte de grogne sociale devenue européenne mais qui commence à se tasser les samedis en France. Des manifestations sont aussi prévues cette semaine dans l'Hexagone pour dénoncer les violences faites aux femmes et réclamer le vote de la loi intégrale.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "frexit",
+      "contribution-ue",
+      "accord-1968"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.356237+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c851516b7c05a81292b7c816": {
+    "id": "c851516b7c05a81292b7c816",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Procès Zecler : les trois policiers condamnés à des peines de un à deux ans de prison ferme",
+    "url": "https://www.france24.com/fr/france/20261120-proc%C3%A8s-zecler-les-trois-policiers-condamn%C3%A9s-%C3%A0-des-peines-de-un-%C3%A0-deux-ans-de-prison-ferme",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 21:54:13 GMT",
+    "excerpt": "Les trois policiers ayant passé à tabac le producteur de musique noir Michel Zecler en 2020 ont été condamnés à des peines de un à deux ans de prison ferme. L'accusation avait de son côté requis, jeudi, entre quatre et six ans de prison ferme.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-04",
+      "courtes-peines"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.357481+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "17c53d3bab7cd712c381142e": {
+    "id": "17c53d3bab7cd712c381142e",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Johann Chapoutot : \"la dédiabolisation du RN est véritablement un mythe\"",
+    "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261120-johann-chapoutot-la-d%C3%A9diabolisation-du-rn-est-v%C3%A9ritablement-un-mythe",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 20:58:03 GMT",
+    "excerpt": "A 5 mois de la présidentielle en France, le RN domine toujours dans les sondages. Longtemps considéré comme anti républicain, infréquentable, il est désormais aux portes du pouvoir. Comment comprendre cette progression? Quelle est la responsabilité de la classe politique dans cette évolution? Quelles conséquences sur notre démocratie? Johann Chapoutot, Professeur d'Histoire contemporaine, auteur de \"La bascule, Allemagne 1933\" (éditions Gallimard), était l'Invité d'Au Coeur de l'Info.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "vote-etrangers",
+      "primaute-ue",
+      "extension-ecologie-03"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.359128+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9a70fa8706f6a7aa1d566c04": {
+    "id": "9a70fa8706f6a7aa1d566c04",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Police : la loi sur la présomption de légitime défense définitivement adoptée par le Parlement",
+    "url": "https://www.france24.com/fr/france/20261120-police-la-loi-sur-la-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-d%C3%A9finitivement-adopt%C3%A9e-par-le-parlement",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 19:02:24 GMT",
+    "excerpt": "Vivement combattue dans la rue par ses opposants qui l'assimilent à un \"permis de tuer\", l'instauration d'une présomption d'usage légal des armes par les forces de l'ordre a été définitivement adoptée au Parlement vendredi soir, à la veille d'une nouvelle journée de mobilisation sociale.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "legitime-defense",
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.360358+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "415c98936a8bd03a6f2458a4": {
+    "id": "415c98936a8bd03a6f2458a4",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Fuites au ministère de l'Intérieur : comment le RN a progressivement séduit les hauts fonctionnaires",
+    "url": "https://www.france24.com/fr/france/20261120-fuites-au-minist%C3%A8re-de-l-int%C3%A9rieur-comment-le-rn-a-progressivement-s%C3%A9duit-les-hauts-fonctionnaires",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 17:12:25 GMT",
+    "excerpt": "Le parquet de Paris soupçonne l'ancien secrétaire général de Beauvau et actuel préfet du Loiret et de la région Centre-Val de Loire, Hugues Moutouh, d'avoir informé le Rassemblement national sur des enquêtes judiciaires visant le parti. Une affaire qui illustre l'influence grandissante du parti lepéniste dans les hautes sphères de l'État.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.361757+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "5fcae5fdc75c05dd2416a783": {
+    "id": "5fcae5fdc75c05dd2416a783",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "De l'océan Indien aux Caraïbes, la sécheresse frappe plusieurs territoires d'Outre-mer",
+    "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261120-de-l-oc%C3%A9an-indien-aux-cara%C3%AFbes-la-s%C3%A9cheresse-frappe-plusieurs-territoires-d-outre-mer",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 15:36:16 GMT",
+    "excerpt": "La sécheresse s'installe durablement en Outre-mer. Le manque d'eau fragilise les cultures et menace les récoltes aux Antilles et à La Réunion. La situation est également très préoccupante en Guyane, où le niveau du fleuve continue de baisser.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.362889+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4a5128071203311c39b298fd": {
+    "id": "4a5128071203311c39b298fd",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Les féminicides, la partie émergée du contrôle coercitif",
+    "url": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261120-les-f%C3%A9minicides-la-partie-%C3%A9merg%C3%A9e-du-contr%C3%B4le-coercitif",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 14:46:33 GMT",
+    "excerpt": "Les féminicides font aussi des victimes invisibles : les proches des femmes assassinées, confrontées à un deuil impossible et à des embûches judiciaires. Dans 75 % des cas, le féminicide survient sans violences physiques préalables, mais au terme d'une période de contrôle coercitif : une prison invisible faite d'emprise et de violences psychologiques, explique l'historienne Christelle Taraud, qui décrit des victimes \"zombifiées\" par leur tortionnaire.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.364373+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "1acfb48dec794f34f2905418": {
+    "id": "1acfb48dec794f34f2905418",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Gérard Depardieu et Michel Houellebecq accusés de viol en réunion et d'agressions sexuelles",
+    "url": "https://www.france24.com/fr/france/20261120-g%C3%A9rard-depardieu-et-michel-houellebecq-accus%C3%A9s-de-viol-en-r%C3%A9union-et-d-agressions-sexuelles",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 14:38:36 GMT",
+    "excerpt": "Gérard Depardieu est de nouveau accusé de viol – en réunion cette fois, avec la complicité supposée de l'écrivain Michel Houellebecq, selon des sources proches du dossier, confirmant vendredi des révélations de Mediapart. Les faits, dénoncés par une comédienne, remonteraient au tournage du film \"Thalasso\" en 2018.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.365797+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4322be41e1f7fe90af5cefc5": {
+    "id": "4322be41e1f7fe90af5cefc5",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Dominique de Villepin annonce sa candidature à l'élection présidentielle de 2027",
+    "url": "https://www.france24.com/fr/vid%C3%A9o/20261120-pr%C3%A9sidentielle-2027-l-ancien-premier-ministre-dominique-de-villepin-annonce-sa-candidature",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 11:42:32 GMT",
+    "excerpt": "Dominique de Villepin a officialisé vendredi 20 novembre sa candidature à l'élection présidentielle de 2027. L'ex-Premier ministre se présente comme une alternative au macronisme, à La France insoumise et au Rassemblement national.",
+    "personalitiesSuggested": [
+      "dominique-de-villepin"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.366876+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "be397762d5d35f00e9c28a9a": {
+    "id": "be397762d5d35f00e9c28a9a",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "La députée RN Laure Lavalette se défend d'être antisémite, se dédouane d'écrits vieux de \"30 ans\"",
+    "url": "https://www.france24.com/fr/france/20261120-accusations-antis%C3%A9mitisme-d%C3%A9put%C3%A9e-rn-laure-lavalette-invoque-faits-vieux-de-30-ans",
+    "sourcePublishedAt": "Fri, 20 Nov 2026 09:26:06 GMT",
+    "excerpt": "Selon une enquête publiée mercredi par le média Les Jours, la députée du Rassemblement national du Var Laure Lavalette aurait présidé, lors de ses années d'études, un syndicat étudiant dont la revue publiait des écrits antisémites. L'élue a balayé les accusations dans une interview sur BFMTV, arguant de faits vieux de \"30 ans\".",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.368235+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "be38bd32544ad5810e16342d": {
+    "id": "be38bd32544ad5810e16342d",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Présidentielle 2027 : primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
+    "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261119-pr%C3%A9sidentielle-2027-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
+    "sourcePublishedAt": "Thu, 19 Nov 2026 21:59:10 GMT",
+    "excerpt": "La primaire de la droite et du centre aura-t-elle lieu et qui y participera ? Une première réunion s'est tenue avec les équipes de Gabriel Attal, Bruno Retailleau et David Lisnard, mais sans Édouard Philippe, qui continue à s'y opposer. À gauche, Marine Tondelier, la patronne des Verts, fait un pas vers Jean-Luc Mélenchon pour la présidentielle, au risque de diviser son parti.",
+    "personalitiesSuggested": [
+      "gabriel-attal",
+      "bruno-retailleau",
+      "marine-tondelier",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-21T08:19:46.369647+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-20T08:27:08+00:00",
+  "generatedAt": "2026-11-21T08:20:11+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "9564ad7bbe5f3df41f46e6a6bf652eb6807667fa62c9ad91a059d5f91a7f8092",
+  "votesArchiveSha256": "9e098ab67955e04c188964e0988130f98a54d0982360d443324f5e18ef07a365",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -365,9 +365,9 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 104,
+        "pour": 100,
         "contre": 97,
-        "abstention": 13,
+        "abstention": 12,
         "non-votant": 0,
         "conflit": 0
       },
@@ -1834,41 +1834,6 @@
           "titre": "la deuxième partie du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8895",
-          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8890",
-          "titre": "l'amendement n° 2263 de M. Mickaël Bouloux après l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8889",
-          "titre": "l'amendement n° 22 de M. Delautrette et les amendements identiques suivants de suppression de l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8888",
-          "titre": "l'article 38 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA842271"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8887",
-          "titre": "l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA842271"
         }
       ]
     },
@@ -1922,13 +1887,83 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 290,
-        "contre": 250,
+        "pour": 285,
+        "contre": 251,
         "abstention": 47,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-20",
+          "numero": "10101",
+          "titre": "l'amendement n° 972 de Mme Dufour après l'article 11 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10098",
+          "titre": "l'amendement n° 113 de M. Falcon après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10097",
+          "titre": "l'amendement n° 112 de M. Falcon après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10096",
+          "titre": "l'amendement n° 909 de Mme Bentorki après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10095",
+          "titre": "l'amendement n° 111 de M. Falcon après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10094",
+          "titre": "l'amendement n° 110 de M. Falcon après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10093",
+          "titre": "l'amendement n° 987 de Mme Bentorki après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10092",
+          "titre": "l'amendement n° 1133 du Gouvernement après l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10091",
+          "titre": "l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-20",
+          "numero": "10090",
+          "titre": "l'amendement n° 762 (rect.) de M. Tavernier et l'amendement identique suivant à l'article 9 du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-19",
           "numero": "10080",
@@ -5939,104 +5974,6 @@
           "titre": "l'amendement n° 472 de Mme Bellay à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8901",
-          "titre": "l'amendement n° 625 de M. Rancoule à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8900",
-          "titre": "l'amendement n° 37 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8899",
-          "titre": "l'amendement n° 36 de Mme Runel et les amendements identiques suivants de suppression de l'article 3 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8898",
-          "titre": "l'amendement n° 34 de Mme Runel et les amendements identiques suivants de suppression de l'article 2 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8897",
-          "titre": "l'amendement n° 33 de Mme Runel et les amendements identiques suivants de suppression de l'article premier du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8896",
-          "titre": "l'amendement n° 1352 de Mme Mélin et l'amendement identique suivant de suppression de l'article liminaire du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8894",
-          "titre": "l'amendement n° 2577 de Mme Bentorki à l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8893",
-          "titre": "l'amendement n° 1142 de Mme Bentorki à l'article 41 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8892",
-          "titre": "l'article 40 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8891",
-          "titre": "l'amendement n° 654 de M. Jean-Philippe Tanguy et l'amendement identique suivant de suppression de l'article 40 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8890",
-          "titre": "l'amendement n° 2263 de M. Mickaël Bouloux après l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8889",
-          "titre": "l'amendement n° 22 de M. Delautrette et les amendements identiques suivants de suppression de l'article 39 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8888",
-          "titre": "l'article 38 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8887",
-          "titre": "l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6090,7 +6027,7 @@
         "PA642935"
       ],
       "decompte": {
-        "pour": 3,
+        "pour": 1,
         "contre": 0,
         "abstention": 0,
         "non-votant": 0,
@@ -6101,20 +6038,6 @@
           "date": "2026-11-17",
           "numero": "9916",
           "titre": "l'ensemble du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8888",
-          "titre": "l'article 38 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA642935"
-        },
-        {
-          "date": "2026-10-19",
-          "numero": "8887",
-          "titre": "l'amendement n° 21 de M. Delautrette et les amendements identiques suivants de suppression de l'article 37 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA642935"
         }
@@ -6607,5 +6530,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "8be1f6ae68e4253b7bd35d6ba0b45e2b5f0e0c724df2c8faad96e021b4f54a1f"
+  "actorsArchiveSha256": "0d2652d19e4014b38d12c6937708b7bc0de52ef1a1cebb1416472ef2e92abfeb"
 }

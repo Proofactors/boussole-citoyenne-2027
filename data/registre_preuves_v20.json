@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-20T08:26:50.930520+00:00",
+  "generatedAt": "2026-11-21T08:19:48.917898+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -2207,13 +2207,13 @@
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
       "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261118-france-le-comt%C3%A9-du-fort-des-rousses-%C3%A9lu-meilleure-fromage-du-monde",
       "publication": "Wed, 18 Nov 2026 16:42:17 GMT",
-      "analyseLe": "2026-11-19T08:30:44.546778+00:00",
-      "lecture": "indisponible",
-      "formatDetecte": "indisponible",
-      "motif": "http_403",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
       "versionDiagnostic": 23,
-      "nombreCaracteres": 0,
-      "tentatives": 1,
+      "nombreCaracteres": 2230,
+      "tentatives": 2,
       "passages": [],
       "modificationPositions": false
     },
@@ -5270,6 +5270,537 @@
       "modificationPositions": false
     },
     {
+      "id": "0802d80de67e3553a13ab1fb",
+      "titre": "Quelle est votre madeleine de Proust ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261117-quelle-est-votre-madeleine-de-proust",
+      "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261117-quelle-est-votre-madeleine-de-proust",
+      "publication": "Tue, 17 Nov 2026 17:01:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2116,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "46c55cbd6fef8b4933b0b294",
+      "titre": "Mouvement social en France : une mobilisation qui tient malgré des chiffres en baisse",
+      "url": "https://www.france24.com/fr/france/20261117-mouvement-social-en-france-une-mobilisation-qui-tient-malgr%C3%A9-des-chiffres-en-baisse",
+      "urlEffective": "https://www.france24.com/fr/france/20261117-mouvement-social-en-france-une-mobilisation-qui-tient-malgr%C3%A9-des-chiffres-en-baisse",
+      "publication": "Tue, 17 Nov 2026 16:51:31 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7019,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "376005b827566abfb832a8ce",
+      "titre": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+      "url": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
+      "urlEffective": "https://www.france24.com/fr/france/20261117-france-presidentielle-2027-reforme-des-retraites-marine-le-pen-depart-a-60-ou-62-ans-capitalisation-conditions-durcies",
+      "publication": "Tue, 17 Nov 2026 15:31:35 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9903,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies - France 24",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies - France 24",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "passageSource": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans, voire 60 ans, financé par davantage de travail et une dose de capitalisation obligatoire.",
+          "motsCommuns": [
+            "capitalisation",
+            "systeme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans, voire 60 ans, financé par davantage de travail et une dose de capitalisation obligatoire.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "La candidate du Rassemblement national à l’élection présidentielle de 2027, Marine Le Pen, a présenté mardi son projet de réforme du système de retraites, avec la promesse d'un retour aux 62 ans, voire 60 ans, financé par davantage de travail et une dose de capitalisation obligatoire.",
+          "motsCommuns": [
+            "national",
+            "obligatoire"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen et Jordan Bardella, le 17 novembre 2026, lors de la présentation de la réforme du système de retraites portée par le Rassemblement national à la présidentielle 2027.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Après plusieurs évolutions sur la question depuis 2022, Marine Le Pen était attendue sur sa réforme des retraites.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Comme pour conjurer par avance les critiques, Marine Le Pen a affirmé d'emblée être \"en mesure de financer totalement [sa] réforme\" tout en \"divisant par deux le déficit\" des retraites d'ici 2032.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "passageSource": "La réforme du système de retraites permettra \"qu’une vie de travail sera récompensée par une retraite bien méritée avec un niveau de vie digne\", selon Marine Le Pen.",
+          "motsCommuns": [
+            "retraite",
+            "systeme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "La réforme du système de retraites permettra \"qu’une vie de travail sera récompensée par une retraite bien méritée avec un niveau de vie digne\", selon Marine Le Pen.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "d2ef6a37dd1a085e168739dd",
+      "titre": "Age de départ, part de capitalisation, possible référendum… Que propose le Rassemblement national pour réformer les retraites ?",
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/age-de-depart-part-de-capitalisation-referendum-que-propose-le-rassemblement-national-pour-reformer-les-retraites_8286419.html",
+      "publication": "Tue, 17 Nov 2026 14:03:56 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12654,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Si elle est élue présidente, Marine Le Pen promet d'abolir au \"1er janvier 2028\" la réforme actuelle des retraites, suspendue en 2025 mais qui prévoit de reculer l'âge de départ à 64 ans.",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen et Jordan Bardella présentent la réforme des retraites du RN, le 17 novembre 2026 à Paris.",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "retraite-62",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen propose ainsi un système progressif de départ à la retraite, avec une retraite à 60 ans pour les Français entrés dans la vie active avant l'âge de 20 ans, puis une évolution jusqu'à 62 ans.",
+          "motsCommuns": [
+            "depart",
+            "retraite"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen propose ainsi un système progressif de départ à la retraite, avec une retraite à 60 ans pour les Français entrés dans la vie active avant l'âge de 20 ans, puis une évolution jusqu'à 62 ans.",
+          "motsCommuns": [
+            "retraite",
+            "systeme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "retraite-65",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen propose ainsi un système progressif de départ à la retraite, avec une retraite à 60 ans pour les Français entrés dans la vie active avant l'âge de 20 ans, puis une évolution jusqu'à 62 ans.",
+          "motsCommuns": [
+            "depart",
+            "retraite"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Avec cette formule, Marine Le Pen promet d'abolir au \"1er janvier 2028\" la réforme actuelle des retraites, qui prévoit de reculer l'âge de départ à 64 ans mais qui a été suspendue en 2025 par Sébastien Lecornu.",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "5d78a721328be445f3fb9cce",
+      "titre": "ÉDITO. Y a-t-il trop de fonctionnaires en France ?",
+      "url": "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/edito-y-a-t-il-trop-de-fonctionnaires-en-france_8286494.html",
+      "publication": "Tue, 17 Nov 2026 13:09:57 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6811,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b487372ed3bd784b770b8cb6",
+      "titre": "\"Des accusations fallacieuses, des méthodes trumpistes\" peste Manuel Bompard, coordinateur LFI",
+      "url": "https://www.franceinfo.fr/politique/des-accusations-fallacieuses-des-methodes-trumpistes-peste-manuel-bompard-coordinateur-lfi_8286482.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/des-accusations-fallacieuses-des-methodes-trumpistes-peste-manuel-bompard-coordinateur-lfi_8286482.html",
+      "publication": "Tue, 17 Nov 2026 12:56:14 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7010,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b97ccaadf01e5ee74bfbbf67",
+      "titre": "INFO FRANCEINFO. La pétition contre CNews définitivement classée, mais l'Assemblée nationale va débattre du pluralisme dans les médias",
+      "url": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/economie/medias/info-franceinfo-l-assemblee-nationale-va-debattre-du-pluralisme-dans-les-medias-meme-si-la-petition-contre-cnews-ne-sera-pas-examinee-dans-l-hemicycle_8286251.html",
+      "publication": "Tue, 17 Nov 2026 11:28:07 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9337,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "ab3642caec83c5f6e25930fd",
+      "titre": "Jean-Luc Mélenchon, candidat LFI à la présidentielle, va dîner avec des grands patrons français dont Bernard Arnault et Patrick Pouyanné",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/candidats/jean-luc-melenchon-candidat-a-la-presidentielle-va-diner-avec-des-grands-patrons-francais-dont-bernard-arnault-et-patrick-pouyanne_8286248.html",
+      "publication": "Tue, 17 Nov 2026 11:23:56 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8754,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "3b86f086d307e69d6b257569",
+      "titre": "Les informés du matin du mardi 17 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-mardi-17-novembre-2026_8265104.html",
+      "publication": "Tue, 17 Nov 2026 10:09:10 +0100",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7720,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Marine Le Pen face au test des retraites : la candidate RN présente sa réforme , est-elle crédible ?",
+          "motsCommuns": [
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
       "id": "5d3280ea5369947aba57b41a",
       "titre": "Smic, mobilisation des lycéens, dîner avec les grands patrons... Le \"8h30 franceinfo\" de Manuel Bompard",
       "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/smic-mobilisation-des-lyceens-diner-avec-les-grands-patrons-le-8h30-franceinfo-de-manuel-bompard_8265098.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -7394,6 +7925,134 @@
       "versionDiagnostic": 23,
       "nombreCaracteres": 615,
       "tentatives": 2,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e5e3cb2c9cf8341fbae3f08d",
+      "titre": "Budget 2027 : Livre et industries culturelles - avis n° 161 tome IV",
+      "url": "http://www.senat.fr/rap/a26-161-44/a26-161-44.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-161-44/a26-161-44.html",
+      "publication": "Thu,19 Nov 2026 16:32:43 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2307,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "7b62ecf893d1bd52a8cd4bc4",
+      "titre": "Budget 2027 : Direction de l'action du Gouvernement - Publications officielles et information administrative - avis n° 162 tome IX",
+      "url": "http://www.senat.fr/rap/a26-162-9/a26-162-9.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-9/a26-162-9.html",
+      "publication": "Thu,19 Nov 2026 10:38:50 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4623,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c56568af9befda0e2fe5d583",
+      "titre": "Budget 2027 : Pouvoirs publics - avis n° 162 tome X",
+      "url": "http://www.senat.fr/rap/a26-162-10/a26-162-10.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-10/a26-162-10.html",
+      "publication": "Thu,19 Nov 2026 10:29:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2573,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "8b466a6819cca5eb729d7362",
+      "titre": "Budget 2027 : Administration générale et territoriale de l'État - avis n° 162 tome I",
+      "url": "http://www.senat.fr/rap/a26-162-1/a26-162-1.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-1/a26-162-1.html",
+      "publication": "Thu,19 Nov 2026 10:29:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2376,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "48bc26e15e13acbd91eac00d",
+      "titre": "Budget 2027 : Presse - avis n° 161 tome IV",
+      "url": "http://www.senat.fr/rap/a26-161-42/a26-161-42.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-161-42/a26-161-42.html",
+      "publication": "Thu,19 Nov 2026 10:29:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2258,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "678620cc4ebf57c4524f9506",
+      "titre": "Budget 2027 : Diplomatie culturelle et d'influence - avis n° 161 tome I",
+      "url": "http://www.senat.fr/rap/a26-161-1/a26-161-1.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-161-1/a26-161-1.html",
+      "publication": "Thu,19 Nov 2026 10:29:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2337,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b55844f79cd65a5245af7d03",
+      "titre": "Budget 2027 : Participations financières de l'État - avis n° 157 tome VIII",
+      "url": "http://www.senat.fr/rap/a26-157-8/a26-157-8.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-157-8/a26-157-8.html",
+      "publication": "Thu,19 Nov 2026 10:29:29 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2243,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c3099236b0c312b40beaacc0",
+      "titre": "Budget 2027 : Relations avec les collectivités territoriales - avis n° 162 tome XI",
+      "url": "http://www.senat.fr/rap/a26-162-11/a26-162-11.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-11/a26-162-11.html",
+      "publication": "Thu,19 Nov 2026 10:02:06 GMT",
+      "analyseLe": "2026-11-21T08:19:48.917898+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2097,
+      "tentatives": 1,
       "passages": [],
       "modificationPositions": false
     },
@@ -13750,15 +14409,15 @@
     }
   ],
   "statistiques": {
-    "documents": 662,
-    "textesLus": 656,
+    "documents": 679,
+    "textesLus": 674,
     "pdfLus": 0,
-    "passagesCandidats": 152,
+    "passagesCandidats": 171,
     "nouveauxExamines": 18,
     "echecsParCause": {
-      "http_403": 4,
       "http_404": 1,
-      "reseau_TimeoutError": 1
+      "reseau_TimeoutError": 1,
+      "http_403": 3
     }
   },
   "publicationAutomatiquePositions": false
