@@ -1,6 +1,6 @@
 {
   "ajouts": [],
-  "derniere_execution": "2026-11-21T08:20:13.038031+00:00",
+  "derniere_execution": "2026-11-22T08:20:09.796887+00:00",
   "signalements_a_source_unique": [
     {
       "id": "champion-olympique-teddy-riner",
@@ -9,6 +9,6 @@
       "exemple": "Présidentielle : le champion olympique de judo Teddy Riner annonce sa candidature"
     }
   ],
-  "documents_analysees": 1174,
+  "documents_analysees": 1187,
   "annonces_distinctes": 1
 }

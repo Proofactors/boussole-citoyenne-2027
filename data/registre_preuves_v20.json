@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-21T08:19:48.917898+00:00",
+  "generatedAt": "2026-11-22T08:19:29.890407+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -8057,6 +8057,86 @@
       "modificationPositions": false
     },
     {
+      "id": "e895eac018ff72880d041f85",
+      "titre": "Budget 2027 : Affaires européennes - rapport général n° 156 tome II",
+      "url": "http://www.senat.fr/rap/l26-156-22/l26-156-22.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-22/l26-156-22.html",
+      "publication": "Thu,19 Nov 2026 08:39:00 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 4737,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "dc7a675669ca27cf218e675c",
+      "titre": "Budget 2027 : Les conditions générales de l'équilibre financier (article liminaire et première partie de la loi de finances) - rapport général n° 156 tome II",
+      "url": "http://www.senat.fr/rap/l26-156-21/l26-156-21.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-21/l26-156-21.html",
+      "publication": "Thu,19 Nov 2026 08:33:11 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8091,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "4529b2798c3237e902edcb18",
+      "titre": "Budget 2027 - texte N° 155",
+      "url": "http://www.senat.fr/leg/pjl26-155.html",
+      "urlEffective": "https://www.senat.fr/leg/pjl26-155.html",
+      "publication": "Thu,19 Nov 2026 08:26:34 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "indisponible",
+      "formatDetecte": "limite",
+      "motif": "document_trop_volumineux",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 0,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "87e0fd61594419dc4200ce05",
+      "titre": "Budget 2027 : Le budget de 2027 et son contexte économique et financier - rapport général n° 156 tome I",
+      "url": "http://www.senat.fr/rap/l26-156-1/l26-156-1.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-1/l26-156-1.html",
+      "publication": "Thu,19 Nov 2026 08:26:34 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13049,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "06b6dfdd87ad0e4fcd73dbb4",
+      "titre": "Améliorer les moyens d'action de l'AGRASC - rapport n° 179",
+      "url": "http://www.senat.fr/rap/l26-179/l26-179.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-179/l26-179.html",
+      "publication": "Thu,19 Nov 2026 02:03:29 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13117,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "54aa7213ace3c3b818a93c0e",
       "titre": "Reconnaître une politique nationale d'adaptation au changement climatique - rapport n° 61",
       "url": "http://www.senat.fr/rap/l26-061/l26-061.html",
@@ -9559,6 +9639,522 @@
       "nombreCaracteres": 17427,
       "tentatives": 1,
       "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "5a6e47fe5208696d0c097e93",
+      "titre": "Primaire, racisme, référendums, IA… Ce qu'il faut retenir de l'interview de Gabriel Attal dans l'émission \"L'Heure de vérité\" sur France 2",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html",
+      "publication": "Thu, 19 Nov 2026 23:46:00 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 20927,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-retraites-05",
+          "theme": "retraites",
+          "passageSource": "“Le chômage a reculé, mais la pauvreté n’a pas reculé, parce qu’il y a plus de gens qui travaillent mais qui ne vivent pas de leur travail”, concède Gabriel Attal, qui plaide pour une baisse de cotisations pour les salariés de 50 milliards d’euros.",
+          "motsCommuns": [
+            "cotisations",
+            "travail"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-retraites-01",
+          "theme": "retraites",
+          "passageSource": "Pour se distinguer des autres candidats de la droite et du centre, Gabriel Attal a défendu sa proposition de mettre en place \"un système universel\" de retraite \"avec les mêmes règles pour tout le monde\" , et de \"supprimer l'âge légal\" , pour prendre en compte seulement \"les années de cotisation\".",
+          "motsCommuns": [
+            "retraite",
+            "systeme",
+            "universel"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "retraite-62",
+          "theme": "retraites",
+          "passageSource": "Pour se distinguer des autres candidats de la droite et du centre, Gabriel Attal a défendu sa proposition de mettre en place \"un système universel\" de retraite \"avec les mêmes règles pour tout le monde\" , et de \"supprimer l'âge légal\" , pour prendre en compte seulement \"les années de cotisation\".",
+          "motsCommuns": [
+            "legal",
+            "retraite"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "capitalisation",
+          "theme": "retraites",
+          "passageSource": "Pour se distinguer des autres candidats de la droite et du centre, Gabriel Attal a défendu sa proposition de mettre en place \"un système universel\" de retraite \"avec les mêmes règles pour tout le monde\" , et de \"supprimer l'âge légal\" , pour prendre en compte seulement \"les années de cotisation\".",
+          "motsCommuns": [
+            "retraite",
+            "systeme"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "assurance-chomage",
+          "theme": "travail",
+          "passageSource": "⚡️ Retraites : “Je propose qu’on crée un nouveau système universel avec les mêmes règles pour tout le monde\", lance Gabriel Attal qui souhaite supprimer l’âge légal et ne conserver que la durée de cotisation.",
+          "motsCommuns": [
+            "duree",
+            "regles"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-retraites-01",
+          "theme": "retraites",
+          "passageSource": "⚡️ Retraites : “Je propose qu’on crée un nouveau système universel avec les mêmes règles pour tout le monde\", lance Gabriel Attal qui souhaite supprimer l’âge légal et ne conserver que la durée de cotisation.",
+          "motsCommuns": [
+            "systeme",
+            "universel"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "gabriel-attal"
+          ],
+          "questionId": "extension-retraites-05",
+          "theme": "retraites",
+          "passageSource": "⚡️ Retraites : “Je propose qu’on crée un nouveau système universel avec les mêmes règles pour tout le monde\", lance Gabriel Attal qui souhaite supprimer l’âge légal et ne conserver que la durée de cotisation.",
+          "motsCommuns": [
+            "duree",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "d3ad801c02d0c40048133fe7",
+      "titre": "Présidentielle 2027 : Gabriel Attal admet qu'il n'a \"pas convaincu\" les Français à \"ce stade\" de la campagne",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-les-francais-a-ce-stade-de-la-campagne_8290766.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-les-francais-a-ce-stade-de-la-campagne_8290766.html",
+      "publication": "Thu, 19 Nov 2026 23:43:11 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8532,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "9a96f0e31955fcc5d2de5920",
+      "titre": "Yannick Jadot quitte Les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html",
+      "publication": "Thu, 19 Nov 2026 23:16:18 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8550,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "db278b18d691dfc0fa2e26ee",
+      "titre": "Yannick Jadot claque la porte des Écologistes suite au rapprochement entre Marine Tondelier et LFI",
+      "url": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann",
+      "urlEffective": "https://www.france24.com/fr/france/20261119-france-presidentielle-yannick-jadot-quitte-les-ecologistes-marine-tondelier-jean-luc-melenchon-glucksmann",
+      "publication": "Thu, 19 Nov 2026 23:04:16 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7756,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "passageSource": "\"C'est un choix qui tourne le dos à une tradition historique extrêmement profonde des écologistes\", a insisté Raphaël Glucksmann, en rappelant que ces derniers avaient fait leurs meilleurs scores lorsqu'ils s'appelaient encore EELV et étaient \"sur une ligne viscéralement attachée à la construction européenne\".",
+          "motsCommuns": [
+            "europeenne",
+            "profonde"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "fe8dbef8c5be21febae9c409",
+      "titre": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes ?",
+      "url": "https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html",
+      "publication": "Thu, 19 Nov 2026 22:13:32 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10728,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "Un virage de la direction des écologistes incompréhensible pour Raphaël Glucksmann : \"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe, pour quelqu'un qui, tweet après tweet, se fait le perroquet de Monsieur Lavrov\" , a déploré le candidat à la présidentielle ce jeudi sur le plateau de franceinfo.",
+          "motsCommuns": [
+            "choix",
+            "europeen"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "passageSource": "Un virage de la direction des écologistes incompréhensible pour Raphaël Glucksmann : \"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe, pour quelqu'un qui, tweet après tweet, se fait le perroquet de Monsieur Lavrov\" , a déploré le candidat à la présidentielle ce jeudi sur le plateau de franceinfo.",
+          "motsCommuns": [
+            "europeen",
+            "europeenne"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "passageSource": "Un virage de la direction des écologistes incompréhensible pour Raphaël Glucksmann : \"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe, pour quelqu'un qui, tweet après tweet, se fait le perroquet de Monsieur Lavrov\" , a déploré le candidat à la présidentielle ce jeudi sur le plateau de franceinfo.",
+          "motsCommuns": [
+            "europeen",
+            "europeenne"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "6fac24813bb8588c8cf85380",
+      "titre": "Un préfet soupçonné d'avoir renseigné le Rassemblement national sur des affaires en cours",
+      "url": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/faits-divers/un-prefet-soupconne-d-avoir-renseigne-le-rassemblement-national-sur-des-affaires-en-cours_8290550.html",
+      "publication": "Thu, 19 Nov 2026 22:09:38 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10795,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "be38bd32544ad5810e16342d",
+      "titre": "Présidentielle 2027 : primaire de la droite et du centre, Marine Tondelier tend la main à LFI",
+      "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261119-pr%C3%A9sidentielle-2027-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
+      "urlEffective": "https://www.france24.com/fr/%C3%A9missions/politique/20261119-pr%C3%A9sidentielle-2027-primaire-de-la-droite-et-du-centre-marine-tondelier-tend-la-main-%C3%A0-lfi",
+      "publication": "Thu, 19 Nov 2026 21:59:10 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 3571,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c3a43052e398198cc23bea60",
+      "titre": "Procès du canal \"Femmeblancherie\" : de la prison ferme requise contre des masculinistes",
+      "url": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes",
+      "urlEffective": "https://www.france24.com/fr/france/20261119-proc%C3%A8s-canal-femmeblancherie-prison-ferme-requise-contre-masculinistes",
+      "publication": "Thu, 19 Nov 2026 21:15:19 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7186,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "2d8233de23521eaf0fa41599",
+      "titre": "Présomption de légitime défense pour les forces de l'ordre : \"Ce texte, au mieux, est inutile, au pire, il est dangereux\", estime Harold Huwart, maire DVG d'Eure-et-Loir",
+      "url": "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html",
+      "publication": "Thu, 19 Nov 2026 20:15:10 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 15503,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "270a11469e402826862ffb77",
+      "titre": "C’est Benjamin... à Amiens, au match de hockey",
+      "url": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-au-match-de-hockey_8290166.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/c-est-benjamin-a-amiens-au-match-de-hockey_8290166.html",
+      "publication": "Thu, 19 Nov 2026 20:00:02 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6688,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "cc9d80d46b0fda9edddedfd1",
+      "titre": "La députée RN Laure Lavalette accusée d'avoir cautionné des écrits antisémites dans les années 1990",
+      "url": "https://www.franceinfo.fr/politique/la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_8290487.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites-dans-les-annees-1990_8290487.html",
+      "publication": "Thu, 19 Nov 2026 19:48:50 +0100",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7218,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "9194cc4aeff008695e2785d6",
+      "titre": "Au procès Zecler, prison ferme requise contre les policiers, qui se défendent de tout racisme",
+      "url": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
+      "urlEffective": "https://www.france24.com/fr/france/20261119-au-proc%C3%A8s-zecler-prison-ferme-requise-contre-les-policiers-qui-se-d%C3%A9fendent-de-tout-racisme",
+      "publication": "Thu, 19 Nov 2026 18:14:26 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7059,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "784544e0f7c3d236154400c9",
+      "titre": "Présidentielle : les créateurs de contenus sommés de respecter le pluralisme par l'Arcom",
+      "url": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom",
+      "urlEffective": "https://www.france24.com/fr/france/20261119-pr%C3%A9sidentielle-cr%C3%A9ateurs-contenus-somm%C3%A9s-respecter-pluralisme-arcom",
+      "publication": "Thu, 19 Nov 2026 18:07:37 GMT",
+      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6038,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "depart",
+            "reforme",
+            "retraites"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "extension-travail-08",
+          "theme": "travail",
+          "passageSource": "Réforme des retraites de Marine Le Pen : départ à 60 ou 62 ans, capitalisation et conditions durcies",
+          "motsCommuns": [
+            "conditions",
+            "durcies"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
       "modificationPositions": false
     },
     {
@@ -14409,12 +15005,13 @@
     }
   ],
   "statistiques": {
-    "documents": 679,
-    "textesLus": 674,
+    "documents": 697,
+    "textesLus": 691,
     "pdfLus": 0,
-    "passagesCandidats": 171,
+    "passagesCandidats": 186,
     "nouveauxExamines": 18,
     "echecsParCause": {
+      "document_trop_volumineux": 1,
       "http_404": 1,
       "reseau_TimeoutError": 1,
       "http_403": 3

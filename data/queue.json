@@ -19230,5 +19230,227 @@
     "review": null,
     "detectedAt": "2026-11-21T08:19:46.369647+00:00",
     "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "7675d8156b42f221c6e93a69": {
+    "id": "7675d8156b42f221c6e93a69",
+    "status": "a_examiner",
+    "feed": "senat-textes",
+    "title": "Projet de loi de finances de fin de gestion pour 2026 - texte de la commission N° 187",
+    "url": "http://www.senat.fr/leg/pjl26-187.html",
+    "sourcePublishedAt": "Sun,22 Nov 2026 02:04:29 GMT",
+    "excerpt": "Projet de loi de finances de fin de gestion pour 2026 : texte de la commission N° 187 déposé le 20 novembre 2026",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:21.844203+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "fb71c884e2a17a8f9b8a0e83": {
+    "id": "fb71c884e2a17a8f9b8a0e83",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "INFO FRANCEINFO. Sommet Choose France-Édition France : l'entreprise Blanc Aéro Industries doit investir 39 millions d'euros dans le pays",
+    "url": "https://www.franceinfo.fr/economie/info-france-info-sommet-choose-france-edition-france-l-entreprise-blanc-aero-industries-doit-investir-39-millions-d-euros-dans-le-pays_8294021.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sun, 22 Nov 2026 06:00:04 +0100",
+    "excerpt": "Cette annonce intervient à l'occasion d'un sommet Choose France, qui s'ouvre lundi à la Cité internationale universitaire de Paris. Cette \"édition France\" réunira plus de 250 entreprises qui ont investi dans l'Hexagone.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "taxe-zucman"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.649926+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "e3a55c9c1f0b4b241966c723": {
+    "id": "e3a55c9c1f0b4b241966c723",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "\"Je serai le candidat de la liberté de pensée, de parler, de dire ce que vous voyez\", clame Eric Zemmour lors de son premier meeting de campagne présidentielle",
+    "url": "https://www.franceinfo.fr/elections/je-serai-le-candidat-de-la-liberte-de-pensee-de-parler-de-dire-ce-que-vous-voyez-clame-eric-zemmour-lors-de-son-premier-meeting-de-campagne-presidentielle_8294024.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 19:59:46 +0100",
+    "excerpt": "Le président du parti d'extrême droite s'est exprimé devant ses partisans au Zenith de Toulon.",
+    "personalitiesSuggested": [
+      "eric-zemmour"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.651275+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "904018d8b604b260f82758d7": {
+    "id": "904018d8b604b260f82758d7",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
+    "url": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 19:40:48 +0100",
+    "excerpt": "\"Je refuse que l’Etat, le ministère de l'Intérieur et le corps préfectoral deviennent les cibles ou les instruments de ces entreprises de déstabilisation\", a déclaré samedi le haut fonctionnaire dans un communiqué.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.652904+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "f0e3165c5c695048a1c180a5": {
+    "id": "f0e3165c5c695048a1c180a5",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Nouvelle réunion jeudi prochain entre les directeurs de campagne de Gabriel Attal, Bruno Retailleau et David Lisnard pour une primaire de la droite et du centre",
+    "url": "https://www.franceinfo.fr/politique/nouvelle-reunion-jeudi-prochain-entre-les-directeurs-de-campagne-de-gabriel-attal-bruno-retailleau-et-david-lisnard-pour-une-primaire-de-la-droite-et-du-centre_8294057.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 19:03:26 +0100",
+    "excerpt": "Les équipes de campagnes des trois candidats continuent de travailler ensemble sur les modalités de la primaire de la droite et du centre.",
+    "personalitiesSuggested": [
+      "gabriel-attal",
+      "bruno-retailleau",
+      "david-lisnard"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.654366+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "25fb4abb878872c44a364cdb": {
+    "id": "25fb4abb878872c44a364cdb",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Nombre de tirs, enquêtes, lien de confiance... Les questions que pose la loi sur la présomption d'usage légal des armes par les forces de l'ordre",
+    "url": "https://www.franceinfo.fr/faits-divers/police/nombre-de-tirs-enquetes-lien-de-confiance-les-questions-que-pose-la-loi-sur-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8293529.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 16:56:32 +0100",
+    "excerpt": "Les opposants à ce texte le jugent dangereux pour les droits fondamentaux. La gauche sénatoriale a annoncé qu'elle allait saisir le Conseil constitutionnel pour faire barrage à sa promulgation.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.655866+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4e3b7209669d966344e6b8fe": {
+    "id": "4e3b7209669d966344e6b8fe",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Présomption d'usage légal des armes par les forces de l'ordre : la loi définitivement adoptée",
+    "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-la-loi-definitivement-adoptee_8293631.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 11:44:06 +0100",
+    "excerpt": "Le Parlement a définitivement adopté vendredi 20 novembre la loi de présomption d’usage légal des armes par les forces de l’ordre, après le vote du Sénat. Face à une mesure qu’elle juge “dangereuse”, la gauche sénatoriale a annoncé qu’elle allait saisir le Conseil constitutionnel.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "retraite-65",
+      "extension-securite-02"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.657656+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "714d6fe9b1231a8bb4e51f92": {
+    "id": "714d6fe9b1231a8bb4e51f92",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "Préfet soupçonné de fuites vers le RN : \"Il doit être mis à pied\", estime la députée écologiste Sandrine Rousseau",
+    "url": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/prefet-soupconne-de-fuites-vers-le-rn-il-doit-etre-mis-a-pied-estime-la-depute-ecologiste-sandrine-rousseau_8293574.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 10:51:44 +0100",
+    "excerpt": "Sandrine Rousseau appelle le ministre de l'Intérieur Laurent Nuñez à mettre à pied “immédiatement” le préfet du Loiret Hugues Moutouh, accusé d’avoir organisé des fuites depuis le ministère de l’Intérieur vers le Rassemblement national. La députée écologiste était l’invitée de franceinfo, samedi 21 novembre.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "extension-securite-06"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.659612+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b75d77821abd14dd667d2698": {
+    "id": "b75d77821abd14dd667d2698",
+    "status": "a_examiner",
+    "feed": "franceinfo-politique",
+    "title": "La dissuasion nucléaire en France, c'est quoi ?",
+    "url": "https://www.franceinfo.fr/societe/armee-securite-defense/la-dissuasion-nucleaire-en-france-c-est-quoi_8292410.html#xtor=RSS-3-%5Bpolitique%5D",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 10:00:06 +0100",
+    "excerpt": "À l’occasion de la sortie du film Jupiter au cinéma, dans lequel le président de la République fait face à une menace nucléaire, franceinfo fait le point sur la situation en France. De quel arsenal disposons-nous ? Comment on le déclenche ? Et quelles sont les conséquences ?",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "renouvelables",
+      "frexit",
+      "dissuasion-europeenne"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.661207+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "9e1b3c0a05216ffded4ae728": {
+    "id": "9e1b3c0a05216ffded4ae728",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "DIRECT. Campagne présidentielle : la secrétaire générale de la CFDT, Marylise Léon, appelle à changer la date pour éviter un second tour le 2 mai",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Sun, 22 Nov 2026 08:14:51 +0000",
+    "excerpt": "\"Le 2 mai est le pire scénario possible, en raison du risque de vives tensions au lendemain de la fête des Travailleurs\", plaide la responsable.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.723633+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "b21c30f657c61f3619270482": {
+    "id": "b21c30f657c61f3619270482",
+    "status": "a_examiner",
+    "feed": "franceinfo-presidentielle",
+    "title": "Après l'abandon de François Ruffin, le candidat communiste à l'élection présidentielle Fabien Roussel pointe des \"convergences nombreuses\" avec lui",
+    "url": "https://www.franceinfo.fr/elections/presidentielle/direct-eric-zemmour-lance-sa-campagne-pour-l-election-presidentielle-avec-un-meeting-a-toulon_8293517.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+    "sourcePublishedAt": "Sun, 22 Nov 2026 09:18:27 +0100",
+    "excerpt": "Quant au socialiste Pierre Jouvet, chargé du pôle communication de la campagne de Raphaël Glucksmann, il a souligné que les \"batailles\" du Picard pour \"la dignité du travail, la réindustrialisation, la justice sociale\" étaient \"au cœur du combat\" du candidat social-démocrate.",
+    "personalitiesSuggested": [
+      "fabien-roussel"
+    ],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.725530+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "4572382234bd56dd93bb9386": {
+    "id": "4572382234bd56dd93bb9386",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Présidentielle : prenant \"acte de l’impasse\" de sa campagne, François Ruffin retire sa candidature",
+    "url": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 17:37:20 GMT",
+    "excerpt": "À cinq mois de l’échéance, François Ruffin a annoncé samedi qu’il retirait sa candidature à l’élection présidentielle, prenant \"acte de l’impasse\" de sa campagne faute d’avoir réussi à imposer l’organisation d’une \"grande primaire\" de toute la gauche.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.856642+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
+  },
+  "c0615c95b1643b2f3e43bdf6": {
+    "id": "c0615c95b1643b2f3e43bdf6",
+    "status": "a_examiner",
+    "feed": "france24-france",
+    "title": "Syndicats, jeunesse et gilets jaunes un peu moins mobilisés pour le sixième samedi de manifestation",
+    "url": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
+    "sourcePublishedAt": "Sat, 21 Nov 2026 08:23:49 GMT",
+    "excerpt": "Pour la sixième semaine consécutive, syndicats, organisations de jeunesse et Gilets jaunes ont manifesté contre la vie chère, dans un contexte de colère sociale devenue européenne mais qui commence à s'essouffler en France. Le ministère de l'Intérieur a dénombré au total 82 500 manifestants dans l'Hexagone, dont 21 500 à Paris. La CGT parle de son côté de 150 000 manifestants dans le pays, 45 000 dans la capitale.",
+    "personalitiesSuggested": [],
+    "questionsSuggested": [
+      "frexit",
+      "extension-securite-06",
+      "contribution-ue"
+    ],
+    "candidateStance": null,
+    "review": null,
+    "detectedAt": "2026-11-22T08:19:24.858600+00:00",
+    "warning": "Correspondances indicatives; titre et résumé RSS ne constituent pas une preuve suffisante."
   }
 }

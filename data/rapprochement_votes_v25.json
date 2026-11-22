@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-21T08:20:11+00:00",
+  "generatedAt": "2026-11-22T08:20:08+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "9e098ab67955e04c188964e0988130f98a54d0982360d443324f5e18ef07a365",
+  "votesArchiveSha256": "a2fd6209d758306a8f9dbbebcd566747fc94a7ee8686de3c806549ce08cbc505",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -6530,5 +6530,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "0d2652d19e4014b38d12c6937708b7bc0de52ef1a1cebb1416472ef2e92abfeb"
+  "actorsArchiveSha256": "dda4204bc28c8bfac81b5a333e60c27c51614dcd845aec7529ec47268a9db88c"
 }
