@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-22T08:19:29.890407+00:00",
+  "generatedAt": "2026-11-23T08:44:47.458444+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -8094,13 +8094,13 @@
       "url": "http://www.senat.fr/leg/pjl26-155.html",
       "urlEffective": "https://www.senat.fr/leg/pjl26-155.html",
       "publication": "Thu,19 Nov 2026 08:26:34 GMT",
-      "analyseLe": "2026-11-22T08:19:29.890407+00:00",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
       "lecture": "indisponible",
       "formatDetecte": "limite",
       "motif": "document_trop_volumineux",
       "versionDiagnostic": 23,
       "nombreCaracteres": 0,
-      "tentatives": 1,
+      "tentatives": 2,
       "passages": [],
       "modificationPositions": false
     },
@@ -10158,6 +10158,450 @@
       "modificationPositions": false
     },
     {
+      "id": "4164600a4b6fddbc6554c3d4",
+      "titre": "Le siège du RN a été perquisitionné dans le cadre d'une information judiciaire, notamment pour \"violation du secret de l'enquête\"",
+      "url": "https://www.franceinfo.fr/politique/front-national/le-siege-du-rn-perquisitionne-dans-le-cadre-d-une-information-judiciaire-notamment-pour-violation-du-secret-de-l-enquete_8290280.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/le-siege-du-rn-perquisitionne-dans-le-cadre-d-une-information-judiciaire-notamment-pour-violation-du-secret-de-l-enquete_8290280.html",
+      "publication": "Thu, 19 Nov 2026 18:07:27 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8617,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c82a24ae9a345475dd320719",
+      "titre": "Les principaux créateurs de contenus devront désormais respecter le pluralisme dans leur traitement de l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/internet/les-principaux-createurs-de-contenus-devront-desormais-respecter-le-pluralisme-dans-leur-traitement-de-l-election-presidentielle_8290187.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/internet/les-principaux-createurs-de-contenus-devront-desormais-respecter-le-pluralisme-dans-leur-traitement-de-l-election-presidentielle_8290187.html",
+      "publication": "Thu, 19 Nov 2026 17:54:07 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9970,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "1d17905e013642c9c7c110f7",
+      "titre": "Le RN visé par une nouvelle enquête autour de fuites impliquant un préfet",
+      "url": "https://www.france24.com/fr/france/20261119-le-rn-vis%C3%A9-par-une-nouvelle-enqu%C3%AAte-autour-de-fuites-impliquant-un-pr%C3%A9fet",
+      "urlEffective": "https://www.france24.com/fr/france/20261119-le-rn-vis%C3%A9-par-une-nouvelle-enqu%C3%AAte-autour-de-fuites-impliquant-un-pr%C3%A9fet",
+      "publication": "Thu, 19 Nov 2026 17:40:23 GMT",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7639,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "9eab8f60113d51c0202cfb83",
+      "titre": "David Habib, député des Pyrénées-Atlantiques, est mort à 65 ans, la présidente de l'Assemblée nationale salue un \"grand élu de la République",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/mort-de-david-habib-depute-des-pyrenees-atlantiques-a-65-ans-un-grand-elu-de-la-republique-salue-la-presidente-de-l-assemblee-nationale_8290259.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/mort-de-david-habib-depute-des-pyrenees-atlantiques-a-65-ans-un-grand-elu-de-la-republique-salue-la-presidente-de-l-assemblee-nationale_8290259.html",
+      "publication": "Thu, 19 Nov 2026 17:15:15 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10672,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e2bbbe92a2de750f0f0f37ed",
+      "titre": "Mèmes, montages vidéo et propositions électorales… Quand les politiques s'emparent de la sortie de \"GTA VI\"",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/mmes-montages-video-et-propositions-electorales-quand-les-politiques-s-emparent-de-la-sortie-de-gta-vi_8289689.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/mmes-montages-video-et-propositions-electorales-quand-les-politiques-s-emparent-de-la-sortie-de-gta-vi_8289689.html",
+      "publication": "Thu, 19 Nov 2026 17:04:57 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13775,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d4b0d983d256fcafd68356a1",
+      "titre": "Présidentielle : Le ralliement de Marine Tondelier à Jean-Luc Mélenchon est une trahison estime Raphaël Glucksmann.",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-est-une-trahison-estime-raphael-glucksmann_8290025.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle-le-ralliement-de-marine-tondelier-a-jean-luc-melenchon-est-une-trahison-estime-raphael-glucksmann_8290025.html",
+      "publication": "Thu, 19 Nov 2026 13:32:35 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7011,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d651caae95d903189a1db070",
+      "titre": "ÉDITO. Édouard Philippe est-il trop sérieux pour gagner la présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/edito-edouard-philippe-est-il-trop-serieux-pour-gagner-la-presidentielle_8289995.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/edito-edouard-philippe-est-il-trop-serieux-pour-gagner-la-presidentielle_8289995.html",
+      "publication": "Thu, 19 Nov 2026 13:14:25 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7104,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "b61b37e974b25741c8a48f54",
+      "titre": "Trente ans après sa suppression, le service national redevient un enjeu politique pour la présidentielle",
+      "url": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/trente-ans-apres-sa-suppression-le-service-national-redevient-un-enjeu-politique-pour-la-presidentielle_8289488.html",
+      "publication": "Thu, 19 Nov 2026 11:39:46 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 12011,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "edouard-philippe"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "Le service national obligatoire peut-il faire son retour, comme le propose Édouard Philippe ?",
+          "motsCommuns": [
+            "national",
+            "obligatoire",
+            "service"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "marine-le-pen"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "Marine Le Pen veut un service militaire obligatoire de trois mois, et Jean-Luc Mélenchon, lui, défend l’idée d’une conscription citoyenne ou écologique pour les moins de 25 ans.",
+          "motsCommuns": [
+            "militaire",
+            "obligatoire",
+            "service"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "Raphaël Glucksmann propose un service civique obligatoire d'une durée de dix mois.",
+          "motsCommuns": [
+            "obligatoire",
+            "service"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "bruno-retailleau",
+            "david-lisnard"
+          ],
+          "questionId": "service-national",
+          "theme": "europe",
+          "passageSource": "Quant à Bruno Retailleau et David Lisnard, ils plaident, eux aussi, pour le retour d’un service national obligatoire.",
+          "motsCommuns": [
+            "national",
+            "obligatoire",
+            "service"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "952ee59184ed980aef35ceca",
+      "titre": "\"Un reniement existentiel\" : les écologistes divisés, les socialistes navrés après la main tendue de Marine Tondelier à LFI pour la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/un-reniement-existentiel-les-ecologistes-divises-les-socialistes-navres-apres-la-main-tendue-de-marine-tondelier-a-lfi-pour-la-presidentielle-2027_8289569.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/presidentielle/un-reniement-existentiel-les-ecologistes-divises-les-socialistes-navres-apres-la-main-tendue-de-marine-tondelier-a-lfi-pour-la-presidentielle-2027_8289569.html",
+      "publication": "Thu, 19 Nov 2026 11:33:07 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 13617,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c4a490809812dac2f7feb333",
+      "titre": "Sommet international, présidentielle, pouvoir d'achat... Le 8h30 franceinfo de Raphaël Glucksmann",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/sommet-international-presidentielle-pouvoir-d-achat-le-8h30-franceinfo-de-raphael-glucksmann_8268626.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/sommet-international-presidentielle-pouvoir-d-achat-le-8h30-franceinfo-de-raphael-glucksmann_8268626.html",
+      "publication": "Thu, 19 Nov 2026 09:10:01 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8040,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "bca492c4159f591df2bbe01b",
+      "titre": "Présidentielle 2027 : \"Je considère que la place des Écologistes est à nos côtés\", affirme Olivier Faure, premier secrétaire du Parti socialiste",
+      "url": "https://www.franceinfo.fr/politique/presidentielle-2027-je-considere-que-la-place-des-ecologistes-est-a-nos-cotes-affirme-olivier-faure-premier-secretaire-du-parti-socialiste_8289572.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/presidentielle-2027-je-considere-que-la-place-des-ecologistes-est-a-nos-cotes-affirme-olivier-faure-premier-secretaire-du-parti-socialiste_8289572.html",
+      "publication": "Thu, 19 Nov 2026 09:08:33 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14040,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "olivier-faure"
+          ],
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "passageSource": "Olivier Faure : Personne n'ignore que depuis la venue du pape, les forces de l'ordre ont été soumises à rude épreuve.",
+          "motsCommuns": [
+            "forces",
+            "ordre"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "77efd7231ad1aae0381fab3d",
+      "titre": "\"Elle a choisi de tourner le dos à la tradition écologiste\", regrette Raphaël Glucksmann après le rapprochement de Marine Tondelier à la candidature de Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/elle-a-choisi-de-tourner-le-dos-a-la-tradition-ecologiste-regrette-raphael-glucksmann-apres-le-rapprochement-de-marine-tondelier-a-la-candidature-de-jean-luc-melenchon_8289584.html",
+      "publication": "Thu, 19 Nov 2026 09:01:48 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10574,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "passageSource": "\"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe\" , déplore Raphaël Glucksmann.",
+          "motsCommuns": [
+            "choix",
+            "europeen"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "passageSource": "\"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe\" , déplore Raphaël Glucksmann.",
+          "motsCommuns": [
+            "europeen",
+            "europeenne"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "raphael-glucksmann"
+          ],
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "passageSource": "\"Le parti qui était censé être le parti le plus fédéraliste européen, le plus attaché à la construction européenne, va donc faire le choix de faire campagne pour un europhobe\" , déplore Raphaël Glucksmann.",
+          "motsCommuns": [
+            "europeen",
+            "europeenne"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "c956024ed20f0da899722d30",
+      "titre": "DIRECT. Présidentielle : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html",
+      "publication": "Thu, 19 Nov 2026 08:19:07 +0000",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9354,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "marine-tondelier"
+          ],
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "passageSource": "Jean-Luc Mélenchon a estimé, jeudi 19 novembre, que l'alliance avec Marine Tondelier \"devrait pouvoir se faire\" , alors que la candidate des Ecologistes s'est dite la veille \"prête\" à travailler à une \"coalition\" autour de l'insoumis.",
+          "motsCommuns": [
+            "pouvoir",
+            "travailler"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "5812917df9251c86e5d36a5d",
+      "titre": "Accusée d'avoir cautionné des écrits antisémites, la députée RN Laure Lavalette invoque des faits vieux de \"30 ans, dans un climat tout à fait différent\"",
+      "url": "https://www.franceinfo.fr/elections/accusee-d-avoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-invoque-des-faits-vieux-de-30-ans_8289503.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/elections/accusee-d-avoir-cautionne-des-ecrits-antisemites-la-deputee-rn-laure-lavalette-invoque-des-faits-vieux-de-30-ans_8289503.html",
+      "publication": "Thu, 19 Nov 2026 08:15:07 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9248,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "979cc67370669cee16e85d36",
+      "titre": "Édito. Pour la présidentielle, Édouard Philippe peut-il convaincre les Français en misant sur le sérieux ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-la-presidentielle-edouard-philippe-peut-il-convaincre-les-francais-en-misant-sur-le-serieux_8268629.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-pour-la-presidentielle-edouard-philippe-peut-il-convaincre-les-francais-en-misant-sur-le-serieux_8268629.html",
+      "publication": "Thu, 19 Nov 2026 08:10:02 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 10163,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "bedf795351cb7abff919e790",
+      "titre": "A suivre Alban Mikoczy : Édouard Philippe, à droite toute ?",
+      "url": "https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-edouard-philippe-a-droite-toute_8289428.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-edouard-philippe-a-droite-toute_8289428.html",
+      "publication": "Thu, 19 Nov 2026 06:38:34 +0100",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7828,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "9ac9d2b90252a83a5eb609e4",
       "titre": "Primaire à droite et au centre, les Verts courtisés à gauche… Le point sur la \"Bataille de l'Elysée\" ce 12 novembre",
       "url": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -11155,13 +11599,13 @@
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-le-pays-devient-il-le-nouvel-eldorado-des-data-centers",
       "urlEffective": "https://www.france24.com/fr/vid%C3%A9o/20261112-france-le-pays-devient-il-le-nouvel-eldorado-des-data-centers",
       "publication": "Thu, 12 Nov 2026 16:12:15 GMT",
-      "analyseLe": "2026-11-16T09:50:58.978778+00:00",
+      "analyseLe": "2026-11-23T08:44:47.458444+00:00",
       "lecture": "indisponible",
       "formatDetecte": "indisponible",
       "motif": "http_404",
       "versionDiagnostic": 23,
       "nombreCaracteres": 0,
-      "tentatives": 1,
+      "tentatives": 2,
       "passages": [],
       "modificationPositions": false
     },
@@ -15005,10 +15449,10 @@
     }
   ],
   "statistiques": {
-    "documents": 697,
-    "textesLus": 691,
+    "documents": 713,
+    "textesLus": 707,
     "pdfLus": 0,
-    "passagesCandidats": 186,
+    "passagesCandidats": 195,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "document_trop_volumineux": 1,
