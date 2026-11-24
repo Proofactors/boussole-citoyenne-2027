@@ -1,8 +1,8 @@
 {
   "schemaVersion": "24.0",
   "source": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "archiveSha256": "a1c5277ab913e3455fe2b09e59b0b7e3bf5c2d0a289e7ef5713d38d24a022285",
-  "generatedAt": "2026-11-23T08:45:11+00:00",
+  "archiveSha256": "076a49b680aad04b68bce67c7ba40d5152d5fe3a22b50275ff63c532ff8b19bf",
+  "generatedAt": "2026-11-24T18:54:51+00:00",
   "totalParsed": 10101,
   "invalid": 0,
   "scrutins": [
@@ -14182,7 +14182,7 @@
       "uid": "VTANR5L17V10068",
       "numero": "10068",
       "date": "2026-11-19",
-      "titre": "l'amendement n° 12 de Mme Lebec à l'article 1er ter de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
+      "titre": "l'article 1er ter de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer (première lecture).",
       "votes": [
         {
           "acteurRef": "PA1008",

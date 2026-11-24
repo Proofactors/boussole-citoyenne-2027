@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T08:44:46.377826+00:00",
-  "total": 1213,
+  "generatedAt": "2026-11-24T18:54:23.688843+00:00",
+  "total": 1280,
   "statistiques": {
-    "a_examiner_en_priorite": 35,
-    "a_qualifier": 467,
-    "signal_non_qualifie": 711
+    "a_examiner_en_priorite": 37,
+    "a_qualifier": 488,
+    "signal_non_qualifie": 755
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -4031,6 +4031,186 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "42b0e39a438a346c18fec235",
+      "title": "Budget 2027 : Régimes sociaux et de retraite - rapport spécial n° 156 annexe 25 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-325/l26-156-325.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 17:56:36 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-01",
+          "theme": "retraites",
+          "keywords": [
+            "regimes",
+            "retraite"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-07",
+          "theme": "retraites",
+          "keywords": [
+            "regimes",
+            "retraite"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 25 tome III de Mme Sylvie VERMEILLET, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Régimes sociaux et de retraite (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "19f9a20155b71d39da8f8e6c",
+      "title": "Budget 2027 : Compte d'affectation spéciale : participations financières de l'État - rapport spécial n° 156 annexe 22 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-322/l26-156-322.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 17:40:49 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 22 tome III de M.",
+        "Édouard FRITCH, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Compte d'affectation spéciale : participations financières de l'État (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e5d76bcaf2bd1e4d0c9ba938",
+      "title": "Budget 2027 : Remboursements et dégrèvements - rapport spécial n° 156 annexe 27 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-327/l26-156-327.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 17:01:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 27 tome III de M.",
+        "Pascal SAVOLDELLI, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Remboursements et dégrèvements (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c9aa5258c1cfa2b123591593",
+      "title": "Budget 2027 : Engagements financiers de l'État - rapport spécial n° 156 annexe 13 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-313/l26-156-313.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 16:57:49 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 13 tome III de M.",
+        "Albéric de MONTGOLFIER, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Engagements financiers de l'État (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2dc62d65ecd494fa9cfb85ea",
+      "title": "Budget 2027 : Transformation publique - avis n° 162 tome XIV",
+      "url": "http://www.senat.fr/rap/a26-162-14/a26-162-14.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 16:57:49 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 162 tome XIV de M.",
+        "Fabien BRAVI, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur le projet de loi de finances pour 2027 : Transformation publique (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "58e09589194493e5ae1584b5",
+      "title": "Budget 2027 : Crédits non répartis - rapport spécial n° 156 annexe 7 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-37/l26-156-37.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 15:38:12 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 7 tome III de M.",
+        "Gabriel AMARD, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Crédits non répartis (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e6f6616c86033131567e8b41",
+      "title": "Budget 2027 : Gestion des finances publiques et lutte contre les fraudes - Transformation et fonction publiques - rapport spécial n° 156 annexe 15 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-315/l26-156-315.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 15:26:35 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 15 tome III de M.",
+        "Albéric de MONTGOLFIER et Mme Florence BLATRIX CONTAT, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Gestion des finances publiques et lutte contre les fraudes - Transformation et fonction publiques (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d3c31619c4bd3049b4aa5ab2",
+      "title": "Budget 2027 : Monde combattant, mémoire et liens avec la Nation - avis n° 158 tome XI",
+      "url": "http://www.senat.fr/rap/a26-158-11/a26-158-11.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 13:41:02 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "budget-defense",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "defense"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Avis n° 158 tome XI de MM.",
+        "Christophe GUILLOTEAU et Loïc KERVRAN, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi de finances pour 2027 : Monde combattant, mémoire et liens avec la Nation (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cdf76a0fd7f4b0f7a07cc7b2",
+      "title": "Budget 2027 : Fonction publique - avis n° 162 tome V",
+      "url": "http://www.senat.fr/rap/a26-162-5/a26-162-5.html",
+      "sourcePublishedAt": "Tue,24 Nov 2026 13:06:23 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 162 tome V de Mme Catherine DI FOLCO, fait au nom de la commission des lois constitutionnelles, de législation, du suffrage universel, du Règlement et d'administration générale, sur le projet de loi de finances pour 2027 : Fonction publique (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "572a51d0912c97c8d7a9cb45",
       "title": "Transparence salariale et PME dans l'économie de la défense : la délégation aux entreprises lance deux nouvelles missions d'information",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/17-11-2026/transparence-salariale-et-pme-dans-leconomie-de-la-defense-la-dae-lance-deux-missions-dinformation.html",
@@ -4817,6 +4997,718 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Invité du \"20 Heures\" de France 2 lundi 26 octobre, le ministre de l'Éducation nationale revient en détail sur les annonces du gouvernement faites aux lycéens pour répondre à leurs revendications."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "47c866fe53ac9838f78cf906",
+      "title": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
+      "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 19:49:59 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "passoires-thermiques",
+          "theme": "societe",
+          "keywords": [
+            "energivores",
+            "interdiction",
+            "logements",
+            "louer"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "priorite-nationale",
+          "theme": "immigration",
+          "keywords": [
+            "logement",
+            "nationale"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Les députés se sont divisés sur la suppression de l'interdiction progressive de louer les logements les plus énergivores."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "87eaa555ad75c1365e1863e4",
+      "title": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
+      "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 19:10:39 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Onze personnes sont renvoyées devant le tribunal correctionnel pour leur implication dans l'opération \"Sauver Sarko\".",
+        "L'ancien chef de l'Etat et son épouse sont poursuivis pour \"association de malfaiteurs en vue de commettre une escroquerie en bande organisée\" et \"recel de subornation de témoin\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9743f2efa66dd219286cec69",
+      "title": "Filmer à l'Assemblée nationale comme ces jeunes, est-ce que c'est autorisé ?",
+      "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 18:53:47 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans une vidéo sur les réseaux, on voit des jeunes parler dans l’hémicycle de l’Assemblée nationale.",
+        "Mais certains politiques disent que ce n'est pas permis.",
+        "Mais a-t-on le droit de filmer dans l'hémicycle ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "de08b9f2d0dd6dc96f426f88",
+      "title": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs",
+      "url": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 18:42:59 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien président et son épouse sont renvoyés pour association de malfaiteurs en vue de préparer une escroquerie en bande organisée ainsi que recel de subornation de témoin."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1b6cdcfdeac29c0538806828",
+      "title": "Six députés de La France Insoumise portent plainte pour des menaces de mort anonymes",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/six-deputes-de-la-france-insoumise-portent-plainte-pour-des-menaces-de-mort-anonymes_8298216.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 18:42:21 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les députés Eric Coquerel, Antoine Léaument, Sarah Legrain, Marie Mesmeur, Thomas Portes et Carlos Martens Bilongo se sont rendus mardi 24 novembre au commissariat pour déposer cette plainte commune pour menaces de mort."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "782c71e93c76d4b2b006f676",
+      "title": "VRAI OU FAUX. Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 18:32:32 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La présidente de l'Assemblée nationale a condamné lundi le tournage dans l'hémicycle d'une vidéo où six jeunes dénoncent l'adoption de la loi sur la présomption d'usage légal des armes par les forces de l'ordre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "619e89be3497104b04fb33c1",
+      "title": "REPLAY. Police municipale, incendie, fiscalité… Quinze maires répondent à vos questions depuis le congrès de l'Association des maires de France",
+      "url": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 18:06:55 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "franceinfo est en direct depuis le congrès de l’Association des maires de France le 24 novembre de midi à 15 h pour trois heures d’émission en direct sur YouTube, TikTok et Twitch avec vos questions dans le tchat."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "58c3cb9e997829763cb43823",
+      "title": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 17:52:06 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "keywords": [
+            "condamne",
+            "crime"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le candidat d'extrême droite à la présidentielle avait été relaxé en première instance et en appel, mais ces décisions avaient été annulées une première fois par la Cour de cassation."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c8b2c6fe73ab46f2c22eff1b",
+      "title": "VIDEO. Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuiter des informations au RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/video-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh-accuse-d-avoir-fait-fuite-des-informations-au-rn_8297919.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 17:25:27 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "S'exprimant lors des questions au gouvernement à l'Assemblée nationale mardi après-midi, le ministre de l'Intérieur a ajouté avoir \"pris acte\" du souhait du préfet Moutouh d'être démis de ses fonctions."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c79eadf7634dd1788fb334a0",
+      "title": "Mort de Nahel : la réaction de la famille après le pourvoi en cassation du policier mis en cause",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-mort-de-nahel-la-r%C3%A9action-de-la-famille-apr%C3%A8s-le-pourvoi-en-cassation-du-policier-mis-en-cause",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 17:07:43 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "controle",
+            "violences"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "reseaux-15-ans",
+          "theme": "societe",
+          "keywords": [
+            "reseaux",
+            "sociaux"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le 27 juin 2023, Nahel Merzouk, 17 ans, est tué à Nanterre, dans les Hauts-de-Seine, d'une balle tirée à bout portant par le policier Florian M.",
+        "lors d'un contrôle routier.",
+        "La scène, filmée, devient virale sur les réseaux sociaux."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9b128a8dfb7259e6e5b72a43",
+      "title": "David Lisnard, le candidat ultralibéral qui chamboule la campagne à droite",
+      "url": "https://www.france24.com/fr/france/20261124-france-presidentielle-2027-david-lisnard-candidat-ultraliberal-chamboule-campagne-droite",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 16:43:24 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "gabriel-attal",
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président de l'Association des maires de France, David Lisnard, est le candidat surprise de la droite à l'élection présidentielle.",
+        "Issu du parti Les Républicains, il est entré en campagne au printemps malgré la désignation par les adhérents de Bruno Retailleau comme candidat.",
+        "Avec ses positions très libérales, il devance désormais ce dernier dans les sondages, mais aussi Gabriel Attal et même Édouard Philippe."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8e3d55bb745c4bab98f5aba0",
+      "title": "Une enquête ouverte après un signalement pour détournement de fonds publics à l'agglomération du Havre présidée par Edouard Philippe",
+      "url": "https://www.franceinfo.fr/politique/edouard-philippe/une-enquete-ouverte-apres-un-signalement-pour-detournement-de-fonds-publics-a-l-agglomeration-du-havre-presidee-par-edouard-philippe_8297676.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 16:32:51 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Une plainte a été adressée à mes services via le Parquet national financier initialement saisi, j'ai transmis en enquête au commissariat du Havre\", a expliqué la procureure de la République."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a41853a8f9b1278eaa1cf3aa",
+      "title": "\"Il n'y aura plus d'étrangers\" chante une exposante devant E. Zemmour",
+      "url": "https://www.franceinfo.fr/elections/il-n-y-aura-plus-d-etrangers-chante-une-exposante-devant-e-zemmour_8297877.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 15:30:32 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Il n’y aura plus d'étrangers\" : Une exposante au salon des Maires à Paris s’est mise à chanter devant Éric Zemmour, \"Monopolis\" de Starmania."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "958ded5d9db287abf99f5bcf",
+      "title": "Boxe : la championne olympique Imane Khelif de retour sur le ring",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-boxe-la-championne-olympique-imane-khelif-de-retour-sur-le-ring",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 15:18:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Depuis le 9 août 2024, date à laquelle Imane Khelif a remporté la médaille d'or en boxe féminine aux Jeux olympiques, la boxeuse s'était éloignée des rings.",
+        "Et pour cause, l'athlète algérienne avait été la cible d'une virulente campagne de cyberharcèlement et d'attaques infondées remettant en cause son genre.",
+        "La boxeuse s'apprête à remonter sur le ring ce 15 décembre, pour son premier combat professionnel."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "796b7bec3195105122f425b1",
+      "title": "Fausse rétractation de Takieddine : renvoi en procès de Nicolas Sarkozy et Carla Bruni",
+      "url": "https://www.france24.com/fr/france/20261124-fausse-r%C3%A9tractation-takieddine-renvoi-proc%C3%A8s-nicolas-sarkozy-carla-bruni",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 14:53:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien président de la République Nicolas Sarkozy, son épouse Carla Bruni-Sarkozy et la \"papesse des paparazzis\" \"Mimi\" Marchand seront jugés en 2027 dans l'affaire de la rétractation possiblement monnayée de l'intermédiaire Ziad Takieddine, a appris l'AFP mardi de source proche du dossier, confirmant une information de RTL."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "006707c29fa82f774d9afcbc",
+      "title": "La maire de Fontenay-aux-Roses souhaite la \"mise en retrait\" de David Lisnard de la présidence de l'Association des maires de France",
+      "url": "https://www.franceinfo.fr/politique/la-maire-de-fontenay-aux-roses-souhaite-la-mise-en-retrait-de-david-lisnard-de-la-presidence-de-l-association-des-maires-de-france_8297787.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 14:48:05 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Pauline Le Fur estime \"qu'il est compliqué d'être à la fois candidat à la présidentielle et candidat à la présidence de l'AMF\", et demande que David Lisnard se mette en retrait de l'AMF."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "dabfaa6772a854c5e21d2d06",
+      "title": "Détournement de fonds de publics : une enquête vise l'agglomération du Havre d'Édouard Philippe",
+      "url": "https://www.france24.com/fr/france/20261124-edouard-philippe-vis%C3%A9-par-une-enqu%C3%AAte-pour-d%C3%A9tournement-de-fonds-publics-au-havre",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 14:47:28 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Nouvelle péripétie judiciaire pour le candidat à l'élection présidentielle Édouard Philippe : une enquête a été ouverte à la suite d'un signalement à la justice pour détournement de fonds publics à la communauté urbaine du Havre, qu'il dirige.",
+        "Également placé sous statut de témoin assisté dans une autre procédure menée par le parquet national financier, l'ex-Premier ministre dénonce une \"vendetta judiciaire\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "db43a4d33a41cba43746ca97",
+      "title": "ÉDITO. David Lisnard propose-t-il du neuf aux Français ?",
+      "url": "https://www.franceinfo.fr/elections/edito-david-lisnard-propose-t-il-du-neuf-aux-francais_8297697.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 13:27:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "David Lisnard est le candidat de droite qui monte dans les sondages.",
+        "Encore loin de Marine Le Pen et de Jean-Luc Mélenchon, il est désormais au même niveau qu'Édouard Philippe.",
+        "Mais que propose-t-il réellement aux Français ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "156b2e518f1b6052a175fef8",
+      "title": "La grande mosquée de Paris a-t-elle sauvé \"1 500 enfants juifs\" sous l'Occupation ?",
+      "url": "https://www.france24.com/fr/france/20261124-grande-mosqu%C3%A9e-paris-sauvetage-1-500-enfants-juifs-sous-occupation-seconde-guerre-mondiale",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 13:05:57 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le 18 novembre, l'ancienne ministre Yamina Benguigui a déclaré que \"plus de 1 500 enfants juifs\" avaient été sauvés par la grande mosquée de Paris pendant la Seconde Guerre mondiale.",
+        "Si plusieurs témoignages et documents confirment le rôle de l'institution religieuse dans le sauvetage de plusieurs juifs en France, ce chiffre non étayé n'est reconnu par aucun historien."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a3d5bcba00b5a2ad0a647fe2",
+      "title": "Yaël Braun-Pivet condamne une vidéo contre les violences policières tournée à l’Assemblée",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/yael-braun-pivet-condamne-une-video-contre-les-violences-policieres-tournee-a-l-assemblee_8297637.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 12:47:29 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "policieres",
+            "violences"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "La présidente de l'Assemblée nationale, Yaël Braun-Pivet, a demandé l'ouverture d'une enquête interne, lundi 23 novembre, après une vidéo tournée dans l'hémicycle, dans laquelle des jeunes dénoncent l'adoption de la loi instaurant une présomption d'usage légal des armes pour les forces de l'ordre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0d76428dad10f33d686d6d76",
+      "title": "Thomas Pesquet raconte l'espace aux enfants",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261124-thomas-pesquet-raconte-l-espace-aux-enfants",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 12:25:46 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'astronaute français de l'Agence spatiale européenne, auteur de \"L'espace en 100 questions\", Thomas Pesquet, se prépare à une troisième mission dans l'espace en 2027, une mission \"sprint\" comme il l'appelle, baptisée Vast PAM-1."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7e3d81700298c781b31cdcfb",
+      "title": "Congrès des maires : \"Il faut réfléchir à l'anonymat des parrainages, pour inciter les maires non cartés, ruraux, à parrainer des candidats\", estime le politologue Brice Soccol",
+      "url": "https://www.franceinfo.fr/politique/congres-des-maires-il-faut-reflechir-a-l-anonymat-des-parrainages-pour-inciter-les-maires-non-cartes-ruraux-a-parrainer-des-candidats-estime-le-politologue-brice-soccol_8297511.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 12:09:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À l'occasion de l'ouverture du 108e Congrès des maires de France, mardi 24 novembre, Brice Soccol, auteur de \"L'écharpe et les tempêtes: Face aux maires, la défiance inattendue ?\", revient sur le refus de nombreux édiles de parrainer un candidat pour l'élection présidentielle.",
+        "\"Jamais, sous la Ve République, on n'a eu une telle séparation entre la politique nationale et la politique locale\", explique-t-il."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "91a0c25aef0fecdc0966ff2c",
+      "title": "Orphelins de féminicides, les victimes oubliées",
+      "url": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261124-orphelins-feminicides-meurtres-violences-faites-aux-femmes",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 11:43:57 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "enfants",
+            "femmes"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "keywords": [
+            "elles",
+            "quand"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "En 2025, en France, 111 femmes ont été tuées par leur conjoint ou ex-conjoint, laissant derrière elles des dizaines d'orphelins.",
+        "Comment se relever après un tel drame ?",
+        "Quel accompagnement pour aider ces enfants ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4c67379e9c6d61a08c7c4962",
+      "title": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/budget-2027-tout-le-monde-fait-des-efforts-il-n-y-a-pas-un-ciblage-des-retraites-assure-serge-papin-ministre-du-commerce-et-du-pouvoir-d-achat_8291498.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 11:37:21 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Interrogé sur les compromis souhaités par Sébastien Lecornu avec les parlementaires sur le budget 2027, dans lequel le Sénat souhaite supprimer l'abattement des 10% des retraités, Serge Papin souligne que le vote du budget \"joue sur le pouvoir d'achat\", et rappelle que les mesures concernant les pensions sont \"encore en discussion\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e2880a4daaa88d54bcd278fe",
+      "title": "On vous résume la polémique autour de la députée RN Laure Lavalette, accusée d'avoir cautionné des écrits antisémites",
+      "url": "https://www.franceinfo.fr/societe/antisemitisme/on-vous-resume-la-polemique-autour-de-la-deputee-rn-laure-lavalette-accusee-d-avoir-cautionne-des-ecrits-antisemites_8297214.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 10:59:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le site LesJours.fr a retrouvé des articles et une caricature antisémites dans la revue d'un syndicat étudiant que présidait la porte-parole de Marine Le Pen dans les années 1990."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3313d898e76d75b58713ead8",
+      "title": "Polémique après une vidéo sur les violences policières tournée dans l'Hémicycle : que dit le règlement de l'Assemblée nationale ?",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/polemique-apres-une-video-sur-les-violences-policieres-tournee-dans-l-hemicycle-que-dit-le-reglement-de-l-assemblee-nationale_8297412.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 10:58:21 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-02",
+          "theme": "securite",
+          "keywords": [
+            "forces",
+            "ordre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "policieres",
+            "violences"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "legitime-defense",
+          "theme": "securite",
+          "keywords": [
+            "defense",
+            "legitime"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Les violences policières sont au cœur d'une polémique à l'Assemblée nationale.",
+        "La présidente Yaël Braun-Pivet a demandé l'ouverture d'une enquête interne, après qu'une vidéo tournée par des jeunes, conviés par un député LFI dans l'hémicycle, a été publiée sur les réseaux.",
+        "Ils dénoncent dans cette séquence le texte sur la légitime défense des forces de l'ordre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2cb827c687e055d1d8b121a6",
+      "title": "Quel est le calendrier de l'élection présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/quel-est-le-calendrier-de-l-election-presidentielle_8297400.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 10:45:30 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Un calendrier bien précis organise le déroulement d’une campagne et d’une élection présidentielle.",
+        "À cinq mois de l’élection de 2027, on vous explique jusqu’à quand les candidats peuvent se déclarer, quand nous allons voter et comment s’inscrire sur les listes électorales."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cf2951affa9bcfffba0434a6",
+      "title": "La France veut son stock de terres rares",
+      "url": "https://www.franceinfo.fr/politique/emmanuel-macron/la-france-veut-sont-stock-de-terres-rares_8297328.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 10:00:05 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Salut c’est Sarah, ça dit quoi ?",
+        "Emmanuel Macron veut doter la France de sa propre réserve stratégique de terres rares.",
+        "Ces métaux sont utilisés partout : dans nos téléphones, les batteries de voitures électriques ou encore les puces, indispensables pour l’intelligence artificielle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b368f905fc44fce7c198514a",
+      "title": "François Bayrou opte pour le \"ni ni\" en cas de second tour Le Pen-Mélenchon \"qui serait mortel pour notre pays\"",
+      "url": "https://www.franceinfo.fr/elections/francois-bayrou-opte-pour-le-ni-ni-en-cas-de-second-tour-le-pen-melenchon-qui-serait-mortel-pour-notre-pays_8297313.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 09:53:47 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'ancien Premier ministre, invité du 8.30 franceinfo, a également défendu l'idée d'une primaire \"compromise de manière extrêmement grave\", notamment par David Lisnard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "932e8e750fa605d954ca40e6",
+      "title": "Présidentielle, primaire du bloc central, règle d'or budgétaire... Le \"8h30 franceinfo\" de François Bayrou",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/presidentielle-primaire-du-bloc-central-regle-d-or-budgetaire-le-8h30-franceinfo-de-francois-bayrou_8275349.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 09:30:24 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-08",
+          "theme": "immigration",
+          "keywords": [
+            "premier",
+            "regle"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "François Bayrou, ancien Premier ministre, président du MoDem, est l'invité du \"8h30 franceinfo\", le 24 novembre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0362cb71543ffec0c0314cf0",
+      "title": "Congrès des maires : des consignes transmises aux candidats à l'élection présidentielle pour éviter que l'événement ne se transforme en \"meeting\"",
+      "url": "https://www.franceinfo.fr/politique/congres-des-maires-des-consignes-transmises-aux-candidats-a-l-election-presidentielle-pour-eviter-que-l-evenement-ne-se-transforme-en-meeting_8297280.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 09:21:53 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'événement, qui se tient de mardi à jeudi à Paris, représente un enjeu pour les prétendants à la recherche de leurs 500 parrainages."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8bc929b335602efe65edf72e",
+      "title": "Mort de Nahel Merzouk : la justice ordonne un procès pour meurtre à l'encontre du policier",
+      "url": "https://www.france24.com/fr/france/20261124-mort-nahel-merzouk-justice-ordonne-proc%C3%A8s-pour-meurtre-policier",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 08:27:33 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Trois ans après l'homicide de Nahel Merzouk, 17 ans, tué à bout portant par un tir de policier à la suite d'un refus d'obtempérer, la cour d'appel de Versailles a ordonné un procès pour meurtre à l'encontre du policier responsable de la mort du jeune homme dans cette affaire qui avait provoqué des nuits d'émeutes en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a075585c13c13bb6a244a75b",
+      "title": "Ouverture du Congrès des maires sur fond de bataille pour l'Élysée",
+      "url": "https://www.france24.com/fr/france/20261124-ouverture-du-congr%C3%A8s-des-maires-sur-fond-de-bataille-pour-l-%C3%A9lys%C3%A9e",
+      "sourcePublishedAt": "Tue, 24 Nov 2026 00:06:27 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La puissante Association des maires de France (AMF) se réunit du 24 au 26 novembre à Paris, où les candidats à l'élection présidentielle vont se presser, en particulier ceux en quête des 500 parrainages nécessaires à leur candidature.",
+        "Mais ce rendez-vous annuel sera surtout marqué par l'élection de son président.",
+        "Déjà candidat à la présidentielle, David Lisnard espère également renouveler son mandat à la tête de l'AMF."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -7945,6 +8837,23 @@
       "extraitsRSS": [
         "Rapport n° 179 de Mme Nadine BELLUROT, sénatrice et M.",
         "Jean-Luc WARSMANN, député, fait au nom de la commission mixte paritaire, sur la proposition de loi visant à améliorer les moyens d'action de l'AGRASC et à faciliter l'exercice des missions d'expert judiciaire (17 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "df19cb0a039c7819da6b6424",
+      "title": "Avenir du modèle démocratique à l'horizon 2050 - rapport d'information n° 770",
+      "url": "http://www.senat.fr/notice-rapport/2025/r25-770-notice.html",
+      "sourcePublishedAt": "Thu,18 Jun 2026 11:23:28 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 770 de M.",
+        "Rémi CARDON et Mme Amel GACQUERRE, fait au nom de la Délégation sénatoriale à la prospective : Avenir du modèle démocratique à l'horizon 2050 (18 juin 2026)"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -15178,6 +16087,24 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "09b8d276f7a9379c3508e578",
+      "title": "Verdict au procès de Michel Zecler : l'espoir d'une \"jurisprudence\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20261121-verdict-au-proc%C3%A8s-de-michel-zecler-l-espoir-d-une-jurisprudence",
+      "sourcePublishedAt": "Sat, 21 Nov 2026 15:29:45 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Cette semaine dans Une semaine en France : les réactions après le verdict rendu jeudi soir en France dans le procès du passage à tabac de Michel Zecler.",
+        "De la prison ferme pour les trois policiers reconnus coupables de violences aggravées, et de faux en ​écriture ‌publique.",
+        "La circonstance aggravante de racisme a été retenue."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "4e3b7209669d966344e6b8fe",
       "title": "Présomption d'usage légal des armes par les forces de l'ordre : la loi définitivement adoptée",
       "url": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre-la-loi-definitivement-adoptee_8293631.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -16447,6 +17374,249 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "4985b20c48f40bf962d87fa0",
+      "title": "Budget 2027 : Cohésion des territoires - Logement et ville - rapport spécial n° 156 annexe 5 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-35-1/l26-156-35-1.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 19:24:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 5 tome III de Mme Sophie PRIMAS, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Cohésion des territoires - Logement et ville (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f3562a1cca1f53ddb8343f87",
+      "title": "Budget 2027 : Écologie, développement et mobilité durables - rapport spécial n° 156 annexe 11 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-311-3/l26-156-311-3.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 18:57:20 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 11 tome III de M.",
+        "Christopher SZCZUREK, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Écologie, développement et mobilité durables (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "83fc9b11e13dcc695a79dbd6",
+      "title": "Budget 2027 : Cohésion des territoires - Aménagement des territoires - rapport spécial n° 156 annexe 5 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-35-2/l26-156-35-2.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 18:40:14 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 5 tome III de M.",
+        "Bernard DELCROS, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Cohésion des territoires - Aménagement des territoires (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5a441a9899a5c5223cd526ca",
+      "title": "Budget 2027 : Régimes sociaux et de retraite et compte d'affectation spéciale « Pensions » - avis n° 159 tome III",
+      "url": "http://www.senat.fr/rap/a26-159-3/a26-159-3.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 18:19:09 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-retraites-01",
+          "theme": "retraites",
+          "keywords": [
+            "regimes",
+            "retraite"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-07",
+          "theme": "retraites",
+          "keywords": [
+            "regimes",
+            "retraite"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "pensions-indexation",
+          "theme": "retraites",
+          "keywords": [
+            "pensions",
+            "retraite"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Avis n° 159 tome III de Mme Marie-Do AESCHLIMANN, fait au nom de la commission des affaires sociales, sur le projet de loi de finances pour 2027 : Régimes sociaux et de retraite et compte d'affectation spéciale « Pensions » (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "180a603791ac687ba689dbef",
+      "title": "Projet de loi de finances de fin de gestion pour 2026 - rapport n° 186",
+      "url": "http://www.senat.fr/rap/l26-186/l26-186.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 18:19:09 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport n° 186 de Mme Christine LAVARDE, rapporteur général et M.",
+        "Philippe JUVIN, rapporteur général, fait au nom de la commission mixte paritaire, sur le projet de loi de finances de fin de gestion pour 2026 (20 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "96c1fe1e8b1f015364bcc7d6",
+      "title": "Budget 2027 : Travail, emploi et administration des ministères sociaux - rapport spécial n° 156 annexe 32 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-332/l26-156-332.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 17:05:05 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 32 tome III de Mme Marie-Claire CARRÈRE-GÉE, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Travail, emploi et administration des ministères sociaux (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ba6bf244aa3fa4764079300f",
+      "title": "Budget 2027 : Écologie, développement et mobilité durables - rapport spécial n° 156 annexe 11 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-311-2/l26-156-311-2.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:52:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 11 tome III de M.",
+        "Vincent CAPO-CANELLAS, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Écologie, développement et mobilité durables (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8733d34898f9376e4ef40db7",
+      "title": "Soutien financier des collectivités territoriales par les conseils régionaux - texte N° 182",
+      "url": "http://www.senat.fr/leg/ppl26-182.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:52:55 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi relative à la faculté pour les conseils régionaux de soutenir financièrement des collectivités territoriales en matière de prévention de la délinquance et de sécurité publique : texte N° 182 de M.",
+        "Rachid TEMAL, déposé au Sénat le 20 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fb1ac194cace811320b902fe",
+      "title": "Budget 2027 : Écologie, développement et mobilité durables - rapport spécial n° 156 annexe 11 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-311-1/l26-156-311-1.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:47:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 11 tome III de M.",
+        "Jean-François HUSSON, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Écologie, développement et mobilité durables (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e4d8ecfbda5103938671fb7a",
+      "title": "Transport de marchandises et transport routier de personnes - texte N° 171",
+      "url": "http://www.senat.fr/leg/ppl26-171.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:47:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi relative au dispositif de sanction pour l'application du code des transports en matière de contrats de transport de marchandises et instaurant un mécanisme d'indexation pour les services occasionnels du transport routier de personnes : texte N° 171 de M.",
+        "Franck DHERSIN, déposé au Sénat le 13 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b6f2fe0daa37e8251e08de7b",
+      "title": "Prévenir, reconnaître et sanctionner la sérophobie - texte N° 177",
+      "url": "http://www.senat.fr/leg/ppl26-177.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:47:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à prévenir, reconnaître et sanctionner la sérophobie : texte N° 177 de Mme Anne SOUYRIS et plusieurs de ses collègues, déposé au Sénat le 17 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "126965c81cf91687481f20f8",
+      "title": "Renforcement de l'attractivité de l'épargne salariale - texte N° 175",
+      "url": "http://www.senat.fr/leg/ppl26-175.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 16:47:13 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en oeuvre d'une procédure de déblocage exceptionnelle : texte N° 175 transmis au Sénat le 16 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9582dfd8b16c42255f7d9853",
+      "title": "Investissement publicitaire dans les services de presse en ligne - texte N° 165",
+      "url": "http://www.senat.fr/leg/pjl26-165.html",
+      "sourcePublishedAt": "Mon,23 Nov 2026 14:49:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Projet de loi visant à renforcer l'investissement publicitaire dans les services de presse en ligne d'information politique et générale : texte N° 165 de Mme Catherine PÉGARD, ministre de la culture, déposé au Sénat le 10 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "33d321e7f67f736dfc4d39d9",
       "title": "Davantage d'efforts en dépenses et plus de justice fiscale et sociale : le Sénat s'empare du budget 2027",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/23-11-2026/davantage-defforts-en-depenses-et-plus-de-justice-fiscale-et-sociale-le-senat-sempare-du-budget-2027.html",
@@ -16531,6 +17701,24 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "Proposition de loi portant réforme de la preuve de l'originalité de l'oeuvre : texte N° 58 de Mme Sylvie ROBERT, déposé au Sénat le 14 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a2fe028975805b106384fb38",
+      "title": "Quelles valeurs en 2050 ? Synthèse des travaux - rapport d'information n° 851",
+      "url": "http://www.senat.fr/notice-rapport/2025/r25-851-notice.html",
+      "sourcePublishedAt": "Mon,06 Jul 2026 15:57:03 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport d'information n° 851 de Mme Christine LAVARDE, MM.",
+        "Pierre BARROS, Rémi CARDON, Bernard FIALAIRE, Mmes Amel GACQUERRE, Nadège HAVET, MM.",
+        "Khalifé KHALIFÉ, Jean-Jacques MICHAU, Mme Vanina PAOLI-GAGIN et M."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -17313,6 +18501,200 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "\"C'est une réussite à 100%, la violence de rue n'a pas eu droit de cité à Orléans\", s'est réjoui le maire divers droite de la ville, Serge Grouard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ea1efc775349190692c635c0",
+      "title": "Retraites, droits de succession, niches fiscales... Dominique de Villepin présente les premières mesures de son programme pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/retraites-droits-de-succession-niches-fiscales-dominique-de-villepin-presente-les-premieres-mesures-de-son-programme-pour-la-presidentielle_8296785.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 22:41:27 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "dominique-de-villepin"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "abroger-2023",
+          "theme": "retraites",
+          "keywords": [
+            "reforme",
+            "retraites"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-fiscalite-04",
+          "theme": "fiscalite",
+          "keywords": [
+            "fiscales",
+            "niches"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-retraites-06",
+          "theme": "retraites",
+          "keywords": [
+            "droits",
+            "retraites"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "succession",
+          "theme": "fiscalite",
+          "keywords": [
+            "droits",
+            "succession"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Sur le dossier des retraites, Dominique de Villepin a préconisé lundi, sur le plateau de franceinfo et France 2, une \"réforme à points\", avec \"un point qui est calculé par les partenaires sociaux\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a8c1ac7ebc7b2efb086372bb",
+      "title": "VIDEO. S'il est élu, Dominique de Villepin prévoit d'organiser \"un rassemblement\" et convoquera le Congrès au lendemain de l'élection présidentielle",
+      "url": "https://www.franceinfo.fr/elections/video-s-il-est-elu-dominique-de-villepin-prevoit-d-organiser-un-rassemblement-et-convoquera-le-congres-au-lendemain-de-l-election-presidentielle_8296740.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 21:51:01 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "dominique-de-villepin"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Interrogé sur franceinfo et France 2 lundi, l'ancien Premier ministre a expliqué prévoir, s'il parvient à être élu, de réunir les parlementaires pour leur demander \"de s'entendre et d'être capable de déterminer la formation d'un gouvernement de mission\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c567c6ab24c68f3bec282a61",
+      "title": "Terres rares : Emmanuel Macron annonce que la France va se doter de \"stocks stratégiques\"",
+      "url": "https://www.france24.com/fr/france/20261123-terres-rares-macron-annonce-france-doter-stocks-strat%C3%A9giques",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 21:06:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Emmanuel Macron a annoncé un projet pour pourvoir la France de \"stocks stratégiques\" de minerais critiques, a déclaré l'Élysée lundi.",
+        "Le programme inspiré des réserves stratégiques de pétrole aura pour but de sécuriser l'approvisionnement en terres rares et en \"certains métaux prioritaires\" et de réduire la dépendance vis-à-vis de la Chine."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2fcc151431202ee5be203a9d",
+      "title": "Présidentielle 2027 : qui pourra rassembler ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261123-pr%C3%A9sidentielle-qui-pourra-rassembler",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 19:58:31 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard",
+        "dominique-de-villepin"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À moins de cinq mois du premier tour de la présidentielle, prévu le 18 avril, la course à l’Élysée s’annonce particulièrement disputée.",
+        "Dernier en date à entrer dans la course : Dominique de Villepin.",
+        "Plusieurs candidats de la droite et du centre veulent s’affronter dans une primaire afin de désigner un seul représentant, mais l’idée ne fait pas l’unanimité."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f55130f12c7a71204a31f50b",
+      "title": "Faut-il changer les dates de l'élection présidentielle ? On fait le point sur ce débat qui agite la classe politique",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/faut-il-changer-les-dates-de-l-election-presidentielle-on-fait-le-point-sur-le-debat-politique-sur-cette-question_8296431.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 18:15:13 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les dates entérinées par l'exécutif prévoient un premier tour le 18 avril, et un second tour le 2 mai.",
+        "Or, cela pose différents casse-tête à la classe politique, aux syndicats..."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5f67e40858b3a4a00ef8b012",
+      "title": "Gisèle Pelicot \"humiliée\" par l'utilisation de photos d'elle dénudée pour la promotion d'un essai",
+      "url": "https://www.france24.com/fr/france/20261123-gis%C3%A8le-pelicot-choqu%C3%A9e-par-l-utilisation-de-photos-d%C3%A9nud%C3%A9es-d-elle-pour-la-promotion-d-un-essai",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 16:00:26 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Gisèle Pelicot a dit lundi être \"profondément choquée\" par l'utilisation de photos dénudées d'elle réalisées par son ex-mari comme matériel de promotion pour un essai critique sur la notion d'emprise.",
+        "Devenue une figure de la lutte contre les violences faites aux femmes, elle a affirmé qu'elle userait de \"toutes les procédures nécessaires\" à l'encontre de la maison d'édition Tinbad."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "648515e61f56d34916d95c97",
+      "title": "Les informés du matin du lundi 23 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-lundi-23-novembre-2026_8273888.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 11:57:22 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "02c1c47cf262fdedcf58d954",
+      "title": "Mobilisation sociale : l'ancien patron de la CFDT Laurent Berger dénonce \"une forme de mépris\" face aux difficultés du quotidien",
+      "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-sociale-l-ancien-patron-de-la-cfdt-laurent-berger-denonce-une-forme-de-mepris-face-aux-difficultes-du-quotidien_8295662.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 10:22:16 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Sur France Inter, le désormais directeur de l'Institut mutualiste pour l'environnement et la solidarité de Crédit Mutuel Alliance Fédérale s'inquiète de la réponse au mouvement social en cours."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "18ccf6d294f6c62c320f03aa",
+      "title": "\"On n'est pas dans GTA VI\" : Geffray fustige une flambée de violence dans certains lycées",
+      "url": "https://www.france24.com/fr/france/20261123-on-n-est-pas-gta-vi-geffray-fustige-flamb%C3%A9e-violence-lyc%C3%A9es",
+      "sourcePublishedAt": "Mon, 23 Nov 2026 09:55:48 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le ministre de l'Éducation nationale Édouard Geffray a fait état lundi de \"98 élèves\" et \"une trentaine de professionnels\" blessés la semaine dernière, fustigeant une recrudescence de violences, très localisées.",
+        "\"On n'a jamais eu autant d'élèves blessés, alors qu' (...) il n'y a jamais eu aussi peu de lycées bloqués\", a-t-il pointé, appelant à une prise de conscience collective."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

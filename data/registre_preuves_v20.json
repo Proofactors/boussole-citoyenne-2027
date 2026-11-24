@@ -1,6 +1,6 @@
 {
   "schemaVersion": 23,
-  "generatedAt": "2026-11-23T08:44:47.458444+00:00",
+  "generatedAt": "2026-11-24T18:54:24.787478+00:00",
   "notice": "Diagnostic et extraction uniquement. Aucun codage politique automatique.",
   "documents": [
     {
@@ -4311,6 +4311,150 @@
       "modificationPositions": false
     },
     {
+      "id": "42b0e39a438a346c18fec235",
+      "titre": "Budget 2027 : Régimes sociaux et de retraite - rapport spécial n° 156 annexe 25 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-325/l26-156-325.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-325/l26-156-325.html",
+      "publication": "Tue,24 Nov 2026 17:56:36 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5548,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "19f9a20155b71d39da8f8e6c",
+      "titre": "Budget 2027 : Compte d'affectation spéciale : participations financières de l'État - rapport spécial n° 156 annexe 22 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-322/l26-156-322.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-322/l26-156-322.html",
+      "publication": "Tue,24 Nov 2026 17:40:49 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2952,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e5d76bcaf2bd1e4d0c9ba938",
+      "titre": "Budget 2027 : Remboursements et dégrèvements - rapport spécial n° 156 annexe 27 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-327/l26-156-327.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-327/l26-156-327.html",
+      "publication": "Tue,24 Nov 2026 17:01:32 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 5166,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "2dc62d65ecd494fa9cfb85ea",
+      "titre": "Budget 2027 : Transformation publique - avis n° 162 tome XIV",
+      "url": "http://www.senat.fr/rap/a26-162-14/a26-162-14.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-14/a26-162-14.html",
+      "publication": "Tue,24 Nov 2026 16:57:49 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2303,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "c9aa5258c1cfa2b123591593",
+      "titre": "Budget 2027 : Engagements financiers de l'État - rapport spécial n° 156 annexe 13 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-313/l26-156-313.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-313/l26-156-313.html",
+      "publication": "Tue,24 Nov 2026 16:57:49 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 3448,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "58e09589194493e5ae1584b5",
+      "titre": "Budget 2027 : Crédits non répartis - rapport spécial n° 156 annexe 7 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-37/l26-156-37.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-37/l26-156-37.html",
+      "publication": "Tue,24 Nov 2026 15:38:12 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2104,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "e6f6616c86033131567e8b41",
+      "titre": "Budget 2027 : Gestion des finances publiques et lutte contre les fraudes - Transformation et fonction publiques - rapport spécial n° 156 annexe 15 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-315/l26-156-315.html",
+      "urlEffective": "https://www.senat.fr/rap/l26-156-315/l26-156-315.html",
+      "publication": "Tue,24 Nov 2026 15:26:35 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 7664,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "d3c31619c4bd3049b4aa5ab2",
+      "titre": "Budget 2027 : Monde combattant, mémoire et liens avec la Nation - avis n° 158 tome XI",
+      "url": "http://www.senat.fr/rap/a26-158-11/a26-158-11.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-158-11/a26-158-11.html",
+      "publication": "Tue,24 Nov 2026 13:41:02 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 1540,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "cdf76a0fd7f4b0f7a07cc7b2",
+      "titre": "Budget 2027 : Fonction publique - avis n° 162 tome V",
+      "url": "http://www.senat.fr/rap/a26-162-5/a26-162-5.html",
+      "urlEffective": "https://www.senat.fr/rap/a26-162-5/a26-162-5.html",
+      "publication": "Tue,24 Nov 2026 13:06:23 GMT",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": "http_officiel_converti_https",
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 2322,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
       "id": "572a51d0912c97c8d7a9cb45",
       "titre": "Transparence salariale et PME dans l'économie de la défense : la délégation aux entreprises lance deux nouvelles missions d'information",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/17-11-2026/transparence-salariale-et-pme-dans-leconomie-de-la-defense-la-dae-lance-deux-missions-dinformation.html",
@@ -5020,6 +5164,232 @@
       "motif": null,
       "versionDiagnostic": 23,
       "nombreCaracteres": 13266,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "47c866fe53ac9838f78cf906",
+      "titre": "L'Assemblée nationale adopte en première lecture le projet de loi de relance du logement",
+      "url": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/l-assemblee-nationale-adopte-en-premiere-lecture-le-projet-de-loi-de-relance-du-logement_8298255.html",
+      "publication": "Tue, 24 Nov 2026 19:49:59 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9589,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "87eaa555ad75c1365e1863e4",
+      "titre": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
+      "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html",
+      "publication": "Tue, 24 Nov 2026 19:10:39 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 15242,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "9743f2efa66dd219286cec69",
+      "titre": "Filmer à l'Assemblée nationale comme ces jeunes, est-ce que c'est autorisé ?",
+      "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/filmer-a-l-assemblee-nationale-comme-ces-jeunes-est-ce-que-c-est-autorise_8298240.html",
+      "publication": "Tue, 24 Nov 2026 18:53:47 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6983,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "de08b9f2d0dd6dc96f426f88",
+      "titre": "Nicolas Sarkozy et Carla Bruni renvoyés en procès dans l'affaire de la fausse rétractation de Ziad Takieddine, notamment pour association de malfaiteurs",
+      "url": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/societe/justice/nicolas-sarkozy-et-carla-bruni-sont-renvoyes-en-proces-dans-l-affaire-de-la-fausse-retractation-de-ziad-takieddine-notamment-pour-association-de-malfaiteurs_8297655.html",
+      "publication": "Tue, 24 Nov 2026 18:42:59 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 9001,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "eric-zemmour"
+          ],
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "passageSource": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
+          "motsCommuns": [
+            "condamne",
+            "crime"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "1b6cdcfdeac29c0538806828",
+      "titre": "Six députés de La France Insoumise portent plainte pour des menaces de mort anonymes",
+      "url": "https://www.franceinfo.fr/politique/la-france-insoumise/six-deputes-de-la-france-insoumise-portent-plainte-pour-des-menaces-de-mort-anonymes_8298216.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/la-france-insoumise/six-deputes-de-la-france-insoumise-portent-plainte-pour-des-menaces-de-mort-anonymes_8298216.html",
+      "publication": "Tue, 24 Nov 2026 18:42:21 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 6934,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "782c71e93c76d4b2b006f676",
+      "titre": "VRAI OU FAUX. Les visiteurs de l'Assemblée nationale peuvent-ils tourner une vidéo à connotation politique dans l'hémicycle ?",
+      "url": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-les-visiteurs-de-l-assemblee-nationale-peuvent-ils-tourner-une-video-a-connotation-politique-dans-l-hemicycle_8297472.html",
+      "publication": "Tue, 24 Nov 2026 18:32:32 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 14032,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "619e89be3497104b04fb33c1",
+      "titre": "REPLAY. Police municipale, incendie, fiscalité… Quinze maires répondent à vos questions depuis le congrès de l'Association des maires de France",
+      "url": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/direct-police-municipale-incendie-fiscalite-quinze-maires-repondent-a-vos-questions-depuis-le-congres-de-l-association-des-maires-de-france_8295998.html",
+      "publication": "Tue, 24 Nov 2026 18:06:55 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8974,
+      "tentatives": 1,
+      "passages": [],
+      "modificationPositions": false
+    },
+    {
+      "id": "58c3cb9e997829763cb43823",
+      "titre": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-contestation-de-l-existence-de-crime-contre-l-humanite-apres-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_8297988.html",
+      "publication": "Tue, 24 Nov 2026 17:52:06 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8778,
+      "tentatives": 1,
+      "passages": [
+        {
+          "personnalitesMentionnees": [
+            "eric-zemmour"
+          ],
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "passageSource": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\" – franceinfo",
+          "motsCommuns": [
+            "condamne",
+            "crime"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "eric-zemmour"
+          ],
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "passageSource": "Eric Zemmour définitivement condamné pour \"contestation de l'existence de crime contre l'humanité\" après avoir affirmé que le maréchal Pétain \"avait sauvé les juifs français\"",
+          "motsCommuns": [
+            "condamne",
+            "crime"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        },
+        {
+          "personnalitesMentionnees": [
+            "eric-zemmour"
+          ],
+          "questionId": "expulsion-condamnes",
+          "theme": "immigration",
+          "passageSource": "La Cour de cassation a rejeté , mardi 24 novembre, le pourvoi d'Eric Zemmour, qui est donc définitivement condamné pour \"contestation de crime contre l'humanité\", après avoir déclaré que le maréchal Pétain \"avait sauvé les juifs français\" durant la Seconde Guerre mondiale.",
+          "motsCommuns": [
+            "condamne",
+            "crime"
+          ],
+          "risques": [
+            "Citation ou propos rapporté possibles",
+            "Sens, négation et attribution non établis"
+          ],
+          "valeurProposee": null,
+          "validation": "requise",
+          "publicationAutomatique": false,
+          "qualification": "passage candidat, pas preuve de position politique"
+        }
+      ],
+      "modificationPositions": false
+    },
+    {
+      "id": "c8b2c6fe73ab46f2c22eff1b",
+      "titre": "VIDEO. Laurent Nuñez dit avoir proposé un successeur au préfet Hugues Moutouh, accusé d'avoir fait fuiter des informations au RN",
+      "url": "https://www.franceinfo.fr/politique/front-national/video-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh-accuse-d-avoir-fait-fuite-des-informations-au-rn_8297919.html#xtor=RSS-3-%5Bpolitique%5D",
+      "urlEffective": "https://www.franceinfo.fr/politique/front-national/video-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh-accuse-d-avoir-fait-fuite-des-informations-au-rn_8297919.html",
+      "publication": "Tue, 24 Nov 2026 17:25:27 +0100",
+      "analyseLe": "2026-11-24T18:54:24.787478+00:00",
+      "lecture": "html",
+      "formatDetecte": "html",
+      "motif": null,
+      "versionDiagnostic": 23,
+      "nombreCaracteres": 8491,
       "tentatives": 1,
       "passages": [],
       "modificationPositions": false
@@ -15449,10 +15819,10 @@
     }
   ],
   "statistiques": {
-    "documents": 713,
-    "textesLus": 707,
+    "documents": 731,
+    "textesLus": 725,
     "pdfLus": 0,
-    "passagesCandidats": 195,
+    "passagesCandidats": 199,
     "nouveauxExamines": 18,
     "echecsParCause": {
       "document_trop_volumineux": 1,
