@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-24T18:54:52+00:00",
+  "generatedAt": "2026-11-25T17:58:50+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "076a49b680aad04b68bce67c7ba40d5152d5fe3a22b50275ff63c532ff8b19bf",
+  "votesArchiveSha256": "a0c73eae9dd967f5da5ccff9d208c6d7ef50d0e06fd81b7e29aa0b05c8a7a24b",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -15,13 +15,20 @@
         "PA720614"
       ],
       "decompte": {
-        "pour": 1,
+        "pour": 2,
         "contre": 1,
         "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA720614"
+        },
         {
           "date": "2026-11-17",
           "numero": "9916",
@@ -74,13 +81,20 @@
         "PA722190"
       ],
       "decompte": {
-        "pour": 2,
+        "pour": 3,
         "contre": 1,
         "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA722190"
+        },
         {
           "date": "2026-11-17",
           "numero": "9916",
@@ -199,12 +213,19 @@
       ],
       "decompte": {
         "pour": 2,
-        "contre": 0,
+        "contre": 1,
         "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA722142"
+        },
         {
           "date": "2026-10-29",
           "numero": "9203",
@@ -314,12 +335,19 @@
       ],
       "decompte": {
         "pour": 2,
-        "contre": 1,
+        "contre": 2,
         "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA335999"
+        },
         {
           "date": "2026-11-17",
           "numero": "9917",
@@ -366,12 +394,19 @@
       ],
       "decompte": {
         "pour": 100,
-        "contre": 97,
+        "contre": 98,
         "abstention": 12,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-11-19",
           "numero": "10080",
@@ -1887,13 +1922,41 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 285,
+        "pour": 284,
         "contre": 251,
-        "abstention": 47,
+        "abstention": 50,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10106",
+          "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-24",
+          "numero": "10105",
+          "titre": "l'amendement n° 2 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-24",
+          "numero": "10104",
+          "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-24",
+          "numero": "10103",
+          "titre": "la motion de rejet préalable, déposée par Mme Mathilde Panot, du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-20",
           "numero": "10101",
@@ -5960,20 +6023,6 @@
           "titre": "l'amendement n° 498 de M. Descoeur et les amendements identiques suivants après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8903",
-          "titre": "l'amendement n° 2976 de Mme Runel à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-20",
-          "numero": "8902",
-          "titre": "l'amendement n° 472 de Mme Bellay à l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6027,13 +6076,20 @@
         "PA642935"
       ],
       "decompte": {
-        "pour": 1,
+        "pour": 2,
         "contre": 0,
         "abstention": 0,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA642935"
+        },
         {
           "date": "2026-11-17",
           "numero": "9916",
@@ -6051,13 +6107,20 @@
         "PA609332"
       ],
       "decompte": {
-        "pour": 34,
+        "pour": 35,
         "contre": 27,
         "abstention": 4,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-24",
+          "numero": "10102",
+          "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA609332"
+        },
         {
           "date": "2026-11-19",
           "numero": "10080",
@@ -6530,5 +6593,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "64bfa9b55ab5605f2d5c653bf5336df3e278f28a29df99814eb99a79c5e2bd8b"
+  "actorsArchiveSha256": "6b28680d38ee341efbe9b8ef4225fa6866fc7f969f346cf7eb6e4bff318e7dd9"
 }
