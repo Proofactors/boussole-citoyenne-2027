@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T17:58:17.363123+00:00",
-  "total": 1342,
+  "generatedAt": "2026-11-26T17:43:41.951931+00:00",
+  "total": 1401,
   "statistiques": {
-    "a_examiner_en_priorite": 37,
-    "a_qualifier": 511,
-    "signal_non_qualifie": 794
+    "a_examiner_en_priorite": 39,
+    "a_qualifier": 530,
+    "signal_non_qualifie": 832
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -208,6 +208,39 @@
       "extraitsRSS": [
         "Proposition de résolution en application de l'article 34-1 de la Constitution, appelant le Gouvernement à instaurer un moratoire sur le déremboursement des cures thermales : texte N° 99 de MM.",
         "Éric GOLD et Jean-Yves ROUX, déposé au Sénat le 23 octobre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a689ea6703bf6fb4bff4fcb8",
+      "title": "Budget 2027 : Relations avec les collectivités territoriales - rapport spécial n° 156 annexe 26 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-326/l26-156-326.html",
+      "sourcePublishedAt": "Wed,25 Nov 2026 18:04:38 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 26 tome III de M.",
+        "Stéphane SAUTAREL et Mme Isabelle BRIQUET, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Relations avec les collectivités territoriales (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "17a3445ea39d718c92d49702",
+      "title": "Budget 2027 : Conseil et contrôle de l'État - rapport spécial n° 156 annexe 6 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-36/l26-156-36.html",
+      "sourcePublishedAt": "Wed,25 Nov 2026 18:04:38 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 6 tome III de Mme Maryse CARRÈRE, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Conseil et contrôle de l'État (19 novembre 2026)"
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -1935,6 +1968,115 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "3b414e23e99dc50f7fe29741",
+      "title": "Violences du 17 octobre à Marseille : des ordres donnés pour \"relâcher\" des casseurs, selon le maire",
+      "url": "https://www.france24.com/fr/france/20261125-france-violences-17-octobre-marseille-ordres-donnes-relacher-casseurs-maire-benoit-payan",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 22:36:14 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-securite-06",
+          "theme": "securite",
+          "keywords": [
+            "police",
+            "violences"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Devant la commission d'enquête de l'Assemblée nationale, le maire de Marseille Benoît Payan a déclaré, mercredi, que la police municipale avait reçu l'ordre de relâcher des pillards interpellés lors des violences du 17 octobre.",
+        "L'édile s'étonne, par ailleurs, du \"très faible nombre de gardes à vue\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "57ef74a50a5ba15a462fd886",
+      "title": "\"Ce n'est pas notre guerre\" : Teddy Riner exhorte à arrêter de donner de l'argent à l'Ukraine",
+      "url": "https://www.france24.com/fr/france/20261125-notre-guerre-teddy-riner-exhorte-arr%C3%AAter-donner-argent-ukraine-%C3%A9lection-fran%C3%A7aise-pr%C3%A9sidentielle",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 21:26:17 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "ukraine",
+          "theme": "europe",
+          "keywords": [
+            "militaire",
+            "ukraine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Teddy Riner a clarifié son point de vue, mercredi, sur l'aide militaire apportée à l'Ukraine par l'armée française.",
+        "\"Je ne comprends pas qu'on envoie des troupes en Ukraine alors que ce n'est pas notre guerre\", a-t-il dit au 108e Congrès des maires organisé par l'Association des maires de France.",
+        "Il s'est dit prêt à s'asseoir \"avec la Russie et Zelensky demain\", refusant de \"donner de l'argent que nous n'avons pas\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "48b20b55339ff64cb9468fe1",
+      "title": "VIDEO. \"La démocratie, c’est du vote\", déclare David Lisnard, qui refuse la proposition d’Edouard Philippe de débattre à la place d'une primaire",
+      "url": "https://www.franceinfo.fr/elections/video-la-democratie-c-est-du-vote-declare-david-lisnard-qui-refuse-la-proposition-d-edouard-philippe-de-debattre-a-la-place-d-une-primaire_8300295.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 21:24:57 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Edouard Philippe, candidat Horizons à la présidentielle avait proposé mardi un débat télévisé avec son concurrent de droite, qui ne cesse de monter dans les sondages."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7f93190b3a575a474b311d79",
+      "title": "Non,\"toute la diaspora chinoise\" n'est pas composée d'espions, mais elle subit une pression de Pékin",
+      "url": "https://www.france24.com/fr/france/20261125-non-toute-diaspora-chinoise-pas-compos%C3%A9e-espions-mais-subit-pressions-p%C3%A9kin",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 19:57:28 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le 13 novembre sur le plateau des \"Informés de franceinfo\", des invités ont affirmé que l'ensemble de la diaspora chinoise en France était potentiellement composé d'espions.",
+        "Selon les experts, cette affirmation est inexacte et contre-productive : l'État chinois est le responsable des activités d'espionnage, et non la diaspora, qui est bien souvent la victime de ses mesures."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "03435e45e46d58cc9eb3f28d",
+      "title": "Violences faites aux femmes : un bilan toujours plus alarmant",
+      "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261125-un-bilan-toujours-plus-alarmant",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 18:36:07 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À l'occasion de la Journée internationale de lutte contre les violences faites aux femmes, le 25 novembre, les chiffres restent alarmants : 47 000 femmes et filles ont été tuées par un proche dans le monde en 2025.",
+        "Comment mieux protéger les victimes et prévenir les féminicides ?",
+        "Lorraine Questiaux, avocate spécialisée dans les violences faites aux femmes, analyse les réponses de la justice."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "6d2241a9e4f5b71b3b790540",
       "title": "\"Cela fait 20 ans qu’on nous ponctionne et la dette s’aggrave !\", s'indigne une maire",
       "url": "https://www.franceinfo.fr/politique/cela-fait-20-ans-qu-on-nous-ponctionne-et-la-dette-s-aggrave-s-indigne-une-maire_8299926.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -1954,6 +2096,23 @@
       ],
       "extraitsRSS": [
         "Charlotte Blandiot-Faride, maire de Mitry-Mory, en Seine-et-Marne, comme d’autres élus présents au Congrès des maires de France, mardi 24 novembre, déplore que ce soient les communes qui doivent renflouer les caisses de l’Etat, alors qu’elles sont, contrairement à ce dernier, tenues de présenter des budgets en équilibre."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "844e2f2e71cb93ca37e1dd7b",
+      "title": "L'actu en dessin : le 25 novembre, une journée contre les violences faites aux femmes et aux filles",
+      "url": "https://www.france24.com/fr/france/20261125-actu-dessin-25-novembre-journ%C3%A9e-contre-violences-faites-femmes-filles-physiques-sexuelles-sexistes-psychologiques",
+      "sourcePublishedAt": "Wed, 25 Nov 2026 18:16:15 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une journée internationale pour l'élimination de la violence à l'égard des femmes se tient chaque 25 novembre.",
+        "Selon les Nations unies, environ 47 000 femmes et filles ont été tuées par leur partenaire ou un membre de leur famille en 2025."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -9772,6 +9931,216 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "84beb2bda0529f1bfe08939e",
+      "title": "Budget 2027 : Aide publique au développement - rapport spécial n° 156 annexe 4 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-34/l26-156-34.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 17:07:03 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 4 tome III de MM.",
+        "Michel CANÉVET et Raphaël DAUBET, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Aide publique au développement (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "88fa26898599a1d899fcd2e0",
+      "title": "Budget 2027 : Travail, emploi et administration des ministères sociaux - avis n° 159 tome VI",
+      "url": "http://www.senat.fr/rap/a26-159-6/a26-159-6.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 16:48:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 159 tome VI de Mme Frédérique PUISSAT, fait au nom de la commission des affaires sociales, sur le projet de loi de finances pour 2027 : Travail, emploi et administration des ministères sociaux (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "763a67c3840f22c7b684fae4",
+      "title": "Budget 2027 : Santé - rapport spécial n° 156 annexe 28 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-328/l26-156-328.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 16:48:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 28 tome III de M.",
+        "Vincent DELAHAYE, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Santé (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "63202a5c5da98a2f54728df8",
+      "title": "Budget 2027 : Action extérieure de l'État - rapport spécial n° 156 annexe 1 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-31/l26-156-31.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 16:48:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 1 tome III de MM.",
+        "Grégory BLANC et Rémi FÉRAUD, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Action extérieure de l'État (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d57cf4de339c43a604605288",
+      "title": "Financement de la sécurité sociale pour 2027 - texte N° 195",
+      "url": "http://www.senat.fr/leg/pjl26-195.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 15:19:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Projet de loi de financement de la sécurité sociale pour 2027 : texte N° 195 résultat des travaux de la commission le 26 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a376c191043274af5d982935",
+      "title": "Budget 2027 : Action extérieure de l'État : Diplomatie culturelle et d'influence - Français à l'étranger et affaires consulaires - avis n° 158 tome II",
+      "url": "http://www.senat.fr/rap/a26-158-2/a26-158-2.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 15:19:06 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "budget-defense",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "defense"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Avis n° 158 tome II de Mme Catherine DUMAS et M.",
+        "Akli MELLOULI, fait au nom de la commission des affaires étrangères, de la défense et des forces armées, sur le projet de loi de finances pour 2027 : Action extérieure de l'État : Diplomatie culturelle et d'influence - Français à l'étranger et affaires consulaires (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2d7f6672261e53928a769651",
+      "title": "Mettre fin au devoir conjugal - texte de la commission N° 198",
+      "url": "http://www.senat.fr/leg/ppl26-198.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 15:19:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de loi visant à mettre fin au devoir conjugal : texte de la commission N° 198 déposé le 26 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0458cb352501fb528593e97a",
+      "title": "Création d'une commission d'enquête sur les mécanismes du décrochage rural - texte N° 193",
+      "url": "http://www.senat.fr/leg/ppr26-193.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 15:19:06 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Proposition de résolution tendant à la création d'une commission d'enquête sur les mécanismes du décrochage rural : texte N° 193 de M.",
+        "Serge MÉRILLOU et plusieurs de ses collègues, déposé au Sénat le 25 novembre 2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "83860310ce96622dfc3fa22e",
+      "title": "Budget 2027 : Jeunesse et vie associative - avis n° 161 tome VI",
+      "url": "http://www.senat.fr/rap/a26-161-62/a26-161-62.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 14:14:57 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 161 tome VI de M.",
+        "Yan CHANTREL, fait au nom de la commission de la culture, de l'éducation, de la communication et du sport, sur le projet de loi de finances pour 2027 : Jeunesse et vie associative (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5e25dd575864818f8d963fb8",
+      "title": "Budget 2027 : Enseignement technique agricole - avis n° 161 tome III",
+      "url": "http://www.senat.fr/rap/a26-161-32/a26-161-32.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 13:15:25 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 161 tome III de M.",
+        "Bernard FIALAIRE, fait au nom de la commission de la culture, de l'éducation, de la communication et du sport, sur le projet de loi de finances pour 2027 : Enseignement technique agricole (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bbc6c3061467e4f17d682cdf",
+      "title": "La délégation sénatoriale aux outre-mer a désigné son bureau",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/26-11-2026/la-delegation-senatoriale-aux-outre-mer-a-designe-son-bureau.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 10:31:35 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Communiqué de presse du 26/11/2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c678dd339c35625e660bba83",
+      "title": "Budget 2027 : Sport - avis n° 161 tome VI",
+      "url": "http://www.senat.fr/rap/a26-161-61/a26-161-61.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 08:50:43 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 161 tome VI de M.",
+        "Jean-Jacques LOZACH, fait au nom de la commission de la culture, de l'éducation, de la communication et du sport, sur le projet de loi de finances pour 2027 : Sport (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "def6d40e8694dd2c7442dcb5",
       "title": "Quatre délégations du Sénat ont désigné leurs bureaux",
       "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/salle-de-presse/communiques-de-presse/presse/22-10-2026/quatre-delegations-du-senat-ont-designe-leurs-bureauxhtml.html",
@@ -11197,6 +11566,853 @@
         "L'Espagne est en deuil, après la catastrophe ferroviaire survenue mercredi 28 octobre.",
         "À un mois des législatives anticipées, Pedro Sánchez promet une enquête complète.",
         "Mais ce drame pourrait compliquer la campagne du chef du gouvernement sortant, déjà fragilisée, notamment par la crise du logement."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8437d065a27abcd40e4b67fe",
+      "title": "\"Les associations devraient se taire ?\" : Emmaüs défend le droit à prendre position dans le débat public",
+      "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/les-associations-devraient-se-taire-emmaus-defend-le-droit-a-prendre-position-dans-le-debat-public_8278520.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:28:15 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Alors que Marine Le Pen menace de réduire les subventions publiques des associations qui prennent des positions politiques, Tarek Daher, délégué général d'Emmaüs et à la tête du Mouvement associatif, défend leur droit à s'exprimer dans le débat public.",
+        "Il dénonce une \"attaque en règle\" contre le monde associatif et s'inquiète de l'autocensure de ses dirigeants."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "92a4430e7058ebe3400d3ade",
+      "title": "\"La pensée anti-juifs obsédait Jordan Bardella\" : ce qu'il faut retenir des nouvelles révélations sur des écrits antisémites attribués au patron du Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/la-pensee-anti-juifs-obsedait-jordan-bardella-ce-qu-il-faut-retenir-des-nouvelles-revelations-sur-des-ecrits-antisemites-attribues-au-patron-du-rassemblement-national_8300919.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:18:23 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Deux mois après les premières révélations de Mediapart, le site d'investigation et \"Le Monde\" publient de nouveaux messages antisémites attribués au leader d'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "25c45cb55857c39f437e214b",
+      "title": "En Espagne, une journaliste visée par une procédure disciplinaire après s'être interrogée sur la place de l'extrême droite dans les médias publics",
+      "url": "https://www.franceinfo.fr/monde/espagne/en-espagne-une-journaliste-visee-par-une-procedure-disciplinaire-apres-s-etre-interrogee-sur-la-place-de-l-extreme-droite-dans-les-medias-publics_8301078.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:16:14 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Silvia Intxaurrondo, journaliste sur la chaîne publique RTVE, risque une sanction de la part de l'organe chargé de superviser les élections.",
+        "En cause, une séquence à l'antenne dans laquelle elle remet en question la présence du parti d'extrême droite Vox sur les plateaux de l'audiovisuel public."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "621205565de00e0703a6fca6",
+      "title": "Benoît Payan s'interroge sur les casseurs du 17 octobre, arrêtés et relâchés",
+      "url": "https://www.franceinfo.fr/politique/benoit-payan-s-interroge-sur-les-casseurs-du-17-octobre-arretes-et-relaches_8301378.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:10:40 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Benoît Payan, le maire divers gauche de Marseille, ne comprend pas pourquoi pilleurs et casseurs, le 17 octobre, ont été relâchés.",
+        "Pourtant pris en flagrant délit."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "581198897d9c6788729e140d",
+      "title": "Congrès des maires de France : Sébastien Lecornu imite Jacques Chirac à la perfection",
+      "url": "https://www.franceinfo.fr/politique/congres-des-maires-de-france-sebastien-lecornu-imite-jacques-chirac-a-la-perfection_8301723.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 17:25:32 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le Premier ministre Sébastien Lecornu a surpris l’audience au Congrès des maires, jeudi 26 novembre, en effectuant une brève imitation de Jacques Chirac.",
+        "Il évoquait la difficile simplification des normes, lors d’un débat avec Gérard Larcher et David Lisnard."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6fdea55b9f6be1c8d7254b4f",
+      "title": "Huit députés des Républicains annoncent leur soutien à David Lisnard plutôt que Bruno Retailleau pour la présidentielle 2027",
+      "url": "https://www.franceinfo.fr/elections/huit-deputes-des-republicains-annoncent-leur-soutien-a-david-lisnard-plutot-que-bruno-retailleau-pour-la-presidentielle-2027_8301579.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 17:19:00 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "bruno-retailleau",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Les parlementaires ont le devoir de ne pas rester inertes devant des postures politiques qui sont suicidaires\", affirment ces élus, sans nommer le candidat officiel de leur parti politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "255ace459e391b7d416a9a8f",
+      "title": "France : le procès de l'ancienne figure jihadiste Émilie König s'est ouvert",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-france-le-proc%C3%A8s-de-l-ancienne-figure-jihadiste-%C3%A9milie-k%C3%B6nig-s-est-ouvert",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 17:02:54 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "keywords": [
+            "jours",
+            "quatre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "keywords": [
+            "jours",
+            "quatre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le procès d'Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique en Syrie, s'est ouvert jeudi 26 novembre devant la cour d'assises spéciale de Paris.",
+        "La Bretonne de 41 ans, dont dix passés en Syrie, encourt 30 ans de réclusion.",
+        "Elle va tenter pendant quatre jours de convaincre la cour de sa déradicalisation."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "da3e214985ef12cfa4b6994f",
+      "title": "Comment protéger ses enfants du racisme ? Des mères de Trappes témoignent",
+      "url": "https://www.france24.com/fr/%C3%A9missions/pas-2-quartier/20261126-comment-prot%C3%A9ger-ses-enfants-du-racisme-des-m%C3%A8res-de-trappes-t%C3%A9moignent",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 17:00:45 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Comment être parent à Trappes après l'attentat raciste du 23 octobre ?",
+        "Dans cette ville des Yvelines, souvent réduite à ses drames et à ses difficultés, l'attaque a ravivé un sentiment de stigmatisation déjà bien présent chez certains habitants."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0198be0ea73b5ac6d612175f",
+      "title": "Un député du Loiret souhaite une enquête de l'Inspection générale de l'administration à l'encontre de l'ancien préfet Hugues Moutouh",
+      "url": "https://www.franceinfo.fr/politique/front-national/un-depute-du-loiret-souhaite-une-enquete-de-l-inspection-generale-de-l-administration-a-l-encontre-de-l-ancien-prefet-hugues-moutouh_8301591.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 16:38:40 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le député Emmanuel Duplessy interpelle sur le respect des obligations de neutralité et d'impartialité de l'ancien préfet Hugues Moutouh dans le Loiret.",
+        "Ce dernier est soupçonné d'avoir transmis des informations sensibles au Rassemblement national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "810dc163880f7f2d2a4aad05",
+      "title": "Propos antisémites de Bardella : la candidat qualifie l'enquête de \"chasse à l'homme\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-de-bardella-la-candidat-qualifie-l-enqu%C3%AAte-de-chasse-%C3%A0-l-homme",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 16:37:54 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Mediapart ⁠publie jeudi 26 novembre, ainsi ​que Le Monde, de nouveaux extraits d'une conversation sur Facebook Messenger attestant selon eux de propos antisémites et complotistes de Jordan Bardella.",
+        "Des propos que le président du Rassemblement national \"conteste formellement\", qualifiant ces enquêtes \"de véritables chasses à l'homme\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0ffd70d828f93d2b5b322ace",
+      "title": "Le froid tue plus que la chaleur en France : plus de 31 300 décès liés au froid en 2024",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-le-froid-tue-plus-que-la-chaleur-en-france-plus-de-31-300-d%C3%A9c%C3%A8s-li%C3%A9s-au-froid-en-2024",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 16:19:20 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Chaque hiver, lorsque les températures chutent, les conditions de vie deviennent plus difficiles pour les personnes les plus vulnérables alors que 330 000 personnes sont sans-abris en France.",
+        "Les températures glaciales menacent leur état de santé, renforcent leur solitude et peuvent leur être fatales.",
+        "Les précisions de Coline Cosserat, directrice du bénévolat et des engagements à l'Armée du Salut."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "291921af34342e610baf0b60",
+      "title": "Propos antisémites : Bardella tente se dit victime de \"persécution\" par \"certains médias\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-bardella-tente-se-dit-victime-de-pers%C3%A9cution-par-certains-m%C3%A9dias",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 15:25:11 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président du Rassemblement national, Jordan Bardella affirme que les nouveaux propos antisémites révélés par Médiapart et Le Monde \"ne correspondent ni à mes idées, ni à mes valeurs, ni à mes convictions, hier comme aujourd'hui\" dénonçant \"avec la plus grande fermeté les méthodes employées\" par certains médias \"dans le cadre de (leurs) enquêtes, devenues de véritables chasses à l'homme\".",
+        "Les précisions de Marc Perelman, journaliste politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "47b00bb0fbf860f83adfa55b",
+      "title": "Propos antisémites : Jordan Bardella persiste à nier les accusations malgré les preuves",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-jordan-bardella-persiste-%C3%A0-nier-les-accusations-malgr%C3%A9-les-preuves",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 15:22:20 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "De nouveaux mis en cause ce jeudi 26 novembre par de nouveaux éléments lui attribuant des écrits antisémites, Jordan Bardella se dit dans un communiqué victime d'une \"entreprise de persécution\".",
+        "Les révélations s'appuient sur une conversation Facebook datant de 2013 dont l'authenticité a été certifiée par un huissier.",
+        "Les explications de Stéphane Zumsteeg, cirecteur du département politique et opinion d'Ipsos."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "efdc3972cb793d664ccc2eb9",
+      "title": "France : le candidat à la Présidentielle Teddy Riner fait polémique sur l'Ukraine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-congr%C3%A8s-des-maires-de-france-le-candidat-teddy-riner-fait-pol%C3%A9mique-sur-l-ukraine",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 15:10:16 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "troupes-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "soldats",
+            "ukraine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le candidat à la présidentielle Teddy Riner a exhorté mercredi 25 novembre à arrêter \"de donner de l'argent que nous n'avons pas\" pour soutenir l'Ukraine, d'autant que \"ce n'est pas notre guerre\", à propos du déploiement de soldats français pour des missions non-combattantes."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f370a4a2b284d97199079ace",
+      "title": "Présidentielle 2027 : David Lisnard réclame \"l'anonymat des parrainages\" pour \"enlever la pression sur les maires\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-david-lisnard-reclame-l-anonymat-des-parrainages-pour-enlever-la-pression-sur-les-maires_8301468.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 15:03:35 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "keywords": [
+            "doivent",
+            "elections",
+            "pouvoir"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "allocations-delinquants",
+          "theme": "securite",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "deserts-medicaux",
+          "theme": "societe",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-institutions-05",
+          "theme": "institutions",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-societe-03",
+          "theme": "societe",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "\"On peut détester Monsieur Mélenchon, Madame Le Pen ou Édouard Philippe mais ils doivent pouvoir se présenter aux élections\", insiste David Lisnard sur ICI."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "92b044c19ed45e73dcccf283",
+      "title": "Présidentielle 2027 : David Lisnard réclame \"l'anonymat des parrainages\" pour \"enlever la pression sur les maires\"",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-2027-david-lisnard-reclame-l-anonymat-des-parrainages-pour-enlever-la-pression-sur-les-maires_8301468.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 15:03:35 +0100",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "vote-etrangers",
+          "theme": "institutions",
+          "keywords": [
+            "doivent",
+            "elections",
+            "pouvoir"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "allocations-delinquants",
+          "theme": "securite",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "deserts-medicaux",
+          "theme": "societe",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-institutions-05",
+          "theme": "institutions",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-societe-03",
+          "theme": "societe",
+          "keywords": [
+            "doivent",
+            "pouvoir"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "\"On peut détester Monsieur Mélenchon, Madame Le Pen ou Édouard Philippe mais ils doivent pouvoir se présenter aux élections\", insiste David Lisnard sur ICI."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c42c7d6259894fbb9da4ffd8",
+      "title": "De nouvelles preuves des messages antisémites attribués à Jordan Bardella dévoilées par Le Monde et Mediapart",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/de-nouvelles-preuves-des-messages-antisemites-attribues-a-jordan-bardella-devoilees-par-le-monde-et-mediapart_8301447.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 14:52:04 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une dizaine de nouveaux messages antisémites attribués à Jordan Bardella ont été révélés jeudi 26 novembre par Mediapart et Le Monde.",
+        "Authentifiées auprès de Meta selon les journalistes, ces archives ravivent la polémique autour du président du RN, qui conteste formellement leur authenticité.",
+        "Une nouvelle affaire qui fragilise celui que Marine Le Pen envisage toujours de nommer à Matignon."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b466604ded41193c88e008a9",
+      "title": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
+      "url": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 14:10:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À droite, le duel s'intensifie entre David Lisnard et Édouard Philippe.",
+        "D'un côté, le maire de Cannes revendique la \"France du terrain\" face aux élites parisiennes.",
+        "De l'autre, l'ancien Premier ministre défend une droite de gouvernement et refuse toute porosité avec l'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6c0f51e58aa22c1573b4faae",
+      "title": "ÉDITO. David Lisnard contre Édouard Philippe : est-ce la bataille \"du terrain\" contre les élites ?",
+      "url": "https://www.franceinfo.fr/elections/edito-david-lisnard-contre-edouard-philippe-est-ce-la-bataille-du-terrain-contre-les-elites_8301429.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 14:10:16 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "À droite, le duel s'intensifie entre David Lisnard et Édouard Philippe.",
+        "D'un côté, le maire de Cannes revendique la \"France du terrain\" face aux élites parisiennes.",
+        "De l'autre, l'ancien Premier ministre défend une droite de gouvernement et refuse toute porosité avec l'extrême droite."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "ce3ccd96387f2d89dc919849",
+      "title": "Un ex-camarade de Jordan Bardella révèle de nouveaux propos antisémites",
+      "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/un-ex-camarade-de-jordan-bardella-revele-de-nouveaux-propos-antisemites_8301411.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 14:00:34 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Jordan, tous les soirs, s’employait à me convaincre que les juifs sont partout et détiennent le pouvoir.\" Ces propos, ce sont Sacha* qui les tient, à propos de Jordan Bardella.",
+        "Selon les informations de Mediapart et Le Monde, cet ancien camarade de classe de l'actuel président du Rassemblement national aurait discuté avec Jordan Bardella en 2013 sur Messenger."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "eb5d053de46a2d84399304c5",
+      "title": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l'accuse Charlotte Arnould",
+      "url": "https://www.france24.com/fr/france/20261126-gerard-depardieu-renvoy%C3%A9-en-appel-pour-une-partie-des-viols-dont-il-est-accuse-par-charlotte-arnould",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 13:46:59 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La cour d'appel de Paris a confirmé jeudi le renvoi de l'acteur Gérard Depardieu en procès pour des chefs de viol et d'agression sexuelle concernant une partie des faits remontant à l'été 2018 que l'actrice Charlotte Arnould avait dénoncés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "48ebd92811421026dc84719d",
+      "title": "L'avocat de Jordan Bardella envisage de déposer un complément de plainte pour \"faux et usage de faux\" après de nouvelles révélations sur des propos antisémites",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/l-avocat-de-jordan-bardella-envisage-de-deposer-un-complement-de-plainte-pour-faux-et-usage-de-faux-apres-de-nouvelles-revelations-sur-des-propos-antisemites_8301303.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 12:51:45 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le président du Rassemblement national dénonce une \"entreprise de persécution\".",
+        "\"Le Monde\" et Mediapart ont publié jeudi de nouveaux éléments de preuve sur les écrits antisémites attribués à Jordan Bardella."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5a27d30c26dbc40a4bee9312",
+      "title": "Propos antisémites attribués à Jordan Bardella : il \"ne peut pas plaider l'erreur de jeunesse\", martèle le coauteur de l’enquête de Mediapart",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella-il-ne-peut-pas-plaider-l-erreur-de-jeunesse-martele-le-co-auteur-de-l-enquete-de-mediapart_8301168.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 12:33:56 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le site d'investigation et le journal \"Le Monde\" ont publié, jeudi, de nouveaux éléments concernant le président du Rassemblement national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "99bf52329e1af8e00f9c946b",
+      "title": "Après ses propos hostiles à l'Allemagne et ses projets de renforcement de son armée, Jean-Luc Mélenchon est à Berlin pour présenter son livre",
+      "url": "https://www.franceinfo.fr/politique/melenchon/les-relations-compliquees-de-jean-luc-melenchon-avec-l-allemagne_8301105.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 12:15:58 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat LFI à l'élection présidentielle se rend jeudi à Berlin, pour la parution de son dernier livre, traduit en allemand.",
+        "Une occasion de clarifier sa vision de l'Europe et des relations franco-allemandes."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7298d7234c2046af0347ceea",
+      "title": "Ouverture du procès d'Émilie König, \"l'égérie du jihad\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20261126-ouverture-du-proc%C3%A8s-de-l-%C3%A9g%C3%A9rie-du-jihad",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 12:02:28 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Ce jeudi s'est ouvert le procès de celle que l'on surnomme \"l'égérie du jihad\".",
+        "Émilie König, revenante de l'organisation État islamique, est l'une des premières françaises à avoir rejoint les rangs du groupe terroriste en Syrie dès 2012.",
+        "Rapatriée en France en 2022, elle est jugée à Paris jusqu'au 30 novembre par une cour d'assises spéciale."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0e9b0fdd5ce735662a582e3e",
+      "title": "Les informés du matin du jeudi 26 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-jeudi-26-novembre-2026_8278505.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 12:00:30 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour d'Agathe Lambret et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a757cfb23ad5301e2285bc3c",
+      "title": "Nouveaux éléments de preuves sur les écrits antisémites attribués à Jordan Bardella",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/nouveaux-elements-de-preuves-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8301165.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 11:29:54 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Deux mois après les premières révélations de Mediapart sur des écrits antisémites de jeunesse attribués à Jordan Bardella, le site d’investigation et “Le Monde” publient, jeudi 26 novembre, de nouveaux éléments confirmant que le président du Rassemblement national est bien l’auteur de ces propos remontant à 2013.",
+        "Jordan Bardella dénonce, dans un communiqué, de “véritables chasses à l’homme”."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "830c422ba1be7cce8f4b5064",
+      "title": "Propos antisémites de Jordan Bardella : Le Monde et Médiapart révèlent de nouveaux éléments",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261126-propos-antis%C3%A9mites-de-jordan-bardella-le-monde-et-m%C3%A9diapart-r%C3%A9v%C3%A8lent-de-nouveaux-%C3%A9l%C3%A9ments",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 11:14:20 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Deux mois après les premières accusations visant Jordan Bardella pour des écrits antisémites, Mediapart et Le Monde apportent de nouvelles preuves ce jeudi 26 novembre.",
+        "Bien que le président du Rassemblement national ait une fois de plus \"formellement contesté\" en être l'auteur, ces éléments indiquent que les propos datant de 2013 lui sont bien attribués."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f1dbc6e74ecab5361b4ef931",
+      "title": "Benoît Payan appelle Raphaël Glucksmann \"à se dépasser\" et \"à rassembler le plus largement possible\"",
+      "url": "https://www.franceinfo.fr/elections/benoit-payan-appelle-raphael-glucksmann-a-se-depasser-et-a-rassembler-le-plus-largement-possible_8301006.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 10:38:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le maire divers gauche de Marseille n'est plus adhérent du Parti socialiste mais affirme soutenir le candidat du PS dans la campagne pour la présidentielle 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a27c91bc3d6a8c24d458fef9",
+      "title": "Benoît Payan appelle Raphaël Glucksmann \"à se dépasser\" et \"à rassembler le plus largement possible\"",
+      "url": "https://www.franceinfo.fr/elections/benoit-payan-appelle-raphael-glucksmann-a-se-depasser-et-a-rassembler-le-plus-largement-possible_8301006.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 10:38:40 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le maire divers gauche de Marseille n'est plus adhérent du Parti socialiste mais affirme soutenir le candidat du PS dans la campagne pour la présidentielle 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8cdfe103d00e98badef57edf",
+      "title": "Les policiers appelés à se rassembler ce jeudi : \"Il y a un petit sentiment qu'on flatte la hiérarchie et pas les flics de base\", note le sociologue Michel Wieviorka",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-policiers-appeles-a-se-rassembler-ce-jeudi-il-y-a-un-petit-sentiment-qu-on-flatte-la-hierarchie-et-pas-les-flics-de-base-note-le-sociologue-michel-wieviorka_8301036.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 10:31:41 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Auteur de l'essai \"Où va la France : métamorphose ou déchéance ?\" (Aube), le sociologue Michel Wieviorka apporte son éclairage, dans \"La matinale\" du 26 novembre, sur la contestation sociale, avec la mobilisation des étudiants d'une part, et une nouvelle protestation des policiers de l'autre.",
+        "\"On peut se demander : est-ce que c'est simplement la fin du mandat de notre président, ou est-ce que ce n'est pas un phénomène beaucoup plus grave ?\", interroge-t-il."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "6e3150479abc001f89103ed9",
+      "title": "Écrits antisémites attribués à Jordan Bardella : \"On a l'impression que tout coule sur le RN\", regrette le maire de Marseille",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-a-l-impression-que-tout-coule-sur-le-rn-regrette-le-maire-de-marseille_8301003.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 09:59:18 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jeudi, \"Le Monde\" et Mediapart ont publié de nouveaux éléments concernant le président du Rassemblement national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "56229bbbd587508c576c9a2d",
+      "title": "Écrits antisémites attribués à Jordan Bardella : \"On a l'impression que tout coule sur le RN\", regrette le maire de Marseille",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-a-l-impression-que-tout-coule-sur-le-rn-regrette-le-maire-de-marseille_8301003.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 09:59:18 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jeudi, \"Le Monde\" et Mediapart ont publié de nouveaux éléments concernant le président du Rassemblement national."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d9f0408f1c8532e90e029c23",
+      "title": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 09:31:17 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C'est \"l'illustration d'une nouvelle approche\", promet le candidat social-démocrate qui dénonce une politique verticale au micro d'ICI Mayenne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "3ed7c65a1645024ff782db09",
+      "title": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 09:31:17 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "C'est \"l'illustration d'une nouvelle approche\", promet le candidat social-démocrate qui dénonce une politique verticale au micro d'ICI Mayenne."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0ba5d506fbb088d4a9c41423",
+      "title": "Présidentielle 2027 : \"Je compte continuer à déranger ce petit théâtre\", déclare David Lisnard",
+      "url": "https://www.franceinfo.fr/politique/david-lisnard/presidentielle-2027-je-compte-continuer-a-deranger-ce-petit-theatre-declare-david-lisnard_8300889.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 08:51:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'actuel maire de Cannes et candidat à la présidentielle était l'invité de France Inter, jeudi, au lendemain de sa réélection à la tête de l'Association des maires de France (AMF)."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "db44fe388741c5957d690e92",
+      "title": "Écrits antisémites : accablé par de nouveaux éléments, Jordan Bardella conteste formellement",
+      "url": "https://www.france24.com/fr/france/20261126-%C3%A9crits-antis%C3%A9mites-de-nouveaux-%C3%A9l%C3%A9ments-accablent-jordan-bardella",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 06:58:38 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En septembre, Mediapart révélait des messages antisémites attribués à Jordan Bardella, écrits en 2013 alors qu'il était lycéen et jeune militant du Front national.",
+        "Le site d'investigation et Le Monde ont publié, jeudi, de nouveaux extraits d'une conversation Facebook qui viennent étayer l'attribution de ces propos au président du Rassemblement national, qui a réitéré, dans un communiqué, \"sa contestation formelle\" et a annoncé envisager un complément de plainte visant les deux médias."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9cd45992784ca2ff6112f6c5",
+      "title": "\"C'est la confirmation de mon identité politique\" : comment David Lisnard compte utiliser son image de maire pour la présidentielle",
+      "url": "https://www.franceinfo.fr/elections/c-est-la-confirmation-de-mon-identite-politique-comment-david-lisnard-compte-utiliser-son-image-de-maire-pour-la-presidentielle_8296046.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 05:56:53 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le maire de Cannes, en progression dans les sondages et confirmé à la tête de l'Association des maires de France, entend bien mettre en avant son expérience sur le terrain alors qu'il est de plus en plus attaqué par ses adversaires politiques."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "48087415918fa42902048577",
+      "title": "Le procès d'Émilie König, propagandiste du jihad, s'ouvre devant la cour d'assises spéciale de Paris",
+      "url": "https://www.france24.com/fr/france/20261126-le-proc%C3%A8s-d-%C3%A9milie-k%C3%B6nig-propagandiste-du-jihad-s-ouvre-devant-la-cour-d-assises-sp%C3%A9ciale-de-paris",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 05:31:24 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-travail-07",
+          "theme": "travail",
+          "keywords": [
+            "jours",
+            "quatre"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "temps-travail",
+          "theme": "travail",
+          "keywords": [
+            "jours",
+            "quatre"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "L'ex-figure française de l'organisation jihadiste État islamique, Émilie König, va comparaître, à partir de jeudi et pendant quatre jours, devant la cour d'assises spéciale de Paris pour association de malfaiteurs terroriste criminelle.",
+        "L'ONU l'avait également placée sur sa liste des combattants les plus dangereux."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",

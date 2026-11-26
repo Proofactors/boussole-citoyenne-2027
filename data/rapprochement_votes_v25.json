@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-25T17:58:50+00:00",
+  "generatedAt": "2026-11-26T17:44:10+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "a0c73eae9dd967f5da5ccff9d208c6d7ef50d0e06fd81b7e29aa0b05c8a7a24b",
+  "votesArchiveSha256": "88e1407bc958585a212a17a694a69d1782d3329b9f8d155e45f414769b40df66",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -393,13 +393,34 @@
         "PA842271"
       ],
       "decompte": {
-        "pour": 100,
-        "contre": 98,
+        "pour": 102,
+        "contre": 99,
         "abstention": 12,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-25",
+          "numero": "10109",
+          "titre": "l'article unique de la proposition de résolution européenne visant à réviser la définition de l'œuvre européenne.",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-25",
+          "numero": "10108",
+          "titre": "l'amendement n° 1 de Mme Legrain à l'article unique de la proposition de résolution européenne visant à réviser la définition de l'œuvre européenne.",
+          "vote": "contre",
+          "acteurRef": "PA842271"
+        },
+        {
+          "date": "2026-11-25",
+          "numero": "10107",
+          "titre": "l'article unique de la proposition de résolution européenne relative à la révision de la directive « Services de médias audiovisuels » et à la défense de l'exception culturelle européenne.",
+          "vote": "pour",
+          "acteurRef": "PA842271"
+        },
         {
           "date": "2026-11-24",
           "numero": "10102",
@@ -1922,13 +1943,55 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 284,
-        "contre": 251,
-        "abstention": 50,
+        "pour": 282,
+        "contre": 248,
+        "abstention": 51,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-26",
+          "numero": "10123",
+          "titre": "l'amendement n° 6 de Mme Corneloup à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10122",
+          "titre": "l'amendement n° 14 de Mme Fiol à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10121",
+          "titre": "l'amendement n° 3 de M. Peytavie à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10120",
+          "titre": "l'amendement n° 18 de M. Maudet à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10119",
+          "titre": "l'amendement n° 17 de Mme Erodi à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10118",
+          "titre": "l'amendement n° 16 de M. Maudet à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-24",
           "numero": "10106",
@@ -5953,76 +6016,6 @@
           "titre": "l'amendement n° 308 de Mme Panonacle après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "pour",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8917",
-          "titre": "l'amendement n° 2972 de Mme Bamana après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8916",
-          "titre": "l'amendement n° 590 de Mme Bamana après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8915",
-          "titre": "l'amendement n° 96 de M. Simion après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8914",
-          "titre": "l'amendement n° 736 de Mme Hamdane après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8913",
-          "titre": "l'amendement n° 286 de M. Bénard et l'amendement identique suivant après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8912",
-          "titre": "l'amendement n° 2006 de Mme Laporte après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8911",
-          "titre": "l'amendement n° 735 de Mme Belouassa-Cherifi après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8910",
-          "titre": "l'amendement n° 734 de Mme Hamdane après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8909",
-          "titre": "l'amendement n° 2009 de Mme Laporte après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8908",
-          "titre": "l'amendement n° 498 de M. Descoeur et les amendements identiques suivants après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6593,5 +6586,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "6b28680d38ee341efbe9b8ef4225fa6866fc7f969f346cf7eb6e4bff318e7dd9"
+  "actorsArchiveSha256": "6a673caee2c6e40e25606272a1ca9739a1c0964b257820a8b0433198119b4d4e"
 }
