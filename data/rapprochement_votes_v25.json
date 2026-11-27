@@ -1,9 +1,9 @@
 {
   "version": "25.0",
-  "generatedAt": "2026-11-26T17:44:10+00:00",
+  "generatedAt": "2026-11-27T17:28:38+00:00",
   "actorsSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/amo/deputes_senateurs_ministres_legislature/AMO20_dep_sen_min_tous_mandats_et_organes.json.zip",
   "votesSource": "https://data.assemblee-nationale.fr/static/openData/repository/17/loi/scrutins/Scrutins.json.zip",
-  "votesArchiveSha256": "88e1407bc958585a212a17a694a69d1782d3329b9f8d155e45f414769b40df66",
+  "votesArchiveSha256": "38744d546806e56502580796e0f91e54e21e4b3ad206efbba20e9ffb51ed0977",
   "coverageNote": "Scrutins récents seulement (au plus 1 200). Absence dans le tableau ≠ absence de vote.",
   "editorialStatus": "Preuves de votes bruts; aucune inférence de position et aucune modification de la Boussole.",
   "personnalites": [
@@ -1943,13 +1943,335 @@
         "PA1567"
       ],
       "decompte": {
-        "pour": 282,
-        "contre": 248,
-        "abstention": 51,
+        "pour": 281,
+        "contre": 253,
+        "abstention": 55,
         "non-votant": 0,
         "conflit": 0
       },
       "scrutins": [
+        {
+          "date": "2026-11-26",
+          "numero": "10175",
+          "titre": "la demande de suspension de séance formulée par M. Boyard en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10174",
+          "titre": "la demande de suspension de séance formulée par M. Léaument en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10173",
+          "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à limiter à deux ans le versement du RSA pour les personnes aptes à travailler) (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10172",
+          "titre": "l'amendement n° 48 de Mme K/Bidi à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10171",
+          "titre": "l'amendement n° 1 de M. Ray à l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10170",
+          "titre": "l'amendement n° 8 de Mme Allemand et les amendements identiques suivants de suppression de l'article unique de la proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10169",
+          "titre": "la demande de suspension de séance formulée par M. Pribetich en application de l'article 58 du Règlement de l'Assemblée nationale (proposition de loi visant à suspendre les prestations sociales pour les fraudeurs multirécidivistes) (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10168",
+          "titre": "l'ensemble de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10167",
+          "titre": "l'amendement n° 36 de Mme Voynet au titre de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10166",
+          "titre": "le sous-amendement n°45 de M. Maudet à l'amendement n° 36 de Mme Voynet au titre de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10165",
+          "titre": "l'amendement n° 30 de M. Maudet après l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10164",
+          "titre": "l'amendement n° 29 de M. Maudet après l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10163",
+          "titre": "l'amendement n° 23 de Mme Erodi après l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10162",
+          "titre": "l'amendement n° 35 de M. Maudet après l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10161",
+          "titre": "l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10160",
+          "titre": "l'amendement n° 13 de Mme Corneloup à l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10159",
+          "titre": "l'amendement n° 12 de Mme Corneloup à l'article 3 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10158",
+          "titre": "l'article 2 de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10157",
+          "titre": "l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10156",
+          "titre": "le sous-amendement n° 48 de M. Maudet à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10155",
+          "titre": "le sous-amendement n° 55 de Mme Erodi à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10154",
+          "titre": "le sous-amendement n° 54 de M. Maudet à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10153",
+          "titre": "le sous-amendement n° 53 de Mme Erodi à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10152",
+          "titre": "le sous-amendement n° 51 de Mme Erodi à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10151",
+          "titre": "le sous-amendement n° 50 de M. Maudet à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10150",
+          "titre": "le sous-amendement n° 49 de Mme Erodi à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10149",
+          "titre": "le sous-amendement n° 47 de Mme Erodi à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10148",
+          "titre": "le sous-amendement n° 52 de M. Maudet à l'amendement n° 1 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10147",
+          "titre": "l'amendement n° 5 de M. Peytavie après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10146",
+          "titre": "l'amendement n° 2 de M. Peytavie et l'amendement identique suivant après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10145",
+          "titre": "le sous-amendement n° 61 de Mme Erodi à l'amendement n° 2 de M. Peytavie et l'amendement identique suivant après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10144",
+          "titre": "le sous-amendement n° 60 de Mme Erodi à l'amendement n° 2 de M. Peytavie et l'amendement identique suivant après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10143",
+          "titre": "l'amendement n° 21 de Mme Erodi après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10142",
+          "titre": "l'amendement n° 15 de M. Frappé après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10141",
+          "titre": "l'amendement n° 19 (rect.) de M. Maudet après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10140",
+          "titre": "l'amendement n° 20 de M. Maudet après l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10134",
+          "titre": "l'amendement n° 10 de Mme Corneloup à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10133",
+          "titre": "l'amendement n° 28 de Mme Erodi à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10132",
+          "titre": "l'amendement n° 39 de M. Bentz à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10131",
+          "titre": "l'amendement n° 38 de M. Bentz à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10130",
+          "titre": "l'amendement n° 27 de M. Maudet à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10129",
+          "titre": "l'amendement n° 9 (rect.) de Mme Corneloup à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10128",
+          "titre": "l'amendement n° 8 de Mme Corneloup à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10126",
+          "titre": "l'amendement n° 7 de Mme Corneloup à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "contre",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10125",
+          "titre": "l'amendement n° 26 de Mme Erodi à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "pour",
+          "acteurRef": "PA1567"
+        },
+        {
+          "date": "2026-11-26",
+          "numero": "10124",
+          "titre": "l'amendement n° 25 de Mme Erodi à l'article premier de la proposition de loi visant à maintenir les pharmacies existantes dans les communes rurales (première lecture).",
+          "vote": "abstention",
+          "acteurRef": "PA1567"
+        },
         {
           "date": "2026-11-26",
           "numero": "10123",
@@ -5750,272 +6072,6 @@
           "titre": "l'amendement n° 350 de M. Wauquiez et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
           "vote": "contre",
           "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8975",
-          "titre": "l'amendement n° 49 de Mme Runel et les amendements identiques suivants à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8974",
-          "titre": "l'amendement n° 1105 de M. Bénard et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8973",
-          "titre": "l'amendement n° 1104 de M. Monnet et l'amendement identique suivant à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8972",
-          "titre": "l'amendement n° 2046 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8971",
-          "titre": "l'amendement n° 1301 (rect.) de M. Dussausaye à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8970",
-          "titre": "l'amendement n° 2044 de M. Davi à l'article 7 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8969",
-          "titre": "l'amendement n° 17 de M. Descoeur et les amendements identiques suivants après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-22",
-          "numero": "8968",
-          "titre": "l'amendement n° 2748 de Mme Sandrine Rousseau après l'article 6 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8955",
-          "titre": "l'amendement n° 1841 de Mme Chikirou après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8954",
-          "titre": "l'amendement n° 782 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8953",
-          "titre": "l'amendement n° 781 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8952",
-          "titre": "l'amendement n° 779 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8951",
-          "titre": "l'amendement n° 360 de M. Mazaury après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8950",
-          "titre": "l'amendement n° 772 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8949",
-          "titre": "l'amendement n° 777 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8948",
-          "titre": "l'amendement n° 2706 de M. Peytavie après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8947",
-          "titre": "l'amendement n° 2961 de M. Lucas-Lundy après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8946",
-          "titre": "l'amendement n° 711 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8945",
-          "titre": "l'amendement n° 769 de M. Maudet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8944",
-          "titre": "l'amendement n° 2024 de M. Davi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8943",
-          "titre": "l'amendement n° 1770 de Mme Hamdane et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8942",
-          "titre": "l'amendement n° 1592 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8941",
-          "titre": "l'amendement n° 778 de M. Clouet après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8939",
-          "titre": "l'amendement n° 1589 de Mme Sandrine Rousseau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8938",
-          "titre": "l'amendement n° 771 de Mme Belouassa-Cherifi après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8937",
-          "titre": "l'amendement n° 42 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8936",
-          "titre": "l'amendement n° 45 de Mme Runel après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8935",
-          "titre": "l'amendement n° 289 de M. Bénard et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8934",
-          "titre": "l'amendement n° 216 de M. Le Fur après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8933",
-          "titre": "l'amendement n° 41 de Mme Runel et l'amendement identique suivant après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8932",
-          "titre": "l'amendement n° 288 de M. Biteau après l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8931",
-          "titre": "l'amendement n° 30 de M. Daubié et les amendements identiques suivants de suppression de l'article 5 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8930",
-          "titre": "l'amendement n° 743 de Mme Belouassa-Cherifi après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "contre",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8929",
-          "titre": "l'amendement n° 2455 de M. Serva après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8928",
-          "titre": "l'amendement n° 2269 de M. Mathiasin et l'amendement identique suivant après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "abstention",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8927",
-          "titre": "l'amendement n° 474 de Mme Bellay après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8926",
-          "titre": "l'amendement n° 2439 de Mme Pantel après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
-        },
-        {
-          "date": "2026-10-21",
-          "numero": "8925",
-          "titre": "l'amendement n° 308 de Mme Panonacle après l'article 4 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
-          "vote": "pour",
-          "acteurRef": "PA1567"
         }
       ]
     },
@@ -6586,5 +6642,5 @@
       "scrutins": []
     }
   ],
-  "actorsArchiveSha256": "6a673caee2c6e40e25606272a1ca9739a1c0964b257820a8b0433198119b4d4e"
+  "actorsArchiveSha256": "3205e6489ca0c629fe84ee572cbf88ef09373d723be73335689f14c065b9eb56"
 }

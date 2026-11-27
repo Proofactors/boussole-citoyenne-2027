@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T17:43:41.951931+00:00",
-  "total": 1401,
+  "generatedAt": "2026-11-27T17:28:09.181279+00:00",
+  "total": 1447,
   "statistiques": {
-    "a_examiner_en_priorite": 39,
-    "a_qualifier": 530,
-    "signal_non_qualifie": 832
+    "a_examiner_en_priorite": 40,
+    "a_qualifier": 548,
+    "signal_non_qualifie": 859
   },
   "publicationAutomatiquePositions": false,
   "propositions": [
@@ -9931,6 +9931,40 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "ac27de2c60db72fd1d190da3",
+      "title": "Budget 2027 : Sécurités (Sécurité civile) - rapport spécial n° 156 annexe 29 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-329-2/l26-156-329-2.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 18:43:44 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 29 tome III de M.",
+        "Jean Pierre VOGEL, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Sécurités (Sécurité civile) (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9f19bd9a1e17455adc428e3d",
+      "title": "Budget 2027 : Sécurités (Gendarmerie nationale - Police nationale - Sécurité et éducation routières) - rapport spécial n° 156 annexe 29 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-329-1/l26-156-329-1.html",
+      "sourcePublishedAt": "Thu,26 Nov 2026 18:13:29 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 29 tome III de M.",
+        "Bruno BELIN, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Sécurités (Gendarmerie nationale - Police nationale - Sécurité et éducation routières) (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "84beb2bda0529f1bfe08939e",
       "title": "Budget 2027 : Aide publique au développement - rapport spécial n° 156 annexe 4 tome III",
       "url": "http://www.senat.fr/rap/l26-156-34/l26-156-34.html",
@@ -11573,6 +11607,97 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "21ce239e863f1d8d496dc741",
+      "title": "\"C'est ma dernière campagne\", annonce le candidat de Reconquête à la présidentielle Eric Zemmour",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/c-est-ma-derniere-campagne-annonce-le-candidat-de-reconquete-a-la-presidentielle-eric-zemmour_8302101.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 22:55:56 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "L'entrée en lice du candidat d'extrême droite avait mis un terme à la possibilité que Sarah Knafo concoure à sa place, sa popularité l'ayant un temps fait apparaître comme la possible candidate de Reconquête à l'Elysée."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "0b22ad7e12853b9c03f0a4e5",
+      "title": "À l'Institut du monde arabe, une soirée dédiée aux \"voix iraniennes\" perturbée par des monarchistes",
+      "url": "https://www.france24.com/fr/france/20261126-institut-monde-arabe-soir%C3%A9e-d%C3%A9di%C3%A9e-voix-iraniennes-perturb%C3%A9e-monarchistes-chah-pahlavi",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 21:08:23 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une soirée dédiée aux \"voix iraniennes\" organisée mercredi à l'Institut du monde arabe (IMA) à Paris a été perturbée par des militants pahlavistes, soutiens du fils du chah déchu en exil.",
+        "Un signe de la fracture qui parcourt la diaspora iranienne en France."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c47d0ae6e817b2aa4c27b971",
+      "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
+      "url": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 20:34:36 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le ministre algérien des Affaires étrangères, Ahmed Attaf, a accusé jeudi la France d'avoir maltraité un agent consulaire détenu depuis 2025 dans l'Hexagone et mis en examen dans le cadre de l'enlèvement de l'influenceur algérien Amir Boukhors.",
+        "L'affaire avait aggravé les tensions diplomatiques déjà vives entre les deux pays et conduit à l'expulsion réciproque de diplomates et agents consulaires."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "47d55749cdee7217e51f9538",
+      "title": "David Lisnard et sa position face au RN, propos de Teddy Riner sur l'Ukraine",
+      "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261126-david-lisnard-et-sa-position-face-au-rn-propos-de-teddy-riner-sur-l-ukraine",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:36:31 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La présidentielle est dans cinq mois et un candidat monte dans les sondages : le maire de Cannes, David Lisnard.",
+        "Est-il ambigu vis-à-vis de l'extrême droite comme l'accusent ses opposants ?",
+        "Autre sujet : l'actualité à gauche, avec François Hollande qui avance ses pions, et la polémique créée par Teddy Riner et ses propos sur l'Ukraine."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "c5e80d52cd7f74914deaa781",
+      "title": "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme",
+      "url": "https://www.france24.com/fr/france/20261126-france-jordan-bardella-laure-lavalette-dediabolisation-rassemblement-national-epreuve-affaires-antisemitisme",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 18:29:20 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "De nouvelles accusations sur les écrits antisémites de jeunesse de Jordan Bardella ont été publiées jeudi, quelques jours seulement après d’autres révélations concernant Laure Lavalette, porte-parole de Marine Le Pen.",
+        "Même si ces accusations n’ont jusqu’ici pas eu d’impact sur les intentions de vote, elles replongent le Rassemblement national dans l’œil du cyclone."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "8437d065a27abcd40e4b67fe",
       "title": "\"Les associations devraient se taire ?\" : Emmaüs défend le droit à prendre position dans le débat public",
       "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/les-associations-devraient-se-taire-emmaus-defend-le-droit-a-prendre-position-dans-le-debat-public_8278520.html#xtor=RSS-3-%5Bpolitique%5D",
@@ -12085,6 +12210,24 @@
       "questionsPotentielles": [],
       "extraitsRSS": [
         "La cour d'appel de Paris a confirmé jeudi le renvoi de l'acteur Gérard Depardieu en procès pour des chefs de viol et d'agression sexuelle concernant une partie des faits remontant à l'été 2018 que l'actrice Charlotte Arnould avait dénoncés."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5fa146e119473b42de1b4dac",
+      "title": "Très critique de l'Allemagne, Jean-Luc Mélenchon se rend à Berlin pour présenter son livre",
+      "url": "https://www.france24.com/fr/france/20261126-malgr%C3%A9-sa-m%C3%A9fiance-envers-l-allemagne-m%C3%A9lenchon-se-rend-%C3%A0-berlin-pour-pr%C3%A9senter-son-livre",
+      "sourcePublishedAt": "Thu, 26 Nov 2026 13:07:26 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le candidat de La France insoumise à l'élection présidentielle se rend jeudi à Berlin, pour la parution de son livre \"Faites mieux !",
+        "Vers la Révolution citoyenne\", traduit en allemand.",
+        "Une occasion de clarifier la vision des relations franco-allemandes prônée par le leader insoumis, qui nourrit de longue date une défiance particulière envers ses voisins d’outre-Rhin."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
@@ -23710,6 +23853,125 @@
       "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
     },
     {
+      "id": "e9fec18e4ea736f534aef452",
+      "title": "Budget 2027 : Justice - rapport spécial n° 156 annexe 18 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-318/l26-156-318.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 17:17:02 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 18 tome III de M.",
+        "Antoine LEFÈVRE, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Justice (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d2c6a026c91cbf5a973f4740",
+      "title": "Budget 2027 : Transports - avis n° 160 tome II",
+      "url": "http://www.senat.fr/rap/a26-160-2/a26-160-2.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 17:17:02 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 160 tome II de MM.",
+        "Jean-Marc DELIA, Stéphane DEMILLY et Olivier JACQUIN, fait au nom de la commission de l'aménagement du territoire et du développement durable, sur le projet de loi de finances pour 2027 : Transports (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f8478e26dd2bcc46d31c0de9",
+      "title": "Budget 2027 : Agriculture et alimentation - rapport spécial n° 156 annexe 3 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-33/l26-156-33.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 16:50:57 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 3 tome III de MM.",
+        "Pierre BOILEAU et Victorin LUREL, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Agriculture et alimentation (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8b4eafb0c60f01b14202140d",
+      "title": "Budget 2027 : Cohésion des territoires - avis n° 160 tome I",
+      "url": "http://www.senat.fr/rap/a26-160-1/a26-160-1.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 16:31:03 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 160 tome I de MM.",
+        "Sébastien FAGNEN et Samir RHIMINI, fait au nom de la commission de l'aménagement du territoire et du développement durable, sur le projet de loi de finances pour 2027 : Cohésion des territoires (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "696895d03c3ecfd5e6324557",
+      "title": "Budget 2027 : Enseignement scolaire - rapport spécial n° 156 annexe 14 tome III",
+      "url": "http://www.senat.fr/rap/l26-156-314/l26-156-314.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 16:31:03 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Rapport spécial n° 156 annexe 14 tome III de M.",
+        "Olivier PACCAUD, fait au nom de la commission des finances, sur le projet de loi de finances pour 2027 : Enseignement scolaire (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "07a485dca5c6c41a1cba8a94",
+      "title": "Budget 2027 : Environnement - avis n° 160 tome III",
+      "url": "http://www.senat.fr/rap/a26-160-3/a26-160-3.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 15:20:07 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Avis n° 160 tome III de M.",
+        "Jean-Claude ANGLARS, Mme Jocelyne ANTOINE et M.",
+        "Laurent SOMON, fait au nom de la commission de l'aménagement du territoire et du développement durable, sur le projet de loi de finances pour 2027 : Environnement (19 novembre 2026)"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8ce08446a1d24bfb51cf4594",
+      "title": "Découvrez les archives du Sénat concernant votre département",
+      "url": "https://www.senat.fr//salle-de-presse/communiques-de-presse/presse/27-11-2026/decouvrez-les-archives-du-senat-concernant-votre-departement.html",
+      "sourcePublishedAt": "Fri,27 Nov 2026 09:54:58 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Communiqué de presse du 27/11/2026"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
       "id": "e396c36691da17604d687aa9",
       "title": "Accord France - Inde - rapport n° 81",
       "url": "http://www.senat.fr/rap/l26-081/l26-081.html",
@@ -25348,6 +25610,892 @@
       "extraitsRSS": [
         "Depuis l'attentat raciste qui a frappé sa ville, Ali Rabeh monte au front médiatique pour représenter les habitants de Trappes et contrer les discours d'extrême droite.",
         "\"Sa parole est importante\", juge-t-on à gauche."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b867711de827db06c93b559b",
+      "title": "L'hommage national aux victimes de l'attentat raciste de Trappes et de La Verrière aura lieu le 4 décembre aux Invalides",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/l-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides_8303391.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 17:18:26 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Cet hommage, qui se tiendra à Paris plus d'un mois après la mort de Pengo Bossio Wangi, sera présidé par le Premier ministre, Sébastien Lecornu."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b8e5b65a725c8333352a1a69",
+      "title": "\"Disciple de Marx\" et \"amateur\" de Beethoven : à Berlin, Mélenchon se défend d'être germanophobe",
+      "url": "https://www.france24.com/fr/france/20261127-allemagne-disciple-marx-amateur-beethoven-visite-berlin-m%C3%A9lenchon-livre-se-d%C3%A9fend-germanophobe",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 16:48:40 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "De passage à Berlin à l'occasion de la parution en allemand de son livre de 2023 \"Faites mieux !\", le candidat de La France insoumise à l'élection présidentielle s'est défendu d'être \"germanophobe\".",
+        "\"C'est absurde\", a assuré Jean-Luc Mélenchon, qui s'est présenté comme une \"sorte de disciple de Karl Marx\", par ailleurs \"très amateur\" du compositeur Ludwig van Beethoven."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "7a73986aabef7c84fbb681ee",
+      "title": "Présidentielle française : cinq ans après, la guerre en Ukraine ne fait pas recette dans la campagne",
+      "url": "https://www.france24.com/fr/france/20261127-presidentielle-fran%C3%A7aise-cinq-ans-apr%C3%A8s-la-guerre-en-ukraine-ne-fait-pas-recette-dans-la-campagne",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 16:15:25 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "edouard-philippe",
+        "raphael-glucksmann"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après avoir largement dominé la campagne électorale de la précédente présidentielle, le conflit russo-ukrainien n’est pas pour le moment un thème majeur dans l’élection de 2027.",
+        "Une configuration qui pénalise les candidats pro-européens, d’Édouard Philippe à Raphael Glucksmann, partisans d'une ligne ferme vis-à-vis de Moscou."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "461be854b553767b05599c14",
+      "title": "\"L’étau se resserre pour Jordan Bardella\", estime Stéphane Zumsteeg",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/l-etau-se-resserre-pour-jordan-bardella-estime-stephane-zumsteeg_8302980.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 16:00:02 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Stéphane Zumsteeg, directeur du département \"Opinion & Politique\" de l’institut de sondages Ipsos – BVA, compare vendredi 27 novembre sur franceinfo la position de Jordan Bardella à celle de François Fillon, alors favori des sondages mais finalement rattrapé par le \"Penelopegate\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "671c2dad43a3940e88788d8d",
+      "title": "L'orpaillage clandestin atteint un niveau inédit en Guyane",
+      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261127-l-orpaillage-clandestin-atteint-un-niveau-in%C3%A9dit-en-guyanea",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 15:41:07 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "En Guyane, le nombre de sites aurifères illégaux est en forte hausse dans le parc amazonien : 26 % de plus en à peine dix mois.",
+        "Pour lutter contre ce phénomène, l'armée lance l'opération Makandi à Grand-Santi (à la frontière avec le Suriname) où l'exploitation illégale de l'or se fait au grand jour."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "9d22ba90d7ebc99c8859b3de",
+      "title": "Eric Zemmour placé sous le statut de témoin assisté dans l'affaire des prêts accordés au parti Reconquête",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-place-sous-le-statut-de-temoin-assiste-dans-l-affaire-des-prets-accordes-au-parti-reconquete_8303232.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 15:27:08 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "eric-zemmour"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Une information judiciaire a été ouverte en janvier 2025, après un signalement de la Commission nationale des comptes de campagne et des financements politiques."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "e13819b68f73141d2342f837",
+      "title": "\"Franc-Jeu\". Avec Thierry Breton",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-thierry-breton_8301996.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 15:24:26 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "primaute-ue",
+          "theme": "europe",
+          "keywords": [
+            "choix",
+            "europeen"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays.",
+        "Le 29 novembre 2026, il reçoit Thierry Breton, ancien commissaire européen au Marché intérieur et ancien ministre de l’Économie."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "63526dd3d52ecfc41927dddc",
+      "title": "ÉDITO. Marine Le Pen peut-elle finir par lâcher Jordan Bardella ?",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/edito-marine-le-pen-peut-elle-finir-par-lacher-jordan-bardella_8303214.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 15:09:09 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après les nouvelles révélations du Monde et de Mediapart concernant des messages antisémites attribués à Jordan Bardella lorsqu'il était lycéen, le président du RN continue de tout nier en bloc.",
+        "Au RN, certains s'inquiètent déjà des conséquences politiques, notamment au second tour de la présidentielle, lorsque Marine Le Pen devra convaincre bien au-delà de son socle électoral.",
+        "L'Édito de Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "fe311c184e50a30a965c4154",
+      "title": "“Ce n’est pas Jean Moulin que vous êtes, c’est plutôt des méthodes proches de Staline”",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/ce-n-est-pas-jean-moulin-que-vous-etes-c-est-plutot-des-methodes-proches-de-staline_8303157.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 14:39:02 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "La présentation du programme du RN pour les outre-mer, vendredi 27 novembre, a été marquée par des tensions entre Marine Le Pen et Jordan Bardella et des journalistes de Mediapart et du “Monde”, après les nouvelles révélations du site d’investigation et du quotidien sur les écrits antisémites attribués au président du RN."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "a37396f95178d032f258744e",
+      "title": "Perquisition du RN : un procureur peut-il s’afficher dans les locaux d’un parti politique ?",
+      "url": "https://www.franceinfo.fr/politique/front-national/perquisition-du-rn-un-procureur-peut-il-s-afficher-dans-les-locaux-d-un-parti-politique_8303148.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 14:34:52 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le ministre de la Justice Gérald Darmanin a annoncé, mercredi 25 novembre, avoir saisi l’Inspection générale de la justice après qu’un procureur adjoint du parquet de Paris, Christian de Rocquigny, a été surpris au siège du Rassemblement national lors d’une perquisition dans une autre affaire début novembre.",
+        "Mais un procureur peut-il s’afficher dans les locaux d’un parti politique ?"
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4360c9cc8b42a6c79e3708ff",
+      "title": "Marine Le Pen réitère sa confiance à Jordan Bardella, après de nouveaux éléments sur des écrits antisémites attribués au patron du RN",
+      "url": "https://www.franceinfo.fr/elections/marine-le-pen-reitere-sa-confiance-a-jordan-bardella-apres-de-nouveaux-elements-sur-des-ecrits-antisemites-attribues-au-patron-du-rn_8303001.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 12:50:47 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Comme son dauphin, la candidate du RN à l'élection présidentielle a remis en cause les méthodes de Mediapart et \"Le Monde\".",
+        "Plus globalement, elle veut obliger les journalistes à respecter le secret de l'instruction."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "cdc4ae572babb52b61e0f503",
+      "title": "Présidentielle : David Lisnard, c'est Zemmour 2022 ou Macron 2017 ? \"On/Off\", épisode 11",
+      "url": "https://www.franceinfo.fr/elections/presidentielle-david-lisnard-c-est-zemmour-2022-ou-macron-2017-on-off-episode-11_8301783.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 12:43:49 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Dans le podcast \"On/Off\", Neila Latrous (France Télévisions), Jean-Rémi Baudot (franceinfo) et Maxence Lambrecq (France Inter) reviennent sur la semaine politique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4232facce7ac391d34a305ed",
+      "title": "Marine Le Pen soutient Bardella et veut obliger les journalistes à respecter le secret des enquêtes",
+      "url": "https://www.france24.com/fr/france/20261127-marine-le-pen-soutient-bardella-et-veut-obliger-les-journalistes-%C3%A0-respecter-le-secret-des-enqu%C3%AAtes",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 11:53:26 GMT",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Vendredi, Marine Le Pen a réitéré sa confiance en Jordan Bardella après la publication de nouveaux éléments lui attribuant des écrits antisémites durant sa jeunesse.",
+        "Dans la même interview, la candidate du Rassemblement national à l’élection présidentielle a annoncé qu'elle obligerait les journalistes à respecter le secret de l'instruction si elle est élue."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5acf29f37c9483c9f825944d",
+      "title": "France : Emmanuel Macron critique la “drôle d’arrogance” de Marine Le Pen",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-france-emmanuel-macron-critique-la-dr%C3%B4le-d-arrogance-de-marine-le-pen",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 11:26:17 GMT",
+      "priorite": "a_examiner_en_priorite",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [
+        {
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "extension-europe-01",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "À Bruxelles, les négociations sur le prochain budget de l'Union européenne se heurtent aux divisions des Vingt-Sept.",
+        "La présidentielle française de 2027 s'est aussi invitée dans les discussions : Marine Le Pen, candidate du Rassemblement national, a accusé le président de s'adonner à de \"basses manoeuvres politiciennes\" en voulant verrouiller le budget européen avant l'élection présidentielle.",
+        "Le président lui a répondu."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8c51235860a9bb048efd20d8",
+      "title": "Les informés du matin du vendredi 27 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-27-novembre-2026_8280200.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 11:17:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour de Benjamin Recouvreur et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "41e82964e7d249614dd0cbef",
+      "title": "Les informés du matin du vendredi 27 novembre 2026",
+      "url": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/les-informes-du-matin-du-vendredi-27-novembre-2026_8280200.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 11:17:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Les informés débattent de l'actualité autour de Benjamin Recouvreur et Renaud Dély."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "d5f4ff8925aa95fdcdc09b86",
+      "title": "Écrits antisémites attribués à Jordan Bardella : \"On voit ici le vrai visage du Rassemblement national\", selon l'eurodéputée LFI Manon Aubry",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-voit-ici-le-vrai-visage-du-rassemblement-national-selon-l-eurodeputee-lfi-manon-aubry_8302719.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 10:36:46 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Mediapart et \"Le Monde\" ont révélé, jeudi, de nouveaux éléments incriminant le président du RN, qui récuse ces accusations d'antisémitisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "bb79315e36b9c5ca8a827742",
+      "title": "Écrits antisémites attribués à Jordan Bardella : \"On voit ici le vrai visage du Rassemblement national\", selon l'eurodéputée LFI Manon Aubry",
+      "url": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ecrits-antisemites-attribues-a-jordan-bardella-on-voit-ici-le-vrai-visage-du-rassemblement-national-selon-l-eurodeputee-lfi-manon-aubry_8302719.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 10:36:46 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Mediapart et \"Le Monde\" ont révélé, jeudi, de nouveaux éléments incriminant le président du RN, qui récuse ces accusations d'antisémitisme."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "aea92cfa17602f99f4d4afea",
+      "title": "Agriculture, guerre en Ukraine, présidentielle en France... On vous explique pourquoi les négociations sur le budget de l'Union européenne sont dans l'impasse",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/agriculture-guerre-en-ukraine-presidentielle-en-france-on-vous-explique-pourquoi-les-negociations-sur-le-budget-de-l-union-europeenne-sont-dans-l-impasse_8302635.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 10:30:55 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "extension-europe-01",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "ukraine",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Réunis lors d'un sommet européen jeudi, les dirigeants des Vingt-Sept ont bataillé sur le projet de budget de l'UE.",
+        "Le temps presse à l'approche de 2027, marquée par de nombreuses élections en Europe, dont la présidentielle française."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "79c67e0e0992dc2c85faca5e",
+      "title": "Une crise diplomatique après la bagarre entre marseillais et bulgares",
+      "url": "https://www.franceinfo.fr/sports/foot/om/une-crise-diplomatique-apres-la-bagarre-entre-marseillais-et-bulgares_8302767.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 10:28:14 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Salut c’est Sarah, ça dit quoi ?",
+        "Les affrontements entre supporters marseillais et bulgares, lors du match d’Europa league opposant l’OM au Levski Sofia, tournent à l’incident diplomatique.",
+        "La présidente bulgare, Iliana Iotova, dénonce “une violence inadmissible”, Emmanuel Macron, lui, assure que ces actes ne resteront pas impunis."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "5eec7ec01e576ba2cff331fb",
+      "title": "La France entre en récession, le PIB continue de reculer",
+      "url": "https://www.france24.com/fr/france/20261127-la-france-entre-en-r%C3%A9cession-le-pib-continue-de-reculer",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 10:20:32 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Le produit intérieur brut a reculé de 0,2 % au troisième trimestre 2026, annonce l'Insee vendredi.",
+        "Avec deux trimestres négatifs consécutifs, le pays est dans une période de récession, selon l'institut statistique."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8af839d55e2eca4cdbf070ba",
+      "title": "Négociations annuelles entre la grande distribution et l'industrie agroalimentaire : \"Le sujet des prix ne peut pas devenir une guerre contre nos producteurs\", avertit la ministre de l'Agriculture",
+      "url": "https://www.franceinfo.fr/politique/negociations-annuelles-entre-la-grande-distribution-et-l-industrie-agroalimentaire-le-sujet-des-prix-ne-peut-pas-devenir-une-guerre-contre-nos-producteurs-avertit-la-ministre-de-l-agriculture_8302668.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 09:30:53 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invitée des \"4 Vérités\" vendredi 27 novembre, la ministre Annie Genevard s'est exprimée en amont du lancement, mardi 1er décembre, des négociations commerciales annuelles qui fixeront les prix dans les rayons pour les mois à venir.",
+        "Ces négociations \"sont en France plus offensives, plus agressives que partout ailleurs en Europe.",
+        "Ça n'est pas normal\", estime-t-elle."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "1982290e0fedb2d85faa4667",
+      "title": "Ukraine, accusations contre Jordan Bardella... Le \"8h30 franceinfo\" de Manon Aubry",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/ukraine-accusations-contre-jordan-bardella-le-8h30-franceinfo-de-manon-aubry_8280272.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 09:25:01 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "ukraine"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Manon Aubry, députée européenne de la France Insoumise, dans le \"8h30 franceinfo\"."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "66602b972336d67e4f5632c7",
+      "title": "En Guyane, des élus interpellent l'État et lui demandent \"d'agir\" face à la situation migratoire",
+      "url": "https://www.franceinfo.fr/france/guyane-francaise/en-guyane-des-elus-interpellent-l-etat-et-lui-demandent-d-agir-face-a-la-situation-migratoire_8302620.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 09:06:39 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "extension-immigration-02",
+          "theme": "immigration",
+          "keywords": [
+            "asile",
+            "demandeurs"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Ces élus guyanais expliquent à France Inter avoir l'impression d'être seuls pour gérer la situation alors que la Guyane ne dispose d'aucun centre d'accueil pour les demandeurs d'asile."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "b08fc04bedc6a77e59bb71d2",
+      "title": "À suivre Loïc de la Mornais : l'Europe va faire une \"erreur stratégique\" sur le budget de l'aide à l'Ukraine, selon Emmanuel Macron",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/a-suivre-avec-loic-de-la-mornais/a-suivre-loic-de-la-mornais-l-europe-va-faire-une-erreur-strategique-sur-le-budget-de-l-aide-a-l-ukraine-selon-emmanuel-macron_8302662.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 08:53:46 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "extension-europe-01",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 4
+        },
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "ukraine",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeen",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Dans cette quatrième partie, Loïc de la Mornais revient sur le sommet européen à Bruxelles pour décider du budget pluriannuel de l'Union européenne 2028-2034.",
+        "La question épineuse du budget accordé à l'Ukraine fait l'objet d'une discorde, que déplore Emmanuel Macron.",
+        "Une séquence à retrouver dans l'émission \"À suivre Loïc de la Mornais\", diffusée entre 20h30 et 23h sur la chaîne info, canal 16."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "8f57aca16c0204c66d650995",
+      "title": "\"David Lisnard pourrait embarquer avec nous, s'il veut se débarrasser du macronisme\", estime Sébastien Chenu, le vice-président RN de l'Assemblée",
+      "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/le-7-40-franceinfo-du-vendredi-27-novembre-2026_8291366.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 08:42:12 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen",
+        "david-lisnard"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Invité du \"7.40\" ce vendredi, le député Rassemblement national du Nord juge \"logique\" que David Lisnard s'allie au parti de Marine Le Pen s'il souhaite tourner la page du macronisme.",
+        "Mais il se dit aussi \"interpellé\" par son profil : \"Il va falloir qu'il nous explique exactement ce qu'il veut.\""
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "f41fabc0c265b957474498c7",
+      "title": "VRAI OU FAUX. Budget de l’Europe : est-il vrai que quand la France donne 100 euros à l'Europe, elle en reçoit 80 en retour ?",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-budget-de-l-europe-est-il-vrai-que-la-france-perd-de-l-argent-en-contribuant-a-l-ue_8280254.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 08:37:05 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [
+        {
+          "questionId": "contribution-ue",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "contribution",
+            "europeenne",
+            "reduire",
+            "union"
+          ],
+          "keywordCount": 5
+        },
+        {
+          "questionId": "extension-europe-01",
+          "theme": "europe",
+          "keywords": [
+            "budget",
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 3
+        },
+        {
+          "questionId": "adhesion-ukraine",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-03",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-04",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-05",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-europe-06",
+          "theme": "europe",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        },
+        {
+          "questionId": "extension-travail-01",
+          "theme": "travail",
+          "keywords": [
+            "europeenne",
+            "union"
+          ],
+          "keywordCount": 2
+        }
+      ],
+      "extraitsRSS": [
+        "Le Rassemblement national veut réduire la contribution de la France à l'Union européenne et déplore que les débats budgétaires aient lieu avant les résultats de l'élection présidentielle de 2027."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2d3d6c1d27b60377623caad5",
+      "title": "Deux syndicats du jeu vidéo appellent les candidats à la présidentielle à considérer cette industrie \"à la hauteur de ce qu'elle représente dans la société\"",
+      "url": "https://www.franceinfo.fr/culture/jeux-video/deux-syndicats-du-jeu-video-appellent-les-candidats-a-la-presidentielle-a-considerer-cette-industrie-a-la-hauteur-de-ce-qu-elle-represente-dans-la-societe_8302608.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 08:31:32 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "\"Le jeu vidéo n'a pas sa place dans les programmes politiques alors qu'il est la première industrie culturelle et créative du pays\", rappelle Nicolas Vignolles, délégué général du Sell, auprès de franceinfo."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "93408dba27f628b9aa3f038d",
+      "title": "EDITO. Face aux nouvelles révélations contre Jordan Bardella, le RN fait front mais jusqu’à quand ?",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-face-aux-nouvelles-revelations-contre-jordan-bardella-le-rn-fait-front-mais-jusqu-a-quand_8280266.html#xtor=RSS-3-%5Bpolitique%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 07:53:31 +0100",
+      "priorite": "a_qualifier",
+      "personnalitesMentionnees": [
+        "marine-le-pen"
+      ],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Après les nouvelles révélations du Monde et de Médiapart au sujet de messages antisémites de Jordan Bardella, lorsqu'il était lycéen, le président du RN continue de nier en bloc.",
+        "Pour l'instant, l'affaire n’a pas d’incidence sur les intentions de vote en faveur de Marine Le Pen."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "2d79ab0b688ea11c3fceff4b",
+      "title": "Où en sont les rapprochements entre La France insoumise et les forces de gauche prêtes à soutenir Jean-Luc Mélenchon à la présidentielle ?",
+      "url": "https://www.franceinfo.fr/elections/ou-en-sont-les-rapprochements-entre-la-france-insoumise-et-les-forces-de-gauche-pretes-a-soutenir-jean-luc-melenchon-a-la-presidentielle_8301066.html#xtor=RSS-3-%5Belections%2Fpresidentielle%5D",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 05:55:50 +0100",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "LFI, qui poursuit ses discussions avec les Ecologistes, vient de nouer une alliance avec le mouvement de Benoît Hamon, Génération.s, mais a fermé la porte à une réconciliation avec les anciens insoumis exclus en 2024."
+      ],
+      "positionProposee": null,
+      "statutPreuve": "non_verifiee",
+      "eligiblePublicationAutomatique": false,
+      "avertissement": "Correspondances automatiques sur titre/résumé RSS; aucune citation attribuée à une personnalité et aucun positionnement déduit."
+    },
+    {
+      "id": "4b5d13f9a0658855575da00d",
+      "title": "Match OM-Levski Sofia : l’UEFA ouvre une enquête disciplinaire",
+      "url": "https://www.france24.com/fr/france/20261127-football-des-supporters-du-levski-sofia-bless%C3%A9s-%C3%A0-marseille-la-bulgarie-exprime-son-indignation",
+      "sourcePublishedAt": "Fri, 27 Nov 2026 01:37:29 GMT",
+      "priorite": "signal_non_qualifie",
+      "personnalitesMentionnees": [],
+      "questionsPotentielles": [],
+      "extraitsRSS": [
+        "Jeudi, plusieurs supporters bulgares du Levski Sofia ont été blessés à Marseille, lors d’affrontements avec des supporters de l’Olympique de Marseille (OM), avant un match au Stade Vélodrome entre les deux équipes.",
+        "Les réactions politiques sont nombreuses et l’UEFA a annoncé l’ouverture d’une enquête disciplinaire."
       ],
       "positionProposee": null,
       "statutPreuve": "non_verifiee",
